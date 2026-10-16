@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Explore evidence-led research on Fall 2027 US master's programs in computer science and business, funding, costs, and sources.">
+  <meta name="theme-color" content="#172b2a">
+  <title>Fieldnotes — US Graduate Research</title>
+  <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./styles.css">
+  <script type="module" src="./app.js"></script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to research</a>
+  <aside class="sidebar">
+    <a class="brand" href="#programs"><span class="brand-mark">f.</span><span>fieldnotes<span class="brand-sub">GRADUATE RESEARCH</span></span></a>
+    <div class="edition"><span class="dot"></span> THE FALL 2027 EDITION</div>
+    <div class="nav-label">YOUR RESEARCH DESK</div>
+    <nav aria-label="Main navigation">
+      <a href="#programs" data-nav="programs"><span class="nav-icon">▦</span> Explore programs <span class="nav-count">2</span></a>
+      <a href="#scholarships" data-nav="scholarships"><span class="nav-icon">◇</span> Scholarship library <span class="nav-count">3</span></a>
+      <a href="#compare" data-nav="compare"><span class="nav-icon">⇄</span> Compare programs</a>
+      <a href="#sources" data-nav="sources"><span class="nav-icon">⌘</span> Sources & methodology</a>
+      <a href="#notes" data-nav="notes"><span class="nav-icon">▤</span> Research notebook</a>
+    </nav>
+    <div class="sidebar-bottom"><div class="tiny-compass">✳</div><h3>A clearer next chapter.</h3><p>Understand the differences.<br>Find your own direction.</p><a href="https://github.com/Cold-ay/us-uni-postgrad-research" target="_blank" rel="noopener noreferrer">View research repository ↗</a></div>
+  </aside>
+  <div class="workspace">
+    <header class="topbar"><span>United States <span class="slash">/</span> Master’s programs</span><span class="updated"><span class="dot"></span> Research checked 16 Oct 2026</span></header>
+    <main id="main" tabindex="-1"></main>
+    <footer><span>FIELDNOTES <span class="footer-dot">·</span> An independent graduate research reference</span><span>Evidence first. Possibilities next.</span></footer>
+  </div>
+  <dialog id="detail" aria-labelledby="dialog-title"><div class="dialog-toolbar"><span>RESEARCH DOSSIER</span><button id="close-dialog" class="icon-button" aria-label="Close details">×</button></div><div id="dialog-content"></div></dialog>
+  <div id="toast" role="status" class="toast" hidden></div>
+</body>
+</html>
