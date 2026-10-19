@@ -1,5 +1,5 @@
 export const asOf = '2026-10-20';
-export const scanType = 'initial_baseline';
+export const scanType = 'initial_baseline+delta';
 export const items = [
   {
     id: 'opt-fees-nprm-2026-10',
@@ -48,6 +48,49 @@ export const items = [
     sources: ['https://oiss.yale.edu/news/dhs-proposes-new-fees-for-optional-practical-training-opt'],
     affected: ['Yale F-1 students', 'peer ISSS at top schools'],
     slate_impact: 'Template for how top-school ISSS may communicate; monitor peers.',
+    school_specific: true,
+    confidence: 'confirmed'
+  },
+  {
+    id: 'isss-opt-nprm-wave-2026-10',
+    title: 'Catalog-school ISSS offices publish OPT fee NPRM alerts (25 of 42 crawled)',
+    summary: 'Deep ISSS crawl of unique Fall 2027 CS/MBA catalog universities: 25 public OPT-fee NPRM posts (proposal only; $70k/$30k school-paid fees; comments generally through 2026-11-09; current OPT continues). 12 confirmed no public OPT NPRM post on fetched pages (several still cover D/S injunction and/or CPT pauses). 5 fetch failed (Chicago, Emory, UVA, UCSB, UGA)—not no-alert. Schools with alerts include Yale, MIT, CMU, Berkeley, Cornell, Princeton, Georgia Tech, UW, Michigan, UCSD, Columbia (CF-blocked body), UCLA, Wisconsin–Madison, Penn, JHU, USC, Brown, Dartmouth, UCI, UNC, Vanderbilt, Indiana, UT Dallas, WashU, Rice. Several state they will oppose/comment or coordinate with associations. Not legal advice.',
+    sources: [
+      'https://www.cmu.edu/oie/news-and-events/2026-2027/october/opt-proposed-rule.html',
+      'https://iso.mit.edu/news/dhs-proposed-rule-to-establish-new-f-1-optional-practical-training-fees/',
+      'https://internationaloffice.berkeley.edu/immigration/policy-updates',
+      'https://davisic.princeton.edu/immigration/current-students/optional-practical-training',
+      'https://international.globallearning.cornell.edu/alerts/guidance-dhs-proposes-new-opt-fees',
+      'https://isss.oie.gatech.edu/content/optional-practical-training',
+      'https://iss.washington.edu/dhs-proposes-new-opt-fees/',
+      'https://internationalcenter.umich.edu/about/news/opt-fee-proposal',
+      'https://iseo.ucsd.edu/contact/news/updates.html',
+      'https://isso.columbia.edu/news/dhs-proposes-new-fees-optional-practical-training-opt',
+      'https://internationalcenter.ucla.edu/immigration-updates',
+      'https://iss.wisc.edu/proposed-rule-change-to-collect-opt-stem-fees/',
+      'https://global.upenn.edu/isss/news-articles/dhs-proposes-new-opt-fees-current-requirements-unchanged/',
+      'https://ois.jhu.edu/university-community-resources/legal/recent-federal-immigration-actions/',
+      'https://ois.usc.edu/update-regarding-proposed-opt-fees/'
+    ],
+    affected: ['F-1 students at catalog schools', 'Fall 2027 CS/MBA applicants watching OPT path', 'ISSS/DSO offices'],
+    slate_impact: 'Shows broad top-school awareness and likely institutional pushback before Nov 9 comments; OPT rules unchanged until any final rule.',
+    school_specific: true,
+    confidence: 'confirmed'
+  },
+  {
+    id: 'isss-opt-nprm-opposing-comments',
+    title: 'Several top schools publicly plan opposing comments on OPT fee NPRM',
+    summary: 'Public ISSS pages state institutional opposition or comment plans / association coordination, including: Cornell, Dartmouth, Michigan Ann Arbor, Penn, USC, University of Washington. Still proposal-only; no fee in effect.',
+    sources: [
+      'https://international.globallearning.cornell.edu/alerts/guidance-dhs-proposes-new-opt-fees',
+      'https://iss.washington.edu/dhs-proposes-new-opt-fees/',
+      'https://internationalcenter.umich.edu/about/news/opt-fee-proposal',
+      'https://global.upenn.edu/isss/news-articles/dhs-proposes-new-opt-fees-current-requirements-unchanged/',
+      'https://ois.usc.edu/update-regarding-proposed-opt-fees/',
+      'https://ovis-intl.dartmouth.edu/taxes-legal/federal-immigration-law-and-policy-changes'
+    ],
+    affected: ['F-1 students at those schools', 'peers watching comment period'],
+    slate_impact: 'Signal that elite ISSS offices expect advocacy/litigation path if rule finalizes; monitor comment docket through 2026-11-09.',
     school_specific: true,
     confidence: 'confirmed'
   }

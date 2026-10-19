@@ -65,17 +65,22 @@ test('program sources, funding and original notebook files resolve', async () =>
   const csv=await readFile(new URL('../dist/ranked-programs.csv',import.meta.url),'utf8');
   assert.equal(csv.trim().split('\n').length,64);
 });
-test('policy radar baseline exposes five sourced items on Fall 2027 context', () => {
-  assert.equal(policy.scanType, 'initial_baseline');
+test('policy radar brief merges baseline and delta items by id on Fall 2027 context', () => {
+  assert.equal(policy.scanType, 'initial_baseline+delta');
   assert.equal(policy.asOf, '2026-10-20');
-  assert.equal(policy.items.length, 5);
+  assert.equal(policy.items.length, 7);
+  assert.equal(new Set(policy.items.map(i => i.id)).size, 7);
   for (const item of policy.items) {
     assert.ok(item.id && item.title && item.summary && item.slate_impact);
     assert.ok(['confirmed', 'developing'].includes(item.confidence));
     assert.ok(item.sources.length >= 1);
     for (const url of item.sources) assert.equal(new URL(url).protocol, 'https:');
   }
-  assert.equal(policy.items.filter(i => i.school_specific).length, 2);
+  assert.deepEqual(
+    policy.items.filter(i => i.id.startsWith('isss-opt-nprm')).map(i => i.id).sort(),
+    ['isss-opt-nprm-opposing-comments', 'isss-opt-nprm-wave-2026-10']
+  );
+  assert.equal(policy.items.filter(i => i.school_specific).length, 4);
 });
 test('shared scholarship records retain eligibility and expiry limits', () => {
   assert.equal(scholarships.find(s=>s.id==='SCH-002').state,'2027 application closed');
