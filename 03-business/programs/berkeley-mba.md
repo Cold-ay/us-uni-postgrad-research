@@ -32,7 +32,7 @@ $92,755 — Academic-year tuition and fees (Full-Time MBA, nonresident, excl. SH
 
 Haas Financial Aid 2026–27 Estimated Cost of Attendance (Full-Time MBA): Nonresident Year 1 Tuition & Fees Subtotal $92,755 (Fall+Spring; includes systemwide tuition, campus/class pass fees, Nonresident Supplemental Tuition $12,245, PDST $62,880, IREF). Resident Tuition & Fees Subtotal $80,510. Mandatory SHIP health insurance $8,206 AY is billed separately (waivable with comparable coverage); Direct billable with SHIP ≈ $100,881 nonresident / $88,716 resident. One-time Document Management Fee $119 for new students is not in COA. Registrar 2026–27 Fee Schedule Full-time MBA continuing semester totals align ($50,480.25 nonresident / $44,357.75 resident including SHIP). Haas marketing costs page still shows 2025–26 estimates — use FAO/registrar 2026–27 figures. Full-time MBA only — not EMBA/evening/online.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: Round 2 · 7 Jan 2027 (Haas FT 2026–2027 cycle; R1 passed; clock time not on round cards). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -46,9 +46,11 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Full-time MBA academics](https://mba.haas.berkeley.edu/academics)
+- [Full-time MBA Academics](https://mba.haas.berkeley.edu/academics)
 - [Official tuition / budget](https://haas.berkeley.edu/financial-aid/full-time-mba/cost/)
 - [UC Berkeley Registrar Fee Schedule](https://registrar.berkeley.edu/tuition-fees/fee-schedule/)
+- [Haas Full-time MBA Admissions (2026–2027 deadlines)](https://mba.haas.berkeley.edu/admissions)
+- [Application requirements](https://mba.haas.berkeley.edu/admissions/application)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

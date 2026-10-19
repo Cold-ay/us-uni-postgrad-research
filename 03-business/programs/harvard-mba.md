@@ -32,7 +32,7 @@ $84,760 — Academic-year tuition; 2026–27.
 
 Nine-month, single-student budget: $130,318, excluding a $1,500 computer estimate. Summer housing and optional activities can add costs.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: Round Two · 5 Jan 2027 · 12:00 p.m. ET (Class of 2029 / matriculating fall 2027; R1 passed). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -46,11 +46,13 @@ Shared scholarship IDs: SCH-004. See the [scholarship library](../../04-scholars
 
 ## Sources
 
-- [Program / academic source](https://www.hbs.edu/mba)
+- [MBA program](https://www.hbs.edu/mba)
 - [Tuition and attendance budget](https://www.hbs.edu/mba/financial-aid/tuition-assistance/cost-of-attendance)
 - [MBA curriculum](https://www.hbs.edu/mba/academic-experience/curriculum)
 - [Case method](https://www.hbs.edu/mba/academic-experience/the-case-method)
 - [Need-based scholarships](https://www.hbs.edu/mba/financial-aid/tuition-assistance)
+- [MBA application dates (Class of 2029)](https://www.hbs.edu/mba/admissions/application-dates)
+- [MBA admissions](https://www.hbs.edu/mba/admissions)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

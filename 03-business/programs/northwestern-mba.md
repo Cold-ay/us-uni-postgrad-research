@@ -32,7 +32,7 @@ $88,536 — Two-Year MBA · First-year tuition; 2026–27.
 
 Two-Year MBA first-year tuition. Published first-year estimated budget: $130,072, including a loan-fee allowance; other MBA formats have different budgets.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: Round 2 · 6 Jan 2027 (Two-Year / Full-Time MBA; R1 passed; clock time not on table). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -46,8 +46,10 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program / academic source](https://www.kellogg.northwestern.edu/programs/full-time-mba/)
+- [Full-Time MBA program](https://www.kellogg.northwestern.edu/programs/full-time-mba/)
 - [Official tuition / budget](https://kellogg.northwestern.edu/admissions/financial-aid/ft-fin-aid/)
+- [Full-Time MBA Admissions (application dates table)](https://www.kellogg.northwestern.edu/programs/full-time-mba/admissions)
+- [How to apply (Full-Time)](https://www.kellogg.northwestern.edu/admissions/ft-admissions/ft-how-to-apply/)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

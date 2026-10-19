@@ -1,0 +1,395 @@
+{
+  "batch": "deadlines-batch1-mba",
+  "as_of": "2026-10-20",
+  "items": [
+    {
+      "id": "stanford-mba",
+      "as_of": "2026-10-20",
+      "deadline": "Round 2 · 6 Jan 2027 · 4:00 p.m. PT (Fall 2027 / 2026–27 cycle; R1 passed)",
+      "deadlineDate": "2027-01-06",
+      "applicationOpen": null,
+      "rounds": [
+        {
+          "name": "Round 1",
+          "deadline": "9 Sep 2026 · 4:00 p.m. PT",
+          "deadlineDate": "2026-09-09"
+        },
+        {
+          "name": "Round 2",
+          "deadline": "6 Jan 2027 · 4:00 p.m. PT",
+          "deadlineDate": "2027-01-06"
+        },
+        {
+          "name": "Round 3",
+          "deadline": "7 Apr 2027 · 4:00 p.m. PT",
+          "deadlineDate": "2027-04-07"
+        }
+      ],
+      "sources": [
+        [
+          "MBA application deadlines (2026–27)",
+          "https://www.gsb.stanford.edu/programs/mba/admission/deadlines"
+        ],
+        [
+          "MBA program",
+          "https://www.gsb.stanford.edu/programs/mba"
+        ]
+      ],
+      "notes": "Official deadlines page titled 2026–27 Deadlines. Completed application (incl. LORs + fee) due 4:00 p.m. Pacific Time on the round deadline. Decision notify: R1 9 Dec 2026; R2 1 Apr 2027; R3 27 May 2027. As of 2026-10-20, Round 1 has passed — primary deadlineDate = Round 2 (2027-01-06), re-verified vs seed. Application open calendar date not posted. Full-time MBA only."
+    },
+    {
+      "id": "penn-mba",
+      "as_of": "2026-10-20",
+      "deadline": "Round 2 · 5 Jan 2027 · 5:00 p.m. ET (Fall 2027 / 2026–27 cycle; R1 passed)",
+      "deadlineDate": "2027-01-05",
+      "applicationOpen": null,
+      "rounds": [
+        {
+          "name": "Round 1",
+          "deadline": "8 Sep 2026 · 5:00 p.m. ET",
+          "deadlineDate": "2026-09-08"
+        },
+        {
+          "name": "Round 2",
+          "deadline": "5 Jan 2027 · 5:00 p.m. ET",
+          "deadlineDate": "2027-01-05"
+        },
+        {
+          "name": "Round 3",
+          "deadline": "31 Mar 2027 · 5:00 p.m. ET",
+          "deadlineDate": "2027-03-31"
+        },
+        {
+          "name": "Deferred Admissions Round",
+          "deadline": "21 Apr 2027 · 11:59 p.m. ET",
+          "deadlineDate": "2027-04-21"
+        }
+      ],
+      "sources": [
+        [
+          "Application timeline & deadlines 2026–27",
+          "https://mba.wharton.upenn.edu/application-timeline-deadlines/"
+        ],
+        [
+          "Admissions process / application guide",
+          "https://mba.wharton.upenn.edu/admissions/admissions-process/"
+        ],
+        [
+          "Wharton MBA home",
+          "https://mba.wharton.upenn.edu/"
+        ]
+      ],
+      "notes": "Page titled 2026-27 / 2026-2027 Application Timeline & Deadlines. Submit by 5:00 p.m. ET (Deferred Admissions Round listed at 11:59 p.m. ET). Late R1/R2 rolls to next round; after R3 not accepted. As of 2026-10-20, Round 1 passed — primary = Round 2. Application open date not posted. Full-time MBA (Carey JD/MBA and Lauder R1–R2 only)."
+    },
+    {
+      "id": "chicago-mba",
+      "as_of": "2026-10-20",
+      "deadline": "Round 2 · 7 Jan 2027 · 11:59 p.m. CT (Fall matriculation; R1 passed)",
+      "deadlineDate": "2027-01-07",
+      "applicationOpen": null,
+      "rounds": [
+        {
+          "name": "Round One",
+          "deadline": "15 Sep 2026 · 11:59 p.m. CT",
+          "deadlineDate": "2026-09-15"
+        },
+        {
+          "name": "Round Two",
+          "deadline": "7 Jan 2027 · 11:59 p.m. CT",
+          "deadlineDate": "2027-01-07"
+        },
+        {
+          "name": "Round Three",
+          "deadline": "1 Apr 2027 · 11:59 p.m. CT",
+          "deadlineDate": "2027-04-01"
+        },
+        {
+          "name": "Chicago Booth Scholars",
+          "deadline": "1 Apr 2027 · 11:59 p.m. CT",
+          "deadlineDate": "2027-04-01"
+        }
+      ],
+      "sources": [
+        [
+          "Full-Time MBA Admissions (deadlines table)",
+          "https://www.chicagobooth.edu/mba/full-time/admissions"
+        ],
+        [
+          "Full-Time MBA",
+          "https://www.chicagobooth.edu/mba/full-time"
+        ]
+      ],
+      "notes": "Official admissions page: all Full-Time MBA students matriculate in the fall. Decision notify: R1 3 Dec 2026; R2 25 Mar 2027; R3 20 May 2027; Scholars 24 Jun 2027. Re-verified Round 2 2027-01-07 already in research-details. As of 2026-10-20, Round One passed — primary = Round Two. Application open date not posted. Full-time MBA only."
+    },
+    {
+      "id": "northwestern-mba",
+      "as_of": "2026-10-20",
+      "deadline": "Round 2 · 6 Jan 2027 (Two-Year / Full-Time MBA; R1 passed; clock time not on table)",
+      "deadlineDate": "2027-01-06",
+      "applicationOpen": null,
+      "rounds": [
+        {
+          "name": "Round 1",
+          "deadline": "9 Sep 2026 (decision 9 Dec 2026)",
+          "deadlineDate": "2026-09-09"
+        },
+        {
+          "name": "Round 2",
+          "deadline": "6 Jan 2027 (decision 24 Mar 2027)",
+          "deadlineDate": "2027-01-06"
+        },
+        {
+          "name": "Round 3",
+          "deadline": "31 Mar 2027 (decision 12 May 2027)",
+          "deadlineDate": "2027-03-31"
+        }
+      ],
+      "sources": [
+        [
+          "Full-Time MBA Admissions (application dates table)",
+          "https://www.kellogg.northwestern.edu/programs/full-time-mba/admissions"
+        ],
+        [
+          "How to apply (Full-Time)",
+          "https://www.kellogg.northwestern.edu/admissions/ft-admissions/ft-how-to-apply/"
+        ],
+        [
+          "Full-Time MBA program",
+          "https://www.kellogg.northwestern.edu/programs/full-time-mba/"
+        ]
+      ],
+      "notes": "Kellogg Full-Time MBA admissions page lists Application deadline / Decision released for Rounds 1–3 with calendar years; page flags upcoming deadline Jan. 6, 2027 for Full-Time MBA. Time-of-day for submission not stated on the dates table (do not invent). Two-Year FT route. As of 2026-10-20, Round 1 passed — primary = Round 2. Application open date not posted."
+    },
+    {
+      "id": "harvard-mba",
+      "as_of": "2026-10-20",
+      "deadline": "Round Two · 5 Jan 2027 · 12:00 p.m. ET (Class of 2029 / matriculating fall 2027; R1 passed)",
+      "deadlineDate": "2027-01-05",
+      "applicationOpen": null,
+      "rounds": [
+        {
+          "name": "Round One",
+          "deadline": "9 Sep 2026 · 12:00 p.m. ET",
+          "deadlineDate": "2026-09-09"
+        },
+        {
+          "name": "Round Two",
+          "deadline": "5 Jan 2027 · 12:00 p.m. ET",
+          "deadlineDate": "2027-01-05"
+        },
+        {
+          "name": "2+2 Deferred Admission Round",
+          "deadline": "28 Apr 2027 · 12:00 p.m. ET",
+          "deadlineDate": "2027-04-28"
+        }
+      ],
+      "sources": [
+        [
+          "MBA application dates (Class of 2029)",
+          "https://www.hbs.edu/mba/admissions/application-dates"
+        ],
+        [
+          "MBA admissions",
+          "https://www.hbs.edu/mba/admissions"
+        ],
+        [
+          "MBA program",
+          "https://www.hbs.edu/mba"
+        ]
+      ],
+      "notes": "Official Application Dates page: MBA Class of 2029 Applicants (matriculating fall 2027). Submit by 12:00 PM ET. Notify: Round One 10 Dec 2026; Round Two 25 Mar 2027; 2+2 30 Jun 2027. Applications after Round 1 considered in Round 2; after Round 2 not considered. One round only per year. As of 2026-10-20, Round One passed — primary = Round Two. Application open date not posted. Full-time MBA."
+    },
+    {
+      "id": "mit-mba",
+      "as_of": "2026-10-20",
+      "deadline": "Round 2 · 12 Jan 2027 · 3:00 p.m. ET (2027 entry; R1 passed)",
+      "deadlineDate": "2027-01-12",
+      "applicationOpen": null,
+      "rounds": [
+        {
+          "name": "Round 1",
+          "deadline": "29 Sep 2026 · 3:00 p.m. ET (decision mid-December 2026)",
+          "deadlineDate": "2026-09-29"
+        },
+        {
+          "name": "Round 2",
+          "deadline": "12 Jan 2027 · 3:00 p.m. ET (decision early April 2027)",
+          "deadlineDate": "2027-01-12"
+        }
+      ],
+      "sources": [
+        [
+          "MBA how to apply / deadlines",
+          "https://mitsloan.mit.edu/mba/admissions/how-to-apply"
+        ],
+        [
+          "MBA admissions",
+          "https://mitsloan.mit.edu/mba/admissions"
+        ],
+        [
+          "Explore MBA program",
+          "https://mitsloan.mit.edu/mba/explore-program"
+        ]
+      ],
+      "notes": "Official how-to-apply page: applications due 3:00 p.m. ET on the deadline date; 2027 entry materials section. Only two standard MBA rounds listed (plus separate LGO). As of 2026-10-20, Round 1 passed — primary = Round 2. Application open date not posted. Full-time two-year MBA."
+    },
+    {
+      "id": "columbia-mba",
+      "as_of": "2026-10-20",
+      "deadline": "August-entry Round 2 · 5 Jan 2027 · 12:00 p.m. ET (August 2027 entry; R1 passed; apps open)",
+      "deadlineDate": "2027-01-05",
+      "applicationOpen": "August 2027 application now open (as of page check 2026-10-20; calendar open day not posted)",
+      "rounds": [
+        {
+          "name": "August 2027 Entry — Round 1",
+          "deadline": "9 Sep 2026 · 12:00 p.m. ET",
+          "deadlineDate": "2026-09-09"
+        },
+        {
+          "name": "August 2027 Entry — Round 2",
+          "deadline": "5 Jan 2027 · 12:00 p.m. ET",
+          "deadlineDate": "2027-01-05"
+        },
+        {
+          "name": "August 2027 Entry — Round 3",
+          "deadline": "29 Mar 2027 · 12:00 p.m. ET",
+          "deadlineDate": "2027-03-29"
+        },
+        {
+          "name": "Deferred Enrollment Program — Final",
+          "deadline": "15 Apr 2027",
+          "deadlineDate": "2027-04-15"
+        }
+      ],
+      "sources": [
+        [
+          "MBA options and deadlines (August 2027)",
+          "https://academics.business.columbia.edu/admissions/mba/options-deadlines"
+        ],
+        [
+          "Full-Time MBA Admissions",
+          "https://academics.business.columbia.edu/admissions/mba"
+        ],
+        [
+          "MBA academics",
+          "https://academics.business.columbia.edu/mba"
+        ]
+      ],
+      "notes": "Catalog route: August-entry Full-Time MBA (Fall 2027 comparison). Official options-deadlines page: August 2027 application is now open; complete by 12:00 PM ET on the round deadline. Incomplete apps roll to next round. Priority institutional funding: R1 or R2. January 2027 Entry application is closed (separate J-Term path; not primary). Deferred Enrollment Program Final 15 Apr 2027 listed on admissions hub. As of 2026-10-20, August Round 1 passed — primary = Round 2. Exact application-open calendar day not posted."
+    },
+    {
+      "id": "nyu-mba",
+      "as_of": "2026-10-20",
+      "deadline": "3rd Deadline · 15 Jan 2027 · 11:59 p.m. ET (Full-time MBA Fall 2027; 1st/2nd passed)",
+      "deadlineDate": "2027-01-15",
+      "applicationOpen": null,
+      "rounds": [
+        {
+          "name": "1st Deadline",
+          "deadline": "15 Sep 2026 · 11:59 p.m. ET (notify by 1 Dec 2026)",
+          "deadlineDate": "2026-09-15"
+        },
+        {
+          "name": "2nd Deadline",
+          "deadline": "15 Oct 2026 · 11:59 p.m. ET (notify by 1 Jan 2027)",
+          "deadlineDate": "2026-10-15"
+        },
+        {
+          "name": "3rd Deadline",
+          "deadline": "15 Jan 2027 · 11:59 p.m. ET (notify by 1 Apr 2027)",
+          "deadlineDate": "2027-01-15"
+        },
+        {
+          "name": "4th Deadline",
+          "deadline": "15 Apr 2027 · 11:59 p.m. ET",
+          "deadlineDate": "2027-04-15"
+        }
+      ],
+      "sources": [
+        [
+          "Full-time MBA admissions deadlines",
+          "https://www.stern.nyu.edu/programs-admissions/full-time-mba/admissions/deadlines"
+        ],
+        [
+          "Full-time MBA admissions",
+          "https://www.stern.nyu.edu/programs-admissions/full-time-mba/admissions"
+        ]
+      ],
+      "notes": "Official deadlines page: Full-time MBA (Fall 2027) four deadlines; submit by 11:59 p.m. U.S. Eastern Time. Same evaluation criteria across deadlines. As of 2026-10-20, 1st (15 Sep) and 2nd (15 Oct) have passed — primary = 3rd Deadline 15 Jan 2027. Focused MBA formats (Luxury & Retail; Andre Koo) have separate Summer 2027 tables — not primary. Application open date not posted. Two-Year FT MBA."
+    },
+    {
+      "id": "dartmouth-mba",
+      "as_of": "2026-10-20",
+      "deadline": "Round 2 · 5 Jan 2027 · 5:00 p.m. ET (Tuck; R1 passed)",
+      "deadlineDate": "2027-01-05",
+      "applicationOpen": null,
+      "rounds": [
+        {
+          "name": "Round 1",
+          "deadline": "24 Sep 2026 · 5:00 p.m. ET",
+          "deadlineDate": "2026-09-24"
+        },
+        {
+          "name": "Round 2",
+          "deadline": "5 Jan 2027 · 5:00 p.m. ET",
+          "deadlineDate": "2027-01-05"
+        },
+        {
+          "name": "Round 3",
+          "deadline": "24 Mar 2027 · 5:00 p.m. ET",
+          "deadlineDate": "2027-03-24"
+        }
+      ],
+      "sources": [
+        [
+          "Applying to Tuck (application deadlines)",
+          "https://www.tuck.dartmouth.edu/admissions/apply"
+        ],
+        [
+          "Academic experience",
+          "https://tuck.dartmouth.edu/mba/academic-experience"
+        ]
+      ],
+      "notes": "Official Apply page: submit complete application by listed ET times. Decision/deposit also posted (R1 decision 10 Dec 2026; R2 18 Mar 2027; R3 29 Apr 2027). Interview-guarantee earlier cutoffs for R1/Consortium 1 (1 Sep 2026) and R2/Consortium 2 (1 Dec 2026). Consortium has separate Oct 15 / Jan 5 paths. As of 2026-10-20, Round 1 passed — primary = Round 2. Application open date not posted. Full-time Tuck MBA."
+    },
+    {
+      "id": "berkeley-mba",
+      "as_of": "2026-10-20",
+      "deadline": "Round 2 · 7 Jan 2027 (Haas FT 2026–2027 cycle; R1 passed; clock time not on round cards)",
+      "deadlineDate": "2027-01-07",
+      "applicationOpen": null,
+      "rounds": [
+        {
+          "name": "Round 1",
+          "deadline": "10 Sep 2026 (decision 10 Dec 2026)",
+          "deadlineDate": "2026-09-10"
+        },
+        {
+          "name": "Round 2",
+          "deadline": "7 Jan 2027 (decision 25 Mar 2027)",
+          "deadlineDate": "2027-01-07"
+        },
+        {
+          "name": "Round 3",
+          "deadline": "1 Apr 2027 (decision 6 May 2027)",
+          "deadlineDate": "2027-04-01"
+        }
+      ],
+      "sources": [
+        [
+          "Haas Full-time MBA Admissions (2026–2027 deadlines)",
+          "https://mba.haas.berkeley.edu/admissions"
+        ],
+        [
+          "Application requirements",
+          "https://mba.haas.berkeley.edu/admissions/application"
+        ],
+        [
+          "Full-time MBA Academics",
+          "https://mba.haas.berkeley.edu/academics"
+        ]
+      ],
+      "notes": "Official admissions page: 2026-2027 Application Deadlines with calendar years for R1–R3. Fee-waiver requests due 11:59 pm PST for the round (not stated as the application submit clock on the round cards — do not invent app deadline time). As of 2026-10-20, Round 1 passed — primary = Round 2. Application open date not posted. Full-time Haas MBA only."
+    }
+  ]
+}
