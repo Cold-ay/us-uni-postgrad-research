@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$66,762 — Program / full-time academic-year tuition (MPCS 9-course; 3 courses × 3 quarters); 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 reference, not a Fall 2027 quote or full-degree total.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+UChicago MPCS Tuition & Fees 2026–2027: estimated total tuition 9-Course MS $66,762; 12-Course MS $89,016. Quarterly schedule: 1 course $7,415; 2 $14,833; 3 $22,254; 4 $29,668. Full-time at 3 courses for Autumn–Winter–Spring = $22,254 × 3 = $66,762 (matches the 9-course program total). Quarterly Graduate Student Services Fee $520; lifetime transcript fee $84 (first quarter only); U-SHIP listed at $1,715 using the 2025–2026 rate—fees not included in the tuition figure. Immersion coursework, if required, is billed at the one-course rate extra.
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -46,7 +46,9 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program / academic source](https://masters.cs.uchicago.edu/)
+- [Program home](https://masters.cs.uchicago.edu/)
+- [Official tuition / budget](https://masters.cs.uchicago.edu/tuition-fees/)
+- [MPCS admissions tuition](https://masters.cs.uchicago.edu/mpcs-admissions/tuition-fees/)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

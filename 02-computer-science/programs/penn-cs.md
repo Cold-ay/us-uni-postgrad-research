@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$52,950 — Academic-year tuition (SEAS on-campus master’s, 3 CUs × 2 semesters); 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 reference, not a Fall 2027 quote or full-degree total.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+Penn SRFS SEAS on-campus master’s 2026–27: tuition $8,825 per course unit (CU). Catalog CIS MSE requires 10 CUs; sample plans use 3 CUs in a typical Fall or Spring term → AY tuition reference $8,825 × 3 × 2 = $52,950. At 4 CUs/term: $35,300/semester ($70,600 AY). Mandatory fees at 3 CUs: General Fee $2,134 + Technology Fee $405 + Clinical Fee $385 (semester totals with tuition $29,399)—fees not included in the tuition figure. Full 10-CU degree tuition at $8,825 = $88,250. Online Engineering rates differ.
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -46,7 +46,9 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program / academic source](https://catalog.upenn.edu/graduate/programs/computer-information-science-mse/)
+- [CIS MSE catalog](https://catalog.upenn.edu/graduate/programs/computer-information-science-mse/)
+- [Official tuition / budget](https://srfs.upenn.edu/costs-budgeting/seas)
+- [Residential master’s CS admissions](https://gradadm.engineering.upenn.edu/residential-masters/computer-science/)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

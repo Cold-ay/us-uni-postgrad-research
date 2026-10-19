@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$67,728 — Academic-year tuition (SEAS MS, $2,822/point × 12 points × 2 semesters); 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 reference, not a Fall 2027 quote or full-degree total.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+Columbia Engineering Graduate Tuition bulletin and SFS Graduate Engineering COA 2026–27: M.S. tuition $2,822 per credit/point. Full-time COA budgets 12 points/semester → $33,864/semester → $67,728 AY Fall+Spring. A typical 30-credit MS CS totals $84,660 in tuition across the degree (pace varies). Mandatory fees in the COA (health insurance, health service, university services, SEAS activities, document fee) and living costs are separate; CS is not listed with the IEOR/AI program fee.
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -46,7 +46,9 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program / academic source](https://www.cs.columbia.edu/education/ms/)
+- [MS CS program](https://www.cs.columbia.edu/education/ms/)
+- [Official tuition / budget](https://sfs.columbia.edu/content/graduate-engineering-cost-attendance)
+- [SEAS graduate tuition bulletin](https://bulletin.columbia.edu/columbia-engineering/graduate-studies/graduate-tuition-fees-payments/)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

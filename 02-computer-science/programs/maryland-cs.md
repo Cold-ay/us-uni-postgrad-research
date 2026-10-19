@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$34,488 — Academic-year tuition (graduate nonresident, 9 credits × 2 semesters); 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 reference, not a Fall 2027 quote or full-degree total.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+UMD Student Financial Services Fall 2026 & Spring 2027: graduate Non-Resident tuition $1,916/credit (Resident $913). Academic-year reference at 9 credits/semester (mandatory campus-fee plateau) = $17,244 × 2 = $34,488. Campus fees for 9+ credits: $738/semester ($1,476 AY) not included in the tuition figure. Extended Studies CS professional page lists the same out-of-state per-credit rate and estimates 30-credit total master’s tuition $57,480 (out-of-state). SHIP (~$2,939 AY) and international student fee $125/semester are separate. MS is 30 credits.
 
 Application timing: 4 Dec 2026 · MS application page. Confirm deadline time zone and personal requirements on the official page.
 
@@ -46,7 +46,10 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program / academic source](https://www.cs.umd.edu/grad/apply)
+- [Grad apply](https://www.cs.umd.edu/grad/apply)
+- [Official tuition / budget](https://billpay.umd.edu/GraduateTuition)
+- [Extended Studies CS tuition](https://exst.umd.edu/professionals-post-baccalaureates/professional-graduate-programs/computer-science/tuition-and-fees)
+- [MS prospective / catalog](https://www.cs.umd.edu/grad/ms-catalog)
 - [CMSC catalog — different MS route](https://academiccatalog.umd.edu/graduate/programs/computer-science-cmsc/computer-science-ms/)
 - [Rank 12 cross-check · May 2026](https://science.umd.edu/newsletters/cs/2026-05.html)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)

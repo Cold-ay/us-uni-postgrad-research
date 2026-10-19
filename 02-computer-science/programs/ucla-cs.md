@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$38,233 — Academic-year tuition and mandatory fees (Academic Master, nonresident, continuing); 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 reference, not a Fall 2027 quote or full-degree total.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+UCLA Registrar public fee tables Academic Master annual 2026–27 nonresident continuing total $38,232.76 (Tuition $13,722 + NRST $15,102 + Student Services Fee $1,344 + UCSHIP $7,516.98 + campus fees). California resident continuing total without NRST $23,130.76. Grad Division rounds these to about $38,233 / $23,131. New students add one-time Document Fee $97.43. CS MS uses the standard Academic Master schedule (not a self-supporting program). NRST PhD candidacy waiver does not apply to MS.
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -46,7 +46,10 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program / academic source](https://www.cs.ucla.edu/graduate-admissions/)
+- [Graduate admissions](https://www.cs.ucla.edu/graduate-admissions/)
+- [Official tuition / budget (Registrar public fees)](https://sa.ucla.edu/RO/Fees/Public/public-fees)
+- [Grad Division tuition summary](https://grad.ucla.edu/funding/tuition/)
+- [Financial aid COA](https://financialaid.ucla.edu/graduate-aid/cost-of-attendance)
 - [Admissions and MS funding limitations](https://www.cs.ucla.edu/graduate-requirements/)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
