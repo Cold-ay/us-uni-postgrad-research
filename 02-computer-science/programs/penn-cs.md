@@ -18,7 +18,7 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Advanced study in the scientific foundations of computing. This CIS MSE is distinct from the MCIT conversion degree.
+Advanced study in the scientific foundations of computing. This CIS MSE is distinct from the MCIT conversion degree. Application open: 15 Sep 2026 (deadline research 2026-10-20; see deadline field).
 
 Orientation: See degree route and academic overview
 
@@ -32,7 +32,7 @@ $52,950 — Academic-year tuition (SEAS on-campus master’s, 3 CUs × 2 semeste
 
 Penn SRFS SEAS on-campus master’s 2026–27: tuition $8,825 per course unit (CU). Catalog CIS MSE requires 10 CUs; sample plans use 3 CUs in a typical Fall or Spring term → AY tuition reference $8,825 × 3 × 2 = $52,950. At 4 CUs/term: $35,300/semester ($70,600 AY). Mandatory fees at 3 CUs: General Fee $2,134 + Technology Fee $405 + Clinical Fee $385 (semester totals with tuition $29,399)—fees not included in the tuition figure. Full 10-CU degree tuition at $8,825 = $88,250. Online Engineering rates differ.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: Apps open 15 Sep 2026 · Early 1 Nov 2026 · 11:59 p.m. EST · Regular 1 Feb 2027 · 11:59 p.m. EST (CIS MSE Fall 2027). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -46,9 +46,11 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [CIS MSE catalog](https://catalog.upenn.edu/graduate/programs/computer-information-science-mse/)
+- [Catalog: Computer & Information Science, MSE](https://catalog.upenn.edu/graduate/programs/computer-information-science-mse/)
 - [Official tuition / budget](https://srfs.upenn.edu/costs-budgeting/seas)
 - [Residential master’s CS admissions](https://gradadm.engineering.upenn.edu/residential-masters/computer-science/)
+- [Penn Engineering How to Apply (Fall 2027 master's timeline)](https://gradadm.engineering.upenn.edu/how-to-apply/)
+- [Penn Engineering Master's Programs (CIS early deadline noted)](https://gradadm.engineering.upenn.edu/masters/)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

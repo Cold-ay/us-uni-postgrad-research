@@ -32,7 +32,7 @@ $43,872 — Academic-year tuition (Viterbi graduate engineering, 8 units × 2 se
 
 USC Viterbi Graduate Tuition Fall 2026–Summer 2027: $2,742 per unit (same for on-campus and DEN@Viterbi). MS Computer Science requires 32 units (thesis option adds 4). Typical full-time pace in Viterbi COA examples is 8 units/semester → AY tuition $2,742 × 8 × 2 = $43,872. Full 32-unit program tuition at the published rate = $87,744. Mandatory fees about $922/semester (health center, Topping, programming, transportation; first semester adds one-time $55 orientation) not included in the tuition figure. Health insurance separate.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: Fall 2027 final 15 Jan 2027 · 11:59 p.m. PT · Scholarship consideration 15 Dec (Fall 2027 row; year not printed on that cell). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -46,10 +46,11 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program / academic source](https://www.cs.usc.edu/academic-programs/masters/)
+- [USC CS Master's programs](https://www.cs.usc.edu/academic-programs/masters/)
 - [Official tuition / budget](https://viterbigradadmission.usc.edu/programs/masters/tuition-funding/tuition-funding-masters/)
 - [32-unit MS COA PDF](https://viterbigradadmission.usc.edu/wp-content/uploads/2026/03/2026-2027-Tuition-and-Fees-32.pdf)
-- [MS Computer Science program](https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/ms-computer-science/)
+- [Viterbi MS Computer Science](https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/ms-computer-science/)
+- [USC Viterbi Master's Application Deadlines](https://viterbigradadmission.usc.edu/programs/masters/apply/)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

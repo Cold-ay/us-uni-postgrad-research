@@ -18,7 +18,7 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-MSCS offers a thesis or student-driven capstone. The separate MEng has an instructor-selected capstone and no thesis.
+MSCS offers a thesis or student-driven capstone. The separate MEng has an instructor-selected capstone and no thesis. Application open: mid-September (CS requirements page; year not labeled) (deadline research 2026-10-20; see deadline field).
 
 Orientation: Thesis or student-driven capstone
 
@@ -32,7 +32,7 @@ $38,233 — Academic-year tuition and mandatory fees (Academic Master, nonreside
 
 UCLA Registrar public fee tables Academic Master annual 2026–27 nonresident continuing total $38,232.76 (Tuition $13,722 + NRST $15,102 + Student Services Fee $1,344 + UCSHIP $7,516.98 + campus fees). California resident continuing total without NRST $23,130.76. Grad Division rounds these to about $38,233 / $23,131. New students add one-time Document Fee $97.43. CS MS uses the standard Academic Master schedule (not a self-supporting program). NRST PhD candidacy waiver does not apply to MS.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: Apps mid-Sep · Deadline 15 Dec 2026 · 23:59 Pacific (MS/PhD Fall only — Grad Division 2027–28). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -46,11 +46,13 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Graduate admissions](https://www.cs.ucla.edu/graduate-admissions/)
+- [CS Graduate Admissions](https://www.cs.ucla.edu/graduate-admissions/)
 - [Official tuition / budget (Registrar public fees)](https://sa.ucla.edu/RO/Fees/Public/public-fees)
 - [Grad Division tuition summary](https://grad.ucla.edu/funding/tuition/)
 - [Financial aid COA](https://financialaid.ucla.edu/graduate-aid/cost-of-attendance)
-- [Admissions and MS funding limitations](https://www.cs.ucla.edu/graduate-requirements/)
+- [CS Graduate Application Requirements (Dec 15 23:59 PT; mid-Sep open)](https://www.cs.ucla.edu/graduate-requirements/)
+- [UCLA Grad Division CS 2027–2028 requirements (deadline Dec 15, 2026)](https://grad.ucla.edu/gasaa/deptinfo/deptinfo.asp?academicyear=20272028&code=0201)
+- [CS Grad Admissions FAQ](https://www.cs.ucla.edu/graduate-admission-frequently-asked-questions/)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

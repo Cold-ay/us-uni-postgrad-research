@@ -32,7 +32,7 @@ $24,054 — Academic-year tuition (graduate nonresident full-time × 2 terms); 2
 
 UW System Tuition Schedule 2026–27 UW–Madison Graduate full-time Nonresident tuition $12,027.20/term → $24,054.40 AY Fall+Spring. Resident $5,363.76/term ($10,727.52 AY). Segregated fees $849.74/term ($1,699.48 AY) not included in the tuition figure. This is the standard graduate schedule used by the traditional CS MS/PhD track. Separately, the Professional Program MS (PMP) lists nonresident $1,503.40/credit (matches the graduate part-time nonresident rate); PMP is self-funded and not used as the primary figure here. Traditional-track funding/tuition remission is common but out of scope for this tuition reference.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: Traditional MS/PhD Fall: 15 Dec (month-day; year not labeled) · PMP separate: 15 Feb (month-day). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -46,11 +46,14 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [CS degree programs](https://www.cs.wisc.edu/grad/programs/)
+- [Degree programs hub](https://www.cs.wisc.edu/grad/programs/)
 - [Official tuition / budget](https://www.wisconsin.edu/budget-planning/download/tuition/2026-27-Tuition-Schedule-FINAL.pdf)
 - [Bursar Fall 2026 announcement](https://bursar.wisc.edu/tuition-and-fees/fall-2026-increase)
 - [Funding & COA](https://www.cs.wisc.edu/grad/programs/funding/)
 - [Professional MS](https://www.cs.wisc.edu/grad/programs/pmp/)
+- [CS Graduate Admissions (traditional Dec 15; PMP Feb 15)](https://www.cs.wisc.edu/grad/programs/admissions/)
+- [Traditional CS MS/PhD program](https://www.cs.wisc.edu/grad/programs/traditional/)
+- [Guide: Computer Sciences MS named option (Fall Deadline Dec 15)](https://guide.wisc.edu/graduate/computer-sciences/computer-sciences-ms/computer-sciences-computer-sciences-ms/)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

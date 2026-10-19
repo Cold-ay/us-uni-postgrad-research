@@ -32,7 +32,7 @@ $67,728 — Academic-year tuition (SEAS MS, $2,822/point × 12 points × 2 semes
 
 Columbia Engineering Graduate Tuition bulletin and SFS Graduate Engineering COA 2026–27: M.S. tuition $2,822 per credit/point. Full-time COA budgets 12 points/semester → $33,864/semester → $67,728 AY Fall+Spring. A typical 30-credit MS CS totals $84,660 in tuition across the degree (pace varies). Mandatory fees in the COA (health insurance, health service, university services, SEAS activities, document fee) and living costs are separate; CS is not listed with the IEOR/AI program fee.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: Fall priority 15 Jan · Fall final/regular 15 Feb 2027 (CVN year-labeled for Fall 2027) · Spring 15 Oct. Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -46,9 +46,12 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [MS CS program](https://www.cs.columbia.edu/education/ms/)
+- [MS program home](https://www.cs.columbia.edu/education/ms/)
 - [Official tuition / budget](https://sfs.columbia.edu/content/graduate-engineering-cost-attendance)
 - [SEAS graduate tuition bulletin](https://bulletin.columbia.edu/columbia-engineering/graduate-studies/graduate-tuition-fees-payments/)
+- [CS Admissions (MS deadlines table)](https://www.cs.columbia.edu/education/admissions8/)
+- [MS Program Application FAQ](https://www.cs.columbia.edu/education/ms/appfaq/)
+- [CVN Computer Science Master's (Fall 2027 / Spring 2027 year-labeled)](https://cvn.columbia.edu/content/computer-science-masters-degree)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence
