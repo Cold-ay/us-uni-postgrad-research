@@ -1,4 +1,4 @@
-// Generated from path/outcomes/batch-001.json, batch-002.json, batch-003.json, and id-map.json. Do not edit by hand.
+// Generated from path/outcomes/batch-001.json, batch-002.json, batch-003.json, batch-004.json, and id-map.json. Do not edit by hand.
 export const outcomeBatchMeta = [
   {
     "batch_id": "batch-001",
@@ -116,6 +116,58 @@ export const outcomeBatchMeta = [
       "duke-mba",
       "virginia-mba",
       "ucla-mba"
+    ]
+  },
+  {
+    "batch_id": "batch-004",
+    "agent": "path",
+    "created": "2026-10-20",
+    "access_date": "2026-10-20",
+    "card_count": 17,
+    "schema_version": "outcome-card-v2-catalog",
+    "batch_001_002_003_unchanged": true,
+    "upgrade_of_batch_002": [
+      "umich-cse-ms"
+    ],
+    "upgrade_note": "Michigan CSE: new ECRC MasterComputerScienceEngineeringAY25.pdf. No upgrades for Columbia CS (still no CS FDS; EE-only pages ignored), UT Austin CS, or UCLA MSCS.",
+    "methodology": "Open public sources only. No fabricated numbers. Gaps labeled unknown.",
+    "program_ids": [
+      "chicago-mpcs",
+      "purdue-mscs",
+      "wisconsin-mscs",
+      "rice-mcs",
+      "jhu-mse-cs",
+      "yale-mscs",
+      "caltech-cs-grad",
+      "umich-cse-ms",
+      "foster-mba",
+      "tepper-mba",
+      "mccombs-mba",
+      "johnson-mba",
+      "marshall-mba",
+      "kenan-mba",
+      "goizueta-mba",
+      "rice-mba",
+      "kelley-mba"
+    ],
+    "catalog_ids": [
+      "chicago-cs",
+      "purdue-cs",
+      "wisconsin-cs",
+      "rice-cs",
+      "jhu-cs",
+      "yale-cs",
+      "caltech-cs",
+      "michigan-cs",
+      "washington-mba",
+      "cmu-mba",
+      "texas-mba",
+      "cornell-mba",
+      "usc-mba",
+      "unc-mba",
+      "emory-mba",
+      "rice-mba",
+      "indiana-mba"
     ]
   }
 ];
@@ -778,26 +830,58 @@ export const outcomeCards = {
     "school": "University of Michigan",
     "program": "MS in Computer Science and Engineering",
     "degree": "MS",
-    "internship_rate": "unknown",
-    "full_time_placement": "unknown",
-    "full_time_placement_notes": "Michigan Engineering career outcomes pages returned 403 to automated fetch; no CSE MS placement % captured.",
-    "notable_employers": "unknown",
-    "big_tech_or_top_firm_signal": "Qualitative: strong Midwest + national Big Tech reputation. Quantitative: unknown this run.",
-    "sample_alumni_paths": "unknown",
-    "referral_network_notes": "Large Michigan alumni network; CSE-specific metrics unknown.",
-    "difficulty_notes": "Selective public flagship CSE MS. Official competitiveness stats unknown.",
+    "internship_rate": "Intern hourly average $49.77 (median $52.72; range $20–$71.88) for AY2025 CSE master’s reporting — rate % unknown.",
+    "full_time_placement": "unknown as % employed. Official ECRC AY2025 Master CSE sheet publishes starting salaries and employers (not CSEA seeker %).",
+    "notable_employers": [
+      "Microsoft",
+      "Apple",
+      "Bloomberg",
+      "ByteDance",
+      "Capital One",
+      "Databricks",
+      "Jane Street",
+      "Jump Trading",
+      "Palantir",
+      "Stripe",
+      "Tesla",
+      "TikTok",
+      "Uber",
+      "Figma",
+      "Roblox",
+      "IMC Trading",
+      "Ford",
+      "Anduril"
+    ],
+    "big_tech_or_top_firm_signal": "High. AY2025 full-time starting annual salary: average $141,846; median $136,000; range $74,000–$370,000. Top industries: Software & Computer Services; Financials; Technology Hardware; Retail; Automobiles & Parts.",
+    "sample_alumni_paths": [
+      "Software / Full-Stack / Production Engineer",
+      "ML / AI / Applied Scientist / Research Engineer",
+      "Quantitative Trader",
+      "DevOps / Embedded Firmware / Forward Deployed Engineer"
+    ],
+    "referral_network_notes": "Michigan Engineering Career Resource Center (ECRC). Facilitation % unknown.",
+    "difficulty_notes": "Large selective public CSE MS; automotive + trading + Big Tech mix distinctive vs pure Bay pipelines.",
     "sources": [
       {
-        "title": "UMich CSE graduate academics",
-        "url": "https://cse.engin.umich.edu/academics/graduate/",
+        "title": "Michigan Engineering ECRC – Master CSE AY25 PDF",
+        "url": "https://career.engin.umich.edu/wp-content/uploads/sites/30/2026/06/MasterComputerScienceEngineeringAY25.pdf",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "Michigan Engineering post-grad / salary info hub",
+        "url": "https://career.engin.umich.edu/students/michigan-engineering-student-salary-information/",
         "access_date": "2026-10-20"
       }
     ],
-    "confidence": "low",
-    "confidence_reason": "Outcomes pages blocked/unavailable — numeric outcomes unknown.",
+    "confidence": "high",
+    "confidence_reason": "Official ECRC AY2025 Master CSE salary + employer sheet (upgrade over prior low-conf card).",
+    "meta": {
+      "upgrade_of": "batch-002"
+    },
     "last_updated": "2026-10-20",
     "pathProgramId": "umich-cse-ms",
     "routeMismatch": false,
+    "routeMismatchNotes": "upgrade_of: batch-002 — new official Michigan Engineering ECRC Master CSE AY2025 major info sheet.",
     "match": "same-route"
   },
   "usc-cs": {
@@ -1695,6 +1779,677 @@ export const outcomeCards = {
     "confidence_reason": "Official Anderson Class of 2025 employment PDF with CSEA-compliant tables.",
     "last_updated": "2026-10-20",
     "pathProgramId": "anderson-mba",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "chicago-cs": {
+    "school": "University of Chicago",
+    "program": "Masters Program in Computer Science (MPCS)",
+    "degree": "MS",
+    "internship_rate": "unknown as cohort %; Career Services pages feature internship→FT conversion stories (Amazon/AWS, Tempus AI, Adobe, etc.)",
+    "full_time_placement": "Official program statement: approximately 90% of graduates employed full-time in the field 6–12 months after completion. Class of 2024–25 outcomes published on MPCS Career Outcomes Reports / homepage (not a CSEA MBA-style seeker table).",
+    "notable_employers": [
+      "Amazon/AWS",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Apple",
+      "NVIDIA",
+      "TikTok",
+      "Citadel",
+      "Jump Trading",
+      "DRW",
+      "Goldman Sachs",
+      "Jane Street-adjacent Chicago trading firms (historical employer lists)",
+      "SpaceX (alumni example)"
+    ],
+    "big_tech_or_top_firm_signal": "High. Class of 2024–25: average salary $167,400. Positions — Software Engineer 50%, Consultant 14%, AI/ML Engineer 9%, Researcher 9%, Other 18%. Industries — Technology 50%, Finance/Banking/Trading 19%, Research 11%, Consulting 6%, Other 14%. Avg salary by position (published): Data Scientist/Analyst $118k; AI/ML Engineer $133k; (higher SWE/consultant bands on page up to ~$193–194k).",
+    "sample_alumni_paths": [
+      "Software Engineer (50% of 2024–25)",
+      "Consultant (14%)",
+      "AI/ML Engineer (9%)",
+      "Researcher (9%)"
+    ],
+    "referral_network_notes": "Dedicated MPCS Career Services; Polsky entrepreneurship adjacency. Formal referral % unknown.",
+    "difficulty_notes": "Professional MS with 9-course / 12-course / joint MBA/MPCS tracks; industry-oriented not PhD feeder.",
+    "sources": [
+      {
+        "title": "MPCS Career Outcomes Reports",
+        "url": "https://masters.cs.uchicago.edu/career-services/career-outcomes-reports/",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "MPCS homepage – 2024–25 positions/industries/salary",
+        "url": "https://masters.cs.uchicago.edu/",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "MPCS Admissions FAQ – salary",
+        "url": "https://masters.cs.uchicago.edu/frequently-asked-questions-1/",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Official MPCS Career Outcomes Report figures for Class of 2024–25 (salary, position, industry mixes).",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "chicago-mpcs",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "purdue-cs": {
+    "school": "Purdue University",
+    "program": "MS in Computer Science",
+    "degree": "MS",
+    "internship_rate": "unknown (BS internship stats published separately; MS internship % unknown)",
+    "full_time_placement": "MS graduation survey AY 2024–2025 (Aug/Dec 2024, May 2025): 89 of 118 MS graduates responded (75%). Overall employment rate %: not published as a single figure. Employer/salary samples published by region.",
+    "notable_employers": [
+      "Amazon",
+      "Amazon Web Services",
+      "Microsoft",
+      "Apple",
+      "LinkedIn",
+      "Oracle",
+      "NVIDIA",
+      "TikTok",
+      "Facebook/Meta",
+      "Goldman Sachs",
+      "Capital One",
+      "Stripe",
+      "Reddit",
+      "Riot Games",
+      "Atlassian",
+      "AMD",
+      "Audible"
+    ],
+    "big_tech_or_top_firm_signal": "Strong West-coast Big Tech signal from employer table. West-region average salary among reporting MS hires: $137,273 (range $105,000–$168,000, n=30). Other regions: averages unavailable due to small n.",
+    "sample_alumni_paths": [
+      "SWE / SDE at Amazon, Microsoft, Apple, LinkedIn, Oracle, Stripe, TikTok",
+      "Roles at NVIDIA, Reddit, Riot Games, Capital One, Goldman Sachs"
+    ],
+    "referral_network_notes": "CS Corporate Relations placement pages; formal referral % unknown.",
+    "difficulty_notes": "Large public CS MS; outcomes self-reported; not all respondents answered salary.",
+    "sources": [
+      {
+        "title": "Purdue CS Placement",
+        "url": "https://www.cs.purdue.edu/corporate/placement/",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "Purdue CS MS Salary & Employment Statistics AY 2024–25 PDF",
+        "url": "https://www.cs.purdue.edu/corporate/docs/2024_25ms_companies.pdf",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "medium",
+    "confidence_reason": "Official MS survey with employers and West salary average; overall placement % not stated.",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "purdue-mscs",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "wisconsin-cs": {
+    "school": "University of Wisconsin–Madison",
+    "program": "MS in Computer Sciences",
+    "degree": "MS",
+    "internship_rate": "unknown",
+    "full_time_placement": "unknown (no public aggregate MS first-destination %). Department Spring/Summer 2025 master’s graduates page lists individual next steps (self-reported).",
+    "notable_employers": [
+      "NVIDIA",
+      "Nutanix",
+      "Netflix",
+      "Google",
+      "Oracle",
+      "AWS",
+      "ByteDance",
+      "TikTok",
+      "MathWorks",
+      "Lockheed Martin",
+      "RTX"
+    ],
+    "big_tech_or_top_firm_signal": "Qualitative from 2025 graduate statements (NVIDIA systems/GPU/architect roles, Google SWE, Netflix data engineer, AWS, Oracle, TikTok). Aggregate Big Tech % / salary: unknown. Graduate School employment IDE exists but is access-restricted.",
+    "sample_alumni_paths": [
+      "Software developer / GPU architect / systems SWE at NVIDIA",
+      "LLM Eng / MTS(ML) / SWE at Nutanix",
+      "Data engineer at Netflix / AWS / ByteDance",
+      "SWE at Google, Oracle, MathWorks, Lockheed Martin, TikTok"
+    ],
+    "referral_network_notes": "Faculty career support cited by graduates; formal referral metrics unknown.",
+    "difficulty_notes": "Strong systems/ML research brand; public Tableau exit/employment tools are restricted — no open FDS PDF.",
+    "sources": [
+      {
+        "title": "UW–Madison CS – Spring & Summer 2025 Master’s Graduates",
+        "url": "https://www.cs.wisc.edu/grad/spring-summer-2025-masters-graduates/",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "UW–Madison Post-Graduation Outcomes (tools overview)",
+        "url": "https://data.wisc.edu/graduate-outcomes/",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "low",
+    "confidence_reason": "Only individual graduate next-step anecdotes; no cohort placement or salary table.",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "wisconsin-mscs",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "rice-cs": {
+    "school": "Rice University",
+    "program": "Master of Computer Science (in-person MCS)",
+    "degree": "MCS",
+    "internship_rate": "Official program page: 93% summer 2025 internship placement rate. Internship employers cited include Amazon, Meta, Microsoft, LinkedIn, Tableau.",
+    "full_time_placement": "unknown (no published MCS-specific FT employment % or salary table located). Program designed for industry careers.",
+    "notable_employers": [
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Amazon",
+      "Oracle",
+      "Cisco",
+      "IBM",
+      "LinkedIn",
+      "Schlumberger",
+      "Tableau"
+    ],
+    "big_tech_or_top_firm_signal": "Qualitative high via employer examples + 93% internship placement. FT Big Tech % / salary: unknown.",
+    "sample_alumni_paths": [
+      "Industry MCS roles at listed tech employers (program marketing)",
+      "Energy/tech Houston pipeline (Schlumberger cited)"
+    ],
+    "referral_network_notes": "Rice Center for Career Development + MCS workplace communications / projects. Metrics unknown.",
+    "difficulty_notes": "Professional MCS (not PhD track); Houston + national tech recruiting.",
+    "sources": [
+      {
+        "title": "Rice – In-Person Master of Computer Science",
+        "url": "https://csweb.rice.edu/academics/graduate-programs/person-master-computer-science",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "Rice CS Masters Programs",
+        "url": "https://csweb.rice.edu/academics/graduate-programs/masters-programs",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "medium",
+    "confidence_reason": "Official 93% internship placement and employer examples; missing FT placement % and salaries.",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "rice-mcs",
+    "routeMismatch": false,
+    "routeMismatchNotes": "Catalog rice-cs maps to MCS professional master’s (also online MCS). Research MS may differ — card is in-person MCS career framing.",
+    "match": "same-route"
+  },
+  "jhu-cs": {
+    "school": "Johns Hopkins University",
+    "program": "MSE in Computer Science (residential)",
+    "degree": "MSE",
+    "internship_rate": "unknown",
+    "full_time_placement": "unknown (no program-level placement rate or salary survey published on CS MSE page)",
+    "notable_employers": [
+      "Amazon",
+      "Google",
+      "Bank of America",
+      "Bloomberg",
+      "Intuit",
+      "Deloitte",
+      "Roblox",
+      "IMC Trading"
+    ],
+    "big_tech_or_top_firm_signal": "Illustrative alumni employers only (not a verified cohort survey). Quantitative % / salary: unknown.",
+    "sample_alumni_paths": "unknown beyond illustrative employer list",
+    "referral_network_notes": "JHU CS / Whiting career resources; metrics unknown.",
+    "difficulty_notes": "Residential MSE; do not confuse with EP online CS. No cash-cow FDS published.",
+    "sources": [
+      {
+        "title": "JHU CS – Master of Science in Engineering, Computer Science",
+        "url": "https://www.cs.jhu.edu/academic-programs/graduate-studies/masters-computer-science/",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "low",
+    "confidence_reason": "Employer examples only; no official cohort outcomes table.",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "jhu-mse-cs",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "yale-cs": {
+    "school": "Yale University",
+    "program": "MS in Computer Science",
+    "degree": "MS",
+    "internship_rate": "unknown",
+    "full_time_placement": "unknown. Program states most graduates enter industry (large companies and startups); a few continue to PhD. Yale does not publish program-specific post-degree statistics (per Engineering MS CS page).",
+    "notable_employers": [
+      "Microsoft",
+      "Google",
+      "Facebook/Meta"
+    ],
+    "big_tech_or_top_firm_signal": "Qualitative only (named large companies on program page). Rates/salaries: unknown. Do not use Yale College first-destination data as MS CS.",
+    "sample_alumni_paths": [
+      "Industry SWE at large tech / startups (program description)",
+      "PhD continuation (minority path)"
+    ],
+    "referral_network_notes": "Yale Office of Career Strategy supports master’s students; MS-specific referral % unknown.",
+    "difficulty_notes": "Small selective MS; no public FDS — treat outcomes as unknown quantitatively.",
+    "sources": [
+      {
+        "title": "Yale Engineering – MS Computer Science",
+        "url": "https://engineering.yale.edu/academic-study/departments/computer-science/graduate-study/master-science-program",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "Yale OCS – Masters channel",
+        "url": "https://ocs.yale.edu/channels/masters/",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "low",
+    "confidence_reason": "Official qualitative industry orientation; explicitly no program-specific published statistics.",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "yale-mscs",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "caltech-cs": {
+    "school": "California Institute of Technology",
+    "program": "Computer Science graduate study (no terminal MS)",
+    "degree": "N/A (no terminal MS)",
+    "internship_rate": "unknown / not applicable as terminal MS",
+    "full_time_placement": "unknown / not applicable — no terminal MS CS program outcomes to report",
+    "notable_employers": "unknown for a nonexistent terminal MS cohort",
+    "big_tech_or_top_firm_signal": "N/A for terminal MS. Caltech PhD/undergrad pipelines are strong but out of scope for master’s route cards.",
+    "sample_alumni_paths": [],
+    "referral_network_notes": "N/A",
+    "difficulty_notes": "Applicants seeking a taught MS CS should not treat Caltech as a master’s destination.",
+    "sources": [
+      {
+        "title": "Caltech CMS graduate academics",
+        "url": "https://www.cms.caltech.edu/academics/grad",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Catalog and Caltech academic statement confirm no terminal CS master’s — mismatch is factual, not outcome uncertainty.",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "caltech-cs-grad",
+    "routeMismatch": true,
+    "routeMismatchNotes": "Catalog caltech-cs: Caltech traditionally does not offer a terminal CS master’s. Card flags route mismatch — not a Fall 2027 master’s application target.",
+    "match": "different-route",
+    "matchCaveat": "Catalog caltech-cs: Caltech traditionally does not offer a terminal CS master’s. Card flags route mismatch — not a Fall 2027 master’s application target."
+  },
+  "washington-mba": {
+    "school": "University of Washington – Foster School of Business",
+    "program": "Full-Time MBA",
+    "degree": "MBA",
+    "internship_rate": "Internship industry/function tables in 2026 Employment Report (Class of 2026 interns); Technology ~44.7% of internships by industry in report extract.",
+    "full_time_placement": "Class of 2025: 95/106 (89.6%) seeking. Offers by graduation 66.3%; by 3 months cumulative ~77.9% (66.3%+11.6%). Foster career page also cites 86% received offers at 6 months. Acceptances equaled offers for reporting period. School-facilitated 51.4% of sources.",
+    "notable_employers": [
+      "Amazon",
+      "Google",
+      "Ernst & Young",
+      "Nike"
+    ],
+    "big_tech_or_top_firm_signal": "Technology largest industry at 40.5% (median base $142,800). Consulting 25.7% (median $175k). Overall mean base $144,411; median $142,800. Career page: average signing bonus $39k+.",
+    "sample_alumni_paths": [
+      "Tech roles (40.5%)",
+      "Consulting (25.7%)",
+      "Marketing/Sales function 27%",
+      "General Management 17.6%"
+    ],
+    "referral_network_notes": "51.4% school-facilitated; strong Seattle tech/internship conversion (35.1% school-facilitated internship conversion).",
+    "difficulty_notes": "Tech-heavy Pacific Northwest MBA; international share high among seekers.",
+    "sources": [
+      {
+        "title": "Foster Full-Time MBA Employment Report 2026 (Class of 2025) PDF",
+        "url": "https://foster.uw.edu/wp-content/uploads/2026/04/2026-Full-Time-MBA-Employment-Report-4.2.26.pdf",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "Foster – Full-time MBA Career Outcomes",
+        "url": "https://foster.uw.edu/academics/degree-programs/full-time-mba/career-management/",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Official CSEA-style Foster Class of 2025 employment PDF.",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "foster-mba",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "cmu-mba": {
+    "school": "Carnegie Mellon University – Tepper School of Business",
+    "program": "Full-Time MBA",
+    "degree": "MBA",
+    "internship_rate": "See Tepper 2025 Internship Report (linked from careers pages); 72.5% of accepted summer internships school-facilitated (summary report).",
+    "full_time_placement": "Class of 2025: 139/169 seeking. Offers by graduation 67.6%; by 3 months cumulative 82.7% (67.6%+15.1%). Site headline: 83% offers by 3 months; 89% by 6 months. Accepts by graduation 63.3%; by 3 months ~80.6%. 73% of FT accepted offers school-facilitated.",
+    "notable_employers": "Consulting and technology dominant; specific multi-hire list in summary materials (McKinsey cited in alum quote). Detailed employer roster: see full PDF.",
+    "big_tech_or_top_firm_signal": "Consulting industry ~35.7% (median ~$184k); Technology ~25.0% (median $144k). Overall mean base $154,846; median $160,000; mean signing $38,610 (80.8% reporting). Average total compensation $186,043 (site).",
+    "sample_alumni_paths": [
+      "Management/strategy consulting (~34% function)",
+      "Finance (~20% function)",
+      "Tech/product/ops mix"
+    ],
+    "referral_network_notes": "Masters Career Center; 73% school-facilitated FT accepts.",
+    "difficulty_notes": "Analytics/tech brand MBA; consulting+tech ~60% of 2025 grads.",
+    "sources": [
+      {
+        "title": "Tepper 2025 Full-Time MBA Employment Data PDF",
+        "url": "https://www.cmu.edu/sites/default/files/cmu-tepper-site-files/documents/2025%20Full%20Time%20MBA%20Employment%20Data.pdf",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "Tepper Compensation Highlights",
+        "url": "https://www.cmu.edu/tepper/programs/mba/careers/compensation-highlights",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "Tepper 2025 MBA Employment Report Summary PDF",
+        "url": "https://www.cmu.edu/sites/default/files/cmu-tepper-site-files/documents/2025%20MCC%20MBA%20Employment%20Summary%20Report_Web.pdf",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Official Tepper CSEA employment data + compensation highlights.",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "tepper-mba",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "texas-mba": {
+    "school": "University of Texas at Austin – McCombs School of Business",
+    "program": "Full-Time MBA (Hildebrand)",
+    "degree": "MBA",
+    "internship_rate": "Class of 2026: 91% of internship-seeking students secured internships. 56% of Class of 2025 FT accepts via summer internship conversion.",
+    "full_time_placement": "Class of 2025: 201 seeking. Offers by graduation 63.2%; by 3 months 74.6%. Accepts by graduation 60.2%; by 3 months 72.1%. Within 6 months: 80.2% received offers / 78.2% accepted (report narrative).",
+    "notable_employers": [
+      "Amazon",
+      "Dell Technologies",
+      "McKinsey & Company",
+      "Capital One",
+      "Eli Lilly",
+      "PepsiCo",
+      "PricewaterhouseCoopers",
+      "Truist"
+    ],
+    "big_tech_or_top_firm_signal": "Consulting 28% (median $190k), Technology 22% (median $140k), Financial Services 19% (median $171k). Overall mean base $154,053; median $150,000. Strong Southwest/Texas concentration (71.6% in Texas; 56.4% Austin).",
+    "sample_alumni_paths": [
+      "Consulting",
+      "Tech",
+      "Financial services",
+      "Energy (6%)"
+    ],
+    "referral_network_notes": "Internship conversion pathway emphasized (56%); Austin employer network.",
+    "difficulty_notes": "Slower 3-month timing than M7; 6-month catch-up; strong Texas placement.",
+    "sources": [
+      {
+        "title": "McCombs FT MBA Employment Report 2025-26 PDF",
+        "url": "https://go.mccombs.utexas.edu/rs/503-KLY-263/images/FT%20MBA%20Employment%20Report%202025-26.pdf",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "McCombs Full-Time MBA Career Outcomes",
+        "url": "https://www.mccombs.utexas.edu/graduate/mba/full-time-mba/career/",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Official McCombs Class of 2025 employment PDF with CSEA timing/salary tables.",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "mccombs-mba",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "cornell-mba": {
+    "school": "Cornell University – SC Johnson / Johnson Graduate School of Management",
+    "program": "Two-Year Full-Time MBA",
+    "degree": "MBA",
+    "internship_rate": "unknown as single % this run (employment-data page focuses on FT Class of 2025)",
+    "full_time_placement": "Class of 2025: 239/285 seeking. 85% received offers / 83% accepted within 3 months. US work auth: 91% offers; non-US: 77% offers.",
+    "notable_employers": [
+      "Accenture",
+      "Amazon",
+      "Bain & Company",
+      "BCG",
+      "Citi",
+      "Deloitte Consulting",
+      "EY / EY-Parthenon",
+      "JPMorgan Chase",
+      "McKinsey & Company",
+      "Microsoft",
+      "Morgan Stanley",
+      "Wells Fargo",
+      "Jefferies",
+      "Moelis",
+      "RBC",
+      "Guggenheim"
+    ],
+    "big_tech_or_top_firm_signal": "Financial services 41% (median $175k); Consulting 28% (median $175k); Tech & Telecom 11% (median $133.7k). Overall average base $158,426; median $175,000; average signing $39,795. Finance & IB function 43%.",
+    "sample_alumni_paths": [
+      "Investment banking (69% of finance function)",
+      "Consulting (29% function)",
+      "Marketing (12%)",
+      "Northeast concentration 60%"
+    ],
+    "referral_network_notes": "Johnson career services + NYC finance pipeline. Facilitation % not extracted.",
+    "difficulty_notes": "Finance-heavy relative to tech; strong Northeast placement.",
+    "sources": [
+      {
+        "title": "Cornell Johnson – MBA Employment Data",
+        "url": "https://www.johnson.cornell.edu/programs/full-time-mba/two-year-mba/careers/employment-data/",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Official Johnson Class of 2025 employment-data page with industry/function/region tables.",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "johnson-mba",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "usc-mba": {
+    "school": "University of Southern California – Marshall School of Business",
+    "program": "Full-Time MBA",
+    "degree": "MBA",
+    "internship_rate": "unknown as Class of 2026 % on class-profile page this run",
+    "full_time_placement": "Graduating Class of 2025 (class profile): 71% employed within 90 days of graduation. (Clear Admit Class of 2024 was 80% within 3 months — prior year; prefer 2025 profile figure.)",
+    "notable_employers": [
+      "Amazon",
+      "Bain & Co.",
+      "McKinsey & Company",
+      "Microsoft",
+      "JPMorgan Chase",
+      "Adobe",
+      "BlackRock",
+      "Deloitte",
+      "EY / EY-Parthenon",
+      "Morgan Stanley",
+      "Nike",
+      "Visa",
+      "The Walt Disney Company",
+      "Capital One"
+    ],
+    "big_tech_or_top_firm_signal": "Class of 2025 profile: average salary $142,184; average signing bonus $35,896. Industry avg starting salaries listed: Consulting $167,211; Financial Services $148,744; Technology $136,056; Entertainment $117,667. Industry mix % for 2025 not fully tabulated on profile page.",
+    "sample_alumni_paths": [
+      "Consulting",
+      "Finance",
+      "Tech",
+      "Entertainment/media (Marshall SoCal specialty)"
+    ],
+    "referral_network_notes": "Trojan Network / Graduate Career Services; historical school-facilitated ~64–66% in prior reports.",
+    "difficulty_notes": "2025 90-day employment rate (71%) softer than Marshall’s own 2022–24 trend — soft market caveat.",
+    "sources": [
+      {
+        "title": "USC Marshall Full-Time MBA Class Profile (incl. Class of 2025 outcomes)",
+        "url": "https://www.marshall.usc.edu/programs/graduate-programs/mba-programs/full-time-mba/class-profile",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Official Marshall class profile publishes Class of 2025 employment % and compensation; employer list on same page.",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "marshall-mba",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "unc-mba": {
+    "school": "University of North Carolina – Kenan-Flagler Business School",
+    "program": "Full-Time MBA",
+    "degree": "MBA",
+    "internship_rate": "99.6% of Class of 2025 accepted an internship offer in 2024; 99.1% of Class of 2026 accepted an internship offer in 2025.",
+    "full_time_placement": "Class of 2025: 90% job accepts at 6 months; 88% job offers and accepts at 3 months (all students framing on one-pager). US work auth 91% / without 81% (3-month framing on sheet).",
+    "notable_employers": "Industry mix published; named multi-hire list not on one-pager extract — see school employment facts page for hiring partners.",
+    "big_tech_or_top_firm_signal": "Mean base $139,637; mean signing $32,558. Industries: Financial Services 25% (median $175k), Consulting 18% ($175k), Healthcare 14% ($132k), Technology 13% ($142k). Finance function 40%. South region 42% of accepts.",
+    "sample_alumni_paths": [
+      "Financial services / IB",
+      "Consulting",
+      "Healthcare",
+      "Technology",
+      "General management"
+    ],
+    "referral_network_notes": "Kenan-Flagler Career & Leadership; facilitation % not on one-pager.",
+    "difficulty_notes": "Mean base below many M7 peers; strong South/healthcare/finance mix.",
+    "sources": [
+      {
+        "title": "Kenan-Flagler FT MBA Employment Statistics One-Pager (Class of 2025) PDF",
+        "url": "https://www.kenan-flagler.unc.edu/wp-content/uploads/2025/12/FTMBA26-032-Employment-Statistics-One-Pager_FNL.pdf",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "Kenan-Flagler – Employment Facts & Figures",
+        "url": "https://www.kenan-flagler.unc.edu/programs/mba/full-time-mba/career-leadership/employment-facts-figures/",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Official Kenan-Flagler Class of 2025 employment one-pager (CSEA-compliant note).",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "kenan-mba",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "emory-mba": {
+    "school": "Emory University – Goizueta Business School",
+    "program": "Two-Year Full-Time MBA",
+    "degree": "MBA",
+    "internship_rate": "See Goizueta employment report materials for interns; FT stats primary this card.",
+    "full_time_placement": "Class of 2025 Two-Year: 93 seeking / 122 graduates. Offers by graduation 72.0%; by 3 months cumulative 84.9% (72.0%+12.9%). Accepts by graduation 67.7%; by 3 months ~81.7%. School narrative: 91% accepted offers within six months.",
+    "notable_employers": [
+      "Amazon",
+      "Bain & Company",
+      "McKinsey & Company",
+      "Barclays",
+      "EY Consulting",
+      "JPMorgan Chase",
+      "Google",
+      "Goldman Sachs",
+      "PwC",
+      "Deloitte Consulting",
+      "Analysis Group"
+    ],
+    "big_tech_or_top_firm_signal": "Consulting industry 40.8% (median $175k); Financial Services 21.1% (median $175k); Technology 9.2% (median ~$122k). Overall mean base $157,691; median $175,000; mean signing $29,005 (median $30k). Consulting function 52.6%.",
+    "sample_alumni_paths": [
+      "Consulting (dominant)",
+      "Financial services",
+      "Marketing/ops/general management"
+    ],
+    "referral_network_notes": "Graduate Career Management Center; school-structured recruiting noted in report.",
+    "difficulty_notes": "Consulting-heavy Atlanta MBA; tech share smaller than West Coast peers.",
+    "sources": [
+      {
+        "title": "Goizueta Two-Year MBA Employment Report PDF",
+        "url": "https://goizueta.emory.edu/documents/FTMBAEmploymentReport.pdf",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "Goizueta Two-Year MBA Employment Statistics PDF",
+        "url": "https://goizueta.emory.edu/documents/FTMBAEmploymentStatistics.pdf",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Official Goizueta Class of 2025 employment report + statistics PDFs.",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "goizueta-mba",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "rice-mba": {
+    "school": "Rice University – Jones Graduate School of Business",
+    "program": "Full-Time MBA",
+    "degree": "MBA",
+    "internship_rate": "unknown as single % this run",
+    "full_time_placement": "Class of 2025 (CSEA tables): 122 seeking / 152 graduates. Offers by graduation 55.7%; by 3 months cumulative 72.1% (55.7%+16.4%). Accepts by graduation 54.9%; by 3 months ~71.3%.",
+    "notable_employers": "Energy-heavy Houston network; detailed hiring list not fully extracted — industries include Consulting 24.1%, Energy 24.1%, Technology 16.1%, Financial Services 14.9%.",
+    "big_tech_or_top_firm_signal": "Overall mean base $146,381; median $141,500. Consulting median $190k; Energy mean ~$133.5k; Technology median $137.5k; Financial Services median $172.5k.",
+    "sample_alumni_paths": [
+      "Energy / consulting dual strength",
+      "Technology",
+      "Financial services"
+    ],
+    "referral_network_notes": "Rice Business career services; Houston energy alumni density.",
+    "difficulty_notes": "Lower 3-month offer rate than many peers; energy concentration distinctive.",
+    "sources": [
+      {
+        "title": "Rice Business / Jones FT MBA Employment Outcomes Data (CSEA tables) PDF",
+        "url": "https://cdn.uconnectlabs.com/wp-content/uploads/sites/99/2026/02/2025-FTMBA-Employment-Outcomes-Data.pdf",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Official CSEA employment outcomes tables for Rice Jones Class of 2025.",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "rice-mba",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "indiana-mba": {
+    "school": "Indiana University – Kelley School of Business",
+    "program": "Full-Time MBA",
+    "degree": "MBA",
+    "internship_rate": "unknown as single % in viewbook extract",
+    "full_time_placement": "Class of 2025: 92% 90-day job offer rate (official Kelley viewbook / employment statistics).",
+    "notable_employers": [
+      "Amazon",
+      "McKinsey & Company",
+      "Deloitte Consulting",
+      "Microsoft",
+      "JP Morgan Chase",
+      "EY",
+      "PwC",
+      "Eli Lilly",
+      "Johnson & Johnson",
+      "Procter & Gamble",
+      "Dell Technologies",
+      "Amgen",
+      "Barclays"
+    ],
+    "big_tech_or_top_firm_signal": "Technology industry 23% (median $134k); Consulting industry 16% (median $175k); Manufacturing 15%; Financial Services 14%. Function: Consulting 22% (median $175k). Mean starting compensation (salary + signing bonus) $163,279. Mean base salary alone: not separately printed in viewbook extract (unknown).",
+    "sample_alumni_paths": [
+      "Consulting",
+      "Tech",
+      "Marketing/sales",
+      "Finance/accounting",
+      "Midwest concentration ~50%"
+    ],
+    "referral_network_notes": "Large Kelley alumni network (viewbook cites 137,000+ Kelley alumni).",
+    "difficulty_notes": "Strong corporate/CPG/manufacturing Midwest MBA; tech median below coastal peers.",
+    "sources": [
+      {
+        "title": "Kelley Full-Time MBA Viewbook / Employment Statistics Class of 2025 PDF",
+        "url": "https://kelley.iu.edu/doc/bloomington/full-time-mba/mba-viewbook.pdf",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "Kelley – Statistics on MBA Graduates",
+        "url": "https://kelley.iu.edu/programs/full-time-mba/careers/statistics.html",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Official Kelley Class of 2025 viewbook employment statistics (92% 90-day offers, industry/function medians).",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "kelley-mba",
     "routeMismatch": false,
     "match": "same-route"
   }

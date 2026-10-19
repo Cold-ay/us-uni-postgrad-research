@@ -17,15 +17,18 @@ test('outcome card keys map only to known catalog program ids', () => {
   for (const id of Object.keys(outcomeCards)) {
     assert.ok(catalogIds.has(id), `unknown catalog id: ${id}`);
   }
-  assert.equal(Object.keys(outcomeCards).length, 36);
+  assert.equal(Object.keys(outcomeCards).length, 52);
 });
 
-test('batch meta includes batch-002 and batch-003 schema v2', () => {
-  assert.equal(outcomeBatchMeta.length, 3);
+test('batch meta includes batch-002 through batch-004 schema v2', () => {
+  assert.equal(outcomeBatchMeta.length, 4);
   assert.equal(outcomeBatchMeta[1].batch_id, 'batch-002');
   assert.equal(outcomeBatchMeta[1].schema_version, 'outcome-card-v2-catalog');
   assert.equal(outcomeBatchMeta[2].batch_id, 'batch-003');
   assert.equal(outcomeBatchMeta[2].card_count, 14);
+  assert.equal(outcomeBatchMeta[3].batch_id, 'batch-004');
+  assert.equal(outcomeBatchMeta[3].card_count, 17);
+  assert.deepEqual(outcomeBatchMeta[3].upgrade_of_batch_002, ['umich-cse-ms']);
 });
 
 test('null catalog_id cards stay unlinked and attach as CMU specialty only', () => {
@@ -100,9 +103,34 @@ test('each outcome card requires confidence and preserves unknown placement text
   }
 });
 
+test('batch-004 michigan upgrade, caltech route mismatch, and unknown CS gaps', () => {
+  const michigan = outcomeCards['michigan-cs'];
+  assert.equal(michigan.pathProgramId, 'umich-cse-ms');
+  assert.equal(michigan.confidence, 'high');
+  assert.match(michigan.big_tech_or_top_firm_signal, /\$141,846/);
+  assert.equal(michigan.meta?.upgrade_of, 'batch-002');
+
+  const caltech = outcomeCards['caltech-cs'];
+  assert.equal(caltech.pathProgramId, 'caltech-cs-grad');
+  assert.equal(caltech.routeMismatch, true);
+  assert.match(caltech.routeMismatchNotes, /does not offer a terminal/i);
+
+  for (const id of ['yale-cs', 'jhu-cs', 'wisconsin-cs']) {
+    assert.match(outcomeCards[id].full_time_placement, /^unknown/i, id);
+  }
+
+  const kelley = outcomeCards['indiana-mba'];
+  assert.equal(kelley.pathProgramId, 'kelley-mba');
+  assert.match(kelley.big_tech_or_top_firm_signal, /starting compensation.*signing/i);
+
+  const marshall = outcomeCards['usc-mba'];
+  assert.equal(marshall.pathProgramId, 'marshall-mba');
+  assert.match(marshall.full_time_placement, /71%/);
+});
+
 test('programs merge outcome by catalog id with route caveats where mapped', () => {
   const withOutcome = programs.filter(p => p.outcome);
-  assert.equal(withOutcome.length, 36);
+  assert.equal(withOutcome.length, 52);
   for (const p of withOutcome) assert.equal(p.outcome, outcomeCards[p.id]);
   assert.ok(programs.find(p => p.id === 'mit-cs').outcome.matchCaveat?.includes('MEng'));
   assert.ok(programs.find(p => p.id === 'cornell-cs').outcome.matchCaveat?.includes('Cornell Tech'));

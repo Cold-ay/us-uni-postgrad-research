@@ -24,6 +24,15 @@ function outcomeScopeBanner(o) {
  if (o.pathProgramId === 'upenn-mse-cis') {
   return '<div class="notice amber"><span class="notice-icon" aria-hidden="true">ⓘ</span><div><b>Penn CIS MSE.</b> SEAS-wide placement % is school-aggregate; keep MCIT separate.</div></div>';
  }
+ if (o.pathProgramId === 'marshall-mba') {
+  return '<div class="notice amber"><span class="notice-icon" aria-hidden="true">ⓘ</span><div><b>Class of 2025.</b> 71% employed within 90 days — softer than Marshall’s 2022–24 trend in a challenging market.</div></div>';
+ }
+ if (o.pathProgramId === 'kelley-mba') {
+  return '<div class="notice amber"><span class="notice-icon" aria-hidden="true">ⓘ</span><div><b>Compensation basis.</b> Mean starting compensation ($163,279) includes signing bonus; mean base salary alone is not printed in the viewbook extract.</div></div>';
+ }
+ if (o.pathProgramId === 'caltech-cs-grad') {
+  return '<div class="notice red"><span class="notice-icon" aria-hidden="true">ⓘ</span><div><b>No terminal MS.</b> Caltech does not offer a standard terminal CS master’s — not a Fall 2027 master’s application target.</div></div>';
+ }
  return '';
 }
 function outcomeRouteNotice(o) {
