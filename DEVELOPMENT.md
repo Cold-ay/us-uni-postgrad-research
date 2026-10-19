@@ -29,3 +29,14 @@ The `dist/` directory can be served by any static host, including a GitHub Pages
 ## Current coverage
 
 Two preliminary program profiles and three scholarship records, checked 16 October 2026. This is an interface for existing research, not a completed nationwide survey. No faculty profiles, exact ranking positions or internship success rates have been fabricated.
+
+## Ranked catalog update — 19 October 2026
+
+Current coverage supersedes the initial seed counts above: 63 ranked-school entries (30 MBA, 33 CS including ties), eight prior-year tuition references and four shared funding records.
+
+- `dist/catalog.js`: school, degree route, category, numeric rank and primary academic URL.
+- `dist/research-details.js`: sourced program findings and exceptions; absent fields use explicit unknown states.
+- `dist/rankings.js`: category-specific provenance, edition, format and pagination helpers.
+- `scripts/generate-research.mjs`: regenerates one Markdown dossier per entry, ranking record and CSV before the notebook build. Edit data files rather than generated dossiers.
+
+The ranking table shows all matches, grouped by category; cards paginate 12 at a time. Search covers school, degree and academic text. Comparisons are capped at four. Tuition filters exclude null values. Publish with the existing GitHub → Vercel integration after build and tests.

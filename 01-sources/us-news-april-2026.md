@@ -1,0 +1,100 @@
+# U.S. News — April 2026 ranking record
+
+Checked: 19 October 2026. Target intake: Fall 2027.
+
+U.S. News’s direct tables were inaccessible during research. Positions are transcribed from the linked reproductions, with selected university announcements used as cross-checks; not every position is independently verified. “April 2026 release” avoids inconsistent 2026/2027 edition labels across sources. Rankings are discovery aids, not admission or internship probabilities.
+
+The cutoff is numeric rank 30, preserving all ties. MBA has 30 schools at ranks 1–29; the next rank is 31. CS has 33 departments at ranks 1–27; all seven tied at 27 are retained, and the next rank is 34. No artificial ranks 28–30 are assigned.
+
+The CS list does not certify that every department offers an external standalone master’s. MIT and Caltech lack a standard external terminal route; Harvard’s CSE is a related alternative; Princeton has suspended Fall 2027 master’s intake. Washington PMP has visa restrictions. Maryland’s CSMS application must be distinguished from the CMSC PhD-en-route catalog entry.
+
+## Ranking sources
+
+- [U.S. News: Best Business Schools · full-time MBA](https://www.usnews.com/best-graduate-schools/top-business-schools/mba-rankings) — inaccessible directly
+- [Clear Admit reproduction](https://www.clearadmit.com/mba-rankings/usnews/)
+- [U.S. News: Best Computer Science Schools · graduate departments](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings) — inaccessible directly
+- [IvyPath Advisory reproduction](https://www.ivypath-advisory.com/ranking/major-cs-us/)
+- [U.S. News April 2026 release announcement](https://www.prnewswire.com/news-releases/us-news-unveils-2026-best-graduate-schools-302735056.html)
+
+## Selected university cross-checks
+
+- [Michigan Ross: MBA 13](https://michiganross.umich.edu/graduate/full-time-mba)
+- [USC Marshall: MBA 25](https://www.marshall.usc.edu/programs/graduate-programs/mba-programs/full-time-mba)
+- [Maryland May 2026 CS newsletter: CS 12](https://science.umd.edu/newsletters/cs/2026-05.html)
+- [UMass master’s page: CS 25](https://www.cics.umass.edu/academics/masters)
+- [Rice engineering facts: CS 27](https://engineering.rice.edu/about/facts-rankings)
+
+These checks corroborate selected rows, not the entire reproduced lists. Tuition figures in ranking reproductions are not used because degree, year and billing basis may not match.
+
+## Full-time MBA
+
+| Rank | School | Research |
+| --- | --- | --- |
+| #1 | Stanford GSB | [Dossier](../03-business/programs/stanford-mba.md) |
+| #2 | Wharton | [Dossier](../03-business/programs/penn-mba.md) |
+| #3 | Chicago Booth | [Dossier](../03-business/programs/chicago-mba.md) |
+| #4 (tie) | Harvard Business School | [Dossier](../03-business/programs/harvard-mba.md) |
+| #4 (tie) | Kellogg | [Dossier](../03-business/programs/northwestern-mba.md) |
+| #6 | MIT Sloan | [Dossier](../03-business/programs/mit-mba.md) |
+| #7 (tie) | Columbia Business School | [Dossier](../03-business/programs/columbia-mba.md) |
+| #7 (tie) | NYU Stern | [Dossier](../03-business/programs/nyu-mba.md) |
+| #9 | Dartmouth Tuck | [Dossier](../03-business/programs/dartmouth-mba.md) |
+| #10 | Berkeley Haas | [Dossier](../03-business/programs/berkeley-mba.md) |
+| #11 (tie) | Virginia Darden | [Dossier](../03-business/programs/virginia-mba.md) |
+| #11 (tie) | Yale SOM | [Dossier](../03-business/programs/yale-mba.md) |
+| #13 | Michigan Ross | [Dossier](../03-business/programs/michigan-mba.md) |
+| #14 | Duke Fuqua | [Dossier](../03-business/programs/duke-mba.md) |
+| #15 | Cornell Johnson | [Dossier](../03-business/programs/cornell-mba.md) |
+| #16 (tie) | CMU Tepper | [Dossier](../03-business/programs/cmu-mba.md) |
+| #16 (tie) | Vanderbilt Owen | [Dossier](../03-business/programs/vanderbilt-mba.md) |
+| #18 (tie) | Texas McCombs | [Dossier](../03-business/programs/texas-mba.md) |
+| #18 (tie) | UCLA Anderson | [Dossier](../03-business/programs/ucla-mba.md) |
+| #20 | Washington Foster | [Dossier](../03-business/programs/washington-mba.md) |
+| #21 (tie) | Indiana Kelley | [Dossier](../03-business/programs/indiana-mba.md) |
+| #21 (tie) | UNC Kenan-Flagler | [Dossier](../03-business/programs/unc-mba.md) |
+| #23 (tie) | Emory Goizueta | [Dossier](../03-business/programs/emory-mba.md) |
+| #23 (tie) | UT Dallas Jindal | [Dossier](../03-business/programs/utd-mba.md) |
+| #25 (tie) | Georgia Terry | [Dossier](../03-business/programs/georgia-mba.md) |
+| #25 (tie) | USC Marshall | [Dossier](../03-business/programs/usc-mba.md) |
+| #27 (tie) | Georgia Tech Scheller | [Dossier](../03-business/programs/gatech-mba.md) |
+| #27 (tie) | WashU Olin | [Dossier](../03-business/programs/washu-mba.md) |
+| #29 (tie) | ASU W. P. Carey | [Dossier](../03-business/programs/asu-mba.md) |
+| #29 (tie) | Rice Jones | [Dossier](../03-business/programs/rice-mba.md) |
+
+## Graduate computer science
+
+| Rank | Department | Master’s route |
+| --- | --- | --- |
+| #1 (tie) | Carnegie Mellon | [MS in Computer Science](../02-computer-science/programs/cmu-mscs.md) |
+| #1 (tie) | MIT | [EECS graduate department](../02-computer-science/programs/mit-cs.md) |
+| #1 (tie) | Stanford | [MS in Computer Science](../02-computer-science/programs/stanford-cs.md) |
+| #4 | UC Berkeley | [MEng in EECS](../02-computer-science/programs/berkeley-cs.md) |
+| #5 | Illinois Urbana-Champaign | [MS / Master of Computer Science](../02-computer-science/programs/illinois-cs.md) |
+| #6 | Princeton | [MSE / MEng in Computer Science](../02-computer-science/programs/princeton-cs.md) |
+| #7 (tie) | Cornell | [MS / MEng in Computer Science](../02-computer-science/programs/cornell-cs.md) |
+| #7 (tie) | Georgia Tech | [MS in Computer Science](../02-computer-science/programs/gatech-cs.md) |
+| #7 (tie) | Washington · Seattle | [Professional Master’s Program in CSE](../02-computer-science/programs/washington-cs.md) |
+| #10 | UT Austin | [MS in Computer Science](../02-computer-science/programs/texas-cs.md) |
+| #11 | Michigan | [MS / MSE in Computer Science and Engineering](../02-computer-science/programs/michigan-cs.md) |
+| #12 (tie) | Caltech | [Computer Science graduate department](../02-computer-science/programs/caltech-cs.md) |
+| #12 (tie) | Maryland | [MS in Computer Science](../02-computer-science/programs/maryland-cs.md) |
+| #12 (tie) | UC San Diego | [MS in Computer Science and Engineering](../02-computer-science/programs/ucsd-cs.md) |
+| #15 (tie) | Columbia | [MS in Computer Science](../02-computer-science/programs/columbia-cs.md) |
+| #15 (tie) | Purdue | [MS in Computer Science](../02-computer-science/programs/purdue-cs.md) |
+| #15 (tie) | UCLA | [MS in Computer Science](../02-computer-science/programs/ucla-cs.md) |
+| #15 (tie) | Wisconsin–Madison | [MS in Computer Sciences](../02-computer-science/programs/wisconsin-cs.md) |
+| #19 (tie) | Harvard | [Related master’s: Computational Science and Engineering](../02-computer-science/programs/harvard-cs.md) |
+| #19 (tie) | Penn | [MSE in Computer and Information Science](../02-computer-science/programs/penn-cs.md) |
+| #21 (tie) | Chicago | [MS in Computer Science · MPCS](../02-computer-science/programs/chicago-cs.md) |
+| #21 (tie) | Johns Hopkins | [MSE in Computer Science](../02-computer-science/programs/jhu-cs.md) |
+| #21 (tie) | USC | [MS in Computer Science](../02-computer-science/programs/usc-cs.md) |
+| #21 (tie) | Yale | [MS in Computer Science](../02-computer-science/programs/yale-cs.md) |
+| #25 (tie) | Duke | [MS in Computer Science](../02-computer-science/programs/duke-cs.md) |
+| #25 (tie) | UMass Amherst | [MS in Computer Science](../02-computer-science/programs/umass-cs.md) |
+| #27 (tie) | Brown | [ScM in Computer Science](../02-computer-science/programs/brown-cs.md) |
+| #27 (tie) | Northwestern | [MS in Computer Science](../02-computer-science/programs/northwestern-cs.md) |
+| #27 (tie) | NYU · Courant | [MS in Computer Science](../02-computer-science/programs/nyu-cs.md) |
+| #27 (tie) | Rice | [Master of Computer Science](../02-computer-science/programs/rice-cs.md) |
+| #27 (tie) | UC Irvine | [MS in CS / Master of Computer Science](../02-computer-science/programs/uci-cs.md) |
+| #27 (tie) | UC Santa Barbara | [MS in Computer Science](../02-computer-science/programs/ucsb-cs.md) |
+| #27 (tie) | UNC Chapel Hill | [MS in Computer Science](../02-computer-science/programs/unc-cs.md) |

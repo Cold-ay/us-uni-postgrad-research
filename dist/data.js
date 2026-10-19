@@ -1,5 +1,8 @@
-export const checked = '16 October 2026';
-export const programs = [
+import { rankedSchools } from './catalog.js';
+import { rankingSources, rankingEdition } from './rankings.js';
+import { researchDetails } from './research-details.js';
+export const checked = '19 October 2026';
+const seedPrograms = [
   {
     id: 'cmu-mscs', university: 'Carnegie Mellon University', short: 'Carnegie Mellon', monogram: 'CMU', area: 'Computer science', degree: 'MS in Computer Science', kind: 'MS', color: 'clay',
     summary: 'A coursework foundation, with room to explore research.',
@@ -35,7 +38,38 @@ export const programs = [
     ]
   }
 ];
+export const programs = rankedSchools.map(row => {
+  const seed = seedPrograms.find(p => p.id === row.id) || {};
+  const detail = researchDetails[row.id] || {};
+  const ranking = rankingSources[row.area];
+  return {
+    kind: row.area === 'Business' ? 'MBA' : 'MS',
+    monogram: row.short.split(/[ ·–]+/).map(s => s[0]).join('').slice(0,3),
+    color: row.area === 'Business' ? 'sage' : 'clay',
+    tuition: null, tuitionLabel: 'Tuition not yet verified', period: 'Year not verified',
+    costNote: 'No verified program-specific figure recorded. Fall 2027 tuition is not assumed.',
+    costDetail: 'Required fees, insurance, living expenses and full-degree total need verification for the selected route.',
+    deadline: 'Fall 2027 deadline not verified', deadlineDate: null,
+    orientation: row.area === 'Business' ? 'Full-time MBA · Management' : 'See degree route and academic overview',
+    internship: 'Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.',
+    funding: 'Master’s scholarship eligibility, award coverage and deadlines are not yet verified. Doctoral funding must not be assumed to cover this degree.',
+    faculty: 'Individual faculty specialties and master’s supervision access have not yet been verified.',
+    scholarships: [],
+    availability: 'Route identified · 2027 eligibility to verify', availabilityType: 'verify',
+    ...seed, ...row, ...detail,
+    summary: detail.academic || row.academic,
+    tied: rankedSchools.filter(p => p.area === row.area && p.rank === row.rank).length > 1,
+    ranking, rankingEdition,
+    note: `${row.area === 'Business' ? '03-business' : '02-computer-science'}/programs/${row.id}.md`,
+    sources: [...new Map([
+      ['Program / academic source', detail.programUrl || row.programUrl],
+      ...(seed.sources || []), ...(detail.sources || []),
+      [`U.S. News positions via ${ranking.reproductionName}`, ranking.reproduction]
+    ].map(s => [s[1],s])).values()]
+  };
+}).sort((a,b) => a.area.localeCompare(b.area) || a.rank - b.rank || a.short.localeCompare(b.short));
 export const scholarships = [
+  { id: 'SCH-004', name: 'Harvard MBA need-based scholarship', scope: 'Harvard MBA only', state: 'Assessed after admission', tone: 'green', type: 'Program-specific scholarship', description: 'Need-based support for admitted HBS MBA students, including international students.', eligibility: 'Apply for financial aid after admission. HBS assesses demonstrated need; personal eligibility and amount are not established here.', amount: 'Individual award; not estimated', deadline: 'Aid deadline to verify after admission', note: '04-scholarships/opportunities/harvard-mba-scholarship.md', url: 'https://www.hbs.edu/mba/financial-aid/tuition-assistance' },
   { id: 'SCH-001', name: 'Fulbright Foreign Student Program', scope: 'Multiple institutions', state: 'Eligibility unverified', tone: 'amber', type: 'External award', description: 'Graduate study and research support administered through country-specific commissions, foundations or US embassies.', eligibility: 'Country-dependent. Hong Kong and Taiwan eligibility have not been established. IIE placement and self-placement are distinct routes.', amount: 'Country / award dependent; not verified', deadline: 'Fall 2027 deadline not verified', note: '04-scholarships/opportunities/fulbright-foreign-student.md', url: 'https://foreign.fulbrightonline.org/about/foreign-student-program' },
   { id: 'SCH-002', name: 'Knight-Hennessy Scholars', scope: 'Stanford graduate programs', state: '2027 application closed', tone: 'red', type: 'University-wide award', description: 'A shared funding record for relevant Stanford graduate degrees. Retained for reference; not an open Fall 2027 opportunity.', eligibility: 'Exact eligible degree and personal eligibility remain unverified. A separate Stanford degree application is required.', amount: 'Coverage not evaluated in this research pass', deadline: 'Closed · 6 Oct 2026, 1 p.m. Pacific', note: '04-scholarships/opportunities/knight-hennessy.md', url: 'https://knight-hennessy.stanford.edu/admission/preparing-your-applications/application-deadlines' },
   { id: 'SCH-003', name: 'Stanford MBA need-based fellowship', scope: 'Stanford MBA only', state: 'Assessed after admission', tone: 'green', type: 'Program-specific fellowship', description: 'Need-based fellowship support for admitted MBA students. Awards do not require repayment.', eligibility: 'Demonstrated financial need, regardless of citizenship. Students are expected to contribute income and assets. Does not extend to Stanford CS.', amount: 'Individual amount not assessed', deadline: 'Aid deadline to verify', note: '04-scholarships/opportunities/stanford-mba-fellowship.md', url: 'https://www.gsb.stanford.edu/programs/mba/tuition-financial-aid' }
@@ -43,12 +77,14 @@ export const scholarships = [
 export const sources = [
   { name: 'Times Higher Education', tag: 'RANKINGS', initials: 'THE', text: 'Subject-level research and institutional context for computer science and business & economics.', limit: 'Record the edition and subject. Rankings do not establish individual master’s outcomes.', url: 'https://www.timeshighereducation.com/world-university-rankings/world-university-rankings-subject-2026-methodology' },
   { name: 'QS World University Rankings', tag: 'RANKINGS', initials: 'QS', text: 'Discover institutions across computer science & information systems and business & management.', limit: 'Subject rankings span degree levels. Keep MBA rankings separate; exact positions are not recorded yet.', url: 'https://www.qs.com/insights/which-us-colleges-are-best-for-engineering-business-or-computer-science' },
-  { name: 'U.S. News & World Report', tag: 'RANKINGS', initials: 'USN', text: 'A reference for US graduate computer science and business rankings.', limit: 'Direct tables and methodology remain unverified in this pass. No ranks are inferred.', url: 'https://www.usnews.com/best-graduate-schools' },
+  { name: 'U.S. News & World Report', tag: 'RANKINGS', initials: 'USN', text: 'April 2026 graduate release: 30 full-time MBA schools and 33 CS departments through rank 30, including ties.', limit: 'Direct tables were inaccessible. Positions use Clear Admit and IvyPath reproductions, with selected university cross-checks; see the ranking source note.', url: 'https://www.usnews.com/best-graduate-schools' },
   { name: 'CSRankings', tag: 'RESEARCH FIT', initials: 'CS', text: 'Explore publication activity by research area and identify faculty and labs.', limit: 'A research signal, not a measure of teaching, admission chances or internship access.', url: 'https://csrankings.org/' },
   { name: 'AACSB', tag: 'ACCREDITATION', initials: 'Aa', text: 'Check business-school accreditation and discover programs in the official directory.', limit: 'Accreditation does not establish personal fit or career outcomes.', url: 'https://www.aacsb.edu/accredited' },
   { name: 'EducationUSA', tag: 'FUNDING GUIDANCE', initials: 'Ed', text: 'Graduate financing guidance and assistantship leads for international applicants.', limit: 'Award providers determine actual eligibility, coverage and current deadlines.', url: 'https://educationusa.state.gov/your-5-steps-us-study/finance-your-studies/graduate' }
 ];
-export function filterPrograms(query = '', area = 'All programs') {
+export function filterPrograms(query = '', area = 'All programs', status = 'All routes') {
   const q = query.trim().toLowerCase();
-  return programs.filter(p => (area === 'All programs' || p.area === area) && `${p.university} ${p.degree} ${p.area} ${p.kind} ${p.orientation}`.toLowerCase().includes(q));
+  return programs.filter(p => (area === 'All programs' || p.area === area)
+    && (status === 'All routes' || (status === 'Restrictions & exceptions' ? p.availabilityType !== 'verify' : Number.isFinite(p.tuition)))
+    && `${p.university} ${p.short} ${p.degree} ${p.area} ${p.kind} ${p.orientation} ${p.academic}`.toLowerCase().includes(q));
 }
