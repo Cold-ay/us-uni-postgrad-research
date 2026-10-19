@@ -410,7 +410,7 @@ export const dictionaries = {
     "Ranking and degree route": "排名與學位途徑",
     "Academic direction": "學術方向",
     "Tuition and application timing": "學費與申請時間",
-    "Sources": "來源",
+    "Sources": "資料來源",
     "Outstanding evidence": "待核實資料",
     "University:": "大學：",
     "Degree route:": "學位途徑：",
@@ -544,7 +544,17 @@ export const dictionaries = {
     "UC Santa Barbara": "加州大學聖塔芭芭拉分校 · UC Santa Barbara",
     "UNC Chapel Hill": "北卡羅來納大學教堂山分校 · UNC Chapel Hill",
     "ranked schools and degree routes": "上榜學校與學位途徑",
-    "Download CSV ↓": "下載英文 CSV ↓"
+    "Download CSV ↓": "下載英文 CSV ↓",
+    "Career outcomes": "職涯成果",
+    "No outcome card yet": "尚無職涯成果卡",
+    "high confidence": "高可信度",
+    "medium confidence": "中可信度",
+    "low confidence": "低可信度",
+    "Original English evidence": "英文原文證據",
+    "Route match caveat.": "學位途徑對照提示。",
+    "Full-time placement:": "全職就業：",
+    "Internship rate:": "實習比例：",
+    "Notable employers": "代表性雇主"
   },
   "zh-Hans": {
     "Full-Time MBA": "全日制工商管理硕士（MBA）",
@@ -956,7 +966,7 @@ export const dictionaries = {
     "Ranking and degree route": "排名与学位途径",
     "Academic direction": "学术方向",
     "Tuition and application timing": "学费与申请时间",
-    "Sources": "来源",
+    "Sources": "资料来源",
     "Outstanding evidence": "待核实资料",
     "University:": "大学：",
     "Degree route:": "学位途径：",
@@ -1090,6 +1100,16 @@ export const dictionaries = {
     "UC Santa Barbara": "加州大学圣塔芭芭拉分校 · UC Santa Barbara",
     "UNC Chapel Hill": "北卡罗来纳大学教堂山分校 · UNC Chapel Hill",
     "ranked schools and degree routes": "上榜学校与学位途径",
-    "Download CSV ↓": "下载英文 CSV ↓"
+    "Download CSV ↓": "下载英文 CSV ↓",
+    "Career outcomes": "职业成果",
+    "No outcome card yet": "尚无职业成果卡",
+    "high confidence": "高可信度",
+    "medium confidence": "中可信度",
+    "low confidence": "低可信度",
+    "Original English evidence": "英文原文证据",
+    "Route match caveat.": "学位途径对照提示。",
+    "Full-time placement:": "全职就业：",
+    "Internship rate:": "实习比例：",
+    "Notable employers": "代表性雇主"
   }
 };
