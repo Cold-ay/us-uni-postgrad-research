@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$90,900 — Academic-year tuition; 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 official SOM cost page; not Fall 2027 quote or two-year total.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+Yale SOM Cost Information: Tuition $90,900; Program Fee $500; Total Tuition and Fees $91,400; Living (Housing/Food/Utilities) $22,991; Misc personal $5,525; Transportation $3,856; Books $1,440; Health Insurance $3,764; Total estimated living $37,576; Total single-student budget $128,976. Page notes 66% of MBA students receive scholarships; median scholarship Class of 2027 $65K. Separate scholarship application after admission. Living/housing band from official COA: $22991–$37576 (SOM 2026–27 Living Expenses $22,991; Total Estimated Living Expenses $37,576 including insurance/books/personal/transport.).
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -40,13 +40,15 @@ Program-specific internship structure, placement rates and international-student
 
 ## Funding
 
-Master’s scholarship eligibility, award coverage and deadlines are not yet verified. Doctoral funding must not be assumed to cover this degree.
+All full-time MBA students complete Scholarship Application after admission for Yale SOM scholarships; international students eligible for school scholarships (country-specific awards also exist). Median award figure is Class of 2027 statistic, not a guarantee.
 
-Shared scholarship IDs: No verified award links yet. See the [scholarship library](../../04-scholarships/README.md).
+Shared scholarship IDs: SCH-005. See the [scholarship library](../../04-scholarships/README.md).
 
 ## Sources
 
 - [Program / academic source](https://som.yale.edu/programs/mba/curriculum)
+- [Official tuition / budget](https://som.yale.edu/programs/mba/affording-your-mba/cost-information)
+- [Affording Your MBA](https://som.yale.edu/programs/mba/affording-your-mba)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

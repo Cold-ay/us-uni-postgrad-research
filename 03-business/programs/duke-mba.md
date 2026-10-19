@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$83,700 — Daytime MBA tuition (Class of 2028 / entering August 2026); 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+Official Fuqua page for students beginning August 2026 (Class of 2028). Fall 2027 entrants (Class of 2029) rates not yet this figure — treat as prior-year reference for Fall 2027 planning until updated.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+Fuqua Daytime MBA COA 2026–27 (9 months): Tuition $83,700 (includes $4,000 non-refundable deposit credited to Fall); total direct educational expenses $92,834; books $850; living $25,290; Total COA $118,974. Merit scholarships: all applicants considered, no separate application. International Student Loan Program listed (no cosigner). Living/housing band from official COA: $14220–$25290 (Fuqua housing $14,220; total student living expenses $25,290 in 2026–27 Daytime MBA COA.).
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -40,13 +40,14 @@ Program-specific internship structure, placement rates and international-student
 
 ## Funding
 
-Master’s scholarship eligibility, award coverage and deadlines are not yet verified. Doctoral funding must not be assumed to cover this degree.
+Merit-based scholarships: all applicants considered. International Student Loan Program available. Yellow Ribbon / CASE / Adams LRAP have separate criteria.
 
-Shared scholarship IDs: No verified award links yet. See the [scholarship library](../../04-scholarships/README.md).
+Shared scholarship IDs: SCH-008. See the [scholarship library](../../04-scholarships/README.md).
 
 ## Sources
 
 - [Program / academic source](https://www.fuqua.duke.edu/programs/daytime-mba/curriculum)
+- [Fuqua Daytime MBA Tuition + Costs](https://www.fuqua.duke.edu/programs/daytime-mba/tuition-costs)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

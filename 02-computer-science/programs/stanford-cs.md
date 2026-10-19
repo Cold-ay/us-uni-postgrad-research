@@ -40,7 +40,7 @@ Program-specific internship structure, placement rates and international-student
 
 ## Funding
 
-Master’s scholarship eligibility, award coverage and deadlines are not yet verified. Doctoral funding must not be assumed to cover this degree.
+CS MS pages and Stanford Grad Aid: no guaranteed department funding for MS; international students generally ineligible for Stanford/federal loans. Course/Research Assistant roles exist but are limited; PhD priority. Knight-Hennessy (SCH-002) listed in catalog but 2027 application closed.
 
 Shared scholarship IDs: SCH-002. See the [scholarship library](../../04-scholarships/README.md).
 
@@ -50,6 +50,9 @@ Shared scholarship IDs: SCH-002. See the [scholarship library](../../04-scholars
 - [Official tuition / budget](https://studentservices.stanford.edu/tuition-rates/2026-2027-graduate-and-professional-tuition-rates)
 - [MS requirements](https://www.cs.stanford.edu/masters-degree-requirements)
 - [Specializations](https://www.cs.stanford.edu/masters-specializations)
+- [The Student Budget (graduate)](https://financialaid.stanford.edu/grad/budget/)
+- [Estimate Your Graduate Charges](https://studentservices.stanford.edu/my-finances/tuition-fees/estimate-your-graduate-charges-0)
+- [CS MS CA/RA overview](https://www.cs.stanford.edu/masters-course-assistant-and-research-assistant)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

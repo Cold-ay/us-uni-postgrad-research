@@ -47,7 +47,7 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 ## Sources
 
 - [Program / academic source](https://olin.washu.edu/programs/mbas/full-time-mba/curriculum.php)
-- [Specializations and faculty advisor](https://olin.washu.edu/programs/mbas/full-time-mba/specializations.php)
+- [Official tuition / budget](https://olin.washu.edu/programs/mbas/full-time-mba/specializations.php)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

@@ -40,7 +40,7 @@ Program-specific internship structure, placement rates and international-student
 
 ## Funding
 
-Master’s scholarship eligibility, award coverage and deadlines are not yet verified. Doctoral funding must not be assumed to cover this degree.
+Program pages emphasize distinct MS vs M.Eng routes; funding policies differ — do not assume PhD funding for either. Specific M.Eng/MS CS assistantship guarantees not verified on bursar page.
 
 Shared scholarship IDs: No verified award links yet. See the [scholarship library](../../04-scholarships/README.md).
 

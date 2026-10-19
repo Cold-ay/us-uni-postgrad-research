@@ -40,7 +40,7 @@ Program-specific internship structure, placement rates and international-student
 
 ## Funding
 
-Master’s scholarship eligibility, award coverage and deadlines are not yet verified. Doctoral funding must not be assumed to cover this degree.
+Campus MS funding not automatic; GRA/GTA pay reduced tuition per BOR policy when appointed. Do not apply PhD funding assumptions to MS.
 
 Shared scholarship IDs: No verified award links yet. See the [scholarship library](../../04-scholarships/README.md).
 
@@ -48,6 +48,9 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 - [MSCS specializations](https://www.cc.gatech.edu/ms-computer-science-specializations)
 - [Official tuition / budget](https://bursar.gatech.edu/student/tuition/su27/su27_totals.pdf)
+- [Gatech Bursar Tuition & Fees](https://bursar.gatech.edu/tuition-fees)
+- [Fall 2026 Tuition and Fee Rates PDF](https://bursar.gatech.edu/sites/default/files/2026-07/fa26_totals_page_0.pdf)
+- [Graduate Costs (OSFA)](https://finaid.gatech.edu/costs/graduate-costs)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

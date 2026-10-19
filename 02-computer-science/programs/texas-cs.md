@@ -40,7 +40,7 @@ Program-specific internship structure, placement rates and international-student
 
 ## Funding
 
-Master’s scholarship eligibility, award coverage and deadlines are not yet verified. Doctoral funding must not be assumed to cover this degree.
+Master’s: no automatic funding. Teaching/research positions may be available; summer FoCS internships mentioned. PhD funding must not be applied to MS.
 
 Shared scholarship IDs: No verified award links yet. See the [scholarship library](../../04-scholarships/README.md).
 
@@ -50,6 +50,7 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 - [Official tuition / budget](https://catalog.utexas.edu/general-information/registration-tuition-and-fees/tuition-and-fees/tables-tuition-for-fall-and-spring/)
 - [Tuition rates hub](https://onestop.utexas.edu/managing-costs/cost-tuition-rates/tuition-rates/)
 - [Cost & aid](https://www.cs.utexas.edu/graduate/cost-and-aid)
+- [UT tuition tables PDF (catalog)](https://catalog.utexas.edu/general-information/registration-tuition-and-fees/tuition-and-fees/tables-tuition-for-fall-and-spring/tables-tuition-for-fall-and-spring.pdf)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence
