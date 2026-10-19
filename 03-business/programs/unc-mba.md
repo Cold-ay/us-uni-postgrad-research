@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$74,192 — Academic-year tuition and mandatory fees (Full-Time MBA, Non-North Carolina resident); 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 reference, not a Fall 2027 quote or full-degree total.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+UNC Kenan-Flagler Full-Time MBA Tuition & Financial Aid 2026–2027: Non-North Carolina residents Tuition and mandatory fees $74,192; North Carolina residents $55,470. Living-expenses allowance $29,420 AY; nonresident total with living $103,612 / resident $84,890. School notes tuition and fees are an estimate pending state budget approval and are finalized the summer before each fall; expect 3–10% annual increases. Mandatory fees include $345 orientation fee and $1,030 MBASA dues (latter paid to association). Full-time MBA only.
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -46,7 +46,8 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program / academic source](https://www.kenan-flagler.unc.edu/programs/mba/full-time-mba/academics/)
+- [Full-Time MBA academics](https://www.kenan-flagler.unc.edu/programs/mba/full-time-mba/academics/)
+- [Official tuition / budget](https://www.kenan-flagler.unc.edu/programs/mba/full-time-mba/admissions/tuition-financial-aid/)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

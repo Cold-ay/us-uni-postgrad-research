@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-$61,214 — Year-1 program tuition & fees estimate (Non-Texas Residents / International); 2026–27 (Class of 2027 published schedule; verify Class of 2029 for Fall 2027 entry).
+$61,214 — Academic-year tuition and fees (Full-Time MBA, Non-Texas resident); 2026–27.
 
-Official McCombs page labeled Full-Time MBA Class of 2027. For Fall 2027 intake (likely Class of 2029), treat as prior cohort reference until McCombs publishes the matching class table.
+2026–27 reference, not a Fall 2027 quote or full-degree total.
 
-McCombs Full-Time MBA Class of 2027 table: Non-Texas Residents Year 1 $61,214; Year 2 $61,214; TOTAL $122,428. Texas Residents $55,196/year. Based on expected 15/14/15/15 hour enrollment; actual varies by hours. Non-refundable $2,000 deposit credited to first semester; required $1,500 student fee summer before enrollment. First-year COA Non-Texas Resident $85,889 (tuition/fees $61,214; housing & food $17,355; transport $1,785; books $775; personal $4,760). International students charged non-resident rates + additional ISS/insurance fees not fully in estimate. Living/housing band from official COA: $17355–$17355 (McCombs first-year COA Housing & Food $17,355 (Fall 2026/Spring 2027 packaging on page).).
+Texas McCombs Full-Time MBA Tuition & Financial Aid: Non-Texas Residents Year 1 (and Year 2) program installment $61,214; Texas Residents $55,196. First-year Fall 2026 / Spring 2027 estimated COA lists Tuition & Fees $61,214 nonresident / $55,196 resident (based on expected 15/14 credit hours first year; actual billed by enrolled hours). Separate nonrefundable $1,500 MBA student fee due the summer before enrollment is not in the $61,214. Two-year program totals published as $122,428 nonresident / $110,392 resident — not used as the annual figure. Full-time MBA only.
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -46,8 +46,8 @@ Shared scholarship IDs: SCH-009. See the [scholarship library](../../04-scholars
 
 ## Sources
 
-- [Program / academic source](https://www.mccombs.utexas.edu/graduate/mba/full-time-mba/academics/curriculum/)
-- [McCombs Full-Time MBA Tuition & Financial Aid](https://www.mccombs.utexas.edu/graduate/mba/full-time-mba/tuition-financial-aid/)
+- [Full-Time MBA curriculum](https://www.mccombs.utexas.edu/graduate/mba/full-time-mba/academics/curriculum/)
+- [Official tuition / budget](https://www.mccombs.utexas.edu/graduate/mba/full-time-mba/tuition-financial-aid/)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence
