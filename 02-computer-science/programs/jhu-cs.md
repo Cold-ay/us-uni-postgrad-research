@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$68,670 — Academic-year tuition (WSE residential master’s / PhD full-time); 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 reference, not a Fall 2027 quote or full-degree total.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+Johns Hopkins Whiting School of Engineering Cost of Attendance: WSE Residential Master’s and PhD Full-time Tuition $68,670 annually / $34,335 per semester (2026–27). The separately listed “Non-resident Fee” $6,868 annually is a part-time/non-resident enrollment status charge, not an out-of-state surcharge for on-campus full-time students—do not add it to the residential full-time figure. Matriculation fee $500 and living/insurance costs are separate. MSE CS is the full-time residential route.
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -46,7 +46,9 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program / academic source](https://www.cs.jhu.edu/mse-programs-original/)
+- [MSE programs (catalog target)](https://www.cs.jhu.edu/mse-programs-original/)
+- [Official tuition / budget](https://engineering.jhu.edu/education/graduate-studies/graduate-financial-aid/affording-your-education/)
+- [MSE CS program](https://www.cs.jhu.edu/academic-programs/graduate-studies/masters-computer-science/)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

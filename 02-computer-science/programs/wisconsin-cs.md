@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$24,054 — Academic-year tuition (graduate nonresident full-time × 2 terms); 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 reference, not a Fall 2027 quote or full-degree total.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+UW System Tuition Schedule 2026–27 UW–Madison Graduate full-time Nonresident tuition $12,027.20/term → $24,054.40 AY Fall+Spring. Resident $5,363.76/term ($10,727.52 AY). Segregated fees $849.74/term ($1,699.48 AY) not included in the tuition figure. This is the standard graduate schedule used by the traditional CS MS/PhD track. Separately, the Professional Program MS (PMP) lists nonresident $1,503.40/credit (matches the graduate part-time nonresident rate); PMP is self-funded and not used as the primary figure here. Traditional-track funding/tuition remission is common but out of scope for this tuition reference.
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -46,7 +46,10 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program / academic source](https://www.cs.wisc.edu/grad/programs/)
+- [CS degree programs](https://www.cs.wisc.edu/grad/programs/)
+- [Official tuition / budget](https://www.wisconsin.edu/budget-planning/download/tuition/2026-27-Tuition-Schedule-FINAL.pdf)
+- [Bursar Fall 2026 announcement](https://bursar.wisc.edu/tuition-and-fees/fall-2026-increase)
+- [Funding & COA](https://www.cs.wisc.edu/grad/programs/funding/)
 - [Professional MS](https://www.cs.wisc.edu/grad/programs/pmp/)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 

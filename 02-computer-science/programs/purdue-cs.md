@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$29,918 — Academic-year tuition and mandatory fees (CS & Engineering graduate, nonresident, 8+ hours × 2 semesters); 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 reference, not a Fall 2027 quote or full-degree total.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+Purdue Bursar Graduate Tuition and Fees 2026–27: Computer Science & Engineering flat rate (8+ credit hours) Non-Resident sub-total tuition $14,959/semester → $29,918 AY (includes General Service, Fitness/Wellness, Student Activity, Nonresident Tuition, and Differential General Service $562/semester). Indiana Resident CS&E sub-total $5,558/semester ($11,116 AY). International students add International Fee $200/semester ($400 AY) on top of the nonresident CS&E total ($15,159/semester; $30,318 AY). Separately, Professional Master’s “MA in Computer Science” is billed per credit ($1,413.25 nonresident/international; 30-credit estimate $42,397.50)—not used here; the catalog master’s curriculum page is the standard on-campus MS. Living costs extra.
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -46,7 +46,9 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program / academic source](https://www.cs.purdue.edu/graduate/curriculum/masters.html)
+- [MS curriculum](https://www.cs.purdue.edu/graduate/curriculum/masters.html)
+- [Official tuition / budget](https://www.purdue.edu/treasurer/finance/bursar-office/tuition/fee-rates-2026-2027/graduate-tuition-and-fees-2026-2027/)
+- [Professional master’s fees (alternate schedule)](https://www.purdue.edu/treasurer/finance/bursar-office/tuition/fee-rates-2026-2027/professional-masters-program-fees-2026-2027/)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence
