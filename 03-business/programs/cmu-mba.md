@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$84,186 — Academic-year Full-Time MBA tuition; 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 official SFS Tepper budget; not Fall 2027 quote. Not full four-semester total unless multiplied.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+CMU SFS Tepper Full-Time/Accelerated MBA budget: Tuition $42,093/semester → $84,186 AY. Single graduate student academic-year total $120,798 including housing $10,350; food $5,176; books $1,450; travel $3,220; misc $10,524; activity/transport/tech fees; health insurance $3,352; estimated loan fees $1,500. Full-Time MBA = four semesters; Accelerated = three. Laptop ~$1,500 separate. Living/housing band from official COA: $15526–$26020 (SFS single-student Housing+Food $15,526; Housing+Food+Misc+Travel $26,270 approx within published non-tuition lines.).
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -40,13 +40,15 @@ Program-specific internship structure, placement rates and international-student
 
 ## Funding
 
-Master’s scholarship eligibility, award coverage and deadlines are not yet verified. Doctoral funding must not be assumed to cover this degree.
+Tepper MBA scholarships not detailed on SFS tuition page; check Tepper admissions financial aid. Do not invent amounts.
 
 Shared scholarship IDs: No verified award links yet. See the [scholarship library](../../04-scholarships/README.md).
 
 ## Sources
 
 - [Program / academic source](https://www.cmu.edu/tepper/programs/mba/curriculum)
+- [Tepper Full-Time MBA and Accelerated MBA — SFS](https://www.cmu.edu/sfs/tuition/graduate/tepper/full-accel-mba.html)
+- [2026–2027 Graduate Tuition index](https://www.cmu.edu/sfs/tuition/graduate/index.html)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

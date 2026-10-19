@@ -40,7 +40,7 @@ Program-specific internship structure, placement rates and international-student
 
 ## Funding
 
-Master’s scholarship eligibility, award coverage and deadlines are not yet verified. Doctoral funding must not be assumed to cover this degree.
+CS apply page; financial aid specifics for MS not fully verified. Do not assume PhD funding.
 
 Shared scholarship IDs: No verified award links yet. See the [scholarship library](../../04-scholarships/README.md).
 

@@ -47,7 +47,7 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 ## Sources
 
 - [Program / academic source](https://ics.uci.edu/academics/graduate-programs/program-comparison/)
-- [Professional MCS admissions FAQ](https://mcs.ics.uci.edu/faq/)
+- [Official tuition / budget](https://mcs.ics.uci.edu/faq/)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

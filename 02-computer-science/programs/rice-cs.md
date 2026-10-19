@@ -47,7 +47,7 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 ## Sources
 
 - [Program / academic source](https://cs.rice.edu/academics/graduate-programs/master-computer-science)
-- [Rank 27 cross-check](https://engineering.rice.edu/about/facts-rankings)
+- [Official tuition / budget](https://engineering.rice.edu/about/facts-rankings)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

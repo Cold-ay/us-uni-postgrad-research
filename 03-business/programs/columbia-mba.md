@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$93,908 — First-year / academic-year tuition (August entry full-time MBA); 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 official CBS cost page for new August entry; not Fall 2027 quote or two-year total.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+CBS Financial Aid Full-Time MBA/MBAxMS costs: Tuition $93,908; Mandatory Fees $6,783; Health Insurance $5,823; Books & Supplies $1,290; Food & Housing $30,231; Personal $3,636; Transportation $1,359; Total COA $143,030 (9-month August-entry budget). Note tuition/fees generally increase 2–7% in year 2. January-entry and continuing-student budgets differ on same page. Living/housing band from official COA: $30231–$30231 (CBS published Food & Housing $30,231 in 9-month August-entry 2026–27 budget (personal/transport separate).).
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -40,13 +40,14 @@ Program-specific internship structure, placement rates and international-student
 
 ## Funding
 
-Master’s scholarship eligibility, award coverage and deadlines are not yet verified. Doctoral funding must not be assumed to cover this degree.
+Merit/need aid via CBS Financial Aid; international eligibility for scholarships typically yes for school awards but verify per award. Federal loans restricted.
 
 Shared scholarship IDs: No verified award links yet. See the [scholarship library](../../04-scholarships/README.md).
 
 ## Sources
 
-- [Program / academic source](https://academics.business.columbia.edu/mba)
+- [MBA program](https://academics.business.columbia.edu/mba)
+- [Official tuition / budget](https://business.columbia.edu/financial-aid/costs/full-time)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

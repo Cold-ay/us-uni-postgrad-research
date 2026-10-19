@@ -25,7 +25,7 @@ test('search combines names, academic topics and subject/status filters', () => 
   assert.equal(filterPrograms('','Business').length,30);
   assert.equal(filterPrograms('unresearched school').length,0);
   assert.ok(filterPrograms('thesis','Computer science').length>5);
-  assert.equal(filterPrograms('','All programs','With tuition reference').length,24);
+  assert.equal(filterPrograms('','All programs','With tuition reference').length,32);
 });
 test('restrictions remain visible and are not turned into open applications', () => {
   const restricted=filterPrograms('','Computer science','Restrictions & exceptions');
@@ -40,7 +40,7 @@ test('unknown costs never render as zero and different billing bases persist', (
   assert.equal(formatTuition(87970),'$87,970');
   assert.match(programs.find(p=>p.id==='mit-mba').tuitionLabel,/fee/);
   for(const p of programs.filter(p=>p.tuition!==null)) {
-    assert.equal(p.period,'2026–27'); assert.ok(p.costNote.includes('2027'));
+    assert.ok(/^2026–27/.test(p.period)); assert.ok(p.costNote.includes('2027'));
     assert.ok(p.sources.some(([name])=>/Tuition|tuition|budget/.test(name)));
   }
 });

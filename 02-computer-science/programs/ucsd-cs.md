@@ -40,7 +40,7 @@ Program-specific internship structure, placement rates and international-student
 
 ## Funding
 
-Master’s scholarship eligibility, award coverage and deadlines are not yet verified. Doctoral funding must not be assumed to cover this degree.
+CSE: financial opportunities page lists TA info; MS funding not guaranteed. Do not apply PhD funding policies.
 
 Shared scholarship IDs: No verified award links yet. See the [scholarship library](../../04-scholarships/README.md).
 
@@ -48,6 +48,7 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 - [MS program](https://cse.ucsd.edu/graduate/degree-programs/ms-program)
 - [Official tuition / budget](https://students.ucsd.edu/finances/fees/registration/2026-27/graduate.html)
+- [CSE Financial Opportunities](https://cse.ucsd.edu/graduate/financial-opportunities)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

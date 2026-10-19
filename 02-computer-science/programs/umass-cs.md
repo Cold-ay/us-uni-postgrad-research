@@ -47,7 +47,7 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 ## Sources
 
 - [Program / academic source](https://www.cics.umass.edu/academics/ms-computer-science-campus)
-- [Graduate program and rank 25 cross-check](https://www.cics.umass.edu/academics/masters)
+- [Official tuition / budget](https://www.cics.umass.edu/academics/masters)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

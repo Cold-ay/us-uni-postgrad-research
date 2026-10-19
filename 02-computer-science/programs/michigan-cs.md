@@ -40,7 +40,7 @@ Program-specific internship structure, placement rates and international-student
 
 ## Funding
 
-Master’s scholarship eligibility, award coverage and deadlines are not yet verified. Doctoral funding must not be assumed to cover this degree.
+CSE master’s pages historically note limited funding; do not assume PhD support. Specific 2026–27 MS funding guarantees not verified on tuition page.
 
 Shared scholarship IDs: No verified award links yet. See the [scholarship library](../../04-scholarships/README.md).
 

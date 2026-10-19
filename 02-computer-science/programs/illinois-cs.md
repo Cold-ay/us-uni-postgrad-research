@@ -40,13 +40,13 @@ Program-specific internship structure, placement rates and international-student
 
 ## Funding
 
-Master’s scholarship eligibility, award coverage and deadlines are not yet verified. Doctoral funding must not be assumed to cover this degree.
+MCS: eligible to accept RA/TA if offered; opportunities limited and not guaranteed (Siebel MCS tuition page). Do not apply PhD funding policies to MCS/MS.
 
 Shared scholarship IDs: No verified award links yet. See the [scholarship library](../../04-scholarships/README.md).
 
 ## Sources
 
-- [Program / academic source](https://siebelschool.illinois.edu/admissions/graduate/faqs)
+- [Graduate FAQs](https://siebelschool.illinois.edu/admissions/graduate/faqs)
 - [Official tuition / budget](https://www.registrar.illinois.edu/g-tuition-rates-2627/)
 - [Credit-hour ranges](https://www.registrar.illinois.edu/g-tuition-cr-2627/)
 - [MCS tuition page](https://siebelschool.illinois.edu/academics/graduate/professional-mcs/tuition-fees)

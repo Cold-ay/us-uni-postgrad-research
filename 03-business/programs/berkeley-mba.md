@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$92,755 — Year-1 Tuition & Fees subtotal (Nonresident Full-Time MBA); 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 estimated Haas COA; labels as estimates pending final UC approval. Not Fall 2027 quote or two-year total.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+Haas Financial Aid COA (estimated, subject to Regents approval): Nonresident Tuition & Fees subtotal $92,755; SHIP $8,206; Housing & Food $29,882; Books $782; Personal $3,376; Transportation $3,920; Grand total COA $138,921. Resident Tuition & Fees $80,510; COA $126,676. Additional: Document Management Fee $119 (new students, not in COA); BIO international fee $100/semester for F/J. Living/housing band from official COA: $29882–$37960 (Haas 2026–27 Housing & Food $29,882; full indirect living subtotal $37,960 including books/personal/transport.).
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -40,13 +40,15 @@ Program-specific internship structure, placement rates and international-student
 
 ## Funding
 
-Master’s scholarship eligibility, award coverage and deadlines are not yet verified. Doctoral funding must not be assumed to cover this degree.
+Haas merit/need scholarships via Haas Financial Aid; intl students typically considered for school scholarships — confirm on aid pages. BIO fees apply to F/J.
 
 Shared scholarship IDs: No verified award links yet. See the [scholarship library](../../04-scholarships/README.md).
 
 ## Sources
 
 - [Program / academic source](https://mba.haas.berkeley.edu/academics)
+- [Official tuition / budget](https://haas.berkeley.edu/financial-aid/full-time-mba/cost/)
+- [UC Berkeley Registrar Fee Schedule](https://registrar.berkeley.edu/tuition-fees/fee-schedule/)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

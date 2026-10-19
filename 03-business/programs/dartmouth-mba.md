@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$87,536 — Academic-year tuition (Class of 2027 budget); 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 official Tuck COA; not Fall 2027 quote or two-year total. Anticipate 3–5% increase for 2027–28 per Tuck note.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+Tuck Cost of Attendance AY 2026–2027 (single student): Tuition $87,536; on-campus Housing $16,700 (first-year default package); Program Fee $6,150 on-campus / $5,440–$6,150 off-campus variants; Books $1,500; Food allowance $10,910; Misc personal varies; Health Insurance $5,216. Example on-campus total with insurance $135,331. Anticipate 3–5% tuition increase for 2027–28. First year = 4 terms; second year = 3 terms. Living/housing band from official COA: $10910–$27400 (Tuck food allowance $10,910; on-campus housing $16,700 (direct) or off-campus housing allowance $20,475 — band depends on housing choice.).
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -40,13 +40,15 @@ Program-specific internship structure, placement rates and international-student
 
 ## Funding
 
-Master’s scholarship eligibility, award coverage and deadlines are not yet verified. Doctoral funding must not be assumed to cover this degree.
+Tuck scholarships/fellowships pages under Finance Your Degree; intl eligibility typically yes for school merit aid — confirm each award.
 
 Shared scholarship IDs: No verified award links yet. See the [scholarship library](../../04-scholarships/README.md).
 
 ## Sources
 
 - [Program / academic source](https://tuck.dartmouth.edu/mba/academic-experience)
+- [Tuck Tuition and Costs](https://tuck.dartmouth.edu/admissions/finance-your-degree/tuition-and-costs)
+- [Scholarships and Fellowships](https://tuck.dartmouth.edu/admissions/finance-your-degree/scholarships-and-fellowships)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence
