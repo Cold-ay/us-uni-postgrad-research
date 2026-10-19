@@ -38,7 +38,21 @@ function normalizeV2CatalogCard(card) {
   return { catalogId: catalog_id, card: normalized };
 }
 
-function ingestV2Batch(batchId, cards, outcomeCards, unlinkedOutcomeCards, outcomeAdjacentByCatalogId, outcomeSpecialtyByCatalogId) {
+function isBatchUpgrade(card, batchMeta) {
+  if (card.meta?.upgrade_of) return true;
+  const upgradeIds = batchMeta?.upgrade_of_batch_002;
+  return Array.isArray(upgradeIds) && upgradeIds.includes(card.program_id);
+}
+
+function ingestV2Batch(
+  batchId,
+  batchMeta,
+  cards,
+  outcomeCards,
+  unlinkedOutcomeCards,
+  outcomeAdjacentByCatalogId,
+  outcomeSpecialtyByCatalogId,
+) {
   for (const card of cards) {
     const { catalogId, card: normalized } = normalizeV2CatalogCard(card);
     const programId = card.program_id;
@@ -61,6 +75,10 @@ function ingestV2Batch(batchId, cards, outcomeCards, unlinkedOutcomeCards, outco
     }
 
     if (existing && !normalized.routeMismatch) {
+      if (isBatchUpgrade(card, batchMeta)) {
+        outcomeCards[catalogId] = normalized;
+        continue;
+      }
       throw new Error(
         `${batchId} would overwrite an existing outcome for ${catalogId} (${programId}); resolve merge rules first.`,
       );
@@ -74,6 +92,7 @@ export async function generateOutcomes() {
   const batch001 = JSON.parse(await readFile(path.join(root, 'path/outcomes/batch-001.json'), 'utf8'));
   const batch002 = JSON.parse(await readFile(path.join(root, 'path/outcomes/batch-002.json'), 'utf8'));
   const batch003 = JSON.parse(await readFile(path.join(root, 'path/outcomes/batch-003.json'), 'utf8'));
+  const batch004 = JSON.parse(await readFile(path.join(root, 'path/outcomes/batch-004.json'), 'utf8'));
   const idMap = JSON.parse(await readFile(path.join(root, 'path/outcomes/id-map.json'), 'utf8'));
 
   const outcomeCards = {};
@@ -88,11 +107,36 @@ export async function generateOutcomes() {
     outcomeCards[key] = normalized;
   }
 
-  ingestV2Batch('batch-002', batch002.cards, outcomeCards, unlinkedOutcomeCards, outcomeAdjacentByCatalogId, outcomeSpecialtyByCatalogId);
-  ingestV2Batch('batch-003', batch003.cards, outcomeCards, unlinkedOutcomeCards, outcomeAdjacentByCatalogId, outcomeSpecialtyByCatalogId);
+  ingestV2Batch(
+    'batch-002',
+    batch002.meta,
+    batch002.cards,
+    outcomeCards,
+    unlinkedOutcomeCards,
+    outcomeAdjacentByCatalogId,
+    outcomeSpecialtyByCatalogId,
+  );
+  ingestV2Batch(
+    'batch-003',
+    batch003.meta,
+    batch003.cards,
+    outcomeCards,
+    unlinkedOutcomeCards,
+    outcomeAdjacentByCatalogId,
+    outcomeSpecialtyByCatalogId,
+  );
+  ingestV2Batch(
+    'batch-004',
+    batch004.meta,
+    batch004.cards,
+    outcomeCards,
+    unlinkedOutcomeCards,
+    outcomeAdjacentByCatalogId,
+    outcomeSpecialtyByCatalogId,
+  );
 
-  const body = `// Generated from path/outcomes/batch-001.json, batch-002.json, batch-003.json, and id-map.json. Do not edit by hand.
-export const outcomeBatchMeta = ${JSON.stringify([batch001.meta, batch002.meta, batch003.meta], null, 2)};
+  const body = `// Generated from path/outcomes/batch-001.json, batch-002.json, batch-003.json, batch-004.json, and id-map.json. Do not edit by hand.
+export const outcomeBatchMeta = ${JSON.stringify([batch001.meta, batch002.meta, batch003.meta, batch004.meta], null, 2)};
 export const outcomeMeta = ${JSON.stringify(batch001.meta, null, 2)};
 export const outcomeCards = ${JSON.stringify(outcomeCards, null, 2)};
 export const unlinkedOutcomeCards = ${JSON.stringify(unlinkedOutcomeCards, null, 2)};

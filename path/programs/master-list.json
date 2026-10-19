@@ -5,9 +5,9 @@
     "created": "2026-10-20",
     "scope_note": "Prioritized for big-tech / top-firm internship and full-time outcomes. Tier is qualitative (elite / strong / reach-adjacent), not a ranking guarantee.",
     "counts": {
-      "cs": 33,
-      "mba": 18,
-      "total": 51
+      "cs": 37,
+      "mba": 27,
+      "total": 64
     },
     "batch_001_focus": [
       "stanford-mscs",
@@ -51,6 +51,25 @@
       "fuqua-mba",
       "darden-mba",
       "anderson-mba"
+    ],
+    "batch_004_focus": [
+      "chicago-mpcs",
+      "purdue-mscs",
+      "wisconsin-mscs",
+      "rice-mcs",
+      "jhu-mse-cs",
+      "yale-mscs",
+      "caltech-cs-grad",
+      "umich-cse-ms",
+      "foster-mba",
+      "tepper-mba",
+      "mccombs-mba",
+      "johnson-mba",
+      "marshall-mba",
+      "kenan-mba",
+      "goizueta-mba",
+      "rice-mba",
+      "kelley-mba"
     ]
   },
   "cs_programs": [
@@ -220,7 +239,9 @@
       "program": "MS in Computer Science",
       "degree_type": "MS",
       "tier": "strong",
-      "why": "Ivy brand; smaller cohort signal; East Coast recruiting."
+      "why": "Ivy brand; smaller cohort signal; East Coast recruiting.",
+      "catalog_id": "yale-cs",
+      "route_mismatch": false
     },
     {
       "priority": 16,
@@ -351,7 +372,10 @@
       "program": "MS in Computer Science",
       "degree_type": "MS",
       "tier": "reach-adjacent",
-      "why": "Chicago tech/finance; solid private research university brand."
+      "why": "Chicago tech/finance; solid private research university brand.",
+      "catalog_id": "northwestern-cs",
+      "route_mismatch": false,
+      "route_mismatch_notes": "No FDS card this batch"
     },
     {
       "priority": 28,
@@ -360,7 +384,9 @@
       "program": "MS in Computer Science",
       "degree_type": "MS",
       "tier": "reach-adjacent",
-      "why": "Large engineering brand; Midwest Big Tech recruiting; cost-effective."
+      "why": "Large engineering brand; Midwest Big Tech recruiting; cost-effective.",
+      "catalog_id": "purdue-cs",
+      "route_mismatch": false
     },
     {
       "priority": 29,
@@ -381,7 +407,9 @@
       "program": "MS in Computer Science",
       "degree_type": "MS",
       "tier": "reach-adjacent",
-      "why": "Top public CS research; strong systems tradition; Midwest hiring."
+      "why": "Top public CS research; strong systems tradition; Midwest hiring.",
+      "catalog_id": "wisconsin-cs",
+      "route_mismatch": false
     },
     {
       "priority": 31,
@@ -412,6 +440,54 @@
       "catalog_id": null,
       "route_mismatch": true,
       "route_mismatch_notes": "Not in catalog"
+    },
+    {
+      "priority": 73,
+      "program_id": "chicago-mpcs",
+      "school": "University of Chicago",
+      "program": "Masters Program in Computer Science (MPCS)",
+      "degree_type": "MS",
+      "tier": "strong",
+      "why": "Professional MS with published Class of 2024\u201325 outcomes",
+      "catalog_id": "chicago-cs",
+      "route_mismatch": false,
+      "route_mismatch_notes": ""
+    },
+    {
+      "priority": 74,
+      "program_id": "rice-mcs",
+      "school": "Rice University",
+      "program": "Master of Computer Science",
+      "degree_type": "MCS",
+      "tier": "strong",
+      "why": "93% summer 2025 internship placement (official)",
+      "catalog_id": "rice-cs",
+      "route_mismatch": false,
+      "route_mismatch_notes": ""
+    },
+    {
+      "priority": 75,
+      "program_id": "jhu-mse-cs",
+      "school": "Johns Hopkins University",
+      "program": "MSE in Computer Science",
+      "degree_type": "MSE",
+      "tier": "strong",
+      "why": "Residential MSE; illustrative employers only",
+      "catalog_id": "jhu-cs",
+      "route_mismatch": false,
+      "route_mismatch_notes": ""
+    },
+    {
+      "priority": 76,
+      "program_id": "caltech-cs-grad",
+      "school": "California Institute of Technology",
+      "program": "CS graduate study (no terminal MS)",
+      "degree_type": "N/A",
+      "tier": "strong",
+      "why": "Catalog: no terminal CS master\u2019s",
+      "catalog_id": "caltech-cs",
+      "route_mismatch": true,
+      "route_mismatch_notes": "No terminal MS CS"
     }
   ],
   "mba_programs": [
@@ -587,7 +663,10 @@
       "program": "MBA (incl. Cornell Tech MBA)",
       "degree_type": "MBA",
       "tier": "strong",
-      "why": "STEM MBA options; Cornell Tech Class of 2025 median base $170k among accepts."
+      "why": "STEM MBA options; Cornell Tech Class of 2025 median base $170k among accepts.",
+      "catalog_id": "cornell-mba",
+      "route_mismatch": false,
+      "route_mismatch_notes": "Prefer program_id johnson-mba going forward"
     },
     {
       "priority": 17,
@@ -606,6 +685,105 @@
       "degree_type": "MBA",
       "tier": "reach-adjacent",
       "why": "Tech-flavored MBA adjacent to GT Computing; Atlanta corporate hub."
+    },
+    {
+      "priority": 48,
+      "program_id": "foster-mba",
+      "school": "University of Washington \u2013 Foster",
+      "program": "Full-Time MBA",
+      "degree_type": "MBA",
+      "tier": "strong",
+      "why": "Official Class of 2025 employment PDF",
+      "catalog_id": "washington-mba",
+      "route_mismatch": false
+    },
+    {
+      "priority": 49,
+      "program_id": "tepper-mba",
+      "school": "Carnegie Mellon \u2013 Tepper",
+      "program": "Full-Time MBA",
+      "degree_type": "MBA",
+      "tier": "strong",
+      "why": "Official 2025 employment data PDF",
+      "catalog_id": "cmu-mba",
+      "route_mismatch": false
+    },
+    {
+      "priority": 50,
+      "program_id": "mccombs-mba",
+      "school": "UT Austin \u2013 McCombs",
+      "program": "Full-Time MBA",
+      "degree_type": "MBA",
+      "tier": "strong",
+      "why": "Official 2025-26 employment report PDF",
+      "catalog_id": "texas-mba",
+      "route_mismatch": false
+    },
+    {
+      "priority": 51,
+      "program_id": "johnson-mba",
+      "school": "Cornell \u2013 Johnson",
+      "program": "Two-Year MBA",
+      "degree_type": "MBA",
+      "tier": "strong",
+      "why": "Official Class of 2025 employment data",
+      "catalog_id": "cornell-mba",
+      "route_mismatch": false
+    },
+    {
+      "priority": 52,
+      "program_id": "marshall-mba",
+      "school": "USC \u2013 Marshall",
+      "program": "Full-Time MBA",
+      "degree_type": "MBA",
+      "tier": "strong",
+      "why": "Class of 2025 profile outcomes",
+      "catalog_id": "usc-mba",
+      "route_mismatch": false
+    },
+    {
+      "priority": 53,
+      "program_id": "kenan-mba",
+      "school": "UNC \u2013 Kenan-Flagler",
+      "program": "Full-Time MBA",
+      "degree_type": "MBA",
+      "tier": "strong",
+      "why": "Official 2025 employment one-pager",
+      "catalog_id": "unc-mba",
+      "route_mismatch": false
+    },
+    {
+      "priority": 54,
+      "program_id": "goizueta-mba",
+      "school": "Emory \u2013 Goizueta",
+      "program": "Two-Year MBA",
+      "degree_type": "MBA",
+      "tier": "strong",
+      "why": "Official 2025 employment PDFs",
+      "catalog_id": "emory-mba",
+      "route_mismatch": false
+    },
+    {
+      "priority": 55,
+      "program_id": "rice-mba",
+      "school": "Rice \u2013 Jones",
+      "program": "Full-Time MBA",
+      "degree_type": "MBA",
+      "tier": "strong",
+      "why": "Official CSEA 2025 outcomes PDF",
+      "catalog_id": "rice-mba",
+      "route_mismatch": false
+    },
+    {
+      "priority": 56,
+      "program_id": "kelley-mba",
+      "school": "Indiana \u2013 Kelley",
+      "program": "Full-Time MBA",
+      "degree_type": "MBA",
+      "tier": "strong",
+      "why": "Official Class of 2025 viewbook stats",
+      "catalog_id": "indiana-mba",
+      "route_mismatch": false
     }
   ]
 }
