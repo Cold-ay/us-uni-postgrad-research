@@ -17,11 +17,11 @@ test('outcome card keys map only to known catalog program ids', () => {
   for (const id of Object.keys(outcomeCards)) {
     assert.ok(catalogIds.has(id), `unknown catalog id: ${id}`);
   }
-  assert.equal(Object.keys(outcomeCards).length, 52);
+  assert.equal(Object.keys(outcomeCards).length, 63);
 });
 
-test('batch meta includes batch-002 through batch-004 schema v2', () => {
-  assert.equal(outcomeBatchMeta.length, 4);
+test('batch meta includes batch-002 through batch-005 schema v2', () => {
+  assert.equal(outcomeBatchMeta.length, 5);
   assert.equal(outcomeBatchMeta[1].batch_id, 'batch-002');
   assert.equal(outcomeBatchMeta[1].schema_version, 'outcome-card-v2-catalog');
   assert.equal(outcomeBatchMeta[2].batch_id, 'batch-003');
@@ -29,6 +29,9 @@ test('batch meta includes batch-002 through batch-004 schema v2', () => {
   assert.equal(outcomeBatchMeta[3].batch_id, 'batch-004');
   assert.equal(outcomeBatchMeta[3].card_count, 17);
   assert.deepEqual(outcomeBatchMeta[3].upgrade_of_batch_002, ['umich-cse-ms']);
+  assert.equal(outcomeBatchMeta[4].batch_id, 'batch-005');
+  assert.equal(outcomeBatchMeta[4].card_count, 11);
+  assert.equal(outcomeBatchMeta[4].required_targets_complete, true);
 });
 
 test('null catalog_id cards stay unlinked and attach as CMU specialty only', () => {
@@ -128,9 +131,37 @@ test('batch-004 michigan upgrade, caltech route mismatch, and unknown CS gaps', 
   assert.match(marshall.full_time_placement, /71%/);
 });
 
+test('batch-005 final gap-fill links all remaining catalog ids with display caveats', () => {
+  const batch005Ids = [
+    'northwestern-cs',
+    'umass-cs',
+    'uci-cs',
+    'ucsb-cs',
+    'unc-cs',
+    'asu-mba',
+    'georgia-mba',
+    'gatech-mba',
+    'washu-mba',
+    'vanderbilt-mba',
+    'utd-mba',
+  ];
+  for (const id of batch005Ids) {
+    assert.ok(outcomeCards[id], id);
+  }
+  assert.match(outcomeCards['northwestern-cs'].full_time_placement, /^unknown/i);
+  assert.match(outcomeCards['umass-cs'].routeMismatchNotes, /CICS/i);
+  assert.match(outcomeCards['uci-cs'].full_time_placement, /since 2017/i);
+  assert.equal(outcomeCards['ucsb-cs'].confidence, 'low');
+  assert.match(outcomeCards['unc-cs'].confidence_reason, /undergrad/i);
+  assert.match(outcomeCards['georgia-mba'].full_time_placement, />90%|90%/i);
+  assert.match(outcomeCards['gatech-mba'].full_time_placement, /2026/);
+  assert.match(outcomeCards['utd-mba'].big_tech_or_top_firm_signal, /\$140,175/);
+  assert.match(outcomeCards['utd-mba'].big_tech_or_top_firm_signal, /Do not use \$83\.9k school-wide/i);
+});
+
 test('programs merge outcome by catalog id with route caveats where mapped', () => {
   const withOutcome = programs.filter(p => p.outcome);
-  assert.equal(withOutcome.length, 52);
+  assert.equal(withOutcome.length, 63);
   for (const p of withOutcome) assert.equal(p.outcome, outcomeCards[p.id]);
   assert.ok(programs.find(p => p.id === 'mit-cs').outcome.matchCaveat?.includes('MEng'));
   assert.ok(programs.find(p => p.id === 'cornell-cs').outcome.matchCaveat?.includes('Cornell Tech'));
@@ -142,5 +173,5 @@ test('programs merge outcome by catalog id with route caveats where mapped', () 
   assert.equal(cmu.outcome.pathProgramId, 'cmu-mscs');
   assert.equal(cmu.outcomeSpecialty.length, 3);
   assert.ok(cmu.outcomeSpecialty.some(c => c.pathProgramId === 'cmu-msaii'));
-  for (const p of programs.filter(p => !p.outcome)) assert.equal(p.outcome, null);
+  assert.equal(programs.filter(p => !p.outcome).length, 0);
 });

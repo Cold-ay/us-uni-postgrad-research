@@ -5,9 +5,9 @@
     "created": "2026-10-20",
     "scope_note": "Prioritized for big-tech / top-firm internship and full-time outcomes. Tier is qualitative (elite / strong / reach-adjacent), not a ranking guarantee.",
     "counts": {
-      "cs": 37,
-      "mba": 27,
-      "total": 64
+      "cs": 41,
+      "mba": 32,
+      "total": 73
     },
     "batch_001_focus": [
       "stanford-mscs",
@@ -70,7 +70,26 @@
       "goizueta-mba",
       "rice-mba",
       "kelley-mba"
-    ]
+    ],
+    "batch_005_focus": [
+      "northwestern-mscs",
+      "umass-mscs",
+      "uci-mcs",
+      "ucsb-mscs",
+      "unc-mscs",
+      "carey-mba",
+      "terry-mba",
+      "scheller-mba",
+      "olin-mba",
+      "owen-mba",
+      "jindal-mba"
+    ],
+    "path_pause_note": "Required catalog gap-fill targets for batch-005 complete. Elite batch-001 catalog_id joins backfilled in master-list.",
+    "catalog_coverage": {
+      "joinable_catalog_ids": 63,
+      "catalog_total": 63,
+      "missing": []
+    }
   },
   "cs_programs": [
     {
@@ -104,7 +123,7 @@
       "degree_type": "MS",
       "tier": "elite",
       "why": "SCS #1 reputation; official SCS comparison publishes 93% employment for recent MSCS grads; strong systems/AI employer list.",
-      "catalog_id": "cmu-cs",
+      "catalog_id": "cmu-mscs",
       "route_mismatch": false
     },
     {
@@ -371,8 +390,8 @@
       "school": "Northwestern University",
       "program": "MS in Computer Science",
       "degree_type": "MS",
-      "tier": "reach-adjacent",
-      "why": "Chicago tech/finance; solid private research university brand.",
+      "tier": "strong",
+      "why": "Catalog northwestern-cs gap-fill",
       "catalog_id": "northwestern-cs",
       "route_mismatch": false,
       "route_mismatch_notes": "No FDS card this batch"
@@ -488,6 +507,53 @@
       "catalog_id": "caltech-cs",
       "route_mismatch": true,
       "route_mismatch_notes": "No terminal MS CS"
+    },
+    {
+      "priority": 87,
+      "program_id": "umass-mscs",
+      "school": "UMass Amherst",
+      "program": "MS in Computer Science",
+      "degree_type": "MS",
+      "tier": "strong",
+      "why": "CICS Destination Report 2025",
+      "catalog_id": "umass-cs",
+      "route_mismatch": false,
+      "route_mismatch_notes": "CICS master\u2019s aggregate"
+    },
+    {
+      "priority": 88,
+      "program_id": "uci-mcs",
+      "school": "UC Irvine",
+      "program": "Master of Computer Science",
+      "degree_type": "MCS",
+      "tier": "strong",
+      "why": "MCS cumulative placement claim",
+      "catalog_id": "uci-cs",
+      "route_mismatch": false,
+      "route_mismatch_notes": "MCS evidence; research MS may differ"
+    },
+    {
+      "priority": 89,
+      "program_id": "ucsb-mscs",
+      "school": "UC Santa Barbara",
+      "program": "MS in Computer Science",
+      "degree_type": "MS",
+      "tier": "strong",
+      "why": "Catalog ucsb-cs gap-fill",
+      "catalog_id": "ucsb-cs",
+      "route_mismatch": false
+    },
+    {
+      "priority": 90,
+      "program_id": "unc-mscs",
+      "school": "UNC Chapel Hill",
+      "program": "MS in Computer Science",
+      "degree_type": "MS",
+      "tier": "strong",
+      "why": "Catalog unc-cs gap-fill",
+      "catalog_id": "unc-cs",
+      "route_mismatch": false,
+      "route_mismatch_notes": "Public outcomes pages undergrad-heavy"
     }
   ],
   "mba_programs": [
@@ -521,7 +587,7 @@
       "degree_type": "MBA",
       "tier": "elite",
       "why": "Class of 2025: 90.5% offers / 87% accepts; Finance 38.2%, Consulting 28.2%; median base $185k; deepest finance network.",
-      "catalog_id": "wharton-mba",
+      "catalog_id": "penn-mba",
       "route_mismatch": false
     },
     {
@@ -681,10 +747,12 @@
       "priority": 18,
       "program_id": "scheller-mba",
       "school": "Georgia Tech Scheller",
-      "program": "MBA",
+      "program": "Full-Time MBA",
       "degree_type": "MBA",
-      "tier": "reach-adjacent",
-      "why": "Tech-flavored MBA adjacent to GT Computing; Atlanta corporate hub."
+      "tier": "strong",
+      "why": "Official Class of 2026 career page",
+      "catalog_id": "gatech-mba",
+      "route_mismatch": false
     },
     {
       "priority": 48,
@@ -783,6 +851,61 @@
       "tier": "strong",
       "why": "Official Class of 2025 viewbook stats",
       "catalog_id": "indiana-mba",
+      "route_mismatch": false
+    },
+    {
+      "priority": 77,
+      "program_id": "carey-mba",
+      "school": "ASU W. P. Carey",
+      "program": "Full-Time MBA",
+      "degree_type": "MBA",
+      "tier": "strong",
+      "why": "Official Class of 2025 facts",
+      "catalog_id": "asu-mba",
+      "route_mismatch": false
+    },
+    {
+      "priority": 78,
+      "program_id": "terry-mba",
+      "school": "UGA Terry",
+      "program": "Full-Time MBA",
+      "degree_type": "MBA",
+      "tier": "strong",
+      "why": "Class of 2025 career services",
+      "catalog_id": "georgia-mba",
+      "route_mismatch": false
+    },
+    {
+      "priority": 79,
+      "program_id": "olin-mba",
+      "school": "WashU Olin",
+      "program": "Full-Time MBA",
+      "degree_type": "MBA",
+      "tier": "strong",
+      "why": "Official career prospects outcomes",
+      "catalog_id": "washu-mba",
+      "route_mismatch": false
+    },
+    {
+      "priority": 80,
+      "program_id": "owen-mba",
+      "school": "Vanderbilt Owen",
+      "program": "Full-Time MBA",
+      "degree_type": "MBA",
+      "tier": "strong",
+      "why": "Official Class of 2025 outcomes",
+      "catalog_id": "vanderbilt-mba",
+      "route_mismatch": false
+    },
+    {
+      "priority": 81,
+      "program_id": "jindal-mba",
+      "school": "UT Dallas Jindal",
+      "program": "Full-Time MBA",
+      "degree_type": "MBA",
+      "tier": "strong",
+      "why": "Official FT MBA career outcomes page",
+      "catalog_id": "utd-mba",
       "route_mismatch": false
     }
   ]
