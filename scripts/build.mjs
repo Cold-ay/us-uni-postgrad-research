@@ -1,3 +1,4 @@
+import './build-locales.mjs';
 import { generateResearch } from './generate-research.mjs';
 import { readdir, readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';

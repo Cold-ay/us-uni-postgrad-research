@@ -40,3 +40,11 @@ Current coverage supersedes the initial seed counts above: 63 ranked-school entr
 - `scripts/generate-research.mjs`: regenerates one Markdown dossier per entry, ranking record and CSV before the notebook build. Edit data files rather than generated dossiers.
 
 The ranking table shows all matches, grouped by category; cards paginate 12 at a time. Search covers school, degree and academic text. Comparisons are capped at four. Tuition filters exclude null values. Publish with the existing GitHub → Vercel integration after build and tests.
+
+## Languages
+
+The interface supports English, Traditional Chinese (`?lang=zh-Hant`) and Simplified Chinese (`?lang=zh-Hans`). Explicit URL language takes precedence over the saved browser preference. Program search accepts all three languages; stable IDs and filter values remain English internally. Comparison selections survive language changes.
+
+Edit `locales/zh-Hant.json` and `locales/zh-Hans.json` when adding research or interface text. `scripts/build-locales.mjs` checks matching keys and generates `dist/translations.js` during the normal build. `scripts/convert-chinese.py` is an optional editorial helper (OpenCC 0.1.7); no Python dependency is needed to build or serve the website. Review converted terminology before release. Tests check narrative coverage, cost numbers, language precedence and multilingual search.
+
+Program profiles, scholarship summaries, comparison views and source guidance are translated. Original Markdown notebooks, CSV exports and external source documents retain their original language. The interface explicitly labels these boundaries.
