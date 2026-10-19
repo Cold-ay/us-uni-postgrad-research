@@ -32,7 +32,7 @@ $55,695 — Academic-year tuition (Full-Time residential MBA, nonresident / inte
 
 Kelley Full-Time MBA 2026–27 annual expense budget: Nonresidents/international Tuition $55,695; Indiana residents $29,573. Mandatory fees $2,423 (both); housing/food, books, transportation, and personal expenses separate. Nonresident total budget $84,129; resident $58,007. Residential Full-Time MBA (Bloomington) — not online-only; +Flex Year 2 online option does not change this published tuition line.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: Round 2 Phase 2 · 5 Jan (month-day; year not labeled on official table; portal Fall 2027; R1 Phase 2 Oct 15 passed if same annual cycle). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -48,6 +48,9 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 - [Full-Time MBA academics](https://kelley.iu.edu/programs/full-time-mba/academics/index.html)
 - [Official tuition / budget](https://kelley.iu.edu/programs/full-time-mba/admissions/tuition-aid-scholarships.html)
+- [How to Apply (application deadlines table)](https://kelley.iu.edu/programs/full-time-mba/admissions/process-timeline.html)
+- [Full-Time MBA FAQ](https://kelley.iu.edu/programs/full-time-mba/admissions/faq.html)
+- [Full-Time MBA program](https://kelley.iu.edu/programs/full-time-mba/)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

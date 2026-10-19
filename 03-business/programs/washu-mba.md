@@ -32,7 +32,7 @@ $72,700 — Academic-year tuition (Olin Full-Time MBA; 2 semesters); 2026–27.
 
 WashU Olin Full-Time MBA Cost, Aid and Scholarships (posted Spring 2026) for candidates starting Fall 2026: Tuition $72,700 ($36,350/semester) under Academic Year 2026–27 — equals two flat-rate semesters. Program Fee $900, Student Government Fee $130, Health and Wellness Fee $350 per semester (fees not in the $72,700). Published Total $150,920 ($37,730/semester) is the four-semester / full-program estimate (4 × $36,350 tuition + 4 × $1,380 fees = $150,920), not used as the annual tuition field. Bulletin 2026–27 lists Full-Time MBA $36,350 per semester (four semesters standard). Page note calling the $72,700 'entire program' conflicts with semester math and bulletin; AY figure used. Full-time MBA only — not Flex/EMBA.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: Round 2 · 7 Jan 2027 · 11:59 p.m. CT (Full-Time MBA Fall 2027; R1 passed). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -50,6 +50,8 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 - [Official tuition / budget](https://olin.washu.edu/programs/mbas/full-time-mba/cost-aid-scholarships.php)
 - [Bulletin 2026–27 master's financial (PDF)](https://bulletin.wustl.edu/grad/business/graduate-masters/financial/financial.pdf)
 - [Official tuition / budget](https://olin.washu.edu/programs/mbas/full-time-mba/specializations.php)
+- [Full-Time MBA How to Apply (Fall 2027 deadlines)](https://olin.washu.edu/programs/mbas/full-time-mba/apply.php)
+- [Full-Time MBA program](https://olin.washu.edu/programs/mbas/full-time-mba/)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

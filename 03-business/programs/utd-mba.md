@@ -32,7 +32,7 @@ $36,532 — Academic-year tuition (Full-Time MBA, Nonresident; Fall I + Spring I
 
 UT Dallas MBA Cost & Tuition Plan 2026–2027 Estimated Variable Tuition (Full-Time MBA): Nonresident Cost $18,266 Fall I + $18,266 Spring I = $36,532 academic year (matches Bursar Non-Resident/Graduate Variable 2026–27 rate at 12+ SCH). Resident Cost $9,111/semester ($18,222 AY). Separate MBA/program Fees column $1,500 Fall I + $1,700 Spring I = $3,200 AY (MGT supplemental $100/SCH) not included in the $36,532. Published full-program Nonresident Tuition on 53 credits $60,307 + Fees $5,300 = $65,607 — full-duration totals, not used as the annual figure. School states all Full-Time admits get ≥$1,000 merit scholarship qualifying for resident rates; nonresident sticker used per OOS-primary rule. Full-time MBA only — not Professional/Online.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: Round 2 · 8 Jan (month-day; year not labeled on official FT MBA deadlines table; fall start; R1 Oct 15 passed if same annual cycle). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -50,6 +50,8 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 - [Official tuition / budget](https://mba.utdallas.edu/tuition-value/)
 - [Bursar tuition rates 2026–27](https://bursar.utdallas.edu/tuition/tuition-rates/)
 - [Full-Time MBA academics](https://mba.utdallas.edu/academics/full-time-mba/)
+- [Full-Time MBA Admissions (deadlines table)](https://mba.utdallas.edu/admissions/full-time-mba/)
+- [MBA programs hub](https://mba.utdallas.edu/)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

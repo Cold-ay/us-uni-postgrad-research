@@ -18,7 +18,7 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-First-year core followed by more than 100 elective choices, spanning analytics, finance, strategy and other business disciplines.
+First-year core followed by more than 100 elective choices, spanning analytics, finance, strategy and other business disciplines. Application open: Class of 2029 applications open (as of page check 2026-10-20; calendar open day not posted) (deadline research 2026-10-20; see deadline field).
 
 Orientation: Full-time MBA · Management
 
@@ -32,7 +32,7 @@ $79,116 — Academic-year tuition (Jones Full-Time MBA); 2026–27.
 
 Rice Business Full-Time MBA Tuition and Fees: Tuition for 2026–27 Full-Time MBA (and MD/MBA) $79,116 per year ($39,558/semester flat rate). Required fees annual total $1,323 (GSA $45, Student Organization $8, Health & Wellness Support $720, MBA Activity $550) — not included in the $79,116. Optional health insurance $3,448; estimated textbooks $2,600. Confirmed on Rice Graduate Tuition, Fees, and Expenses 2026–2027 (MBA Degree, Full-Time Program Tuition annual $79,116). Full-time MBA only — not Hybrid/Professional/Executive/Online.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: Round 2 · 6 Jan 2027 · 11:59 p.m. CT (Full-Time MBA Class of 2029; R1 passed; apps open). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -49,6 +49,8 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 - [Full-Time MBA curriculum](https://business.rice.edu/rice-mba/full-time-mba/curriculum)
 - [Official tuition / budget](https://business.rice.edu/rice-mba/full-time-mba/tuition-and-financial-aid)
 - [Rice graduate tuition & fees 2026–27](https://ga.rice.edu/graduate-students/student-services-organizations/tuition-fees-expenses/)
+- [MBA Admissions Requirements / Guide (Class of 2029 deadlines)](https://business.rice.edu/mba-admissions/guide)
+- [Full-Time MBA program](https://business.rice.edu/rice-mba/full-time-mba/)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence
