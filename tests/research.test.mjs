@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
-import { programs, scholarships, filterPrograms } from '../dist/data.js';
+import { programs, scholarships, policy, filterPrograms } from '../dist/data.js';
 import { notes } from '../dist/notes.js';
 import { formatTuition, paginate } from '../dist/rankings.js';
 test('top-30 cutoff retains all ties and separates ranking categories', () => {
@@ -64,6 +64,18 @@ test('program sources, funding and original notebook files resolve', async () =>
   for(const note of notes) assert.equal(note.body,await readFile(new URL('../'+note.path,import.meta.url),'utf8'));
   const csv=await readFile(new URL('../dist/ranked-programs.csv',import.meta.url),'utf8');
   assert.equal(csv.trim().split('\n').length,64);
+});
+test('policy radar baseline exposes five sourced items on Fall 2027 context', () => {
+  assert.equal(policy.scanType, 'initial_baseline');
+  assert.equal(policy.asOf, '2026-10-20');
+  assert.equal(policy.items.length, 5);
+  for (const item of policy.items) {
+    assert.ok(item.id && item.title && item.summary && item.slate_impact);
+    assert.ok(['confirmed', 'developing'].includes(item.confidence));
+    assert.ok(item.sources.length >= 1);
+    for (const url of item.sources) assert.equal(new URL(url).protocol, 'https:');
+  }
+  assert.equal(policy.items.filter(i => i.school_specific).length, 2);
 });
 test('shared scholarship records retain eligibility and expiry limits', () => {
   assert.equal(scholarships.find(s=>s.id==='SCH-002').state,'2027 application closed');
