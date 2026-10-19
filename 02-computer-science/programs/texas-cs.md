@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$18,162 — Academic-year tuition and fees (Natural Sciences nonresident graduate, 9 hours × 2 semesters); 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 reference, not a Fall 2027 quote or full-degree total.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+Graduate Nonresident Natural Sciences: 9 semester hours = $9,081 per semester → $18,162 for Fall+Spring. At 12 hours: $10,970/semester. Separately, the catalog lists Option III Computer Science (MSCompSci) total program fee estimate $10,000 (same resident/nonresident)—commonly associated with the online/CDSO pathway. Confirm with UTCS which schedule applies to a specific on-campus research MS offer.
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -46,7 +46,10 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program / academic source](https://www.cs.utexas.edu/graduate/research-degrees)
+- [Research degrees / on-campus MS](https://www.cs.utexas.edu/graduate/research-degrees)
+- [Official tuition / budget](https://catalog.utexas.edu/general-information/registration-tuition-and-fees/tuition-and-fees/tables-tuition-for-fall-and-spring/)
+- [Tuition rates hub](https://onestop.utexas.edu/managing-costs/cost-tuition-rates/tuition-rates/)
+- [Cost & aid](https://www.cs.utexas.edu/graduate/cost-and-aid)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

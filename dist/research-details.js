@@ -11,10 +11,117 @@ export const researchDetails = {
   'princeton-cs': { kind: 'MSE / MEng', availability: 'Fall 2027 master’s intake suspended', availabilityType: 'closed', deadline: 'No Fall 2027 master’s applications', funding: 'The department describes funded master’s degrees, but has suspended Fall 2027 admission. This is not an available Fall 2027 funding opportunity.' },
   'washington-cs': { availability: 'PMP: no F-1 / J-1 applicants', availabilityType: 'restricted', orientation: 'Professional master’s · Visa restriction' },
   'harvard-cs': { kind: 'Related SM', availability: 'Related CSE degree · not standalone CS', availabilityType: 'alternative', orientation: 'Computational science · Applied mathematics' },
-  'stanford-cs': { orientation: 'Coursework or research · 45 units', scholarships: ['SCH-002'], sources: [['MS requirements','https://www.cs.stanford.edu/masters-degree-requirements'],['Specializations','https://www.cs.stanford.edu/masters-specializations']] },
-  'berkeley-cs': { kind: 'MEng', orientation: 'Professional · Technical leadership · Capstone' },
-  'illinois-cs': { kind: 'MS / MCS', orientation: 'Research MS or professional MCS' },
-  'cornell-cs': { kind: 'MS / MEng', orientation: 'Separate research and professional routes', sources: [['MEng admissions','https://www.cs.cornell.edu/master-engineering-computer-science/apply']] },
+  'stanford-cs': {
+    ...referenceCost(
+      69717,
+      'https://studentservices.stanford.edu/tuition-rates/2026-2027-graduate-and-professional-tuition-rates',
+      'Graduate School of Engineering quarterly rate for 11–18 units is $23,239 (2026–27). Three academic-year quarters (Autumn–Spring) = $69,717. 8–10 units is $15,100/quarter. Per-unit above 18: $1,549. MS CS requires 45 units; HCP/online uses a different per-unit schedule. Living costs and Cardinal Care are separate.',
+      'Academic-year tuition (Engineering, 11–18 units × 3 quarters)'
+    ),
+    orientation: 'Coursework or research · 45 units',
+    scholarships: ['SCH-002'],
+    sources: [
+      ['Official tuition / budget', 'https://studentservices.stanford.edu/tuition-rates/2026-2027-graduate-and-professional-tuition-rates'],
+      ['MS admissions', 'https://www.cs.stanford.edu/admissions/masters-admissions'],
+      ['MS requirements', 'https://www.cs.stanford.edu/masters-degree-requirements'],
+      ['Specializations', 'https://www.cs.stanford.edu/masters-specializations']
+    ]
+  },
+  'berkeley-cs': {
+    ...referenceCost(
+      73766.5,
+      'https://registrar.berkeley.edu/tuition-fees/fee-schedule/',
+      'Registrar Master of Engineering (All M.Eng Degrees) per-semester continuing totals: residents $29,767.75; nonresidents $36,883.25 (includes tuition, Student Services Fee, campus/transit fees, PDST $16,850 resident / $17,843 nonresident, NRST $6,122.50 for nonresidents, IREF, and health insurance $4,103). Program is Fall+Spring only → nonresident AY $73,766.50. New students add $119 document fee in first semester ($37,002.25 first-semester nonresident total).',
+      'Academic-year tuition and mandatory fees (MEng nonresident, continuing)'
+    ),
+    kind: 'MEng',
+    orientation: 'Professional · Technical leadership · Capstone',
+    sources: [
+      ['Official tuition / budget', 'https://registrar.berkeley.edu/tuition-fees/fee-schedule/'],
+      ['MEng EECS program', 'https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/']
+    ]
+  },
+  'illinois-cs': {
+    ...referenceCost(
+      40444,
+      'https://www.registrar.illinois.edu/g-tuition-rates-2627/',
+      'Registrar: Engineering and Engineering Related Programs (including Computer Science) — Nonresident or International Range I (12+ hours) $20,222/semester ($40,444 AY Fall+Spring). Resident Range I $10,636/semester ($21,272 AY). Range II (6–11 hours) nonresident/international $13,482/semester ($26,964 AY); Illinois Cost Calculator for MCS international at 9 credits matches Range II. Campus fees and living costs are extra. Online MCS uses a different per-credit schedule—not recorded here.',
+      'Academic-year tuition (MCS / Engineering, international or nonresident, Range I 12+ hours)'
+    ),
+    kind: 'MS / MCS',
+    orientation: 'Research MS or professional MCS',
+    sources: [
+      ['Official tuition / budget', 'https://www.registrar.illinois.edu/g-tuition-rates-2627/'],
+      ['Credit-hour ranges', 'https://www.registrar.illinois.edu/g-tuition-cr-2627/'],
+      ['MCS tuition page', 'https://siebelschool.illinois.edu/academics/graduate/professional-mcs/tuition-fees'],
+      ['Cost calculator MCS international 9 cr', 'https://cost.illinois.edu/Home/Cost/I/G/10KS0112MCS/9/120268/120268']
+    ]
+  },
+  'cornell-cs': {
+    ...referenceCost(
+      29500,
+      'https://bursar.cornell.edu/students-parents/tuition-rates-and-fees',
+      'Bursar: Endowed Research Master’s (M.S. and listed M.A./non-degree) $14,750/semester, $29,500/year (2026–27). CS MS admitted students receive full tuition, stipend, and health insurance via required TA-ships each of four semesters—so billed tuition is typically covered for admitted students. Separately, M.Eng is Professional Tier 1: $36,973/semester, $73,946/year (self-supported).',
+      'Academic-year tuition (Endowed research master’s MS)'
+    ),
+    kind: 'MS / MEng',
+    orientation: 'Separate research and professional routes',
+    sources: [
+      ['Official tuition / budget', 'https://bursar.cornell.edu/students-parents/tuition-rates-and-fees'],
+      ['CS MS apply / funding', 'https://www.cs.cornell.edu/master-science-computer-science/apply'],
+      ['MEng admissions', 'https://www.cs.cornell.edu/master-engineering-computer-science/apply']
+    ]
+  },
+  'gatech-cs': {
+    ...referenceCost(
+      33080,
+      'https://bursar.gatech.edu/student/tuition/su27/su27_totals.pdf',
+      'Bursar 2026–27 Atlanta campus graduate Master & PhD Candidates: In-State $7,280/semester (12+ hrs) or $607/hr (1–11); Out-of-State $16,073/semester (12+) or $1,341/hr; Out-of-Country $16,540/semester (12+) or $1,379/hr. International-relevant figure uses Out-of-Country full-time: $16,540 × 2 = $33,080 AY. Mandatory student fees $608/semester at 4+ credits not included in the tuition figure. OMSCS ($227/hr) is excluded.',
+      'Academic-year tuition (campus Master & PhD, out-of-country, 12+ hours × 2 semesters)'
+    ),
+    sources: [
+      ['Official tuition / budget', 'https://bursar.gatech.edu/student/tuition/su27/su27_totals.pdf'],
+      ['MSCS specializations', 'https://www.cc.gatech.edu/ms-computer-science-specializations']
+    ]
+  },
+  'texas-cs': {
+    ...referenceCost(
+      18162,
+      'https://catalog.utexas.edu/general-information/registration-tuition-and-fees/tuition-and-fees/tables-tuition-for-fall-and-spring/',
+      'Graduate Nonresident Natural Sciences: 9 semester hours = $9,081 per semester → $18,162 for Fall+Spring. At 12 hours: $10,970/semester. Separately, the catalog lists Option III Computer Science (MSCompSci) total program fee estimate $10,000 (same resident/nonresident)—commonly associated with the online/CDSO pathway. Confirm with UTCS which schedule applies to a specific on-campus research MS offer.',
+      'Academic-year tuition and fees (Natural Sciences nonresident graduate, 9 hours × 2 semesters)'
+    ),
+    sources: [
+      ['Official tuition / budget', 'https://catalog.utexas.edu/general-information/registration-tuition-and-fees/tuition-and-fees/tables-tuition-for-fall-and-spring/'],
+      ['Tuition rates hub', 'https://onestop.utexas.edu/managing-costs/cost-tuition-rates/tuition-rates/'],
+      ['Research degrees / on-campus MS', 'https://www.cs.utexas.edu/graduate/research-degrees'],
+      ['Cost & aid', 'https://www.cs.utexas.edu/graduate/cost-and-aid']
+    ]
+  },
+  'michigan-cs': {
+    ...referenceCost(
+      68038,
+      'https://ro.umich.edu/tuition-residency/tuition-fees/2026-2027/graduate/full-term/college-engineering-graduate-full-term',
+      'Registrar College of Engineering Graduate Full Term 2026–27: Michigan Non-Resident 9+ (Full-Time) $34,019 per full term; Michigan Resident $18,308. Typical academic year = Fall + Winter full terms → nonresident $68,038. CSE MS/MSE uses Engineering graduate rates. Master’s funding is not guaranteed at admission.',
+      'Academic-year tuition (College of Engineering graduate, nonresident full-time × 2 full terms)'
+    ),
+    sources: [
+      ['Official tuition / budget', 'https://ro.umich.edu/tuition-residency/tuition-fees/2026-2027/graduate/full-term/college-engineering-graduate-full-term'],
+      ['CSE master’s program', 'https://cse.engin.umich.edu/academics/graduate/graduate-programs/masters-in-cse/']
+    ]
+  },
+  'ucsd-cs': {
+    ...referenceCost(
+      38087.17,
+      'https://students.ucsd.edu/finances/fees/registration/2026-27/graduate.html',
+      'UCSD Graduate Registration Fees 2026–27: California Nonresidents annual total $38,087.17 (includes systemwide tuition $13,722, Student Services Fee $1,344, campus fees, mandatory health insurance $6,660, and Nonresident Supplemental Tuition $15,102). California Residents annual total $22,985.17. CSE MS uses the standard graduate schedule (not self-supporting). One-time Enrollment Services Fee $115 is included in the published Fall/annual nonresident total. International visa administration fee $200 is separate.',
+      'Academic-year registration fees total (graduate nonresident)'
+    ),
+    sources: [
+      ['Official tuition / budget', 'https://students.ucsd.edu/finances/fees/registration/2026-27/graduate.html'],
+      ['MS program', 'https://cse.ucsd.edu/graduate/degree-programs/ms-program']
+    ]
+  },
   'maryland-cs': { availability: 'CSMS route · confirm catalog distinction', availabilityType: 'review', deadline: '4 Dec 2026 · MS application page', deadlineDate: '2026-12-04', sources: [['CMSC catalog — different MS route','https://academiccatalog.umd.edu/graduate/programs/computer-science-cmsc/computer-science-ms/'],['Rank 12 cross-check · May 2026','https://science.umd.edu/newsletters/cs/2026-05.html']] },
   'columbia-cs': { orientation: 'Pathways · 30 points · Thesis by invitation' },
   'ucla-cs': { orientation: 'Thesis or student-driven capstone', funding: 'The department explicitly does not guarantee TA, graduate student researcher or reader positions to MS students.', sources: [['Admissions and MS funding limitations','https://www.cs.ucla.edu/graduate-requirements/']] },

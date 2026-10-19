@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$40,444 — Academic-year tuition (MCS / Engineering, international or nonresident, Range I 12+ hours); 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 reference, not a Fall 2027 quote or full-degree total.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+Registrar: Engineering and Engineering Related Programs (including Computer Science) — Nonresident or International Range I (12+ hours) $20,222/semester ($40,444 AY Fall+Spring). Resident Range I $10,636/semester ($21,272 AY). Range II (6–11 hours) nonresident/international $13,482/semester ($26,964 AY); Illinois Cost Calculator for MCS international at 9 credits matches Range II. Campus fees and living costs are extra. Online MCS uses a different per-credit schedule—not recorded here.
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -47,6 +47,10 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 ## Sources
 
 - [Program / academic source](https://siebelschool.illinois.edu/admissions/graduate/faqs)
+- [Official tuition / budget](https://www.registrar.illinois.edu/g-tuition-rates-2627/)
+- [Credit-hour ranges](https://www.registrar.illinois.edu/g-tuition-cr-2627/)
+- [MCS tuition page](https://siebelschool.illinois.edu/academics/graduate/professional-mcs/tuition-fees)
+- [Cost calculator MCS international 9 cr](https://cost.illinois.edu/Home/Cost/I/G/10KS0112MCS/9/120268/120268)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence
