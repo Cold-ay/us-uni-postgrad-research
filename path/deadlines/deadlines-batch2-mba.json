@@ -1,0 +1,429 @@
+{
+  "batch": "deadlines-batch2-mba",
+  "as_of": "2026-10-20",
+  "items": [
+    {
+      "id": "yale-mba",
+      "as_of": "2026-10-20",
+      "deadline": "Round 2 · 6 Jan 2027 (Fall 2027 / 2026–27 cycle; R1 passed; clock time not on table)",
+      "deadlineDate": "2027-01-06",
+      "applicationOpen": null,
+      "rounds": [
+        {
+          "name": "Round 1",
+          "deadline": "15 Sep 2026 (decision 3 Dec 2026)",
+          "deadlineDate": "2026-09-15"
+        },
+        {
+          "name": "Round 2",
+          "deadline": "6 Jan 2027 (decision 18 Mar 2027)",
+          "deadlineDate": "2027-01-06"
+        },
+        {
+          "name": "Round 3",
+          "deadline": "7 Apr 2027 (decision 13 May 2027)",
+          "deadlineDate": "2027-04-07"
+        }
+      ],
+      "sources": [
+        [
+          "MBA Application Information (deadlines)",
+          "https://som.yale.edu/programs/mba/admissions/application-information"
+        ],
+        [
+          "MBA Admissions",
+          "https://som.yale.edu/programs/mba/admissions"
+        ],
+        [
+          "MBA program",
+          "https://som.yale.edu/programs/mba"
+        ]
+      ],
+      "notes": "Official Application Information and Admissions pages list Round 1–3 with calendar years for the 2026–27 cycle (Fall 2027 entry). Decision dates: R1 3 Dec 2026; R2 18 Mar 2027; R3 13 May 2027. Submission clock time not stated on the deadline cards (do not invent). As of 2026-10-20, Round 1 passed — primary = Round 2 (2027-01-06). Application open calendar date not posted. Full-time MBA only."
+    },
+    {
+      "id": "virginia-mba",
+      "as_of": "2026-10-20",
+      "deadline": "Round 2 · 7 Jan 2027 (Full-Time MBA Class of 2029 / Aug 2027; EA & R1 passed; clock time not on table)",
+      "deadlineDate": "2027-01-07",
+      "applicationOpen": null,
+      "rounds": [
+        {
+          "name": "Early Action",
+          "deadline": "9 Sep 2026 (decision 28 Oct 2026)",
+          "deadlineDate": "2026-09-09"
+        },
+        {
+          "name": "Round 1",
+          "deadline": "7 Oct 2026 (decision 9 Dec 2026)",
+          "deadlineDate": "2026-10-07"
+        },
+        {
+          "name": "Round 2",
+          "deadline": "7 Jan 2027 (decision 17 Mar 2027)",
+          "deadlineDate": "2027-01-07"
+        },
+        {
+          "name": "Round 3 – March",
+          "deadline": "1 Mar 2027 (decision 2 Apr 2027)",
+          "deadlineDate": "2027-03-01"
+        },
+        {
+          "name": "Round 3 – April",
+          "deadline": "1 Apr 2027 (decision 5 May 2027)",
+          "deadlineDate": "2027-04-01"
+        },
+        {
+          "name": "Round 3 – May",
+          "deadline": "1 May 2027 (decision 28 May 2027)",
+          "deadlineDate": "2027-05-01"
+        }
+      ],
+      "sources": [
+        [
+          "MBA Apply Deadlines (2026–27 / Class of 2029)",
+          "https://www.darden.virginia.edu/mba/admissions/apply/deadlines"
+        ],
+        [
+          "Darden 2026–27 Full-Time MBA Application Live",
+          "https://www.darden.virginia.edu/programs/blog/2026-27-full-time-mba-application-live"
+        ],
+        [
+          "MBA program",
+          "https://www.darden.virginia.edu/mba/"
+        ]
+      ],
+      "notes": "Official deadlines page: each round admits to class matriculating August 2027 (Class of 2029 / 2026–27 application). Expanded spring R3 with March/April/May deadlines. Clock time not on deadline table. School announced apps open for Class of 2029 (July 2026 news) but no labeled calendar open day — applicationOpen=null. Future Year Scholars (deferred) is a separate pathway (2026 deadlines Apr/Jul) — not in primary FT rounds. As of 2026-10-20, EA and Round 1 passed — primary = Round 2 (2027-01-07). Full-time MBA only."
+    },
+    {
+      "id": "michigan-mba",
+      "as_of": "2026-10-20",
+      "deadline": "Round 2 · 4 Jan 2027 · 11:59 p.m. ET (Full-Time MBA; R1 passed)",
+      "deadlineDate": "2027-01-04",
+      "applicationOpen": null,
+      "rounds": [
+        {
+          "name": "Round 1",
+          "deadline": "8 Sep 2026 · 11:59 p.m. ET (decision 11 Dec 2026)",
+          "deadlineDate": "2026-09-08"
+        },
+        {
+          "name": "Round 2",
+          "deadline": "4 Jan 2027 · 11:59 p.m. ET (decision 19 Mar 2027)",
+          "deadlineDate": "2027-01-04"
+        },
+        {
+          "name": "Round 3",
+          "deadline": "29 Mar 2027 · 11:59 p.m. ET (decision 14 May 2027)",
+          "deadlineDate": "2027-03-29"
+        }
+      ],
+      "sources": [
+        [
+          "Full-Time MBA Admissions (deadlines)",
+          "https://michiganross.umich.edu/graduate/full-time-mba/admissions"
+        ],
+        [
+          "Full-Time MBA",
+          "https://michiganross.umich.edu/graduate/full-time-mba"
+        ]
+      ],
+      "notes": "Official Full-Time MBA Admissions page: all applications due by 11:59 pm ET on the date listed. Decision notify: R1 11 Dec 2026; R2 19 Mar 2027; R3 14 May 2027. As of 2026-10-20, Round 1 passed — primary = Round 2 (2027-01-04). Application open calendar date not posted. Ross Deferred MBA pathway is separate. Full-time MBA only (not Weekend/Online/EMBA)."
+    },
+    {
+      "id": "duke-mba",
+      "as_of": "2026-10-20",
+      "deadline": "Round 2 · 5 Jan 2027 (Daytime MBA 2026–2027 cycle; EA & R1 passed; clock time not on table)",
+      "deadlineDate": "2027-01-05",
+      "applicationOpen": null,
+      "rounds": [
+        {
+          "name": "Early Action",
+          "deadline": "2 Sep 2026 (decision 15 Oct 2026)",
+          "deadlineDate": "2026-09-02"
+        },
+        {
+          "name": "Round 1",
+          "deadline": "30 Sep 2026 (decision 10 Dec 2026)",
+          "deadlineDate": "2026-09-30"
+        },
+        {
+          "name": "Round 2",
+          "deadline": "5 Jan 2027 (decision 11 Mar 2027)",
+          "deadlineDate": "2027-01-05"
+        },
+        {
+          "name": "Round 3",
+          "deadline": "25 Mar 2027 (decision 6 May 2027)",
+          "deadlineDate": "2027-03-25"
+        }
+      ],
+      "sources": [
+        [
+          "Daytime MBA Admissions Facts + Dates",
+          "https://www.fuqua.duke.edu/programs/daytime-mba/admissions-facts-dates"
+        ],
+        [
+          "Daytime MBA program",
+          "https://www.fuqua.duke.edu/programs/daytime-mba/"
+        ]
+      ],
+      "notes": "Official Admissions Facts + Dates table lists EA / R1 / R2 / R3 for Daytime MBA (binding Early Action). Submission clock time not on the deadline table (do not invent). Consortium deadlines Oct 15 and Jan 5 noted separately. Application portal also lists a Round 4 (27 Apr 2027) not on the Facts + Dates table — rounds[] follows the official Facts + Dates page only. As of 2026-10-20, EA and Round 1 passed — primary = Round 2 (2027-01-05). Application open calendar date not posted. Daytime (full-time) MBA only — not Accelerated Daytime."
+    },
+    {
+      "id": "cornell-mba",
+      "as_of": "2026-10-20",
+      "deadline": "Round 2 · 5 Jan 2027 · 11:59 p.m. ET (Two-Year FT MBA; R1 passed)",
+      "deadlineDate": "2027-01-05",
+      "applicationOpen": null,
+      "rounds": [
+        {
+          "name": "Round 1",
+          "deadline": "17 Sep 2026 · 11:59 p.m. ET",
+          "deadlineDate": "2026-09-17"
+        },
+        {
+          "name": "The Consortium early application",
+          "deadline": "15 Oct 2026 · 11:59 p.m. ET",
+          "deadlineDate": "2026-10-15"
+        },
+        {
+          "name": "Round 2",
+          "deadline": "5 Jan 2027 · 11:59 p.m. ET",
+          "deadlineDate": "2027-01-05"
+        },
+        {
+          "name": "The Consortium traditional application",
+          "deadline": "5 Jan 2027 · 11:59 p.m. ET",
+          "deadlineDate": "2027-01-05"
+        },
+        {
+          "name": "Round 3",
+          "deadline": "6 Apr 2027 · 11:59 p.m. ET",
+          "deadlineDate": "2027-04-06"
+        }
+      ],
+      "sources": [
+        [
+          "Cornell MBA application deadlines & important dates",
+          "https://business.cornell.edu/admissions/graduate/mba/application-guide/important-dates/"
+        ],
+        [
+          "Cornell MBA admissions",
+          "https://business.cornell.edu/admissions/graduate/mba/"
+        ],
+        [
+          "Two-Year MBA",
+          "https://www.johnson.cornell.edu/programs/full-time-mba/two-year-mba/"
+        ]
+      ],
+      "notes": "Official important-dates page: Applications should be submitted by 11:59 PM Eastern Time. Includes Consortium early (15 Oct 2026) and traditional (5 Jan 2027) alongside R1–R3. As of 2026-10-20, Round 1 and Consortium early passed — primary next useful direct round = Round 2 (2027-01-05). Application open calendar date not posted. Two-Year Ithaca full-time MBA only (not Cornell Tech MBA / EMBA)."
+    },
+    {
+      "id": "cmu-mba",
+      "as_of": "2026-10-20",
+      "deadline": "Round 2 · 8 Jan 2027 (Full-Time MBA; R1 passed; clock time not on table)",
+      "deadlineDate": "2027-01-08",
+      "applicationOpen": null,
+      "rounds": [
+        {
+          "name": "Round 1",
+          "deadline": "30 Sep 2026 (decision 9 Dec 2026)",
+          "deadlineDate": "2026-09-30"
+        },
+        {
+          "name": "Round 2",
+          "deadline": "8 Jan 2027 (decision 10 Mar 2027)",
+          "deadlineDate": "2027-01-08"
+        },
+        {
+          "name": "Round 3",
+          "deadline": "3 Mar 2027 (decision 22 Apr 2027)",
+          "deadlineDate": "2027-03-03"
+        },
+        {
+          "name": "Round 4",
+          "deadline": "5 May 2027 (decision rolling)",
+          "deadlineDate": "2027-05-05"
+        },
+        {
+          "name": "Round 4 Final",
+          "deadline": "15 Jun 2027 (decision rolling)",
+          "deadlineDate": "2027-06-15"
+        }
+      ],
+      "sources": [
+        [
+          "Apply to Full-Time MBA (deadlines table)",
+          "https://www.cmu.edu/tepper/programs/mba/admissions/apply-full-time-mba"
+        ],
+        [
+          "Full-Time MBA program",
+          "https://www.cmu.edu/tepper/programs/mba/full-time"
+        ],
+        [
+          "MBA programs hub",
+          "https://www.cmu.edu/tepper/programs/mba/"
+        ]
+      ],
+      "notes": "Official apply-full-time-mba deadlines table: R1 30 Sep 2026; R2 8 Jan 2027; R3 3 Mar 2027; R4 5 May 2027; R4 Final 15 Jun 2027. International applicants: Round 3 is final round for full-time. Submission clock time not on official deadline table (secondary sources cite 11:59 p.m. ET — not used). Some prior cycle messaging mentioned an R1 extension to 15 Oct 2026; as-of page table still lists 30 Sep 2026 — both dates passed by 2026-10-20. As of research date, Round 1 passed — primary = Round 2 (2027-01-08). Application open calendar date not posted. Full-time MBA only (not Online Hybrid)."
+    },
+    {
+      "id": "vanderbilt-mba",
+      "as_of": "2026-10-20",
+      "deadline": "Round 2 · 6 Jan 2027 · 11:59 p.m. CT (Fall 2027; R1 passed; apps opened 19 Aug 2026)",
+      "deadlineDate": "2027-01-06",
+      "applicationOpen": "2026-08-19",
+      "rounds": [
+        {
+          "name": "Round 1",
+          "deadline": "1 Oct 2026 · 11:59 p.m. CT (decision 18 Dec 2026)",
+          "deadlineDate": "2026-10-01"
+        },
+        {
+          "name": "Round 2",
+          "deadline": "6 Jan 2027 · 11:59 p.m. CT (decision 12 Mar 2027)",
+          "deadlineDate": "2027-01-06"
+        },
+        {
+          "name": "Round 3",
+          "deadline": "10 Mar 2027 · 11:59 p.m. CT (decision 23 Apr 2027)",
+          "deadlineDate": "2027-03-10"
+        },
+        {
+          "name": "Round 4",
+          "deadline": "5 May 2027 · 11:59 p.m. CT (decision rolling)",
+          "deadlineDate": "2027-05-05"
+        }
+      ],
+      "sources": [
+        [
+          "MBA Admissions (Fall 2027 deadlines)",
+          "https://business.vanderbilt.edu/mba/admissions/"
+        ],
+        [
+          "MBA Application Instructions (11:59 p.m. CT)",
+          "https://business.vanderbilt.edu/mba/admissions/application-instructions/"
+        ],
+        [
+          "Applications for Fall 2027 Open August 19",
+          "https://business.vanderbilt.edu/news/2026/08/14/vanderbilt-business-applications-fall-2027-open-august-19/"
+        ],
+        [
+          "MBA program",
+          "https://business.vanderbilt.edu/mba/"
+        ]
+      ],
+      "notes": "Official Fall 2027 Application Deadlines table on Admissions. Application Instructions: all applications due by 11:59 p.m. Central Time. International final apply-by date Apr 5, 2027. Owen news: Fall 2027 applications open Wednesday, August 19 (2026) — applicationOpen ISO 2026-08-19. As of 2026-10-20, Round 1 passed — primary = Round 2 (2027-01-06). Full-time MBA only (not Executive MBA)."
+    },
+    {
+      "id": "texas-mba",
+      "as_of": "2026-10-20",
+      "deadline": "Round 2 · 15 Jan 2027 · 11:59 p.m. CT (Full-Time MBA; R1 passed)",
+      "deadlineDate": "2027-01-15",
+      "applicationOpen": null,
+      "rounds": [
+        {
+          "name": "Round 1",
+          "deadline": "15 Oct 2026 · 11:59 p.m. CT (decision 17 Dec 2026)",
+          "deadlineDate": "2026-10-15"
+        },
+        {
+          "name": "Round 2",
+          "deadline": "15 Jan 2027 · 11:59 p.m. CT (decision 25 Mar 2027)",
+          "deadlineDate": "2027-01-15"
+        },
+        {
+          "name": "Round 3",
+          "deadline": "1 Apr 2027 · 11:59 p.m. CT (decision 6 May 2027)",
+          "deadlineDate": "2027-04-01"
+        }
+      ],
+      "sources": [
+        [
+          "Full-Time MBA How to Apply (application deadlines)",
+          "https://www.mccombs.utexas.edu/graduate/mba/full-time-mba/admissions/application-process/"
+        ],
+        [
+          "Full-Time MBA",
+          "https://www.mccombs.utexas.edu/graduate/mba/full-time-mba/"
+        ]
+      ],
+      "notes": "Official application-process page: Applications are accepted in rounds and must be submitted by 11:59 PM Central Time on the deadline date. As of 2026-10-20, Round 1 (15 Oct 2026) has passed — primary = Round 2 (2027-01-15). Application open calendar date not posted on deadlines section. Full-time MBA only."
+    },
+    {
+      "id": "ucla-mba",
+      "as_of": "2026-10-20",
+      "deadline": "Round 2 · 6 Jan 2027 · 11:59 p.m. PT (Full-Time MBA; R1 passed)",
+      "deadlineDate": "2027-01-06",
+      "applicationOpen": null,
+      "rounds": [
+        {
+          "name": "Round 1",
+          "deadline": "1 Oct 2026 · 11:59 p.m. PT (decision 11 Dec 2026)",
+          "deadlineDate": "2026-10-01"
+        },
+        {
+          "name": "Round 2",
+          "deadline": "6 Jan 2027 · 11:59 p.m. PT (decision 26 Mar 2027)",
+          "deadlineDate": "2027-01-06"
+        },
+        {
+          "name": "Round 3",
+          "deadline": "7 Apr 2027 · 11:59 p.m. PT (decision 14 May 2027)",
+          "deadlineDate": "2027-04-07"
+        }
+      ],
+      "sources": [
+        [
+          "Full-Time MBA Admissions (rounds)",
+          "https://www.anderson.ucla.edu/degrees/full-time-mba/admissions"
+        ],
+        [
+          "Full-Time MBA Admissions FAQ (11:59 p.m. PT)",
+          "https://www.anderson.ucla.edu/degrees/full-time-mba/admissions/faq"
+        ],
+        [
+          "Full-Time MBA",
+          "https://www.anderson.ucla.edu/degrees/full-time-mba/"
+        ]
+      ],
+      "notes": "Official Admissions page lists Round 1–3 with decision releases. FAQ: Completed applications must be received by 11:59 p.m. Pacific Time on the deadline date. As of 2026-10-20, Round 1 passed — primary = Round 2 (2027-01-06). Application open calendar date not posted. Full-time MBA only (not FEMBA/EMBA)."
+    },
+    {
+      "id": "washington-mba",
+      "as_of": "2026-10-20",
+      "deadline": "Round 2 · 5 Jan 2027 · 11:59 p.m. PDT (Full-time MBA 2026–2027; R1 passed; final for internationals)",
+      "deadlineDate": "2027-01-05",
+      "applicationOpen": null,
+      "rounds": [
+        {
+          "name": "Round 1",
+          "deadline": "1 Oct 2026 · 11:59 p.m. PDT (notify by 18 Dec 2026)",
+          "deadlineDate": "2026-10-01"
+        },
+        {
+          "name": "Round 2",
+          "deadline": "5 Jan 2027 · 11:59 p.m. PDT (notify by 26 Mar 2027; final for internationals)",
+          "deadlineDate": "2027-01-05"
+        },
+        {
+          "name": "Round 3",
+          "deadline": "23 Mar 2027 · 11:59 p.m. PDT (notify by 14 May 2027)",
+          "deadlineDate": "2027-03-23"
+        }
+      ],
+      "sources": [
+        [
+          "Full-time MBA Admissions (2026–2027 deadlines)",
+          "https://foster.uw.edu/academics/degree-programs/full-time-mba/admissions/"
+        ],
+        [
+          "Full-time MBA",
+          "https://foster.uw.edu/academics/degree-programs/full-time-mba/"
+        ]
+      ],
+      "notes": "Official Admissions page titled 2026-2027 Application Deadlines; one fall intake. Clock times published as 11:59pm PDT on each round. Round 2 marked final deadline for international applicants. As of 2026-10-20, Round 1 passed — primary = Round 2 (2027-01-05). Application open calendar date not posted. Full-time MBA only."
+    }
+  ]
+}

@@ -32,7 +32,7 @@ $82,734 — Academic-year MBA program fees (Full-Time MBA, self-supporting); 202
 
 UCLA Anderson Full-Time MBA Financing Estimated Financial Aid Budget for Academic Year 2026–2027 lists Estimated MBA Program Fees $82,734 (Summer 2026 $10,635 + Fall/Winter/Spring $24,033 each). UCLA Registrar Self-Supporting Degree Fees 2026–27 lists Management MBA new students $82,733/year (continuing $79,452) — $1 difference from Anderson’s quarterly sum; Anderson budget figure used. Self-supporting flat program fee (no resident/nonresident split). Mandatory UCLA fees $2,105 and health insurance $8,668 AY are separate; total mandatory charges $93,507; total estimated student budget $137,951. Full-time MBA only — not FEMBA/EMBA.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: Round 2 · 6 Jan 2027 · 11:59 p.m. PT (Full-Time MBA; R1 passed). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -49,6 +49,9 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 - [Full-Time MBA academics](https://www.anderson.ucla.edu/degrees/full-time-mba/academics)
 - [Official tuition / budget](https://www.anderson.ucla.edu/degrees/full-time-mba/financing)
 - [Registrar self-supporting fees 2026–27](https://registrar.ucla.edu/fees-residence/self-supporting-degrees)
+- [Full-Time MBA Admissions (rounds)](https://www.anderson.ucla.edu/degrees/full-time-mba/admissions)
+- [Full-Time MBA Admissions FAQ (11:59 p.m. PT)](https://www.anderson.ucla.edu/degrees/full-time-mba/admissions/faq)
+- [Full-Time MBA](https://www.anderson.ucla.edu/degrees/full-time-mba/)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

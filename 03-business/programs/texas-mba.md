@@ -32,7 +32,7 @@ $61,214 — Academic-year tuition and fees (Full-Time MBA, Non-Texas resident); 
 
 Texas McCombs Full-Time MBA Tuition & Financial Aid: Non-Texas Residents Year 1 (and Year 2) program installment $61,214; Texas Residents $55,196. First-year Fall 2026 / Spring 2027 estimated COA lists Tuition & Fees $61,214 nonresident / $55,196 resident (based on expected 15/14 credit hours first year; actual billed by enrolled hours). Separate nonrefundable $1,500 MBA student fee due the summer before enrollment is not in the $61,214. Two-year program totals published as $122,428 nonresident / $110,392 resident — not used as the annual figure. Full-time MBA only.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: Round 2 · 15 Jan 2027 · 11:59 p.m. CT (Full-Time MBA; R1 passed). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -48,6 +48,8 @@ Shared scholarship IDs: SCH-009. See the [scholarship library](../../04-scholars
 
 - [Full-Time MBA curriculum](https://www.mccombs.utexas.edu/graduate/mba/full-time-mba/academics/curriculum/)
 - [Official tuition / budget](https://www.mccombs.utexas.edu/graduate/mba/full-time-mba/tuition-financial-aid/)
+- [Full-Time MBA How to Apply (application deadlines)](https://www.mccombs.utexas.edu/graduate/mba/full-time-mba/admissions/application-process/)
+- [Full-Time MBA](https://www.mccombs.utexas.edu/graduate/mba/full-time-mba/)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

@@ -32,7 +32,7 @@ $84,186 — Academic-year tuition (Tepper Full-Time MBA); 2026–27.
 
 CMU Student Financial Services Tepper Full-Time MBA and Accelerated MBA page for 2026–2027 lists Tuition $42,093 Fall 2026 + $42,093 Spring 2027 = $84,186 academic year. University fees (activity $248, transportation $302, technology $490 AY), health insurance ($3,352), and living expenses are separate; single-student total budget $120,798. Full-Time MBA is four semesters; Accelerated is three — figure is one academic year only. Laptop estimate $1,500 additional. Full-time MBA only — not part-time/online.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: Round 2 · 8 Jan 2027 (Full-Time MBA; R1 passed; clock time not on table). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -49,6 +49,9 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 - [MBA curriculum](https://www.cmu.edu/tepper/programs/mba/curriculum)
 - [Official tuition / budget](https://www.cmu.edu/sfs/tuition/graduate/tepper/full-accel-mba.html)
 - [2026–2027 Graduate Tuition index](https://www.cmu.edu/sfs/tuition/graduate/index.html)
+- [Apply to Full-Time MBA (deadlines table)](https://www.cmu.edu/tepper/programs/mba/admissions/apply-full-time-mba)
+- [Full-Time MBA program](https://www.cmu.edu/tepper/programs/mba/full-time)
+- [MBA programs hub](https://www.cmu.edu/tepper/programs/mba/)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

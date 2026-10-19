@@ -32,7 +32,7 @@ $88,934 — Academic-year tuition (Two-Year Cornell MBA, Ithaca); 2026–27.
 
 Cornell SC Johnson / Johnson Two-Year MBA Tuition & financing Estimated cost of attendance for Fall/Spring term (academic year 2026–27) lists Tuition $88,934. Separate first-year fee $1,500 (core course packs/materials, charged first semester only), student activity fees $100, health fee $600; living costs separate. Total estimated COA $127,278. Two-Year Ithaca full-time MBA — not Cornell Tech MBA or EMBA.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: Round 2 · 5 Jan 2027 · 11:59 p.m. ET (Two-Year FT MBA; R1 passed). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -49,6 +49,9 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 - [Program / academic source](https://business.cornell.edu/admissions/graduate/mba/curriculum/)
 - [Official tuition / budget](https://business.cornell.edu/admissions/graduate/mba/tuition-financing/)
 - [Two-Year MBA curriculum](https://www.johnson.cornell.edu/programs/full-time-mba/two-year-mba/curriculum/)
+- [Cornell MBA application deadlines & important dates](https://business.cornell.edu/admissions/graduate/mba/application-guide/important-dates/)
+- [Cornell MBA admissions](https://business.cornell.edu/admissions/graduate/mba/)
+- [Two-Year MBA](https://www.johnson.cornell.edu/programs/full-time-mba/two-year-mba/)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

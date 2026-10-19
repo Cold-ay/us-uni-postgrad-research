@@ -32,7 +32,7 @@ $83,946 — Academic-year tuition (Full-Time MBA, non-Michigan resident / intern
 
 Michigan Ross Full-Time MBA Tuition & Financial Aid: 2026–2027 rates approved by the Board of Regents in June 2026 — Non-Michigan Residents/International $83,946 per academic year; Michigan Residents $78,586. Mandatory fees $246.89 per full term; International Student Services Fee $500 per term for F/J visa students. Living-cost guidance (books, food & housing, personal, loan fees) is separate. 2027–2028 rates to be posted July 2027. Full-time MBA only — not Weekend/Online/EMBA.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: Round 2 · 4 Jan 2027 · 11:59 p.m. ET (Full-Time MBA; R1 passed). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -48,8 +48,9 @@ Shared scholarship IDs: SCH-006, SCH-007. See the [scholarship library](../../04
 
 - [Program / academic source](https://michiganross.umich.edu/graduate/full-time-mba/curriculum/map)
 - [Full-Time MBA Tuition & Financial Aid](https://michiganross.umich.edu/graduate/full-time-mba/admissions/tuition-financial-aid)
-- [Rank 13 cross-check](https://michiganross.umich.edu/graduate/full-time-mba)
+- [Full-Time MBA](https://michiganross.umich.edu/graduate/full-time-mba)
 - [Affording Your MBA](https://michiganross.umich.edu/graduate/full-time-mba/admissions/tuition-financial-aid/affording-your-mba)
+- [Full-Time MBA Admissions (deadlines)](https://michiganross.umich.edu/graduate/full-time-mba/admissions)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence
