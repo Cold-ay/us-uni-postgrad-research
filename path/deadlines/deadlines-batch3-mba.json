@@ -1,0 +1,449 @@
+{
+  "batch": "deadlines-batch3-mba",
+  "as_of": "2026-10-20",
+  "items": [
+    {
+      "id": "indiana-mba",
+      "as_of": "2026-10-20",
+      "deadline": "Round 2 Phase 2 · 5 Jan (month-day; year not labeled on official table; portal Fall 2027; R1 Phase 2 Oct 15 passed if same annual cycle)",
+      "deadlineDate": null,
+      "applicationOpen": null,
+      "rounds": [
+        {
+          "name": "Round 1",
+          "deadline": "Phase 1: 1 Oct (notify by 8 Oct) · Phase 2: 15 Oct (notify by 22 Dec) · deposit 1 Feb (years not labeled)",
+          "deadlineDate": null
+        },
+        {
+          "name": "Round 2",
+          "deadline": "Phase 1: 15 Dec (notify by 22 Dec) · Phase 2: 5 Jan* (notify by 15 Mar) · deposit 15 Apr (years not labeled; *intl apply by R2)",
+          "deadlineDate": null
+        },
+        {
+          "name": "Round 3",
+          "deadline": "Phase 1: 15 Feb (notify by 22 Feb) · Phase 2: 1 Mar (notify by 15 Apr) · deposit 30 Apr (years not labeled)",
+          "deadlineDate": null
+        },
+        {
+          "name": "Round 4",
+          "deadline": "Phase 1: 1 Apr (notify by 8 Apr) · Phase 2: 15 Apr (notify by 15 May) · deposit 30 May (years not labeled)",
+          "deadlineDate": null
+        }
+      ],
+      "sources": [
+        [
+          "How to Apply (application deadlines table)",
+          "https://kelley.iu.edu/programs/full-time-mba/admissions/process-timeline.html"
+        ],
+        [
+          "Full-Time MBA FAQ",
+          "https://kelley.iu.edu/programs/full-time-mba/admissions/faq.html"
+        ],
+        [
+          "Full-Time MBA program",
+          "https://kelley.iu.edu/programs/full-time-mba/"
+        ]
+      ],
+      "notes": "Official How to Apply table posts Phase 1 / Phase 2 / deposit as month-day only — no Fall 2027 calendar years on the deadline cells. Graduate application portal labels Current Start Term cycle Fall 2027, but that does not label the table dates. FAQ: international candidates should apply by January 5 / no later than round 2 (month-day). Clock time not on table. deadlineDate=null per unlabeled-year rule. As of 2026-10-20, if the annual cycle matches Fall 2027, Round 1 Phase 2 (Oct 15) has passed — next useful Phase 2 is Round 2 (5 Jan). Do not invent 2027 for Jan 5. Application open calendar day not posted. Full-Time +Flex residential MBA (not Kelley Direct Online-only)."
+    },
+    {
+      "id": "unc-mba",
+      "as_of": "2026-10-20",
+      "deadline": "Round 2 · 6 Jan 2027 · 11:59 p.m. ET (Full-Time MBA Class of 2029 / Aug 2027; R1 passed)",
+      "deadlineDate": "2027-01-06",
+      "applicationOpen": null,
+      "rounds": [
+        {
+          "name": "Round 1",
+          "deadline": "30 Sep 2026 · 11:59 p.m. ET (decision 9 Dec 2026)",
+          "deadlineDate": "2026-09-30"
+        },
+        {
+          "name": "Round 2",
+          "deadline": "6 Jan 2027 · 11:59 p.m. ET (decision 10 Mar 2027)",
+          "deadlineDate": "2027-01-06"
+        },
+        {
+          "name": "Round 3",
+          "deadline": "3 Mar 2027 · 11:59 p.m. ET (decision 21 Apr 2027; final for internationals)",
+          "deadlineDate": "2027-03-03"
+        },
+        {
+          "name": "Round 4",
+          "deadline": "21 Apr 2027 · 11:59 p.m. ET (decision 19 May 2027)",
+          "deadlineDate": "2027-04-21"
+        },
+        {
+          "name": "Consortium Round 1",
+          "deadline": "15 Oct 2026",
+          "deadlineDate": "2026-10-15"
+        },
+        {
+          "name": "Consortium Round 2",
+          "deadline": "5 Jan 2027",
+          "deadlineDate": "2027-01-05"
+        }
+      ],
+      "sources": [
+        [
+          "Full-Time MBA Requirements and Deadlines (2026-2027)",
+          "https://www.kenan-flagler.unc.edu/programs/mba/full-time-mba/admissions/requirements-deadlines/"
+        ],
+        [
+          "Full-Time MBA Apply (Class of 2029 / Aug 2027)",
+          "https://www.kenan-flagler.unc.edu/programs/mba/full-time-mba/admissions/apply/"
+        ],
+        [
+          "Full-Time MBA program",
+          "https://www.kenan-flagler.unc.edu/programs/mba/full-time-mba/"
+        ]
+      ],
+      "notes": "Official 2026-2027 deadlines table with calendar years. Apply page: Full-Time MBA Class of 2029, classes beginning August 2027. Submit by 11:59 p.m. (ET). Round 3 is final deadline for international applicants. Consortium R1 Oct 15 2026 / R2 Jan 5 2027 listed separately. As of 2026-10-20, Round 1 passed — primary = Round 2 (2027-01-06). Application open calendar day not posted. Full-time MBA only."
+    },
+    {
+      "id": "emory-mba",
+      "as_of": "2026-10-20",
+      "deadline": "Round 2 · 6 Jan 2027 · 11:59 p.m. ET (Two-Year FT MBA 26–27 cycle; R1 passed)",
+      "deadlineDate": "2027-01-06",
+      "applicationOpen": null,
+      "rounds": [
+        {
+          "name": "Round 1",
+          "deadline": "30 Sep 2026 · 11:59 p.m. ET (notify 2 Dec 2026)",
+          "deadlineDate": "2026-09-30"
+        },
+        {
+          "name": "Round 2",
+          "deadline": "6 Jan 2027 · 11:59 p.m. ET (notify 22 Mar 2027)",
+          "deadlineDate": "2027-01-06"
+        },
+        {
+          "name": "Round 3",
+          "deadline": "17 Mar 2027 · 11:59 p.m. ET (notify 5 May 2027)",
+          "deadlineDate": "2027-03-17"
+        },
+        {
+          "name": "Rolling",
+          "deadline": "Rolling up to 2 weeks before program start if seats available (notify within 10 business days)",
+          "deadlineDate": null
+        }
+      ],
+      "sources": [
+        [
+          "Two-Year MBA Admissions (deadlines)",
+          "https://goizueta.emory.edu/full-time-mba/two-year-mba/admissions"
+        ],
+        [
+          "Apply to Full-Time MBA (11:59PM ET; 26–27 cycle)",
+          "https://goizueta.emory.edu/full-time-mba/two-year-mba/admissions/application"
+        ],
+        [
+          "Two-Year MBA program",
+          "https://goizueta.emory.edu/full-time-mba/two-year-mba/"
+        ]
+      ],
+      "notes": "Official Two-Year MBA deadlines with calendar years. Application page: due by 11:59PM ET on the deadline date; test-waiver materials labeled 26–27 / 2026-2027 admissions cycle. Scholarship candidates encouraged to apply by Round 2. Rolling after Round 3 until ~2 weeks before start if seats remain. As of 2026-10-20, Round 1 passed — primary = Round 2 (2027-01-06). Application open calendar day not posted. Two-Year full-time MBA only — not One-Year/Evening/EMBA."
+    },
+    {
+      "id": "utd-mba",
+      "as_of": "2026-10-20",
+      "deadline": "Round 2 · 8 Jan (month-day; year not labeled on official FT MBA deadlines table; fall start; R1 Oct 15 passed if same annual cycle)",
+      "deadlineDate": null,
+      "applicationOpen": null,
+      "rounds": [
+        {
+          "name": "Round 1",
+          "deadline": "15 Oct (decision 15 Dec; enroll fee 15 Jan; years not labeled)",
+          "deadlineDate": null
+        },
+        {
+          "name": "Round 2",
+          "deadline": "8 Jan (decision 20 Feb; enroll fee 15 Mar; years not labeled)",
+          "deadlineDate": null
+        },
+        {
+          "name": "Round 3",
+          "deadline": "1 Mar (decision 15 Apr; enroll fee 15 May; years not labeled)",
+          "deadlineDate": null
+        },
+        {
+          "name": "Round 4",
+          "deadline": "1 May (decision 15 Jun; enroll fee 30 Jun; years not labeled)",
+          "deadlineDate": null
+        }
+      ],
+      "sources": [
+        [
+          "Full-Time MBA Admissions (deadlines table)",
+          "https://mba.utdallas.edu/admissions/full-time-mba/"
+        ],
+        [
+          "MBA programs hub",
+          "https://mba.utdallas.edu/"
+        ]
+      ],
+      "notes": "Official Full-Time MBA Admissions page: new class each fall; deadlines table posts Oct 15 / Jan 8 / Mar 1 / May 1 as month-day only — no Fall 2027 calendar years. Apps after May 1 considered rolling. Clock time not on table. deadlineDate=null per unlabeled-year rule. As of 2026-10-20, if the annual cycle matches Fall 2027 entry, Round 1 (Oct 15) has passed — next useful = Round 2 (8 Jan). Do not invent 2027 for Jan 8. Application open calendar day not posted. Full-Time Cohort MBA only — not Evening/Flex/Online/EMBA."
+    },
+    {
+      "id": "usc-mba",
+      "as_of": "2026-10-20",
+      "deadline": "Round 2 · 5 Jan 2027 (Full-Time MBA; R1 passed; clock time not on table)",
+      "deadlineDate": "2027-01-05",
+      "applicationOpen": null,
+      "rounds": [
+        {
+          "name": "Round 1",
+          "deadline": "15 Oct 2026 (decision by 15 Dec 2026)",
+          "deadlineDate": "2026-10-15"
+        },
+        {
+          "name": "Round 2",
+          "deadline": "5 Jan 2027 (decision by 31 Mar 2027)",
+          "deadlineDate": "2027-01-05"
+        },
+        {
+          "name": "Round 3",
+          "deadline": "1 Mar 2027 (decision by 15 May 2027)",
+          "deadlineDate": "2027-03-01"
+        },
+        {
+          "name": "Round 4",
+          "deadline": "15 Apr 2027 (decision by 15 Jun 2027)",
+          "deadlineDate": "2027-04-15"
+        },
+        {
+          "name": "Round 5 — Rolling",
+          "deadline": "After 15 Apr 2027 (space-available)",
+          "deadlineDate": null
+        }
+      ],
+      "sources": [
+        [
+          "Full-Time MBA Admissions (deadlines)",
+          "https://www.marshall.usc.edu/programs/graduate-programs/mba-programs/full-time-mba/admissions"
+        ],
+        [
+          "Full-Time MBA program",
+          "https://www.marshall.usc.edu/programs/graduate-programs/mba-programs/full-time-mba"
+        ]
+      ],
+      "notes": "Official FTMBA Admissions page lists Round 1–4 with calendar years; Round 5 rolling after April 15, 2027 on space-available basis. Submission clock time not on deadline table (do not invent). No application fee. As of 2026-10-20, Round 1 (15 Oct 2026) passed — primary = Round 2 (2027-01-05). Application open calendar day not posted. Full-time two-year MBA only."
+    },
+    {
+      "id": "georgia-mba",
+      "as_of": "2026-10-20",
+      "deadline": "Round 2 · 10 Jan 2027 · 11:59 p.m. ET (Full-Time MBA; R1 passed; recommended for internationals)",
+      "deadlineDate": "2027-01-10",
+      "applicationOpen": null,
+      "rounds": [
+        {
+          "name": "Round 1",
+          "deadline": "10 Oct 2026 · 11:59 p.m. ET (decisions due 4 Dec 2026)",
+          "deadlineDate": "2026-10-10"
+        },
+        {
+          "name": "Round 2",
+          "deadline": "10 Jan 2027 · 11:59 p.m. ET (decisions due 19 Mar 2027; recommended for internationals)",
+          "deadlineDate": "2027-01-10"
+        },
+        {
+          "name": "Round 3",
+          "deadline": "10 Mar 2027 · 11:59 p.m. ET (decisions due 7 May 2027; final for internationals / recommended for merit aid)",
+          "deadlineDate": "2027-03-10"
+        },
+        {
+          "name": "Round 4",
+          "deadline": "10 May 2027 · 11:59 p.m. ET (decisions due 4 Jun 2027; final for all / dual degree; then rolling)",
+          "deadlineDate": "2027-05-10"
+        }
+      ],
+      "sources": [
+        [
+          "Full-Time MBA Admissions (deadlines)",
+          "https://www.terry.uga.edu/mba/fulltime/admissions/"
+        ],
+        [
+          "Full-Time MBA program",
+          "https://www.terry.uga.edu/mba/fulltime/"
+        ]
+      ],
+      "notes": "Official Full-Time MBA Admissions page lists four rounds with calendar years and 11:59 PM ET. Round 2 recommended for international students; Round 3 final for internationals and recommended for merit scholarships/full-tuition assistantships; Round 4 final for all including dual degrees, then rolling. As of 2026-10-20, Round 1 passed — primary = Round 2 (2027-01-10). Application open calendar day not posted. Full-time MBA only."
+    },
+    {
+      "id": "gatech-mba",
+      "as_of": "2026-10-20",
+      "deadline": "Round 2 · 8 Jan 2027 (Fall 2027 Start Full-time MBA; R1 passed; clock time not on table)",
+      "deadlineDate": "2027-01-08",
+      "applicationOpen": null,
+      "rounds": [
+        {
+          "name": "Round 1",
+          "deadline": "5 Oct 2026 (decision 20 Nov 2026)",
+          "deadlineDate": "2026-10-05"
+        },
+        {
+          "name": "Round 2",
+          "deadline": "8 Jan 2027 (decision 5 Mar 2027)",
+          "deadlineDate": "2027-01-08"
+        },
+        {
+          "name": "Round 3",
+          "deadline": "5 Mar 2027 (decision 16 Apr 2027)",
+          "deadlineDate": "2027-03-05"
+        },
+        {
+          "name": "Round 4",
+          "deadline": "30 Apr 2027 (decision 28 May 2027)",
+          "deadlineDate": "2027-04-30"
+        }
+      ],
+      "sources": [
+        [
+          "Full-time MBA Admissions (Fall 2027 deadlines)",
+          "https://www.scheller.gatech.edu/explore-programs/mba-programs/full-time-mba/admissions/index.html"
+        ],
+        [
+          "Full-time MBA program",
+          "https://www.scheller.gatech.edu/explore-programs/mba-programs/full-time-mba/"
+        ]
+      ],
+      "notes": "Official page titled Fall 2027 Start MBA Application Deadlines with calendar years for Rounds 1–4. Majority of merit funding to R1–R2; internationals encouraged by Round 2. Submission clock time not on deadline table (do not invent). Interviews by invitation. As of 2026-10-20, Round 1 passed — primary = Round 2 (2027-01-08). Application open calendar day not posted. Full-time MBA only (fall start)."
+    },
+    {
+      "id": "washu-mba",
+      "as_of": "2026-10-20",
+      "deadline": "Round 2 · 7 Jan 2027 · 11:59 p.m. CT (Full-Time MBA Fall 2027; R1 passed)",
+      "deadlineDate": "2027-01-07",
+      "applicationOpen": null,
+      "rounds": [
+        {
+          "name": "Round 1",
+          "deadline": "8 Oct 2026 · 11:59 p.m. CT (notify by 12 Nov 2026)",
+          "deadlineDate": "2026-10-08"
+        },
+        {
+          "name": "Round 2",
+          "deadline": "7 Jan 2027 · 11:59 p.m. CT (notify by 18 Feb 2027)",
+          "deadlineDate": "2027-01-07"
+        },
+        {
+          "name": "Round 3",
+          "deadline": "25 Feb 2027 · 11:59 p.m. CT (notify by 1 Apr 2027)",
+          "deadlineDate": "2027-02-25"
+        },
+        {
+          "name": "Round 4",
+          "deadline": "15 Apr 2027 · 11:59 p.m. CT (notify by 13 May 2027)",
+          "deadlineDate": "2027-04-15"
+        },
+        {
+          "name": "Rolling Admissions",
+          "deadline": "After 15 Apr 2027 (before program start)",
+          "deadlineDate": null
+        }
+      ],
+      "sources": [
+        [
+          "Full-Time MBA How to Apply (Fall 2027 deadlines)",
+          "https://olin.washu.edu/programs/mbas/full-time-mba/apply.php"
+        ],
+        [
+          "Full-Time MBA program",
+          "https://olin.washu.edu/programs/mbas/full-time-mba/"
+        ]
+      ],
+      "notes": "Official How to Apply page: MBA Application Deadlines - Fall 2027; decisions for apps submitted by 11:59 pm (CT). Four rounds plus rolling after April 15, 2027. No application fee. As of 2026-10-20, Round 1 passed — primary = Round 2 (2027-01-07). Application open calendar day not posted. Full-time MBA only."
+    },
+    {
+      "id": "asu-mba",
+      "as_of": "2026-10-20",
+      "deadline": "Round II · 1 Dec 2026 (Full-time MBA Fall 2027; Round I passed; clock time not on table)",
+      "deadlineDate": "2026-12-01",
+      "applicationOpen": null,
+      "rounds": [
+        {
+          "name": "Round I",
+          "deadline": "15 Oct 2026 (decision 11 Dec 2026)",
+          "deadlineDate": "2026-10-15"
+        },
+        {
+          "name": "Round II",
+          "deadline": "1 Dec 2026 (decision 5 Feb 2027)",
+          "deadlineDate": "2026-12-01"
+        },
+        {
+          "name": "Round III (Priority International)",
+          "deadline": "1 Feb 2027 (decision 9 Apr 2027)",
+          "deadlineDate": "2027-02-01"
+        },
+        {
+          "name": "Round IV (Final)",
+          "deadline": "1 Apr 2027 (decision 4 Jun 2027)",
+          "deadlineDate": "2027-04-01"
+        },
+        {
+          "name": "Rolling",
+          "deadline": "Through 15 Jul 2027 (decision within ~3 weeks of complete app)",
+          "deadlineDate": "2027-07-15"
+        }
+      ],
+      "sources": [
+        [
+          "Full-time MBA (Fall 2027 how to apply / deadlines)",
+          "https://www.wpcarey.asu.edu/mba-programs/full-time"
+        ]
+      ],
+      "notes": "Official Full-time MBA page Fall 2027 section lists Round I–IV with calendar years; apps accepted rolling until July 15, 2027. All required documents must be on file by each deadline or app may move to next round. Submission clock time not on deadline table (do not invent). As of 2026-10-20, Round I (15 Oct 2026) passed — primary = Round II (2026-12-01), not a January round. Application open calendar day not posted. Full-time Tempe campus MBA only."
+    },
+    {
+      "id": "rice-mba",
+      "as_of": "2026-10-20",
+      "deadline": "Round 2 · 6 Jan 2027 · 11:59 p.m. CT (Full-Time MBA Class of 2029; R1 passed; apps open)",
+      "deadlineDate": "2027-01-06",
+      "applicationOpen": null,
+      "rounds": [
+        {
+          "name": "Round 1",
+          "deadline": "16 Oct 2026 · 11:59 p.m. CT (rolling decisions starting 10 Dec 2026)",
+          "deadlineDate": "2026-10-16"
+        },
+        {
+          "name": "Round 2",
+          "deadline": "6 Jan 2027 · 11:59 p.m. CT (rolling decisions starting 10 Mar 2027)",
+          "deadlineDate": "2027-01-06"
+        },
+        {
+          "name": "Round 3",
+          "deadline": "31 Mar 2027 · 11:59 p.m. CT (rolling decisions starting 5 May 2027)",
+          "deadlineDate": "2027-03-31"
+        },
+        {
+          "name": "Round 4 (domestic only)",
+          "deadline": "1 Jun 2027 · 11:59 p.m. CT (space-available; U.S. citizens/permanent residents only)",
+          "deadlineDate": "2027-06-01"
+        },
+        {
+          "name": "Consortium Round 1",
+          "deadline": "15 Oct 2026",
+          "deadlineDate": "2026-10-15"
+        },
+        {
+          "name": "Consortium Round 2",
+          "deadline": "5 Jan 2027",
+          "deadlineDate": "2027-01-05"
+        }
+      ],
+      "sources": [
+        [
+          "MBA Admissions Requirements / Guide (Class of 2029 deadlines)",
+          "https://business.rice.edu/mba-admissions/guide"
+        ],
+        [
+          "Full-Time MBA program",
+          "https://business.rice.edu/rice-mba/full-time-mba/"
+        ]
+      ],
+      "notes": "Official Admissions Guide: Applications for Class of 2029 are open; Full-Time MBA deadlines with calendar years and 11:59 PM CT. Round 4 domestic only. Consortium R1 Oct 15 2026 / R2 Jan 5 2027 listed. Exact application-open calendar day not posted — applicationOpen=null; fold open status into deadline display and academic addendum. As of 2026-10-20, Round 1 (16 Oct 2026) passed — primary = Round 2 (2027-01-06). Full-time MBA only — not Professional/Executive/Online/Deferred pathways as primary."
+    }
+  ]
+}

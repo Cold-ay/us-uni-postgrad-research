@@ -32,7 +32,7 @@ Not verified — null; 2026–27.
 
 ASU W. P. Carey Full-time MBA Cost and aid page publishes only estimated total tuition and fees for the 21-month program — Resident $66,000, Nonresident $120,000, International $130,000 — with no academic-year or per-semester breakdown. Separate enrollment deposit $1,000 and matriculation fee $500. No official 2026–27 academic-year tuition figure found without inventing a split of the program total; tuition field left null. Full-time MBA only — not Online/Executive.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: Round II · 1 Dec 2026 (Full-time MBA Fall 2027; Round I passed; clock time not on table). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -47,7 +47,7 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 ## Sources
 
 - [Full-time MBA academics](https://www.wpcarey.asu.edu/mba-programs/full-time/academics)
-- [Official tuition / budget](https://www.wpcarey.asu.edu/mba-programs/full-time)
+- [Full-time MBA (Fall 2027 how to apply / deadlines)](https://www.wpcarey.asu.edu/mba-programs/full-time)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

@@ -32,7 +32,7 @@ $44,956 — Academic-year tuition (Full-time MBA, Out-of-State); 2026–27.
 
 Georgia Tech Scheller Full-time MBA Tuition and Financing: Out-of-State $44,956/Year; In-State $30,548/Year; Out-of-Country $46,260/Year. Mandatory Fees $1,516/Year (plus $100 international student fee when applicable). Confirmed on Bursar Fall 2026 MBA chart: Out-of-State tuition $22,478 at 12+ credit hours/semester → $44,956 AY; institute fees $758/semester → $1,516 AY. Full-time MBA only — not Evening MBA.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: Round 2 · 8 Jan 2027 (Fall 2027 Start Full-time MBA; R1 passed; clock time not on table). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -49,6 +49,8 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 - [Full-time MBA curriculum](https://www.scheller.gatech.edu/explore-programs/mba-programs/full-time-mba/curriculum/index.html)
 - [Official tuition / budget](https://www.scheller.gatech.edu/explore-programs/mba-programs/full-time-mba/tuition-and-financing/index.html)
 - [Bursar Fall 2026 MBA tuition PDF](https://bursar.gatech.edu/student/tuition/fa26/fa26_mba.pdf)
+- [Full-time MBA Admissions (Fall 2027 deadlines)](https://www.scheller.gatech.edu/explore-programs/mba-programs/full-time-mba/admissions/index.html)
+- [Full-time MBA program](https://www.scheller.gatech.edu/explore-programs/mba-programs/full-time-mba/)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence
