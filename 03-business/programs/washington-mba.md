@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$60,180 — Academic-year tuition (Full-Time MBA, nonresident; 3 quarters); 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 reference, not a Fall 2027 quote or full-degree total.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+UW Foster Full-Time MBA Tuition and Financing: Non-resident $20,060 tuition per quarter + $403 fees; Resident $14,166 tuition + $403 fees. Academic-year (three-quarter) nonresident tuition = 3 × $20,060 = $60,180 (tuition+fees AY ≈ $61,389). Published Total Estimated Program Cost (six quarters / two years) is $122,778 nonresident / $87,414 resident — full-program totals, not used as the annual tuition field. Cohort rate held for both years once enrolled. Full-time MBA only.
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -46,7 +46,8 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program / academic source](https://foster.uw.edu/academics/degree-programs/full-time-mba/curriculum/)
+- [Full-Time MBA curriculum](https://foster.uw.edu/academics/degree-programs/full-time-mba/curriculum/)
+- [Official tuition / budget](https://foster.uw.edu/academics/degree-programs/full-time-mba/tuition-and-fees/)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

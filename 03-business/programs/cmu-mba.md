@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-$84,186 — Academic-year Full-Time MBA tuition; 2026–27.
+$84,186 — Academic-year tuition (Tepper Full-Time MBA); 2026–27.
 
-2026–27 official SFS Tepper budget; not Fall 2027 quote. Not full four-semester total unless multiplied.
+2026–27 reference, not a Fall 2027 quote or full-degree total.
 
-CMU SFS Tepper Full-Time/Accelerated MBA budget: Tuition $42,093/semester → $84,186 AY. Single graduate student academic-year total $120,798 including housing $10,350; food $5,176; books $1,450; travel $3,220; misc $10,524; activity/transport/tech fees; health insurance $3,352; estimated loan fees $1,500. Full-Time MBA = four semesters; Accelerated = three. Laptop ~$1,500 separate. Living/housing band from official COA: $15526–$26020 (SFS single-student Housing+Food $15,526; Housing+Food+Misc+Travel $26,270 approx within published non-tuition lines.).
+CMU Student Financial Services Tepper Full-Time MBA and Accelerated MBA page for 2026–2027 lists Tuition $42,093 Fall 2026 + $42,093 Spring 2027 = $84,186 academic year. University fees (activity $248, transportation $302, technology $490 AY), health insurance ($3,352), and living expenses are separate; single-student total budget $120,798. Full-Time MBA is four semesters; Accelerated is three — figure is one academic year only. Laptop estimate $1,500 additional. Full-time MBA only — not part-time/online.
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -46,8 +46,8 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program / academic source](https://www.cmu.edu/tepper/programs/mba/curriculum)
-- [Tepper Full-Time MBA and Accelerated MBA — SFS](https://www.cmu.edu/sfs/tuition/graduate/tepper/full-accel-mba.html)
+- [MBA curriculum](https://www.cmu.edu/tepper/programs/mba/curriculum)
+- [Official tuition / budget](https://www.cmu.edu/sfs/tuition/graduate/tepper/full-accel-mba.html)
 - [2026–2027 Graduate Tuition index](https://www.cmu.edu/sfs/tuition/graduate/index.html)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 

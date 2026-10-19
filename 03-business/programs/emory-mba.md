@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$79,200 — Academic-year tuition (Goizueta Two-Year Full-Time MBA); 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 reference, not a Fall 2027 quote or full-degree total.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+Emory Student Accounts 2026–2027 Tuition & Fee Schedule lists Traditional MBA Program annual tuition $79,200 ($39,600 Fall + $39,600 Spring). Goizueta Cost of Full-Time MBA page publishes Total Tuition $158,400 and Total MBA Tuition & Fees $163,549 for the two-year degree (mandatory fees $4,904 program-level; application/transcript $245). Other annual estimated costs ~$38,444 (living, books, health insurance, parking). Two-Year full-time MBA only — not One-Year/Evening/EMBA.
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -46,7 +46,9 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program / academic source](https://goizueta.emory.edu/full-time-mba/two-year-mba/faq)
+- [Two-Year MBA FAQ](https://goizueta.emory.edu/full-time-mba/two-year-mba/faq)
+- [Official tuition / budget](https://goizueta.emory.edu/full-time-mba/two-year-mba/admissions/tuition)
+- [Emory Student Accounts 2026–27 schedule (PDF)](https://studentaccounts.emory.edu/_includes/documents/2026-2027-tuition-and-fee-schedule_final-3.pdf)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

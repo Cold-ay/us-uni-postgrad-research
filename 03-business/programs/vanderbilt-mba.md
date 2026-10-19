@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$76,700 — Academic-year tuition (Owen Full-Time MBA); 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 reference, not a Fall 2027 quote or full-degree total.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+Vanderbilt Owen MBA Tuition & Financing and Student Accounts Graduate/Professional Tuition and Fees 2026–2027 both list Owen Graduate School of Management Tuition $76,700 per year. Separate first-year direct costs include Maintenance Fee $1,250, Transcript Fee $100 (first Fall), Student Services Fee $694, Student Health Fee $882; health insurance and living expenses are additional. Full-time MBA only — not Executive MBA.
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -46,7 +46,9 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program / academic source](https://business.vanderbilt.edu/mba/)
+- [MBA program](https://business.vanderbilt.edu/mba/)
+- [Official tuition / budget](https://business.vanderbilt.edu/mba/admissions/tuition-financing-scholarships/)
+- [Student Accounts 2026–27 grad/prof fees](https://www.vanderbilt.edu/stuaccts/fees/tuition_fees_2026-27_grad_prof/)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence
