@@ -1,7 +1,7 @@
 import { rankedSchools } from './catalog.js';
 import { rankingSources, rankingEdition } from './rankings.js';
 import { researchDetails } from './research-details.js';
-import { outcomeCards } from './outcomes.js';
+import { outcomeCards, outcomeAdjacentByCatalogId, outcomeSpecialtyByCatalogId } from './outcomes.js';
 export const checked = '19 October 2026';
 const seedPrograms = [
   {
@@ -62,6 +62,8 @@ export const programs = rankedSchools.map(row => {
     tied: rankedSchools.filter(p => p.area === row.area && p.rank === row.rank).length > 1,
     ranking, rankingEdition,
     outcome: outcomeCards[row.id] || null,
+    outcomeAdjacent: outcomeAdjacentByCatalogId[row.id] || [],
+    outcomeSpecialty: outcomeSpecialtyByCatalogId[row.id] || [],
     note: `${row.area === 'Business' ? '03-business' : '02-computer-science'}/programs/${row.id}.md`,
     sources: [...new Map([
       ['Program / academic source', detail.programUrl || row.programUrl],

@@ -11,11 +11,32 @@ const confidencePill = level => `<span class="pill ${confidenceTone(level)}">${e
 const outcomeSources = sources => `<div class="source-links">${sources.map(s => external(`${s.title} · accessed ${s.access_date}`, s.url)).join('')}</div>`;
 const outcomeEmployers = o => Array.isArray(o.notable_employers) ? `<ul class="employer-list">${o.notable_employers.map(e => `<li>${esc(e)}</li>`).join('')}</ul>` : `<p>${esc(o.notable_employers)}</p>`;
 const outcomeShortLine = o => { if (!o) return 'No outcome card yet'; const placement = String(o.full_time_placement); const short = placement.length > 72 ? `${placement.slice(0, 69)}…` : placement; return `<span translate="no" lang="en">${esc(short)} · ${confidencePill(o.confidence)}</span>`; };
-function outcomeCardBlock(o) {
- const matchNotice = o.match !== 'same-route' && o.matchCaveat ? `<div class="notice"><span class="notice-icon" aria-hidden="true">ⓘ</span><div><b>Route match caveat.</b> ${esc(o.matchCaveat)}</div></div>` : '';
- return `<div class="outcome-card" translate="no" lang="en"><span class="pill">Original English evidence</span><div class="badge-row">${confidencePill(o.confidence)}<span class="pill">Path batch · updated ${esc(o.last_updated)}</span></div><p class="outcome-reason">${esc(o.confidence_reason)}</p>${matchNotice}<p><strong>Full-time placement:</strong> ${esc(o.full_time_placement)}</p>${o.full_time_placement_notes ? `<p>${esc(o.full_time_placement_notes)}</p>` : ''}<p><strong>Internship rate:</strong> ${esc(o.internship_rate)}</p>${o.internship_rate_notes ? `<p>${esc(o.internship_rate_notes)}</p>` : ''}<h4>Notable employers</h4>${outcomeEmployers(o)}${o.notable_employers_caveat ? `<p class="limit">${esc(o.notable_employers_caveat)}</p>` : ''}${o.notable_employers_notes ? `<p class="limit">${esc(o.notable_employers_notes)}</p>` : ''}<h4>Sources</h4>${outcomeSources(o.sources)}</div>`;
+function outcomeRouteNotice(o) {
+ if (o.routeMismatch || (o.match !== 'same-route' && o.matchCaveat)) {
+  const label = o.routeMismatch ? 'Route mismatch' : 'Route match caveat';
+  const text = o.routeMismatchNotes || o.matchCaveat || '';
+  const tone = o.routeMismatch && /suspended|not accept/i.test(text) ? ' red' : ' amber';
+  return `<div class="notice${tone}"><span class="notice-icon" aria-hidden="true">ⓘ</span><div><b>${label}.</b> ${esc(text)}</div></div>`;
+ }
+ return '';
 }
-const careerSection = p => `<h3>Internships & career support</h3>${p.outcome ? outcomeCardBlock(p.outcome) : `<p>${p.internship}</p>`}`;
+function outcomeCardBlock(o, { variant = 'primary' } = {}) {
+ const variantPill = variant === 'adjacent' ? '<span class="pill amber">Adjacent route evidence</span>' : variant === 'specialty' ? '<span class="pill">Specialty program · not in ranking table</span>' : '';
+ const programLabel = o.program ? `<p class="outcome-program"><strong>${esc(o.program)}</strong>${o.school ? ` · ${esc(o.school)}` : ''}</p>` : '';
+ return `<div class="outcome-card ${variant}" translate="no" lang="en"><span class="pill">Original English evidence</span>${variantPill}<div class="badge-row">${confidencePill(o.confidence)}<span class="pill">Path batch · updated ${esc(o.last_updated)}</span>${o.routeMismatch ? '<span class="pill amber">Route mismatch</span>' : ''}</div>${programLabel}<p class="outcome-reason">${esc(o.confidence_reason)}</p>${outcomeRouteNotice(o)}<p><strong>Full-time placement:</strong> ${esc(o.full_time_placement)}</p>${o.full_time_placement_notes ? `<p>${esc(o.full_time_placement_notes)}</p>` : ''}<p><strong>Internship rate:</strong> ${esc(o.internship_rate)}</p>${o.internship_rate_notes ? `<p>${esc(o.internship_rate_notes)}</p>` : ''}<h4>Notable employers</h4>${outcomeEmployers(o)}${o.notable_employers_caveat ? `<p class="limit">${esc(o.notable_employers_caveat)}</p>` : ''}${o.notable_employers_notes ? `<p class="limit">${esc(o.notable_employers_notes)}</p>` : ''}<h4>Sources</h4>${outcomeSources(o.sources)}</div>`;
+}
+const careerSection = p => {
+ const blocks = [];
+ if (p.outcome) blocks.push(outcomeCardBlock(p.outcome));
+ else blocks.push(`<p>${p.internship}</p>`);
+ if (p.outcomeAdjacent?.length) {
+  blocks.push(`<h4>Adjacent route evidence</h4><p class="limit">These cards research a different delivery format or route than the catalog row. They do not replace the primary card above.</p>${p.outcomeAdjacent.map(o => outcomeCardBlock(o, { variant: 'adjacent' })).join('')}`);
+ }
+ if (p.outcomeSpecialty?.length) {
+  blocks.push(`<h4>Related specialty programs (research only)</h4><p class="limit">Not linked to this catalog row; shown for context only.</p>${p.outcomeSpecialty.map(o => outcomeCardBlock(o, { variant: 'specialty' })).join('')}`);
+ }
+ return `<h3>Internships & career support</h3>${blocks.join('')}`;
+};
 let selected = new Set();
 try { selected = new Set(JSON.parse(localStorage.getItem('fieldnotes-compare') || '[]').filter(id => programs.some(p => p.id === id)).slice(0,4)); } catch {}
 let page = 1, view = 'table', routeFilter = 'All routes';
