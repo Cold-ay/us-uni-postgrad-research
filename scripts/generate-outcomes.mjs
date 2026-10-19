@@ -7,6 +7,7 @@ const root = path.resolve(import.meta.dirname, '..');
 const UNLINKED_ATTACH_TO_CATALOG = {
   'cmu-msml': 'cmu-mscs',
   'cmu-mcds': 'cmu-mscs',
+  'cmu-msaii': 'cmu-mscs',
 };
 
 function normalizeBatch001Card(card, mapping) {
@@ -24,7 +25,7 @@ function normalizeBatch001Card(card, mapping) {
   };
 }
 
-function normalizeBatch002Card(card) {
+function normalizeV2CatalogCard(card) {
   const { program_id, catalog_id, route_mismatch, route_mismatch_notes, ...rest } = card;
   const normalized = {
     ...rest,
@@ -37,25 +38,9 @@ function normalizeBatch002Card(card) {
   return { catalogId: catalog_id, card: normalized };
 }
 
-export async function generateOutcomes() {
-  const batch001 = JSON.parse(await readFile(path.join(root, 'path/outcomes/batch-001.json'), 'utf8'));
-  const batch002 = JSON.parse(await readFile(path.join(root, 'path/outcomes/batch-002.json'), 'utf8'));
-  const idMap = JSON.parse(await readFile(path.join(root, 'path/outcomes/id-map.json'), 'utf8'));
-
-  const outcomeCards = {};
-  const unlinkedOutcomeCards = {};
-  const outcomeAdjacentByCatalogId = {};
-  const outcomeSpecialtyByCatalogId = {};
-
-  for (const card of batch001.cards) {
-    const mapping = idMap.map[card.program_id];
-    if (!mapping) throw new Error(`Missing id-map entry for ${card.program_id}`);
-    const { key, card: normalized } = normalizeBatch001Card(card, mapping);
-    outcomeCards[key] = normalized;
-  }
-
-  for (const card of batch002.cards) {
-    const { catalogId, card: normalized } = normalizeBatch002Card(card);
+function ingestV2Batch(batchId, cards, outcomeCards, unlinkedOutcomeCards, outcomeAdjacentByCatalogId, outcomeSpecialtyByCatalogId) {
+  for (const card of cards) {
+    const { catalogId, card: normalized } = normalizeV2CatalogCard(card);
     const programId = card.program_id;
 
     if (catalogId === null) {
@@ -77,15 +62,37 @@ export async function generateOutcomes() {
 
     if (existing && !normalized.routeMismatch) {
       throw new Error(
-        `batch-002 would overwrite batch-001 outcome for ${catalogId} (${programId}); resolve merge rules first.`,
+        `${batchId} would overwrite an existing outcome for ${catalogId} (${programId}); resolve merge rules first.`,
       );
     }
 
     outcomeCards[catalogId] = normalized;
   }
+}
 
-  const body = `// Generated from path/outcomes/batch-001.json, batch-002.json, and id-map.json. Do not edit by hand.
-export const outcomeBatchMeta = ${JSON.stringify([batch001.meta, batch002.meta], null, 2)};
+export async function generateOutcomes() {
+  const batch001 = JSON.parse(await readFile(path.join(root, 'path/outcomes/batch-001.json'), 'utf8'));
+  const batch002 = JSON.parse(await readFile(path.join(root, 'path/outcomes/batch-002.json'), 'utf8'));
+  const batch003 = JSON.parse(await readFile(path.join(root, 'path/outcomes/batch-003.json'), 'utf8'));
+  const idMap = JSON.parse(await readFile(path.join(root, 'path/outcomes/id-map.json'), 'utf8'));
+
+  const outcomeCards = {};
+  const unlinkedOutcomeCards = {};
+  const outcomeAdjacentByCatalogId = {};
+  const outcomeSpecialtyByCatalogId = {};
+
+  for (const card of batch001.cards) {
+    const mapping = idMap.map[card.program_id];
+    if (!mapping) throw new Error(`Missing id-map entry for ${card.program_id}`);
+    const { key, card: normalized } = normalizeBatch001Card(card, mapping);
+    outcomeCards[key] = normalized;
+  }
+
+  ingestV2Batch('batch-002', batch002.cards, outcomeCards, unlinkedOutcomeCards, outcomeAdjacentByCatalogId, outcomeSpecialtyByCatalogId);
+  ingestV2Batch('batch-003', batch003.cards, outcomeCards, unlinkedOutcomeCards, outcomeAdjacentByCatalogId, outcomeSpecialtyByCatalogId);
+
+  const body = `// Generated from path/outcomes/batch-001.json, batch-002.json, batch-003.json, and id-map.json. Do not edit by hand.
+export const outcomeBatchMeta = ${JSON.stringify([batch001.meta, batch002.meta, batch003.meta], null, 2)};
 export const outcomeMeta = ${JSON.stringify(batch001.meta, null, 2)};
 export const outcomeCards = ${JSON.stringify(outcomeCards, null, 2)};
 export const unlinkedOutcomeCards = ${JSON.stringify(unlinkedOutcomeCards, null, 2)};

@@ -1,0 +1,611 @@
+{
+  "meta": {
+    "agent": "path",
+    "purpose": "Fall 2027 US CS MS/MEng + MBA priority list for career-outcomes research",
+    "created": "2026-10-20",
+    "scope_note": "Prioritized for big-tech / top-firm internship and full-time outcomes. Tier is qualitative (elite / strong / reach-adjacent), not a ranking guarantee.",
+    "counts": {
+      "cs": 33,
+      "mba": 18,
+      "total": 51
+    },
+    "batch_001_focus": [
+      "stanford-mscs",
+      "mit-eecs-meng",
+      "cmu-mscs",
+      "berkeley-eecs-meng",
+      "uiuc-mcs",
+      "gatech-mscs",
+      "cornell-tech-meng-cs",
+      "uw-cse-ms",
+      "stanford-gsb-mba",
+      "harvard-hbs-mba",
+      "wharton-mba"
+    ],
+    "catalog_join_notes": {
+      "updated": "2026-10-20",
+      "batch_001_caveats": [
+        "cornell-tech-meng-cs \u2260 cornell-cs (campus)",
+        "uw-cse-ms (Allen MS) \u2260 washington-cs PMP",
+        "mit-eecs-meng \u2194 mit-cs adjacent"
+      ],
+      "batch_002_special": [
+        "cmu-msml / cmu-mcds: catalog_id null \u2014 not in catalog",
+        "gatech-omscs \u2192 gatech-cs with route_mismatch true (online vs campus)",
+        "princeton-mscs \u2192 princeton-cs; master's admissions suspended Fall 2027"
+      ]
+    },
+    "last_updated": "2026-10-20",
+    "batch_003_focus": [
+      "nyu-mscs",
+      "ucsd-mscs",
+      "upenn-mse-cis",
+      "harvard-seas-cs-ms",
+      "cmu-msaii",
+      "duke-mscs",
+      "brown-mscs",
+      "umd-mscs",
+      "tuck-mba",
+      "ross-mba",
+      "stern-mba",
+      "fuqua-mba",
+      "darden-mba",
+      "anderson-mba"
+    ]
+  },
+  "cs_programs": [
+    {
+      "priority": 1,
+      "program_id": "stanford-mscs",
+      "school": "Stanford University",
+      "program": "MS in Computer Science",
+      "degree_type": "MS",
+      "tier": "elite",
+      "why": "Top brand + Bay Area pipeline; resume signal for FAANG/AI; co-term & coterm culture; Scorecard earnings among highest nationally.",
+      "catalog_id": "stanford-cs",
+      "route_mismatch": false
+    },
+    {
+      "priority": 2,
+      "program_id": "mit-eecs-meng",
+      "school": "Massachusetts Institute of Technology",
+      "program": "EECS Master of Engineering (MEng)",
+      "degree_type": "MEng",
+      "tier": "elite",
+      "why": "MIT brand; 6-A internship path; required professional experience; strong industry + research placement ecosystem.",
+      "catalog_id": "mit-cs",
+      "route_mismatch": true,
+      "route_mismatch_notes": "EECS MEng adjacent to mit-cs"
+    },
+    {
+      "priority": 3,
+      "program_id": "cmu-mscs",
+      "school": "Carnegie Mellon University",
+      "program": "MS in Computer Science (SCS)",
+      "degree_type": "MS",
+      "tier": "elite",
+      "why": "SCS #1 reputation; official SCS comparison publishes 93% employment for recent MSCS grads; strong systems/AI employer list.",
+      "catalog_id": "cmu-cs",
+      "route_mismatch": false
+    },
+    {
+      "priority": 4,
+      "program_id": "berkeley-eecs-meng",
+      "school": "UC Berkeley",
+      "program": "EECS Master of Engineering (MEng)",
+      "degree_type": "MEng",
+      "tier": "elite",
+      "why": "1-year industry MEng via Fung Institute; Bay Area recruiters; published median salary; EECS concentrations in systems/DS/robotics.",
+      "catalog_id": "berkeley-cs",
+      "route_mismatch": false
+    },
+    {
+      "priority": 5,
+      "program_id": "uiuc-mcs",
+      "school": "University of Illinois Urbana-Champaign",
+      "program": "Master of Computer Science (MCS) / MS CS",
+      "degree_type": "MCS/MS",
+      "tier": "elite",
+      "why": "Large high-quality CS brand; strong Big Tech hiring history; Scorecard 1-yr median earnings $146k for CS master's; scale + ranking.",
+      "catalog_id": "illinois-cs",
+      "route_mismatch": false
+    },
+    {
+      "priority": 6,
+      "program_id": "gatech-mscs",
+      "school": "Georgia Institute of Technology",
+      "program": "MS in Computer Science (on-campus)",
+      "degree_type": "MS",
+      "tier": "elite",
+      "why": "Official CoC 2024-25: MSCS 84.3% placement, median $134k; Amazon/Microsoft/Apple/Google/Meta among employers; strong ROI.",
+      "catalog_id": "gatech-cs",
+      "route_mismatch": false
+    },
+    {
+      "priority": 7,
+      "program_id": "cornell-tech-meng-cs",
+      "school": "Cornell Tech (Cornell University)",
+      "program": "MEng in Computer Science",
+      "degree_type": "MEng",
+      "tier": "elite",
+      "why": "NYC tech hub; Class of 2025 CS MEng 94% employed within 9 months; Google/Amazon/Palantir/Bloomberg listed.",
+      "catalog_id": "cornell-cs",
+      "route_mismatch": true,
+      "route_mismatch_notes": "Cornell Tech NYC \u2260 campus Ithaca cornell-cs"
+    },
+    {
+      "priority": 8,
+      "program_id": "uw-cse-ms",
+      "school": "University of Washington",
+      "program": "MS in Computer Science & Engineering (Allen School)",
+      "degree_type": "MS",
+      "tier": "elite",
+      "why": "Seattle Big Tech corridor; Allen School statement: 120+ employers, Amazon 100+ hires 2024-25; strong alumni density.",
+      "catalog_id": "washington-cs",
+      "route_mismatch": true,
+      "route_mismatch_notes": "Allen School MS \u2260 washington-cs PMP"
+    },
+    {
+      "priority": 9,
+      "program_id": "princeton-mscs",
+      "school": "Princeton University",
+      "program": "MSE/MS in Computer Science",
+      "degree_type": "MSE/MS",
+      "tier": "elite",
+      "why": "Small selective research-leaning master's; strong academic brand and quant/tech recruiting.",
+      "catalog_id": "princeton-cs",
+      "route_mismatch": true,
+      "route_mismatch_notes": "Master's admissions suspended Fall 2027"
+    },
+    {
+      "priority": 10,
+      "program_id": "columbia-mscs",
+      "school": "Columbia University",
+      "program": "MS in Computer Science",
+      "degree_type": "MS",
+      "tier": "strong",
+      "why": "NYC finance+tech dual pipeline; large track-based MS; strong internships in NYC.",
+      "catalog_id": "columbia-cs",
+      "route_mismatch": false
+    },
+    {
+      "priority": 11,
+      "program_id": "utaustin-mscs",
+      "school": "University of Texas at Austin",
+      "program": "MS in Computer Science",
+      "degree_type": "MS",
+      "tier": "strong",
+      "why": "Top-10ish CS; Austin tech growth; strong SWE outcomes historically.",
+      "catalog_id": "texas-cs",
+      "route_mismatch": false
+    },
+    {
+      "priority": 12,
+      "program_id": "ucla-mscs",
+      "school": "UCLA",
+      "program": "MS in Computer Science",
+      "degree_type": "MS",
+      "tier": "strong",
+      "why": "LA/Bay recruiting; UC brand; solid systems & AI research.",
+      "catalog_id": "ucla-cs",
+      "route_mismatch": false
+    },
+    {
+      "priority": 13,
+      "program_id": "umich-cse-ms",
+      "school": "University of Michigan",
+      "program": "MS in Computer Science and Engineering",
+      "degree_type": "MS",
+      "tier": "strong",
+      "why": "Broad Midwest + national recruiting; strong alumni network.",
+      "catalog_id": "michigan-cs",
+      "route_mismatch": false
+    },
+    {
+      "priority": 14,
+      "program_id": "harvard-seas-cs-ms",
+      "school": "Harvard University",
+      "program": "MS in Computational Science and Engineering / SEAS CS pathways",
+      "degree_type": "MS",
+      "tier": "elite",
+      "why": "Harvard brand; Boston tech/finance; CSE MS industry-relevant.",
+      "catalog_id": "harvard-cs",
+      "route_mismatch": true,
+      "route_mismatch_notes": "CSE interdisciplinary \u2260 standalone MS CS"
+    },
+    {
+      "priority": 15,
+      "program_id": "yale-mscs",
+      "school": "Yale University",
+      "program": "MS in Computer Science",
+      "degree_type": "MS",
+      "tier": "strong",
+      "why": "Ivy brand; smaller cohort signal; East Coast recruiting."
+    },
+    {
+      "priority": 16,
+      "program_id": "upenn-mse-cis",
+      "school": "University of Pennsylvania",
+      "program": "MSE in Computer and Information Science",
+      "degree_type": "MSE",
+      "tier": "strong",
+      "why": "Philly/NYC tech+finance; Wharton adjacency for PM/product paths.",
+      "catalog_id": "penn-cs",
+      "route_mismatch": false,
+      "route_mismatch_notes": "CIS MSE not MCIT"
+    },
+    {
+      "priority": 17,
+      "program_id": "cornell-ithaca-meng-cs",
+      "school": "Cornell University (Ithaca)",
+      "program": "MEng in Computer Science",
+      "degree_type": "MEng",
+      "tier": "strong",
+      "why": "Classic Cornell Engineering MEng; industry-oriented; complements Cornell Tech option."
+    },
+    {
+      "priority": 18,
+      "program_id": "usc-mscs",
+      "school": "University of Southern California",
+      "program": "MS in Computer Science",
+      "degree_type": "MS",
+      "tier": "strong",
+      "why": "Large LA CS MS with multiple specializations; strong industry hiring volume.",
+      "catalog_id": "usc-cs",
+      "route_mismatch": false
+    },
+    {
+      "priority": 19,
+      "program_id": "ucsd-mscs",
+      "school": "UC San Diego",
+      "program": "MS in Computer Science",
+      "degree_type": "MS",
+      "tier": "strong",
+      "why": "Systems/AI strength; San Diego + Bay recruiting; growing brand.",
+      "catalog_id": "ucsd-cs",
+      "route_mismatch": false
+    },
+    {
+      "priority": 20,
+      "program_id": "gatech-omscs",
+      "school": "Georgia Institute of Technology",
+      "program": "Online MS in Computer Science (OMSCS)",
+      "degree_type": "MS (online)",
+      "tier": "strong",
+      "why": "Same GT CS credential at low cost; career-advancement signal for working professionals; Fall 2027 relevant for ROI seekers.",
+      "catalog_id": "gatech-cs",
+      "route_mismatch": true,
+      "route_mismatch_notes": "Online vs campus MS"
+    },
+    {
+      "priority": 21,
+      "program_id": "cmu-msml",
+      "school": "Carnegie Mellon University",
+      "program": "MS in Machine Learning",
+      "degree_type": "MS",
+      "tier": "elite",
+      "why": "World's first ML department; elite AI/ML employer signal.",
+      "catalog_id": null,
+      "route_mismatch": true,
+      "route_mismatch_notes": "Not in catalog rankedSchools"
+    },
+    {
+      "priority": 22,
+      "program_id": "cmu-mcds",
+      "school": "Carnegie Mellon University",
+      "program": "Master of Computational Data Science",
+      "degree_type": "MS",
+      "tier": "elite",
+      "why": "LTI professional DS program; strong industry placement reputation.",
+      "catalog_id": null,
+      "route_mismatch": true,
+      "route_mismatch_notes": "Not in catalog rankedSchools"
+    },
+    {
+      "priority": 23,
+      "program_id": "cmu-mse",
+      "school": "Carnegie Mellon University",
+      "program": "Master of Software Engineering (MSE / MSE-SS)",
+      "degree_type": "MSE",
+      "tier": "strong",
+      "why": "Published 2024 outcomes: Amazon/Meta/Google/Nvidia among employers; clear salary bands."
+    },
+    {
+      "priority": 24,
+      "program_id": "nyu-mscs",
+      "school": "New York University (Courant/Tandon)",
+      "program": "MS in Computer Science",
+      "degree_type": "MS",
+      "tier": "strong",
+      "why": "NYC tech+finance; Courant reputation; large alumni base.",
+      "catalog_id": "nyu-cs",
+      "route_mismatch": false,
+      "route_mismatch_notes": "Courant MSCS; not Tandon"
+    },
+    {
+      "priority": 25,
+      "program_id": "brown-mscs",
+      "school": "Brown University",
+      "program": "ScM in Computer Science",
+      "degree_type": "ScM",
+      "tier": "strong",
+      "why": "Ivy CS; open curriculum culture; East Coast recruiting.",
+      "catalog_id": "brown-cs",
+      "route_mismatch": false
+    },
+    {
+      "priority": 26,
+      "program_id": "duke-mscs",
+      "school": "Duke University",
+      "program": "MS in Computer Science",
+      "degree_type": "MS",
+      "tier": "strong",
+      "why": "Strong regional + national tech recruiting; growing CS brand.",
+      "catalog_id": "duke-cs",
+      "route_mismatch": false
+    },
+    {
+      "priority": 27,
+      "program_id": "northwestern-mscs",
+      "school": "Northwestern University",
+      "program": "MS in Computer Science",
+      "degree_type": "MS",
+      "tier": "reach-adjacent",
+      "why": "Chicago tech/finance; solid private research university brand."
+    },
+    {
+      "priority": 28,
+      "program_id": "purdue-mscs",
+      "school": "Purdue University",
+      "program": "MS in Computer Science",
+      "degree_type": "MS",
+      "tier": "reach-adjacent",
+      "why": "Large engineering brand; Midwest Big Tech recruiting; cost-effective."
+    },
+    {
+      "priority": 29,
+      "program_id": "umd-mscs",
+      "school": "University of Maryland",
+      "program": "MS in Computer Science",
+      "degree_type": "MS",
+      "tier": "reach-adjacent",
+      "why": "DC/MD cybersecurity + Big Tech corridor; strong CS research.",
+      "catalog_id": "maryland-cs",
+      "route_mismatch": true,
+      "route_mismatch_notes": "Dept-wide Class of 2024 survey \u2260 MS-only"
+    },
+    {
+      "priority": 30,
+      "program_id": "wisconsin-mscs",
+      "school": "University of Wisconsin\u2013Madison",
+      "program": "MS in Computer Science",
+      "degree_type": "MS",
+      "tier": "reach-adjacent",
+      "why": "Top public CS research; strong systems tradition; Midwest hiring."
+    },
+    {
+      "priority": 31,
+      "program_id": "rice-mscs",
+      "school": "Rice University",
+      "program": "MCS / MS in Computer Science",
+      "degree_type": "MCS/MS",
+      "tier": "reach-adjacent",
+      "why": "Houston energy+tech; professional MCS option; growing AI presence."
+    },
+    {
+      "priority": 32,
+      "program_id": "northeastern-align-mscs",
+      "school": "Northeastern University",
+      "program": "Align MS in CS / MSCS",
+      "degree_type": "MS",
+      "tier": "reach-adjacent",
+      "why": "Co-op model; career-switcher friendly; Boston employer density."
+    },
+    {
+      "priority": 33,
+      "program_id": "cmu-msaii",
+      "school": "Carnegie Mellon University",
+      "program": "MS in Artificial Intelligence and Innovation",
+      "degree_type": "MS",
+      "tier": "elite",
+      "why": "SCS/LTI AI+innovation professional MS; official SCS comparison shows 100% employment for recent grads.",
+      "catalog_id": null,
+      "route_mismatch": true,
+      "route_mismatch_notes": "Not in catalog"
+    }
+  ],
+  "mba_programs": [
+    {
+      "priority": 1,
+      "program_id": "stanford-gsb-mba",
+      "school": "Stanford Graduate School of Business",
+      "program": "MBA",
+      "degree_type": "MBA",
+      "tier": "elite",
+      "why": "Class of 2025: 90% offers / 81% accepts (3 mo); Tech 35%, Finance 33%; median base $185k; entrepreneurship 16%.",
+      "catalog_id": "stanford-mba",
+      "route_mismatch": false
+    },
+    {
+      "priority": 2,
+      "program_id": "harvard-hbs-mba",
+      "school": "Harvard Business School",
+      "program": "MBA",
+      "degree_type": "MBA",
+      "tier": "elite",
+      "why": "Class of 2025: 90% offers / 84% accepts; Tech 22%, Consulting 21%, PE 14%; median base ~$185k; strong founder path.",
+      "catalog_id": "harvard-mba",
+      "route_mismatch": false
+    },
+    {
+      "priority": 3,
+      "program_id": "wharton-mba",
+      "school": "University of Pennsylvania (Wharton)",
+      "program": "MBA",
+      "degree_type": "MBA",
+      "tier": "elite",
+      "why": "Class of 2025: 90.5% offers / 87% accepts; Finance 38.2%, Consulting 28.2%; median base $185k; deepest finance network.",
+      "catalog_id": "wharton-mba",
+      "route_mismatch": false
+    },
+    {
+      "priority": 4,
+      "program_id": "booth-mba",
+      "school": "University of Chicago Booth",
+      "program": "MBA",
+      "degree_type": "MBA",
+      "tier": "elite",
+      "why": "M7 finance/consulting powerhouse; Chicago + national placement.",
+      "catalog_id": "chicago-mba",
+      "route_mismatch": false
+    },
+    {
+      "priority": 5,
+      "program_id": "kellogg-mba",
+      "school": "Northwestern Kellogg",
+      "program": "MBA",
+      "degree_type": "MBA",
+      "tier": "elite",
+      "why": "M7 consulting/marketing strength; strong tech PM pathways.",
+      "catalog_id": "northwestern-mba",
+      "route_mismatch": false
+    },
+    {
+      "priority": 6,
+      "program_id": "mit-sloan-mba",
+      "school": "MIT Sloan",
+      "program": "MBA",
+      "degree_type": "MBA",
+      "tier": "elite",
+      "why": "Tech + entrepreneurship adjacency to MIT; strong product/ops paths.",
+      "catalog_id": "mit-mba",
+      "route_mismatch": false
+    },
+    {
+      "priority": 7,
+      "program_id": "columbia-mba",
+      "school": "Columbia Business School",
+      "program": "MBA",
+      "degree_type": "MBA",
+      "tier": "elite",
+      "why": "NYC finance hub; strong IB/PE recruiting.",
+      "catalog_id": "columbia-mba",
+      "route_mismatch": false
+    },
+    {
+      "priority": 8,
+      "program_id": "yale-som-mba",
+      "school": "Yale School of Management",
+      "program": "MBA",
+      "degree_type": "MBA",
+      "tier": "strong",
+      "why": "Integrated curriculum; strong consulting + social impact; rising tech.",
+      "catalog_id": "yale-mba",
+      "route_mismatch": false
+    },
+    {
+      "priority": 9,
+      "program_id": "haas-mba",
+      "school": "UC Berkeley Haas",
+      "program": "MBA",
+      "degree_type": "MBA",
+      "tier": "elite",
+      "why": "Bay Area tech MBA; strong PE/VC & product recruiting.",
+      "catalog_id": "berkeley-mba",
+      "route_mismatch": false
+    },
+    {
+      "priority": 10,
+      "program_id": "tuck-mba",
+      "school": "Dartmouth Tuck",
+      "program": "MBA",
+      "degree_type": "MBA",
+      "tier": "strong",
+      "why": "Tight alumni network; consulting + general management strength.",
+      "catalog_id": "dartmouth-mba",
+      "route_mismatch": false
+    },
+    {
+      "priority": 11,
+      "program_id": "ross-mba",
+      "school": "University of Michigan Ross",
+      "program": "MBA",
+      "degree_type": "MBA",
+      "tier": "strong",
+      "why": "Strong consulting/ops; Midwest + national corporate recruiting.",
+      "catalog_id": "michigan-mba",
+      "route_mismatch": false
+    },
+    {
+      "priority": 12,
+      "program_id": "stern-mba",
+      "school": "NYU Stern",
+      "program": "MBA",
+      "degree_type": "MBA",
+      "tier": "strong",
+      "why": "NYC finance + entertainment/tech; large alumni base.",
+      "catalog_id": "nyu-mba",
+      "route_mismatch": false
+    },
+    {
+      "priority": 13,
+      "program_id": "fuqua-mba",
+      "school": "Duke Fuqua",
+      "program": "MBA",
+      "degree_type": "MBA",
+      "tier": "strong",
+      "why": "Team culture; consulting & health care pathways.",
+      "catalog_id": "duke-mba",
+      "route_mismatch": false
+    },
+    {
+      "priority": 14,
+      "program_id": "darden-mba",
+      "school": "UVA Darden",
+      "program": "MBA",
+      "degree_type": "MBA",
+      "tier": "strong",
+      "why": "Case method; strong consulting; published employment reports.",
+      "catalog_id": "virginia-mba",
+      "route_mismatch": false
+    },
+    {
+      "priority": 15,
+      "program_id": "anderson-mba",
+      "school": "UCLA Anderson",
+      "program": "MBA",
+      "degree_type": "MBA",
+      "tier": "strong",
+      "why": "LA tech/entertainment/finance; West Coast alternative to Haas.",
+      "catalog_id": "ucla-mba",
+      "route_mismatch": false
+    },
+    {
+      "priority": 16,
+      "program_id": "johnson-cornell-mba",
+      "school": "Cornell Johnson / Cornell Tech MBA",
+      "program": "MBA (incl. Cornell Tech MBA)",
+      "degree_type": "MBA",
+      "tier": "strong",
+      "why": "STEM MBA options; Cornell Tech Class of 2025 median base $170k among accepts."
+    },
+    {
+      "priority": 17,
+      "program_id": "mccormbs-mba",
+      "school": "UT Austin McCombs",
+      "program": "MBA",
+      "degree_type": "MBA",
+      "tier": "reach-adjacent",
+      "why": "Austin tech growth; strong value for money among top publics."
+    },
+    {
+      "priority": 18,
+      "program_id": "scheller-mba",
+      "school": "Georgia Tech Scheller",
+      "program": "MBA",
+      "degree_type": "MBA",
+      "tier": "reach-adjacent",
+      "why": "Tech-flavored MBA adjacent to GT Computing; Atlanta corporate hub."
+    }
+  ]
+}
