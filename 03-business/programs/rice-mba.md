@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$79,116 — Academic-year tuition (Jones Full-Time MBA); 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 reference, not a Fall 2027 quote or full-degree total.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+Rice Business Full-Time MBA Tuition and Fees: Tuition for 2026–27 Full-Time MBA (and MD/MBA) $79,116 per year ($39,558/semester flat rate). Required fees annual total $1,323 (GSA $45, Student Organization $8, Health & Wellness Support $720, MBA Activity $550) — not included in the $79,116. Optional health insurance $3,448; estimated textbooks $2,600. Confirmed on Rice Graduate Tuition, Fees, and Expenses 2026–2027 (MBA Degree, Full-Time Program Tuition annual $79,116). Full-time MBA only — not Hybrid/Professional/Executive/Online.
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -46,7 +46,9 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program / academic source](https://business.rice.edu/rice-mba/full-time-mba/curriculum)
+- [Full-Time MBA curriculum](https://business.rice.edu/rice-mba/full-time-mba/curriculum)
+- [Official tuition / budget](https://business.rice.edu/rice-mba/full-time-mba/tuition-and-financial-aid)
+- [Rice graduate tuition & fees 2026–27](https://ga.rice.edu/graduate-students/student-services-organizations/tuition-fees-expenses/)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

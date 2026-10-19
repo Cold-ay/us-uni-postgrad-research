@@ -26,11 +26,11 @@ Faculty and supervision: The specialization page identifies Patrick Moreton as f
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$72,700 — Academic-year tuition (Olin Full-Time MBA; 2 semesters); 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 reference, not a Fall 2027 quote or full-degree total.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+WashU Olin Full-Time MBA Cost, Aid and Scholarships (posted Spring 2026) for candidates starting Fall 2026: Tuition $72,700 ($36,350/semester) under Academic Year 2026–27 — equals two flat-rate semesters. Program Fee $900, Student Government Fee $130, Health and Wellness Fee $350 per semester (fees not in the $72,700). Published Total $150,920 ($37,730/semester) is the four-semester / full-program estimate (4 × $36,350 tuition + 4 × $1,380 fees = $150,920), not used as the annual tuition field. Bulletin 2026–27 lists Full-Time MBA $36,350 per semester (four semesters standard). Page note calling the $72,700 'entire program' conflicts with semester math and bulletin; AY figure used. Full-time MBA only — not Flex/EMBA.
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -46,7 +46,9 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program / academic source](https://olin.washu.edu/programs/mbas/full-time-mba/curriculum.php)
+- [Full-Time MBA curriculum](https://olin.washu.edu/programs/mbas/full-time-mba/curriculum.php)
+- [Official tuition / budget](https://olin.washu.edu/programs/mbas/full-time-mba/cost-aid-scholarships.php)
+- [Bulletin 2026–27 master's financial (PDF)](https://bulletin.wustl.edu/grad/business/graduate-masters/financial/financial.pdf)
 - [Official tuition / budget](https://olin.washu.edu/programs/mbas/full-time-mba/specializations.php)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 

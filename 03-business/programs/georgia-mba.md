@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$36,000 — Academic-year tuition (Full-Time MBA Athens, Non-Resident); 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 reference, not a Fall 2027 quote or full-degree total.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+UGA Terry Full-Time MBA Tuition and Fees 2026–2027: Non-Resident Tuition $36,000; Georgia Resident $14,064; Out-of-Country $37,032. Student Fees $1,494 (all) — Total Tuition + Fees 1 Year Non-Resident $37,494 / Resident $15,558 / Out-of-Country $38,526. One-time nonrefundable MBA Program Fee $500 and PreMBA Coursework $170 separate. UGA Bursar Fall 2026/Spring 2027: MBA Athens Out-of-State 12+ hrs $18,000/semester (= $36,000 AY). Full-time Athens MBA only — not Online/Executive/Fast Track Professional MBA.
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -46,7 +46,9 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program / academic source](https://www.terry.uga.edu/mba/fulltime/curriculum/)
+- [Full-Time MBA curriculum](https://www.terry.uga.edu/mba/fulltime/curriculum/)
+- [Official tuition / budget](https://www.terry.uga.edu/mba/fulltime/admissions/tuition/)
+- [UGA Bursar tuition & fees 2026–27](https://busfin.uga.edu/finance-division/bursar/students-parents/bursar-tuition-fees/2026-2027/)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

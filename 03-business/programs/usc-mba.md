@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$86,295 — Academic-year tuition (Marshall Full-Time MBA, first year); 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 reference, not a Fall 2027 quote or full-degree total.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+USC Marshall Full-Time MBA Tuition & Fees based on 2026–2027 rates: First-year Tuition $86,295; Second-year Tuition $78,450. Separate first-year line items: USC Central Services and Health Fees $1,922, MBA Program Fees $3,000, PRIME Fee $3,850, Student Health Insurance $3,988 — first-year published total $99,055 (excludes housing/living). Second-year total $84,481. Rates may rise ~3–5% annually; official USC rates at arr.usc.edu. Full-time MBA only — not IBEAR/part-time.
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -46,7 +46,8 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program / academic source](https://www.marshall.usc.edu/programs/graduate-programs/mba-programs/full-time-mba)
+- [Full-Time MBA program](https://www.marshall.usc.edu/programs/graduate-programs/mba-programs/full-time-mba)
+- [Official tuition / budget](https://www.marshall.usc.edu/programs/graduate-programs/mba-programs/full-time-mba/tuition-fees)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence
