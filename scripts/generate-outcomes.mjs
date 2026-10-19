@@ -93,6 +93,7 @@ export async function generateOutcomes() {
   const batch002 = JSON.parse(await readFile(path.join(root, 'path/outcomes/batch-002.json'), 'utf8'));
   const batch003 = JSON.parse(await readFile(path.join(root, 'path/outcomes/batch-003.json'), 'utf8'));
   const batch004 = JSON.parse(await readFile(path.join(root, 'path/outcomes/batch-004.json'), 'utf8'));
+  const batch005 = JSON.parse(await readFile(path.join(root, 'path/outcomes/batch-005.json'), 'utf8'));
   const idMap = JSON.parse(await readFile(path.join(root, 'path/outcomes/id-map.json'), 'utf8'));
 
   const outcomeCards = {};
@@ -134,9 +135,22 @@ export async function generateOutcomes() {
     outcomeAdjacentByCatalogId,
     outcomeSpecialtyByCatalogId,
   );
+  ingestV2Batch(
+    'batch-005',
+    batch005.meta,
+    batch005.cards,
+    outcomeCards,
+    unlinkedOutcomeCards,
+    outcomeAdjacentByCatalogId,
+    outcomeSpecialtyByCatalogId,
+  );
 
-  const body = `// Generated from path/outcomes/batch-001.json, batch-002.json, batch-003.json, batch-004.json, and id-map.json. Do not edit by hand.
-export const outcomeBatchMeta = ${JSON.stringify([batch001.meta, batch002.meta, batch003.meta, batch004.meta], null, 2)};
+  const body = `// Generated from path/outcomes/batch-001.json through batch-005.json and id-map.json. Do not edit by hand.
+export const outcomeBatchMeta = ${JSON.stringify(
+    [batch001.meta, batch002.meta, batch003.meta, batch004.meta, batch005.meta],
+    null,
+    2,
+  )};
 export const outcomeMeta = ${JSON.stringify(batch001.meta, null, 2)};
 export const outcomeCards = ${JSON.stringify(outcomeCards, null, 2)};
 export const unlinkedOutcomeCards = ${JSON.stringify(unlinkedOutcomeCards, null, 2)};

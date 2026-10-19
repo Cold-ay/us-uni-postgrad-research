@@ -1,4 +1,4 @@
-// Generated from path/outcomes/batch-001.json, batch-002.json, batch-003.json, batch-004.json, and id-map.json. Do not edit by hand.
+// Generated from path/outcomes/batch-001.json through batch-005.json and id-map.json. Do not edit by hand.
 export const outcomeBatchMeta = [
   {
     "batch_id": "batch-001",
@@ -169,6 +169,45 @@ export const outcomeBatchMeta = [
       "rice-mba",
       "indiana-mba"
     ]
+  },
+  {
+    "batch_id": "batch-005",
+    "agent": "path",
+    "created": "2026-10-20",
+    "access_date": "2026-10-20",
+    "card_count": 11,
+    "schema_version": "outcome-card-v2-catalog",
+    "batches_001_to_004_unchanged": true,
+    "upgrade_of_prior_batches": [],
+    "upgrade_note": "No yale-cs/jhu-cs/wisconsin-cs upgrades — no new official FDS. No Columbia CS / UT Austin CS / UCLA MSCS MS FDS PDFs found.",
+    "methodology": "Open public sources only. No fabricated numbers. Gaps labeled unknown.",
+    "program_ids": [
+      "northwestern-mscs",
+      "umass-mscs",
+      "uci-mcs",
+      "ucsb-mscs",
+      "unc-mscs",
+      "carey-mba",
+      "terry-mba",
+      "scheller-mba",
+      "olin-mba",
+      "owen-mba",
+      "jindal-mba"
+    ],
+    "catalog_ids": [
+      "northwestern-cs",
+      "umass-cs",
+      "uci-cs",
+      "ucsb-cs",
+      "unc-cs",
+      "asu-mba",
+      "georgia-mba",
+      "gatech-mba",
+      "washu-mba",
+      "vanderbilt-mba",
+      "utd-mba"
+    ],
+    "required_targets_complete": true
   }
 ];
 export const outcomeMeta = {
@@ -2451,6 +2490,470 @@ export const outcomeCards = {
     "last_updated": "2026-10-20",
     "pathProgramId": "kelley-mba",
     "routeMismatch": false,
+    "match": "same-route"
+  },
+  "northwestern-cs": {
+    "school": "Northwestern University",
+    "program": "MS in Computer Science",
+    "degree": "MS",
+    "internship_rate": "unknown",
+    "full_time_placement": "unknown (no MSCS-specific public first-destination %). Northwestern Career Advancement publishes filterable post-graduate master’s survey data for 2022–2025 cohorts (school/major filters) but CS-specific rates were not extractable without interactive dashboard access this run.",
+    "notable_employers": "unknown as a published MSCS cohort list",
+    "big_tech_or_top_firm_signal": "Qualitative: program states master’s graduates are recruited across nearly every industry. Common paths listed: software development/engineering, IT consulting, database/systems analysis, data analytics, financial risk analysis/trading; also PhD prep. Quantitative Big Tech % / salary: unknown.",
+    "sample_alumni_paths": [
+      "Software development / engineering",
+      "IT consulting",
+      "Data analytics",
+      "Financial risk analysis / trading",
+      "PhD studies"
+    ],
+    "referral_network_notes": "Engineering Career Development + Northwestern Career Advancement. Chicago industry access cited. Metrics unknown.",
+    "difficulty_notes": "Terminal MS application distinct from PhD admission (catalog). Integrated classrooms with PhD students.",
+    "sources": [
+      {
+        "title": "Northwestern McCormick – MS in Computer Science",
+        "url": "https://www.mccormick.northwestern.edu/computer-science/academics/graduate/masters/",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "Northwestern Career Advancement – Post Graduate Master’s Survey Data",
+        "url": "https://www.northwestern.edu/careers/resources/post-graduate-masters-survey-data.html",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "low",
+    "confidence_reason": "Official career-path descriptions only; no extractable MSCS placement/salary table.",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "northwestern-mscs",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "umass-cs": {
+    "school": "University of Massachusetts Amherst",
+    "program": "MS in Computer Science (CICS master’s outcomes)",
+    "degree": "MS",
+    "internship_rate": "unknown",
+    "full_time_placement": "CICS Master’s Class of 2025 (Aug’24/Dec’24/May’25 completers in report framing): 65% Working; 3% Continuing Education; 27% Looking; 1% Not Seeking; 4% Unknown. Knowledge rate ~96%. Outcomes still finalizing per NACE 6-month guideline note on report.",
+    "notable_employers": "120+ unique employers (25 hired multiple) for master’s cohort — named logos on interactive report; static extract did not list full roster. Employer Dashboard linked from report.",
+    "big_tech_or_top_firm_signal": "Typical salary range (25th–50th percentile of known compensation for ~20% of those working): $110,000–$129,000. Report notes reporting bias (reporters tend above average). Industry/role breakdowns on interactive report.",
+    "sample_alumni_paths": [
+      "Industry MS roles across 120+ employers (report)",
+      "PhD at 6 institutions among continuing-ed subset"
+    ],
+    "referral_network_notes": "CICS Careers lifelong alumni support cited. Formal referral % unknown.",
+    "difficulty_notes": "Large public CICS; 27% still looking at report snapshot is a meaningful soft-market signal vs elite private MS medians.",
+    "sources": [
+      {
+        "title": "CICS Careers Destination Report 2025 (Master’s section)",
+        "url": "https://cics-careers.github.io/destinations-report/2025.html",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "UMass CICS – MS Computer Science (campus)",
+        "url": "https://www.cics.umass.edu/academics/ms-computer-science-campus",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "medium",
+    "confidence_reason": "Official CICS Destination Report with master’s rates/salary band; aggregate CICS MS not CS-only.",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "umass-mscs",
+    "routeMismatch": false,
+    "routeMismatchNotes": "Official CICS Destination Report Class of 2025 covers Manning CICS Master’s in aggregate (326 MS students) — includes CS MS and other CICS master’s. Not CS-only; treat as college-level master’s signal.",
+    "match": "same-route"
+  },
+  "uci-cs": {
+    "school": "University of California, Irvine",
+    "program": "Master of Computer Science (MCS) / related CS master’s",
+    "degree": "MCS",
+    "internship_rate": "unknown as cohort %; MCS emphasizes career coaching, employer events, capstone exposure to hiring managers",
+    "full_time_placement": "Official MCS career page: since inception (2017), more than 700 MCS graduates; 87% accepted industry positions within 3 months of graduation (cumulative since 2017 — not a single graduating-class CSEA table).",
+    "notable_employers": "unknown as a current published MCS cohort list this run; SoCal tech recruiting emphasized",
+    "big_tech_or_top_firm_signal": "Qualitative SoCal tech pipeline. Cumulative 87% industry placement within 3 months. Current-year salary % / Big Tech share: unknown on page extract.",
+    "sample_alumni_paths": [
+      "Industry software / computing roles within 3 months (program claim)"
+    ],
+    "referral_network_notes": "MCS Career Development team + UCI career resources (job boards, fairs, salary databases). Metrics unknown.",
+    "difficulty_notes": "15-month professional MCS; distinguish from research MS when applying (catalog).",
+    "sources": [
+      {
+        "title": "UCI MCS – Career Development",
+        "url": "https://mcs.ics.uci.edu/career-development-that-works-for-you/",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "UCI ICS – Graduate program comparison",
+        "url": "https://ics.uci.edu/academics/graduate-programs/program-comparison/",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "medium",
+    "confidence_reason": "Official cumulative MCS placement claim (87% since 2017); missing single-year FDS and salary table.",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "uci-mcs",
+    "routeMismatch": false,
+    "routeMismatchNotes": "Catalog uci-cs covers research MS and professional MCS. Card primary evidence is professional MCS career page. Research MS outcomes may differ.",
+    "match": "same-route"
+  },
+  "ucsb-cs": {
+    "school": "University of California, Santa Barbara",
+    "program": "MS in Computer Science",
+    "degree": "MS",
+    "internship_rate": "unknown",
+    "full_time_placement": "unknown (no MSCS-specific public first-destination % located). UCSB Graduate Division publishes filterable graduate statistics including employment outcomes, but CS MS-specific figures were not extracted this run.",
+    "notable_employers": [
+      "Google",
+      "NVIDIA",
+      "Meta",
+      "LinkedIn",
+      "AppFolio"
+    ],
+    "big_tech_or_top_firm_signal": "Qualitative alumni examples (department news / secondary summaries). Quantitative placement/salary: unknown.",
+    "sample_alumni_paths": [
+      "Industry SWE/ML at Big Tech and SoCal tech (alumni examples)",
+      "Startup leadership (department alumni awards narrative)"
+    ],
+    "referral_network_notes": "UCSB CS + Graduate Division career resources. Metrics unknown.",
+    "difficulty_notes": "Thesis / comprehensive exam / project plans (catalog). Selective public research MS.",
+    "sources": [
+      {
+        "title": "UCSB CS – Master’s Degree",
+        "url": "https://cs.ucsb.edu/education/graduate/masters-degree",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "UCSB Graduate Statistics",
+        "url": "https://www.graddiv.ucsb.edu/ucsb-graduate-statistics",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "low",
+    "confidence_reason": "No public MSCS cohort placement/salary table; alumni employers qualitative only.",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "ucsb-mscs",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "unc-cs": {
+    "school": "University of North Carolina at Chapel Hill",
+    "program": "MS in Computer Science",
+    "degree": "MS",
+    "internship_rate": "unknown",
+    "full_time_placement": "unknown for MS. Catalog/department narrative: most graduate students enter industry (startups, government labs, large R&D). Undergrad outcomes page must not be used as MS FDS.",
+    "notable_employers": [
+      "Amazon",
+      "Cisco",
+      "Disney",
+      "Google",
+      "Intel",
+      "Microsoft",
+      "Fidelity",
+      "IBM",
+      "Apple",
+      "NASA",
+      "Department of Defense"
+    ],
+    "big_tech_or_top_firm_signal": "Illustrative employers for UNC CS (mixed degree levels on public pages). MS-only Big Tech % / salary: unknown.",
+    "sample_alumni_paths": [
+      "Software engineering (majority path cited for CS grads broadly)",
+      "Business-tech / consulting roles also represented"
+    ],
+    "referral_network_notes": "UNC CS career resources; Triangle employer density. Metrics unknown.",
+    "difficulty_notes": "30-credit MS with program product, technical writing, comprehensive exam (catalog).",
+    "sources": [
+      {
+        "title": "UNC CS – Graduation Outcomes & General Salary Information",
+        "url": "https://cs.unc.edu/student-life/career/graduation-outcomes/",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "UNC Catalog – Computer Science (GRAD)",
+        "url": "https://catalog.unc.edu/graduate/schools-departments/computer-science/",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "low",
+    "confidence_reason": "No MS-specific FDS; undergrad-heavy public outcomes pages risk misattribution.",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "unc-mscs",
+    "routeMismatch": false,
+    "routeMismatchNotes": "Department Graduation Outcomes page is primarily undergraduate-focused (~80% workforce / ~20% further education). MS-specific % unknown — do not attribute undergrad 92% Future Plans survey figures to MS.",
+    "match": "same-route"
+  },
+  "asu-mba": {
+    "school": "Arizona State University – W. P. Carey School of Business",
+    "program": "Full-Time MBA",
+    "degree": "MBA",
+    "internship_rate": "unknown as single Class of 2026 % on facts page this run",
+    "full_time_placement": "Class of 2025 (official Facts & Figures): 72% employed at graduation; 90% employed 90 days after graduation. Experience page: 90% accepted a full-time offer within 90 days.",
+    "notable_employers": [
+      "Kearney",
+      "P&G",
+      "Amazon",
+      "United Airlines",
+      "BCG",
+      "KPMG",
+      "Dell",
+      "Honeywell",
+      "Northrop Grumman",
+      "Applied Materials",
+      "Mattel",
+      "EY",
+      "Microsoft"
+    ],
+    "big_tech_or_top_firm_signal": "Average base starting salary $121,116 (official). Poets&Quants school profile (reporting year 2025, citing school data): median base $123,000; avg signing $38,138; industry mix Technology 31%, Manufacturing 25%, Consulting 6%. Prefer official mean $121,116 / 90% @90 days.",
+    "sample_alumni_paths": [
+      "Technology",
+      "Manufacturing",
+      "Consulting/finance",
+      "CPG"
+    ],
+    "referral_network_notes": "W. P. Carey Career Services Center; 140,000+ alumni cited on experience page.",
+    "difficulty_notes": "Lower mean base than coastal M7; strong Phoenix/tech+manufacturing placement.",
+    "sources": [
+      {
+        "title": "W. P. Carey – Facts and Figures (FT MBA Class of 2025)",
+        "url": "https://www.wpcarey.asu.edu/about/facts-figures",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "W. P. Carey – Full-time MBA Experience / career outcomes",
+        "url": "https://www.wpcarey.asu.edu/mba-programs/full-time/experience",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "Poets&Quants – W. P. Carey school profile (2025 career stats)",
+        "url": "https://poetsandquants.com/school-profile/arizona-states-w-p-carey-school-of-business/",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Official ASU Facts & Figures Class of 2025 employment % and average salary.",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "carey-mba",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "georgia-mba": {
+    "school": "University of Georgia – Terry College of Business",
+    "program": "Full-Time MBA",
+    "degree": "MBA",
+    "internship_rate": "Internship participation % shown as graphics on career-services page — exact % not extractable as text this run (unknown as number).",
+    "full_time_placement": "Official Class of 2025 career-services page: employment rate above 90% within 3 months (claims to be one of only three U.S. News Top 30 programs above 90%). Exact on-page %/compensation widgets rendered as images — numeric % beyond “above 90%” not scraped. Poets&Quants school profile (reporting year 2025): average base ~$121,000; average signing ~$29,000; Financial Services 24%, Consulting 12% (secondary).",
+    "notable_employers": [
+      "Amazon.com",
+      "Bain & Company",
+      "BCG",
+      "McKinsey & Company",
+      "Deloitte",
+      "EY Parthenon",
+      "JPMorgan Chase",
+      "Microsoft",
+      "Capital One",
+      "Delta Air Lines",
+      "Home Depot",
+      "UPS",
+      "Walmart",
+      "Bank of America",
+      "AT&T",
+      "PayPal"
+    ],
+    "big_tech_or_top_firm_signal": "Official exact average total compensation figure not extractable from graphics. P&Q 2025 secondary: ~$121k avg base. Strong Southeast corporate recruiting from employer list.",
+    "sample_alumni_paths": [
+      "Consulting",
+      "Financial services",
+      "Operations/corporate Southeast roles"
+    ],
+    "referral_network_notes": "FTMBA/MSBA Career Management Center cites ~1:10 staff-to-student ratio. Facilitation % unknown.",
+    "difficulty_notes": "Value-oriented Top 30 public MBA; confirm latest PDF when school publishes extractable Class of 2025 tables.",
+    "sources": [
+      {
+        "title": "Terry Full-Time MBA Career Services (Class of 2025 stats + employers)",
+        "url": "https://www.terry.uga.edu/mba/fulltime/career-services/",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "Poets&Quants – Terry school profile career stats",
+        "url": "https://poetsandquants.com/school-profile/university-georgia-terry-college-business/",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "medium",
+    "confidence_reason": "Official >90% @3 months claim + employer list; exact salary/% graphics not text-extractable; P&Q fills compensation secondarily.",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "terry-mba",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "gatech-mba": {
+    "school": "Georgia Institute of Technology – Scheller College of Business",
+    "program": "Full-Time MBA",
+    "degree": "MBA",
+    "internship_rate": "See Scheller career-development / summer internships pages; single seeker % not extracted this run",
+    "full_time_placement": "Official Scheller Full-time MBA Career Development page: MBA Class of 2026 — 91% employment rate 3 months post-graduation. (Class of 2025 detailed report also published on Issuu Dec 2025; Clear Admit cites Class of 2024 at 88.4% / avg $146,260 as prior-year reference.)",
+    "notable_employers": [
+      "Amazon",
+      "Bain & Company",
+      "BCG",
+      "McKinsey",
+      "Microsoft",
+      "NVIDIA",
+      "Oracle",
+      "EY-Parthenon",
+      "PwC",
+      "IBM",
+      "Delta Air Lines",
+      "ExxonMobil",
+      "Toyota",
+      "UPS",
+      "Workday",
+      "Bank of America"
+    ],
+    "big_tech_or_top_firm_signal": "Official page: Class of 2026 average starting salary $140,000. Tech/consulting/Atlanta corporate mix from hiring list.",
+    "sample_alumni_paths": [
+      "Consulting",
+      "Tech",
+      "Finance",
+      "Operations / manufacturing Atlanta pipeline"
+    ],
+    "referral_network_notes": "Jones MBA Career Center (page cites top-five world career-services rankings historically). Facilitation % not on overview extract.",
+    "difficulty_notes": "STEM/tech brand MBA; Class of 2026 figures are the latest on official career page as of access date.",
+    "sources": [
+      {
+        "title": "Scheller – Full-time MBA Career Development",
+        "url": "https://www.scheller.gatech.edu/explore-programs/mba-programs/full-time-mba/career-development/index.html",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "Scheller Issuu – FT MBA Employment Report Class of 2025",
+        "url": "https://issuu.com/gatechbiz/docs/full-time_mba_employment_report_class_of_2025_",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Official Scheller career page Class of 2026 salary and 3-month employment rate.",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "scheller-mba",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "washu-mba": {
+    "school": "Washington University in St. Louis – Olin Business School",
+    "program": "Full-Time MBA",
+    "degree": "MBA",
+    "internship_rate": "Median monthly internship salary $8,200 (career prospects page). Internship conversion: 39% of job offers.",
+    "full_time_placement": "Official career prospects page: 81% employment rate three months after graduation. Latest Full-Time MBA Employment Report PDF linked (image-heavy; page headlines used).",
+    "notable_employers": "Representative firms cited in career materials (e.g., Starbucks among examples on page). Full employer roster in employment report PDF.",
+    "big_tech_or_top_firm_signal": "Median base salary $130,000. Industry mix on page: Technology 29%, Consulting 24%, Manufacturing 11%, Financial/Insurance 8%, CPG 6%, Healthcare 5%. Function: Consulting 37%, Marketing 21%, Finance 13%.",
+    "sample_alumni_paths": [
+      "Consulting (37% function)",
+      "Marketing",
+      "Technology industry (29%)",
+      "Finance"
+    ],
+    "referral_network_notes": "Individualized career coaching emphasized; 39% offers from internship conversion.",
+    "difficulty_notes": "Midwest MBA with consulting+tech mix; confirm latest PDF tables when text-extractable.",
+    "sources": [
+      {
+        "title": "WashU Olin – Full-Time MBA Career Prospects",
+        "url": "https://olin.washu.edu/programs/mbas/full-time-mba/career-prospects.php",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "Olin Full-Time MBA Employment Report PDF",
+        "url": "https://olin.washu.edu/docs/programs/employment/mba-employment-report.pdf",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Official Olin career prospects headlines + industry/function mix for recent FT MBA cohort.",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "olin-mba",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "vanderbilt-mba": {
+    "school": "Vanderbilt University – Owen Graduate School of Management",
+    "program": "Full-Time MBA",
+    "degree": "MBA",
+    "internship_rate": "Class of 2026: 99% of students who sought an internship accepted an offer during first year.",
+    "full_time_placement": "Class of 2025 (official outcomes page): 87% of full-time offers within 90 days of graduation. Poets&Quants (citing school): first offer by graduation 78%; accepted by 3 months 86%. 156 companies hired Class of 2025 FT + Class of 2026 interns.",
+    "notable_employers": [
+      "Amazon (12 hires)",
+      "Deloitte Consulting (7)",
+      "Highspring Consulting (5)",
+      "Wells Fargo CIB (3)",
+      "Boston Consulting Group (3)",
+      "EY (3)",
+      "EY-Parthenon (3)",
+      "UnitedHealth Group (3)"
+    ],
+    "big_tech_or_top_firm_signal": "Average base starting salary $148K+ (page); P&Q: avg base $148,962 / median $142,800; avg signing $36,065. Industry: Consulting 29%, Financial Services 21%, Healthcare 16%, Technology 13%. Function: Consulting 34%, Finance/Accounting 22%.",
+    "sample_alumni_paths": [
+      "Consulting",
+      "Finance/IB",
+      "Healthcare",
+      "Tech",
+      "Nashville metro concentration (35 hires)"
+    ],
+    "referral_network_notes": "Career Management Center; strong Nashville + Southeast placement.",
+    "difficulty_notes": "Healthcare+consulting strength; Amazon top FT hirer (12).",
+    "sources": [
+      {
+        "title": "Vanderbilt Owen – MBA Career Outcomes",
+        "url": "https://business.vanderbilt.edu/mba/outcomes/",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "Owen MBA Employment Report 2025 (Issuu)",
+        "url": "https://issuu.com/vanderbiltowen/docs/vanderbilt_mba_employment_report_2025",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "Poets&Quants – Owen school profile 2025 career stats",
+        "url": "https://poetsandquants.com/school-profile/vanderbilt-universitys-owen-school-of-management/",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Official Owen outcomes page with Class of 2025 offer timing, salary, employers, industry/function.",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "owen-mba",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "utd-mba": {
+    "school": "University of Texas at Dallas – Naveen Jindal School of Management",
+    "program": "Full-Time MBA",
+    "degree": "MBA",
+    "internship_rate": "96% internship secured by 2023–24 Full-Time cohort (career-outcomes page). Full-Time students complete required internships.",
+    "full_time_placement": "Official MBA career-outcomes page: 96% placement rate within 3 months (Full-Time framing on page). Exact seeker denominator not tabulated on marketing page.",
+    "notable_employers": "Dallas–Fort Worth corporate network; HireJSOM board. School-wide Jobs Data Report lists many IT/consulting employers (Amazon, Cisco, etc.) — not FT-MBA-exclusive.",
+    "big_tech_or_top_firm_signal": "Official page: $140,175 average base salary + bonus (2024–2025 Full-Time). Mean base alone / median: unknown on page. Do not use $83.9k school-wide Jobs Data average as MBA salary.",
+    "sample_alumni_paths": [
+      "Industry pivot via Consulting Immersion / practicums",
+      "DFW corporate and tech roles"
+    ],
+    "referral_network_notes": "JSOM 360° Career Ecosystem; alumni network emphasized. Facilitation % unknown.",
+    "difficulty_notes": "Strong value / DFW ROI positioning; verify CSEA PDF when published separately from school-wide jobs report.",
+    "sources": [
+      {
+        "title": "UT Dallas MBA – Career Outcomes",
+        "url": "https://mba.utdallas.edu/career-outcomes/",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "JSOM Jobs Data Report Spring 2025 PDF (school-wide — not FT-MBA-only)",
+        "url": "https://bpb-us-e2.wpmucdn.com/sites.utdallas.edu/dist/a/1105/files/2026/01/Jobs-Data-Report-Spring-2025.pdf",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "medium",
+    "confidence_reason": "Official FT MBA marketing outcomes ($140,175 base+bonus, 96% @3mo) without full CSEA seeker tables; school-wide PDF excluded from MBA salary.",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "jindal-mba",
+    "routeMismatch": false,
+    "routeMismatchNotes": "Prefer MBA career-outcomes page for Full-Time MBA. JSOM Spring 2025 Jobs Data Report (431 graduates) is school-wide placement — avg base $83.9k is NOT FT-MBA-specific; do not attribute to Full-Time MBA.",
     "match": "same-route"
   }
 };
