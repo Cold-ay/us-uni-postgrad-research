@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$69,717 — Academic-year tuition (Engineering, 11–18 units × 3 quarters); 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 reference, not a Fall 2027 quote or full-degree total.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+Graduate School of Engineering quarterly rate for 11–18 units is $23,239 (2026–27). Three academic-year quarters (Autumn–Spring) = $69,717. 8–10 units is $15,100/quarter. Per-unit above 18: $1,549. MS CS requires 45 units; HCP/online uses a different per-unit schedule. Living costs and Cardinal Care are separate.
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -46,7 +46,8 @@ Shared scholarship IDs: SCH-002. See the [scholarship library](../../04-scholars
 
 ## Sources
 
-- [Program / academic source](https://www.cs.stanford.edu/admissions/masters-admissions)
+- [MS admissions](https://www.cs.stanford.edu/admissions/masters-admissions)
+- [Official tuition / budget](https://studentservices.stanford.edu/tuition-rates/2026-2027-graduate-and-professional-tuition-rates)
 - [MS requirements](https://www.cs.stanford.edu/masters-degree-requirements)
 - [Specializations](https://www.cs.stanford.edu/masters-specializations)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)

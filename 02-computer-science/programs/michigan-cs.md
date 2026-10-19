@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$68,038 — Academic-year tuition (College of Engineering graduate, nonresident full-time × 2 full terms); 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 reference, not a Fall 2027 quote or full-degree total.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+Registrar College of Engineering Graduate Full Term 2026–27: Michigan Non-Resident 9+ (Full-Time) $34,019 per full term; Michigan Resident $18,308. Typical academic year = Fall + Winter full terms → nonresident $68,038. CSE MS/MSE uses Engineering graduate rates. Master’s funding is not guaranteed at admission.
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -46,7 +46,8 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program / academic source](https://cse.engin.umich.edu/academics/graduate/graduate-programs/masters-in-cse/)
+- [CSE master’s program](https://cse.engin.umich.edu/academics/graduate/graduate-programs/masters-in-cse/)
+- [Official tuition / budget](https://ro.umich.edu/tuition-residency/tuition-fees/2026-2027/graduate/full-term/college-engineering-graduate-full-term)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$33,080 — Academic-year tuition (campus Master & PhD, out-of-country, 12+ hours × 2 semesters); 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 reference, not a Fall 2027 quote or full-degree total.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+Bursar 2026–27 Atlanta campus graduate Master & PhD Candidates: In-State $7,280/semester (12+ hrs) or $607/hr (1–11); Out-of-State $16,073/semester (12+) or $1,341/hr; Out-of-Country $16,540/semester (12+) or $1,379/hr. International-relevant figure uses Out-of-Country full-time: $16,540 × 2 = $33,080 AY. Mandatory student fees $608/semester at 4+ credits not included in the tuition figure. OMSCS ($227/hr) is excluded.
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -46,7 +46,8 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program / academic source](https://www.cc.gatech.edu/ms-computer-science-specializations)
+- [MSCS specializations](https://www.cc.gatech.edu/ms-computer-science-specializations)
+- [Official tuition / budget](https://bursar.gatech.edu/student/tuition/su27/su27_totals.pdf)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence
