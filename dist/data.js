@@ -2,6 +2,8 @@ import { rankedSchools } from './catalog.js';
 import { rankingSources, rankingEdition } from './rankings.js';
 import { researchDetails } from './research-details.js';
 import { outcomeCards, outcomeAdjacentByCatalogId, outcomeSpecialtyByCatalogId } from './outcomes.js';
+import { asOf as policyAsOf, scanType as policyScanType, items as policyItems } from './policy.js';
+export const policy = { asOf: policyAsOf, scanType: policyScanType, items: policyItems };
 export const checked = '19 October 2026';
 const seedPrograms = [
   {

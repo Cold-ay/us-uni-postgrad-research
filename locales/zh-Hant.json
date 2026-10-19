@@ -408,7 +408,7 @@
   "Ranking and degree route": "排名與學位途徑",
   "Academic direction": "學術方向",
   "Tuition and application timing": "學費與申請時間",
-  "Sources": "來源",
+  "Sources": "資料來源",
   "Outstanding evidence": "待核實資料",
   "University:": "大學：",
   "Degree route:": "學位途徑：",
@@ -569,5 +569,15 @@
   "UW System Tuition Schedule 2026–27 UW–Madison Graduate full-time Nonresident tuition $12,027.20/term → $24,054.40 AY Fall+Spring. Resident $5,363.76/term ($10,727.52 AY). Segregated fees $849.74/term ($1,699.48 AY) not included in the tuition figure. This is the standard graduate schedule used by the traditional CS MS/PhD track. Separately, the Professional Program MS (PMP) lists nonresident $1,503.40/credit (matches the graduate part-time nonresident rate); PMP is self-funded and not used as the primary figure here. Traditional-track funding/tuition remission is common but out of scope for this tuition reference.": "威斯康辛大學系統 2026–27 學費表：麥迪遜研究生全職州外 $12,027.20/學期 → 秋春每學年 $24,054.40。州內 $5,363.76/學期（每學年 $10,727.52）。分項費 $849.74/學期（每學年 $1,699.48）未含於學費數字。此為傳統 CS MS/PhD 軌道所用標準研究生費率。另：專業項目 MS（PMP）列州外 $1,503.40/學分（與研究生非全職州外費率相同）；PMP 為自費，不作為此處主數字。傳統軌道資助/學費減免常見，但不在本學費參考範圍。",
   "Penn SRFS SEAS on-campus master’s 2026–27: tuition $8,825 per course unit (CU). Catalog CIS MSE requires 10 CUs; sample plans use 3 CUs in a typical Fall or Spring term → AY tuition reference $8,825 × 3 × 2 = $52,950. At 4 CUs/term: $35,300/semester ($70,600 AY). Mandatory fees at 3 CUs: General Fee $2,134 + Technology Fee $405 + Clinical Fee $385 (semester totals with tuition $29,399)—fees not included in the tuition figure. Full 10-CU degree tuition at $8,825 = $88,250. Online Engineering rates differ.": "賓大 SRFS SEAS 校內碩士 2026–27：學費每課程單元（CU）$8,825。目錄 CIS MSE 需 10 CU；典型秋或春學期樣本計畫為 3 CU → 學年學費參考 $8,825 × 3 × 2 = $52,950。每學期 4 CU：$35,300/學期（每學年 $70,600）。3 CU 時強制費：一般費 $2,134 + 技術費 $405 + 臨床費 $385（含學費學期合計 $29,399）—未含於學費數字。完整 10 CU 學位學費 $88,250。線上工程費率不同。",
   "Johns Hopkins Whiting School of Engineering Cost of Attendance: WSE Residential Master’s and PhD Full-time Tuition $68,670 annually / $34,335 per semester (2026–27). The separately listed “Non-resident Fee” $6,868 annually is a part-time/non-resident enrollment status charge, not an out-of-state surcharge for on-campus full-time students—do not add it to the residential full-time figure. Matriculation fee $500 and living/insurance costs are separate. MSE CS is the full-time residential route.": "約翰霍普金斯懷廷工程學院就讀費用：WSE 校內碩士及博士全職學費每年 $68,670 / 每學期 $34,335（2026–27）。另列「非居民費」每年 $6,868 為非全職/非居民註冊狀態費用，非校內全職州外附加費—勿加於全職校內數字。註冊費 $500 及生活/保險費用另計。MSE CS 為全職校內途徑。",
-  "UChicago MPCS Tuition & Fees 2026–2027: estimated total tuition 9-Course MS $66,762; 12-Course MS $89,016. Quarterly schedule: 1 course $7,415; 2 $14,833; 3 $22,254; 4 $29,668. Full-time at 3 courses for Autumn–Winter–Spring = $22,254 × 3 = $66,762 (matches the 9-course program total). Quarterly Graduate Student Services Fee $520; lifetime transcript fee $84 (first quarter only); U-SHIP listed at $1,715 using the 2025–2026 rate—fees not included in the tuition figure. Immersion coursework, if required, is billed at the one-course rate extra.": "芝加哥大學 MPCS 2026–2027 學費：9 門課 MS 估計學費合計 $66,762；12 門課 MS $89,016。季度費率：1 門 $7,415；2 門 $14,833；3 門 $22,254；4 門 $29,668。秋–冬–春全職每學期 3 門 = $22,254 × 3 = $66,762（與 9 門課項目總額一致）。季度研究生服務費 $520；終身成績單費 $84（僅首季）；U-SHIP 列 $1,715（採用 2025–2026 費率）—未含於學費數字。若需 immersion 課程，按單門課費率另計。"
+  "UChicago MPCS Tuition & Fees 2026–2027: estimated total tuition 9-Course MS $66,762; 12-Course MS $89,016. Quarterly schedule: 1 course $7,415; 2 $14,833; 3 $22,254; 4 $29,668. Full-time at 3 courses for Autumn–Winter–Spring = $22,254 × 3 = $66,762 (matches the 9-course program total). Quarterly Graduate Student Services Fee $520; lifetime transcript fee $84 (first quarter only); U-SHIP listed at $1,715 using the 2025–2026 rate—fees not included in the tuition figure. Immersion coursework, if required, is billed at the one-course rate extra.": "芝加哥大學 MPCS 2026–2027 學費：9 門課 MS 估計學費合計 $66,762；12 門課 MS $89,016。季度費率：1 門 $7,415；2 門 $14,833；3 門 $22,254；4 門 $29,668。秋–冬–春全職每學期 3 門 = $22,254 × 3 = $66,762（與 9 門課項目總額一致）。季度研究生服務費 $520；終身成績單費 $84（僅首季）；U-SHIP 列 $1,715（採用 2025–2026 費率）—未含於學費數字。若需 immersion 課程，按單門課費率另計。",
+  "Policy & visa context (Fall 2027)": "簽證與政策背景（2027 年秋季）",
+  "Not legal advice.": "非法律建議。",
+  "Rules change; verify with official sources and school ISSS.": "規定可能變動；請向官方來源及學校 ISSS 辦公室核實。",
+  "VISAS & POLICY": "簽證與政策",
+  "Baseline scan ·": "基線掃描 ·",
+  "Slate impact": "對申請清單的影響",
+  "Affected": "影響對象",
+  "Confirmed": "已確認",
+  "Developing": "發展中",
+  "School-specific": "特定學校"
 }
