@@ -1,4 +1,4 @@
-// Generated from path/outcomes/batch-001.json, batch-002.json, and id-map.json. Do not edit by hand.
+// Generated from path/outcomes/batch-001.json, batch-002.json, batch-003.json, and id-map.json. Do not edit by hand.
 export const outcomeBatchMeta = [
   {
     "batch_id": "batch-001",
@@ -72,6 +72,50 @@ export const outcomeBatchMeta = [
       "columbia-mba",
       "berkeley-mba",
       "yale-mba"
+    ]
+  },
+  {
+    "batch_id": "batch-003",
+    "agent": "path",
+    "created": "2026-10-20",
+    "access_date": "2026-10-20",
+    "card_count": 14,
+    "schema_version": "outcome-card-v2-catalog",
+    "batch_001_002_unchanged": true,
+    "upgrade_of_batch_002": [],
+    "upgrade_note": "No upgrades published: Columbia CS / UT Austin CS / UCLA MSCS / Michigan CSE still lack MS-specific official FDS PDFs this run. Columbia EE/CE placement page exists but is NOT CS and was not used as columbia-cs upgrade.",
+    "methodology": "Open public sources only. No fabricated numbers. Gaps labeled unknown.",
+    "program_ids": [
+      "nyu-mscs",
+      "ucsd-mscs",
+      "upenn-mse-cis",
+      "harvard-seas-cs-ms",
+      "cmu-msaii",
+      "duke-mscs",
+      "brown-mscs",
+      "umd-mscs",
+      "tuck-mba",
+      "ross-mba",
+      "stern-mba",
+      "fuqua-mba",
+      "darden-mba",
+      "anderson-mba"
+    ],
+    "catalog_ids": [
+      "nyu-cs",
+      "ucsd-cs",
+      "penn-cs",
+      "harvard-cs",
+      null,
+      "duke-cs",
+      "brown-cs",
+      "maryland-cs",
+      "dartmouth-mba",
+      "michigan-mba",
+      "nyu-mba",
+      "duke-mba",
+      "virginia-mba",
+      "ucla-mba"
     ]
   }
 ];
@@ -1132,6 +1176,527 @@ export const outcomeCards = {
     "pathProgramId": "yale-som-mba",
     "routeMismatch": false,
     "match": "same-route"
+  },
+  "nyu-cs": {
+    "school": "New York University (Courant Institute)",
+    "program": "MS in Computer Science",
+    "degree": "MS",
+    "internship_rate": "unknown",
+    "full_time_placement": "unknown (Courant CS department does not publish MSCS-specific first-destination % in sources located). Adjacent: NYU Tandon Class of 2025 master's (all Tandon majors) 93.7% employed or in school within 6 months; avg FT starting salary $108,102 — Tandon-wide, not Courant MSCS.",
+    "notable_employers": "Courant-specific list: unknown. Tandon top-10 employers (school-wide, not Courant-only): Amazon, Apple, ByteDance, Capital One, Goldman Sachs, Google, Mastercard, Meta, Microsoft, TIAA.",
+    "big_tech_or_top_firm_signal": "Qualitative: strong NYC finance+tech pipeline for Courant. Quantitative Courant MSCS Big Tech %: unknown.",
+    "sample_alumni_paths": "unknown from official Courant FDS this run",
+    "referral_network_notes": "Dense NYC alumni; formal referral metrics unknown.",
+    "difficulty_notes": "Competitive MSCS; NYC market also includes Columbia/Cornell Tech peers.",
+    "sources": [
+      {
+        "title": "NYU Courant CS – Master's prospective overview",
+        "url": "https://cs.nyu.edu/dynamic/masters/prospective-overview/",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "NYU Tandon – Career Outcomes (Tandon-wide, not Courant)",
+        "url": "https://engineering.nyu.edu/life-tandon/tandon-career-hub/career-outcomes",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "low",
+    "confidence_reason": "No Courant MSCS-specific employment report; only adjacent Tandon-wide master's stats.",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "nyu-mscs",
+    "routeMismatch": false,
+    "routeMismatchNotes": "Catalog nyu-cs mapped to Courant MSCS. NYU Tandon Engineering publishes separate master's-wide outcomes — do NOT attribute Tandon aggregates to Courant.",
+    "match": "same-route"
+  },
+  "ucsd-cs": {
+    "school": "UC San Diego",
+    "program": "MS in Computer Science and Engineering",
+    "degree": "MS",
+    "internship_rate": "unknown (CSE internship placement stats page exists but covers 2008–2010 only — obsolete)",
+    "full_time_placement": "unknown (no current CSE MS first-destination report). College Scorecard via College Grad Analyst: CS master's median earnings 5 years after completion $301,159; 4-year $245,333; median federal debt $25,903; ~294–308 completers in recent window.",
+    "notable_employers": "unknown (program-published list not found)",
+    "big_tech_or_top_firm_signal": "Qualitative: strong SoCal/Bay systems+AI brand. Scorecard 5-yr median $301k is among highest CS master's nationally — earnings not placement rate. Big Tech %: unknown.",
+    "sample_alumni_paths": "unknown",
+    "referral_network_notes": "CSE career advising supports students but states it does not place students into jobs. Referral ease unknown.",
+    "difficulty_notes": "Selective public CSE MS; San Diego + remote Bay recruiting.",
+    "sources": [
+      {
+        "title": "UCSD CSE – Career Advising",
+        "url": "https://cse.ucsd.edu/graduate/career-advising",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "UCSD CSE – Internship Placement Statistics (historical)",
+        "url": "https://cse.ucsd.edu/graduate/resources/internship-placement-statistics",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "College Grad Analyst – UCSD CS Master's earnings",
+        "url": "https://www.collegegradanalyst.com/state/california/institution/university-of-california-san-diego-110680/program/1107-c5/",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "medium",
+    "confidence_reason": "Strong Scorecard earnings; missing official current MS placement % and employer table.",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "ucsd-mscs",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "penn-cs": {
+    "school": "University of Pennsylvania",
+    "program": "MSE in Computer and Information Science (CIS)",
+    "degree": "MSE",
+    "internship_rate": "unknown at CIS-only %",
+    "full_time_placement": "SEAS Master's overall (Aug 2023–May 2024, all SEAS MS programs): 83.1% employed / continuing ed / military / not seeking within 6 months; knowledge rate 70% (722/1038). CIS MSE-specific placement %: unknown. CIS MSE full-time employers listed extensively in report.",
+    "notable_employers": [
+      "Amazon/AWS",
+      "Google",
+      "Meta",
+      "Microsoft",
+      "Apple",
+      "Palantir",
+      "Bloomberg",
+      "Goldman Sachs",
+      "Jane Street",
+      "Citadel",
+      "Stripe",
+      "TikTok",
+      "Capital One",
+      "Databricks",
+      "LinkedIn",
+      "DoorDash",
+      "Jump Trading",
+      "SIG"
+    ],
+    "big_tech_or_top_firm_signal": "Very high from CIS MSE employer roster in official Penn Career Services SEAS Master's 2024 report. SEAS-wide: Technology industry 33%; Software Dev/Engineering function 33%; overall median salary $112,000 (all SEAS MS — not CIS-only). CIS titles heavily SWE/MLE/quant.",
+    "sample_alumni_paths": [
+      "Software Engineer – Google, Meta, Microsoft, Amazon, Stripe, Palantir, Bloomberg",
+      "ML Engineer – LinkedIn, C3 AI",
+      "Quant/Trading-related SWE – Jane Street, Citadel, Jump, SIG, Point72"
+    ],
+    "referral_network_notes": "Penn Career Services + SEAS industry day/career fair cited in survey responses; Wharton adjacency. Formal CIS-only referral % unknown.",
+    "difficulty_notes": "CIS MSE selective; MCIT is career-switcher oriented with different outcomes (see separate MCIT Online reports). Do not mix.",
+    "sources": [
+      {
+        "title": "Penn Career Services – SEAS Master's 2024 Career Plans Survey Report PDF",
+        "url": "https://cdn.uconnectlabs.com/wp-content/uploads/sites/74/2025/07/2024-Career-Plan-SEAS-Masters-Report-Final.pdf",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "Penn Career Services – Graduate reports by school",
+        "url": "https://careerservices.upenn.edu/post-graduate-outcomes/graduate-student-reports-by-school/",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Official Penn SEAS Master's report lists CIS MSE employers/titles; overall SEAS rates published (CIS-only % still unknown).",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "upenn-mse-cis",
+    "routeMismatch": false,
+    "routeMismatchNotes": "Researched on-campus CIS MSE. MCIT (and MCIT Online/MAS-CS Online) is a DIFFERENT program — do not conflate. Penn SEAS Master's 2024 report aggregates all SEAS master's but lists CIS MSE positions separately.",
+    "match": "same-route"
+  },
+  "harvard-cs": {
+    "school": "Harvard University (SEAS)",
+    "program": "Master's in Computational Science and Engineering (CSE)",
+    "degree": "Master's (CSE)",
+    "internship_rate": "unknown",
+    "full_time_placement": "Official SEAS CSE careers page (classes 2019–2021 rough breakdown): Technology 51%, Finance 14%, Graduate Studies 13%, Other industries 22%. Exact employment rate %: unknown.",
+    "notable_employers": [
+      "Amazon",
+      "Apple",
+      "Facebook/Meta",
+      "Google",
+      "Microsoft",
+      "Snowflake",
+      "Waymo",
+      "Citadel",
+      "Two Sigma",
+      "Goldman Sachs",
+      "JP Morgan",
+      "Bloomberg",
+      "McKinsey Analytics/QuantumBlack",
+      "Vertex Pharmaceuticals"
+    ],
+    "big_tech_or_top_firm_signal": "High for tech+quant paths based on published 2019–2021 industry mix (51% technology). Current-year rates: unknown.",
+    "sample_alumni_paths": [
+      "SWE / data scientist / ML engineer in Big Tech (program examples)",
+      "Quantitative analyst in finance",
+      "Further graduate study (13% of 2019–2021)"
+    ],
+    "referral_network_notes": "Harvard + SEAS alumni; Office of Student Career Development resources. Metrics unknown.",
+    "difficulty_notes": "Small selective interdisciplinary program; not equivalent to a large MSCS feeder factory.",
+    "sources": [
+      {
+        "title": "Harvard SEAS – CSE Master's Careers",
+        "url": "https://seas.harvard.edu/masters-computational-science-and-engineering/careers",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "medium",
+    "confidence_reason": "Official industry breakdown for 2019–2021 cohorts; dated and not a full CSEA-style FDS.",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "harvard-seas-cs-ms",
+    "routeMismatch": true,
+    "routeMismatchNotes": "Catalog harvard-cs. CSE is an interdisciplinary computational science master's (not a standalone MS Computer Science). Flag mismatch per catalog notes.",
+    "match": "different-route",
+    "matchCaveat": "Catalog harvard-cs. CSE is an interdisciplinary computational science master's (not a standalone MS Computer Science). Flag mismatch per catalog notes."
+  },
+  "duke-cs": {
+    "school": "Duke University",
+    "program": "MS in Computer Science",
+    "degree": "MS",
+    "internship_rate": "unknown",
+    "full_time_placement": "unknown (Duke Graduate School 'Computer Science: Master's Career Outcomes Statistics' page fetched without usable numeric tables this run)",
+    "notable_employers": "unknown from official public FDS this run",
+    "big_tech_or_top_firm_signal": "Qualitative: Duke brand + Triangle/tech recruiting. Quantitative: unknown.",
+    "sample_alumni_paths": "unknown",
+    "referral_network_notes": "Duke alumni network; CS-specific referral metrics unknown.",
+    "difficulty_notes": "Selective private MSCS; official competitiveness-to-employer stats unknown.",
+    "sources": [
+      {
+        "title": "Duke Graduate School – CS Master's Career Outcomes Statistics",
+        "url": "https://gradschool.duke.edu/about/statistics/computer-science-master-s-career-outcomes-statistics/",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "low",
+    "confidence_reason": "Outcomes page exists but no extractable placement/salary figures this run.",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "duke-mscs",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "brown-cs": {
+    "school": "Brown University",
+    "program": "ScM in Computer Science",
+    "degree": "ScM",
+    "internship_rate": "unknown (professional track offers optional 2–6 month internship opportunity; rate unknown)",
+    "full_time_placement": "unknown (no numeric FDS). Official program page: recent master's graduates hold positions such as senior software developers, ML/AI engineers, data scientists, and product managers.",
+    "notable_employers": "unknown as a published list; alumni example on page includes American Express (Financial Analyst)",
+    "big_tech_or_top_firm_signal": "Qualitative: Ivy CS brand. Quantitative Big Tech % / salary: unknown.",
+    "sample_alumni_paths": [
+      "Senior software developer / ML/AI engineer / data scientist / product manager (program statement)",
+      "Senior Financial Analyst – American Express (featured alum)"
+    ],
+    "referral_network_notes": "Brown CS faculty collaboration culture cited by alumni; referral metrics unknown.",
+    "difficulty_notes": "Customizable research or coursework track; AI & ML track available on-campus/online.",
+    "sources": [
+      {
+        "title": "Brown – Master of Science in Computer Science",
+        "url": "https://graduateprograms.brown.edu/graduate-program/computer-science-scm",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "low",
+    "confidence_reason": "Official qualitative career outcomes only; no placement rate or salary table.",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "brown-mscs",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "maryland-cs": {
+    "school": "University of Maryland",
+    "program": "MS in Computer Science (department outcomes note)",
+    "degree": "MS",
+    "internship_rate": "Among 390 respondents answering internship questions (dept-wide survey): 84.4% completed ≥1 internship; 67.2% completed ≥2; 89.1% had ≥1 paid internship. 62% said internship led to job offer.",
+    "full_time_placement": "Department-wide Class of 2024: 93% placement; 80.5% workforce; 12.4% further education; 1.9% unplaced; median starting salary $105,000 (full-time jobs). MS-only figures: unknown.",
+    "notable_employers": [
+      "Amazon",
+      "Google",
+      "Microsoft",
+      "Capital One",
+      "Lockheed Martin",
+      "NSA"
+    ],
+    "big_tech_or_top_firm_signal": "Qualitative strong for DMV (62% of employed in MD/VA/DC). Median $105k is lower than many peer MS medians — may reflect undergrad mix. MS-specific Big Tech %: unknown.",
+    "sample_alumni_paths": [
+      "Software engineer, data analyst, product manager, systems developer (common titles in survey)"
+    ],
+    "referral_network_notes": "DMV federal/contractor + Big Tech density; UMD career fairs cited.",
+    "difficulty_notes": "Large department; MS competitiveness and outcomes may differ sharply from BS aggregates.",
+    "sources": [
+      {
+        "title": "UMD CS – 93% Job Placement Rate (Class of 2024 survey)",
+        "url": "https://www.cs.umd.edu/article/2025/09/umd-computer-science-graduates-report-93-job-placement-rate",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "low",
+    "confidence_reason": "Official survey exists but is department-wide, not MS-specific — high risk of misattribution.",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "umd-mscs",
+    "routeMismatch": true,
+    "routeMismatchNotes": "Official Sept 2025 article reports 93% placement for CS class of 2024 across 959 graduates (72% knowledge rate) — appears to be department-wide (likely dominated by undergraduates), NOT MS-only. Treat as adjacent signal; MS-specific rate unknown.",
+    "match": "different-route",
+    "matchCaveat": "Official Sept 2025 article reports 93% placement for CS class of 2024 across 959 graduates (72% knowledge rate) — appears to be department-wide (likely dominated by undergraduates), NOT MS-only. Treat as adjacent signal; MS-specific rate unknown."
+  },
+  "dartmouth-mba": {
+    "school": "Dartmouth College – Tuck School of Business",
+    "program": "Full-Time MBA",
+    "degree": "MBA",
+    "internship_rate": "See Tuck Class of 2026 summer internship employment data (linked from site); single % not extracted in overview.",
+    "full_time_placement": "Class of 2025: 268/292 (92%) seeking. Offers within 3 months: 90%; accepts: 87%. International: 92% offers / 88% accepts. At 6 months: 93% offers / 91% accepts (news article). 70% of roles via school-facilitated activities.",
+    "notable_employers": "Select employers across consulting, finance, technology, health care (logos/list on Tuck employment statistics page; named firms in news narrative include Morgan Stanley among alumni examples).",
+    "big_tech_or_top_firm_signal": "Consulting 41% (median $190k), Financial Services 27% ($175k), Technology 13% ($145k). Overall median base $175k; median signing $30k (83% received); combined median compensation $205k (Tuck record).",
+    "sample_alumni_paths": [
+      "Consulting (41%)",
+      "IB within finance (13% of class in IB industry row)",
+      "Tech roles (13%)",
+      "Healthcare/pharma/biotech (7%)"
+    ],
+    "referral_network_notes": "70% school-facilitated; high adviser-to-student ratio publicly emphasized.",
+    "difficulty_notes": "Small elite MBA; consulting-heavy. Strong international placement relative to peers in 2025.",
+    "sources": [
+      {
+        "title": "Tuck – MBA Employment Statistics (Class of 2025)",
+        "url": "https://tuck.dartmouth.edu/mba/career-services/employment-statistics",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "Tuck news – 2025 employment outcomes",
+        "url": "https://tuck.dartmouth.edu/news/articles/2025-employment-outcomes-reflect-strength-talent-and-versatility-of-tuck-mbas",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Official Tuck Class of 2025 employment statistics with full industry/function/location tables.",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "tuck-mba",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "michigan-mba": {
+    "school": "University of Michigan – Ross School of Business",
+    "program": "Full-Time MBA",
+    "degree": "MBA",
+    "internship_rate": "Intern industry mix published (Consulting 28.1%, Financial Services 18.6%, Technology 17.1%); seeker % for interns on employment-data page.",
+    "full_time_placement": "Class of 2025: 280/366 (76.5%) seeking per Clear Admit. Offers: 78% by graduation, 86% within 3 months, 92% within 6 months. Accepts ~84.3% within 3 months / 90% within 6 months (Ross tables). 81% of accepted offers school-facilitated.",
+    "notable_employers": [
+      "Boston Consulting Group",
+      "McKinsey & Co.",
+      "Amazon",
+      "Deloitte",
+      "Bain & Co.",
+      "PwC Strategy&",
+      "EY-Parthenon",
+      "Bank of America",
+      "Microsoft",
+      "Capital One",
+      "Goldman Sachs"
+    ],
+    "big_tech_or_top_firm_signal": "Consulting 33.5% (median $190k), Financial Services 19.5% ($175k), Technology 13.1% ($143k), Healthcare 10.2%. Overall median base $170k; median signing $30k (91% received).",
+    "sample_alumni_paths": [
+      "MBB/Strategy& consulting",
+      "IB/finance",
+      "Tech (Amazon top FT+intern hirer)",
+      "CPG/brand (PepsiCo, GM, Nike)"
+    ],
+    "referral_network_notes": "81% school-facilitated; 266 companies hired Ross graduate or intern in 2025.",
+    "difficulty_notes": "Later hiring cycle (large graduation→3-month gap); persistence emphasized by CDO.",
+    "sources": [
+      {
+        "title": "Michigan Ross – Full-Time MBA Employment Data 2025",
+        "url": "https://michiganross.umich.edu/graduate/full-time-mba/careers/employment-data",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "Ross news – 2025 Full-Time MBA Career Report",
+        "url": "https://michiganross.umich.edu/news/michigan-ross-releases-2025-full-time-mba-career-report-improved-outcomes-challenging-market",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "Clear Admit – Ross MBA Class of 2025",
+        "url": "https://www.clearadmit.com/2025/12/michigan-ross-employment-report-mba-class-of-2025/",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Official Ross employment-data page with industry/function/region and top employers.",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "ross-mba",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "nyu-mba": {
+    "school": "NYU Stern School of Business",
+    "program": "Two-Year Full-Time MBA",
+    "degree": "MBA",
+    "internship_rate": "Class of 2026: 99.4% of those seeking a summer internship secured one (Stern employment reports page).",
+    "full_time_placement": "Class of 2025: 86.3% received offers / 86.0% accepted within 3 months (P&Q citing Stern). Later accepted offers rose toward ~90% per Stern note. By graduation: 76.4% offers / 75.6% accepts.",
+    "notable_employers": "Finance/consulting/tech ecosystem in NYC; employer list page linked from Stern employment reports (interactive). Specific multi-hire names not fully extracted from static page.",
+    "big_tech_or_top_firm_signal": "Finance 36.6%, Consulting 32.8%, Technology 14.2% (P&Q from Stern report). Median base $175,000; avg base $168,970; avg signing $41,007 (median $35k); Stern avg total compensation $202,705. Northeast 82.4% of accepts.",
+    "sample_alumni_paths": [
+      "Investment banking (~28% of accepts)",
+      "Consulting",
+      "Tech rebound to 14.2%",
+      "NYC-concentrated careers"
+    ],
+    "referral_network_notes": "NYC alumni ecosystem emphasized by Associate Dean; high EQ/agility narrative.",
+    "difficulty_notes": "Slower offers by graduation vs historical mid-90s 3-month rates; strong finish by 3+ months.",
+    "sources": [
+      {
+        "title": "NYU Stern – Employment Reports",
+        "url": "https://www.stern.nyu.edu/business-partnerships/employment-reports",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "Poets&Quants – Stern MBA Jobs 2025",
+        "url": "https://poetsandquants.com/2025/12/09/2025-mba-jobs-at-nyu-stern-sharper-gains-for-international-grads/",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Official Stern headline stats + detailed P&Q tables citing Stern employment report.",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "stern-mba",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "duke-mba": {
+    "school": "Duke University – Fuqua School of Business",
+    "program": "Daytime MBA",
+    "degree": "MBA",
+    "internship_rate": "Internship industry mix in official PDF (Consulting 26.1%, Financial Services 20.4%, Technology 18.6%, Healthcare 13.5%).",
+    "full_time_placement": "Class of 2025: 315 seeking / 350 graduates. Offers by graduation 72.4%; accepts by graduation 68.6%. Offers by 3 months 82.2%; accepts by 3 months 79%. 106 employers hired FT Fuqua MBAs.",
+    "notable_employers": [
+      "Accenture Strategy",
+      "Adobe",
+      "Amazon",
+      "Apple",
+      "Bain & Company",
+      "BCG",
+      "Bank of America",
+      "Barclays",
+      "Deloitte Consulting",
+      "EY-Parthenon",
+      "McKinsey (listed among hiring orgs in PDF continuation)"
+    ],
+    "big_tech_or_top_firm_signal": "Consulting 34.0% (median $190k), Financial Services 20.9% ($175k), Technology 15.6% ($144k), Healthcare 7.4% ($140k). Overall median base $160,000; median signing $30,000 (85.1% received).",
+    "sample_alumni_paths": [
+      "Consulting",
+      "Finance IB/corporate",
+      "Tech",
+      "Healthcare",
+      "General management (16.5% function)"
+    ],
+    "referral_network_notes": "Team Fuqua culture; career services mobility narrative. Facilitation % not in at-a-glance extract.",
+    "difficulty_notes": "2025 3-month offer/accept rates lower than many M7 peers; broader industry mix outside consulting/finance (~45% by industry).",
+    "sources": [
+      {
+        "title": "Fuqua Daytime MBA Employment Report 2025 PDF",
+        "url": "https://www.fuqua.duke.edu/sites/default/files/media/programs/daytime/duke-mba-employment-2025.pdf",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "Fuqua – Employment Reports hub",
+        "url": "https://www.fuqua.duke.edu/employers/employment-reports",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Official Fuqua 2025 employment PDF with CSEA-style seeker/offer/industry/salary data.",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "fuqua-mba",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "virginia-mba": {
+    "school": "University of Virginia – Darden School of Business",
+    "program": "Full-Time MBA",
+    "degree": "MBA",
+    "internship_rate": "Class of 2026: 100% of FT MBA students completed an internship (Darden Report article).",
+    "full_time_placement": "Class of 2025: 327/352 seeking. Offers within 3 months: 90.2%; accepts: 89.3%. At 6 months: 94% secured roles. 100% of students tracked.",
+    "notable_employers": [
+      "Amazon",
+      "Bain & Company",
+      "Bank of America",
+      "Barclays",
+      "BCG",
+      "American Express",
+      "McKinsey & Company"
+    ],
+    "big_tech_or_top_firm_signal": "Consulting 37.3%, Financial Services 26.0%, Technology 16.1% (nearly doubled YoY per Clear Admit). Median base $175,000 (5th consecutive year); median signing $30,000; mean base $162,578. >70% school-facilitated; ~60% via internships.",
+    "sample_alumni_paths": [
+      "Consulting",
+      "Finance",
+      "Tech (16.1%)",
+      "Entrepreneurship (12 starting new business)"
+    ],
+    "referral_network_notes": "Strong school-facilitated + internship conversion; case-method network.",
+    "difficulty_notes": "Offers by graduation lower than peak years but 3/6-month outcomes remain strong.",
+    "sources": [
+      {
+        "title": "UVA Darden Class of 2025 FT Employment Outcome Data PDF",
+        "url": "https://www.darden.virginia.edu/sites/default/files/2025-11/UVA%20Darden%20Class%20of%202025%20FT%20Employment%20Outcome%20Data_web.pdf",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "Darden Report – 2025-26 employment results",
+        "url": "https://news.darden.virginia.edu/articles/2025-26-employment-results-highlight-remarkable-job-market-success-of-darden-graduates",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "Clear Admit – Darden MBA Class of 2025",
+        "url": "https://www.clearadmit.com/2025/12/uva-darden-mba-class-of-2025-employment-report/",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Official Darden CSEA PDF + school news with 100% tracking.",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "darden-mba",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "ucla-mba": {
+    "school": "UCLA Anderson School of Management",
+    "program": "Full-Time MBA",
+    "degree": "MBA",
+    "internship_rate": "Class of 2026: 99% of seekers accepted internship offers; median monthly base ~$9,370.",
+    "full_time_placement": "Class of 2025: 241/290 (83.1%) seeking. Offers by graduation 59.3%; by 3 months 76.3%. Accepts by graduation 54.8%; by 3 months 74.7%; by 6 months 85%. 70% of accepts via Anderson-facilitated resources.",
+    "notable_employers": [
+      "Amazon",
+      "BCG",
+      "McKinsey",
+      "Deloitte",
+      "Bank of America",
+      "Bain",
+      "Google",
+      "Apple",
+      "Adobe",
+      "Microsoft",
+      "Meta",
+      "EY-Parthenon"
+    ],
+    "big_tech_or_top_firm_signal": "Technology 28.3% (median $147k), Consulting 25.6% ($175k), Financial Services 19.4% ($175k). Overall median base $160,096 (+12% YoY); mean $153,566; median signing $30k. 22% received stock/equity. California 67.8% of hires.",
+    "sample_alumni_paths": [
+      "Tech PM/software in CA",
+      "Management consulting 23.9%",
+      "Investment banking 13.3%",
+      "Entertainment & media 7.2%"
+    ],
+    "referral_network_notes": "70% Anderson-facilitated; SoCal alumni + entertainment industry access.",
+    "difficulty_notes": "Slower 3-month accept rate (74.7%) than many East Coast peers; strong 6-month catch-up to 85%. International offers by graduation lagged domestic.",
+    "sources": [
+      {
+        "title": "UCLA Anderson Class of 2025 Full-Time MBA Employment Report PDF",
+        "url": "https://www.anderson.ucla.edu/sites/default/files/document/2026-03/Class%20of%202025%20Employment%20Report%20Digital%20PDF_1.pdf",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "Anderson – Career Impact",
+        "url": "https://www.anderson.ucla.edu/degrees/full-time-mba/career-impact",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Official Anderson Class of 2025 employment PDF with CSEA-compliant tables.",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "anderson-mba",
+    "routeMismatch": false,
+    "match": "same-route"
   }
 };
 export const unlinkedOutcomeCards = {
@@ -1226,6 +1791,51 @@ export const unlinkedOutcomeCards = {
     "routeMismatchNotes": "NOT in catalog rankedSchools[].id — specialized SCS/LTI MCDS. Do not invent catalog_id.",
     "match": "different-route",
     "matchCaveat": "NOT in catalog rankedSchools[].id — specialized SCS/LTI MCDS. Do not invent catalog_id."
+  },
+  "cmu-msaii": {
+    "school": "Carnegie Mellon University",
+    "program": "MS in Artificial Intelligence and Innovation (MSAII)",
+    "degree": "MS",
+    "internship_rate": "unknown (typical internship semesters=1.0; cohort % unknown)",
+    "full_time_placement": "100% employed (Grads EMPL %); ~2.7% continued education — SCS Master's comparison for Aug/Dec 2024 & May 2025 grads (n=37).",
+    "notable_employers": [
+      "BNY Mellon",
+      "C3.ai",
+      "Google",
+      "LUCA.ai",
+      "Oracle"
+    ],
+    "big_tech_or_top_firm_signal": "Solid. Popular employers include Google, C3.ai, Oracle, BNY Mellon. Median salary $139,000; average $136,933 (15 salaries). Selectivity ~7.7% (59/770).",
+    "sample_alumni_paths": [
+      "AI application / industry roles at Google, C3.ai, Oracle, BNY Mellon (popularity list)"
+    ],
+    "referral_network_notes": "SCS/LTI network; capstone + industry setting emphasized. Referral ease unknown.",
+    "difficulty_notes": "Highly selective (~8%); 4-semester professional program with innovation/capstone focus.",
+    "sources": [
+      {
+        "title": "SCS Master's Programs Comparison",
+        "url": "https://www.cs.cmu.edu/education/masters/programs-comparison",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "SCS MS Comparison Excel",
+        "url": "https://www.cs.cmu.edu/education/masters/resources/scs-ms-program-comparison.xlsx",
+        "access_date": "2026-10-20"
+      },
+      {
+        "title": "MSAII how to apply",
+        "url": "https://msaii.cs.cmu.edu/how-apply",
+        "access_date": "2026-10-20"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Official SCS comparison Excel provides MSAII employment %, employers, salaries.",
+    "last_updated": "2026-10-20",
+    "pathProgramId": "cmu-msaii",
+    "routeMismatch": true,
+    "routeMismatchNotes": "NOT in catalog rankedSchools[].id — specialized SCS/LTI AI+innovation master's. Do not invent catalog_id.",
+    "match": "different-route",
+    "matchCaveat": "NOT in catalog rankedSchools[].id — specialized SCS/LTI AI+innovation master's. Do not invent catalog_id."
   }
 };
 export const outcomeAdjacentByCatalogId = {
@@ -1362,6 +1972,51 @@ export const outcomeSpecialtyByCatalogId = {
       "routeMismatchNotes": "NOT in catalog rankedSchools[].id — specialized SCS/LTI MCDS. Do not invent catalog_id.",
       "match": "different-route",
       "matchCaveat": "NOT in catalog rankedSchools[].id — specialized SCS/LTI MCDS. Do not invent catalog_id."
+    },
+    {
+      "school": "Carnegie Mellon University",
+      "program": "MS in Artificial Intelligence and Innovation (MSAII)",
+      "degree": "MS",
+      "internship_rate": "unknown (typical internship semesters=1.0; cohort % unknown)",
+      "full_time_placement": "100% employed (Grads EMPL %); ~2.7% continued education — SCS Master's comparison for Aug/Dec 2024 & May 2025 grads (n=37).",
+      "notable_employers": [
+        "BNY Mellon",
+        "C3.ai",
+        "Google",
+        "LUCA.ai",
+        "Oracle"
+      ],
+      "big_tech_or_top_firm_signal": "Solid. Popular employers include Google, C3.ai, Oracle, BNY Mellon. Median salary $139,000; average $136,933 (15 salaries). Selectivity ~7.7% (59/770).",
+      "sample_alumni_paths": [
+        "AI application / industry roles at Google, C3.ai, Oracle, BNY Mellon (popularity list)"
+      ],
+      "referral_network_notes": "SCS/LTI network; capstone + industry setting emphasized. Referral ease unknown.",
+      "difficulty_notes": "Highly selective (~8%); 4-semester professional program with innovation/capstone focus.",
+      "sources": [
+        {
+          "title": "SCS Master's Programs Comparison",
+          "url": "https://www.cs.cmu.edu/education/masters/programs-comparison",
+          "access_date": "2026-10-20"
+        },
+        {
+          "title": "SCS MS Comparison Excel",
+          "url": "https://www.cs.cmu.edu/education/masters/resources/scs-ms-program-comparison.xlsx",
+          "access_date": "2026-10-20"
+        },
+        {
+          "title": "MSAII how to apply",
+          "url": "https://msaii.cs.cmu.edu/how-apply",
+          "access_date": "2026-10-20"
+        }
+      ],
+      "confidence": "high",
+      "confidence_reason": "Official SCS comparison Excel provides MSAII employment %, employers, salaries.",
+      "last_updated": "2026-10-20",
+      "pathProgramId": "cmu-msaii",
+      "routeMismatch": true,
+      "routeMismatchNotes": "NOT in catalog rankedSchools[].id — specialized SCS/LTI AI+innovation master's. Do not invent catalog_id.",
+      "match": "different-route",
+      "matchCaveat": "NOT in catalog rankedSchools[].id — specialized SCS/LTI AI+innovation master's. Do not invent catalog_id."
     }
   ]
 };

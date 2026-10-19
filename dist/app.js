@@ -11,14 +11,30 @@ const confidencePill = level => `<span class="pill ${confidenceTone(level)}">${e
 const outcomeSources = sources => `<div class="source-links">${sources.map(s => external(`${s.title} · accessed ${s.access_date}`, s.url)).join('')}</div>`;
 const outcomeEmployers = o => Array.isArray(o.notable_employers) ? `<ul class="employer-list">${o.notable_employers.map(e => `<li>${esc(e)}</li>`).join('')}</ul>` : `<p>${esc(o.notable_employers)}</p>`;
 const outcomeShortLine = o => { if (!o) return 'No outcome card yet'; const placement = String(o.full_time_placement); const short = placement.length > 72 ? `${placement.slice(0, 69)}…` : placement; return `<span translate="no" lang="en">${esc(short)} · ${confidencePill(o.confidence)}</span>`; };
+function outcomeScopeBanner(o) {
+ if (o.pathProgramId === 'umd-mscs') {
+  return '<div class="notice amber"><span class="notice-icon" aria-hidden="true">ⓘ</span><div><b>Survey scope.</b> Department-wide Class of 2024 (not MS-only).</div></div>';
+ }
+ if (o.pathProgramId === 'nyu-mscs') {
+  return '<div class="notice amber"><span class="notice-icon" aria-hidden="true">ⓘ</span><div><b>Courant MSCS only.</b> Do not attribute NYU Tandon master\'s-wide outcomes to Courant.</div></div>';
+ }
+ if (o.pathProgramId === 'harvard-seas-cs-ms') {
+  return '<div class="notice amber"><span class="notice-icon" aria-hidden="true">ⓘ</span><div><b>Program label.</b> Computational Science &amp; Engineering interdisciplinary master\'s — not a standalone MS in Computer Science.</div></div>';
+ }
+ if (o.pathProgramId === 'upenn-mse-cis') {
+  return '<div class="notice amber"><span class="notice-icon" aria-hidden="true">ⓘ</span><div><b>Penn CIS MSE.</b> SEAS-wide placement % is school-aggregate; keep MCIT separate.</div></div>';
+ }
+ return '';
+}
 function outcomeRouteNotice(o) {
+ const scope = outcomeScopeBanner(o);
  if (o.routeMismatch || (o.match !== 'same-route' && o.matchCaveat)) {
   const label = o.routeMismatch ? 'Route mismatch' : 'Route match caveat';
   const text = o.routeMismatchNotes || o.matchCaveat || '';
   const tone = o.routeMismatch && /suspended|not accept/i.test(text) ? ' red' : ' amber';
-  return `<div class="notice${tone}"><span class="notice-icon" aria-hidden="true">ⓘ</span><div><b>${label}.</b> ${esc(text)}</div></div>`;
+  return `${scope}<div class="notice${tone}"><span class="notice-icon" aria-hidden="true">ⓘ</span><div><b>${label}.</b> ${esc(text)}</div></div>`;
  }
- return '';
+ return scope;
 }
 function outcomeCardBlock(o, { variant = 'primary' } = {}) {
  const variantPill = variant === 'adjacent' ? '<span class="pill amber">Adjacent route evidence</span>' : variant === 'specialty' ? '<span class="pill">Specialty program · not in ranking table</span>' : '';
