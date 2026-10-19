@@ -1,0 +1,333 @@
+{
+  "batch": "deadlines-batch3-cs",
+  "as_of": "2026-10-20",
+  "items": [
+    {
+      "id": "yale-cs",
+      "as_of": "2026-10-20",
+      "deadline": "Apps open (Fall 2027 application available) · Deadline 2 Jan 2027 · 11:59 p.m. ET (CS MS)",
+      "deadlineDate": "2027-01-02",
+      "applicationOpen": "Open as of page check (Fall 2027 entry application now available)",
+      "sources": [
+        [
+          "GSAS Dates & Deadlines (CS MS Jan 2, 2027; Fall 2027 reply Apr 15)",
+          "https://gsas.yale.edu/admissions/phdmasters-application-process/dates-deadlines"
+        ],
+        [
+          "GSAS Computer Science program (MS Jan 2 11:59pm ET)",
+          "https://gsas.yale.edu/programs-of-study/computer-science"
+        ],
+        [
+          "GSAS PhD/Master's application process (Fall 2027 app available)",
+          "https://gsas.yale.edu/admissions/phdmasters-application-process"
+        ],
+        [
+          "Yale Engineering CS MS program",
+          "https://engineering.yale.edu/academic-study/departments/computer-science/graduate-study/master-science-program"
+        ]
+      ],
+      "notes": "Catalog route: terminal CS MS via Yale GSAS (one-year common; selective two-year research/TF). Official Dates & Deadlines: Computer Science (MS) under January 2, 2027; all deadlines 11:59 pm Eastern; April 15, 2027 reply for fall 2027. GSAS program page restates MS — January 2 11:59pm ET (month-day without year on that line; year from Dates page). Application for Fall 2027 entry is now available. Fall 2027 dates explicitly posted."
+    },
+    {
+      "id": "brown-cs",
+      "as_of": "2026-10-20",
+      "deadline": "Fall: 15 Jan (month-day; year not labeled) · Spring: 1 Nov · Fifth-year Fall: 1 May",
+      "deadlineDate": null,
+      "applicationOpen": "AI/ML track: applications open now (Fall 2027 launch noted on CS masters hub)",
+      "rounds": [
+        {
+          "name": "ScM CS — Fall (primary; international & final same day)",
+          "deadline": "15 Jan (year not labeled; for Fall 2027 entry if annual → 15 Jan 2027)",
+          "deadlineDate": null
+        },
+        {
+          "name": "ScM CS — Spring",
+          "deadline": "1 Nov final · International 1 Oct (month-day; year not labeled)",
+          "deadlineDate": null
+        },
+        {
+          "name": "Fifth-year (Brown undergrads) — Fall",
+          "deadline": "1 May (month-day; year not labeled)",
+          "deadlineDate": null
+        }
+      ],
+      "sources": [
+        [
+          "Graduate Programs ScM Computer Science (deadlines)",
+          "https://graduateprograms.brown.edu/graduate-program/computer-science-scm"
+        ],
+        [
+          "Brown CS Master's hub",
+          "https://cs.brown.edu/degrees/masters/"
+        ],
+        [
+          "Brown CS Applying to Master's",
+          "https://cs.brown.edu/degrees/masters/applications/"
+        ],
+        [
+          "SPS Deadlines and Credits (CS Fall Jan. 15)",
+          "https://masters.brown.edu/admissions/tuition-aid/deadlines-credits"
+        ]
+      ],
+      "notes": "Catalog route: ScM Computer Science (comprehensive on-campus; AI/ML track on-campus or online). Official graduateprograms page posts Fall Application Deadline January 15 / International January 15 / Fifth-Year May 1 — month-day only, no Fall 2027 calendar year. CS masters hub snapshot: Deadline January 15; AI/ML track launching Fall 2027 with applications open now. deadlineDate=null per unlabeled-year rule. Do not invent 2027 for Jan 15."
+    },
+    {
+      "id": "nyu-cs",
+      "as_of": "2026-10-20",
+      "deadline": "MSCS Fall 12 Feb 2027 (CEI year-labeled Fall 2027; GSAS month-day Feb 12) · 5 p.m. ET · Spring 1 Nov",
+      "deadlineDate": "2027-02-12",
+      "applicationOpen": null,
+      "rounds": [
+        {
+          "name": "Courant MSCS — Fall (primary catalog route)",
+          "deadline": "12 Feb 2027 (MS-CEI: Fall 2027 deadline February 12; GSAS ARC lists February 12 Fall without year)",
+          "deadlineDate": "2027-02-12"
+        },
+        {
+          "name": "Courant MSCS — Spring",
+          "deadline": "1 Nov (month-day as posted; year not labeled)",
+          "deadlineDate": null
+        }
+      ],
+      "sources": [
+        [
+          "GSAS ARC Computer Science (MSCS deadlines; 5PM ET)",
+          "https://gsas.nyu.edu/admissions/arc/programs/computer-science.html"
+        ],
+        [
+          "Courant Master's prospective overview (Feb 12 Fall / Nov 1 Spring)",
+          "https://cs.nyu.edu/dynamic/masters/prospective-overview/"
+        ],
+        [
+          "MS-CEI Admissions (Fall 2027 deadline February 12)",
+          "https://cs.nyu.edu/ms-cei/admissions.html"
+        ]
+      ],
+      "notes": "Courant / GSAS MSCS — not Tandon. GSAS ARC: MSCS Fall February 12 / Spring November 1; all materials by 5PM Eastern (weekend/holiday → next business day). Overview table: Feb 12 (Fall) Nov 1 (Spring). Sister Courant MS-CEI page explicitly: Fall 2027 deadline February 12 — used to year-label main deadlineDate like Columbia CVN pattern. Spring left null (no year on GSAS). Application open not posted. Prefer Feb 12 over any conflicting Feb 14 mirrors."
+    },
+    {
+      "id": "northwestern-cs",
+      "as_of": "2026-10-20",
+      "deadline": "Apps open 15 Sep 2026 · MS Fall 2027 staged: by 30 Nov · 31 Dec · 28 Feb · 15 Jun (portal may close when full)",
+      "deadlineDate": "2026-11-30",
+      "applicationOpen": "15 Sep 2026",
+      "rounds": [
+        {
+          "name": "MS CS Fall 2027 — submit by Nov 30 (decision by Jan 10)",
+          "deadline": "30 Nov 2026 (Fall 2027 cycle; apps opened 15 Sep 2026)",
+          "deadlineDate": "2026-11-30"
+        },
+        {
+          "name": "MS CS Fall 2027 — submit by Dec 31 (decision by Feb 10)",
+          "deadline": "31 Dec 2026",
+          "deadlineDate": "2026-12-31"
+        },
+        {
+          "name": "MS CS Fall 2027 — submit by Feb 28 (decision by Mar 31)",
+          "deadline": "28 Feb 2027",
+          "deadlineDate": "2027-02-28"
+        },
+        {
+          "name": "MS CS Fall 2027 — submit by Jun 15 (decision by Jul 15; space may be limited)",
+          "deadline": "15 Jun 2027",
+          "deadlineDate": "2027-06-15"
+        }
+      ],
+      "sources": [
+        [
+          "CS Graduate Admissions (Fall 2027 open + MS staged dates)",
+          "https://www.mccormick.northwestern.edu/computer-science/academics/graduate/admissions/"
+        ],
+        [
+          "CS Graduate Programs hub",
+          "https://www.mccormick.northwestern.edu/computer-science/academics/graduate/"
+        ],
+        [
+          "TGS Application Deadlines",
+          "https://www.tgs.northwestern.edu/admission/application-procedures/application-deadlines.html"
+        ]
+      ],
+      "notes": "Terminal MS CS via TGS/McCormick (Fall quarter only). Official admissions page: Applications for Fall 2027 entry (2027-2028) opened September 15, 2026. MS staged decision windows list month-day only under that Fall 2027 header (Nov 30 / Dec 31 / Feb 28 / Jun 15); years assigned from the labeled Fall 2027 cycle that opened Sep 15, 2026. Portal may close early when cohort is full — no single hard close. deadlineDate set to first stage (Nov 30). PhD Dec 1, 2026 separate (not primary)."
+    },
+    {
+      "id": "ucsb-cs",
+      "as_of": "2026-10-20",
+      "deadline": "Fall 2027 final — 16 Dec 2026 (Wednesday)",
+      "deadlineDate": "2026-12-16",
+      "applicationOpen": null,
+      "sources": [
+        [
+          "Grad Division MS Computer Science program (Fall 2027 final Dec 16, 2026)",
+          "https://www.graddiv.ucsb.edu/graduate-programs/departments/computer-science"
+        ],
+        [
+          "Grad Division portal MS CMPSC-MS-0",
+          "https://engage.graddiv.ucsb.edu/portal/programs?cmd=prog&code=CMPSC-MS-0"
+        ],
+        [
+          "CS How to Apply (points to Grad Division deadline)",
+          "https://cs.ucsb.edu/education/graduate/how-to-apply"
+        ],
+        [
+          "CS Master's degree overview",
+          "https://cs.ucsb.edu/education/graduate/masters-degree"
+        ]
+      ],
+      "notes": "Catalog route: departmental MS CMPSC (not five-year UCSB-undergrad-only). Grad Division program details table: Application Quarter Fall 2027; Priority Financial/Priority N/A; Final Deadline Wednesday, December 16, 2026. CS how-to-apply directs applicants to Grad Division Departments and Programs for the deadline. Application open date not posted on these pages (portal historically reopens in September). Fall 2027 date explicitly posted."
+    },
+    {
+      "id": "unc-cs",
+      "as_of": "2026-10-20",
+      "deadline": "Final 9 Mar 2027 · Fellowship recommend 15 Dec 2026 · RA/TA recommend 5 Jan 2027 (MS/PhD Fall only)",
+      "deadlineDate": "2027-03-09",
+      "applicationOpen": null,
+      "rounds": [
+        {
+          "name": "Recommended — Grad School fellowships",
+          "deadline": "15 Dec 2026",
+          "deadlineDate": "2026-12-15"
+        },
+        {
+          "name": "Recommended — CS department RA/TA",
+          "deadline": "5 Jan 2027",
+          "deadlineDate": "2027-01-05"
+        },
+        {
+          "name": "Final admission deadline — MS and PhD",
+          "deadline": "9 Mar 2027",
+          "deadlineDate": "2027-03-09"
+        }
+      ],
+      "sources": [
+        [
+          "CS Admissions Deadline (year-labeled fellowship/RA/final)",
+          "https://cs.unc.edu/graduate/graduate-admissions/admissions-deadline/"
+        ],
+        [
+          "UNC Grad School Computer Science program sheet",
+          "https://gradschool.sites.unc.edu/computer-science/"
+        ],
+        [
+          "CS catalog (admissions narrative)",
+          "https://catalog.unc.edu/graduate/schools-departments/computer-science/"
+        ]
+      ],
+      "notes": "MS and PhD Fall only (other terms unusual). CS admissions-deadline page and Grad School program sheet agree: Dec 15, 2026 fellowship recommend; Jan 5, 2027 RA/TA recommend; March 9, 2027 final for MS and PhD. Supplemental materials may arrive after deadlines; applicant portion + fee by deadline. Catalog still says 'early January' generically — defer to dated CS/Grad School pages. deadlineDate uses final admission date. Application open not posted."
+    },
+    {
+      "id": "harvard-cs",
+      "as_of": "2026-10-20",
+      "deadline": "Apps open (Fall 2027 CSE/Data Science portal open) · Deadline 1 Dec 2026 · 5:00 p.m. ET (CSE SM)",
+      "deadlineDate": "2026-12-01",
+      "applicationOpen": "Open as of page check (submission portal open for Fall 2027 CSE)",
+      "sources": [
+        [
+          "SEAS CSE How to Apply (Fall 2027; Dec 1, 2026)",
+          "https://seas.harvard.edu/masters-computational-science-and-engineering/how-apply"
+        ],
+        [
+          "GSAS Computational Science and Engineering (SM/ME Dec 01, 2026 05:00 pm)",
+          "https://gsas.harvard.edu/program/computational-science-and-engineering"
+        ],
+        [
+          "SEAS CSE program home",
+          "https://seas.harvard.edu/masters-computational-science-and-engineering"
+        ]
+      ],
+      "notes": "Catalog `harvard-cs` maps to SEAS Computational Science and Engineering SM (related alternative), not a standalone CS MS. SEAS how-to-apply (updated Sep 4, 2026): portal open for Fall 2027; deadline December 1, 2026; no late apps; Fall only. GSAS program page: SM and ME both Dec 01, 2026 | 05:00 pm. Do not apply to both Data Science and CSE. Fall 2027 dates explicitly posted."
+    },
+    {
+      "id": "washington-cs",
+      "as_of": "2026-10-20",
+      "deadline": "PMP Autumn: 1 Jul (month-day; year not labeled) · Winter: 2 Nov 2026 (winter 2027 extension) · Spring: 1 Feb",
+      "deadlineDate": null,
+      "applicationOpen": "In general, applications open one year in advance of the deadline (PMP how-to-apply)",
+      "rounds": [
+        {
+          "name": "PMP — Autumn (primary catalog term)",
+          "deadline": "1 Jul (year not labeled; for Autumn 2027 entry if annual → 1 Jul 2027)",
+          "deadlineDate": null
+        },
+        {
+          "name": "PMP — Winter 2027",
+          "deadline": "2 Nov 2026 (page: for winter 2027, deadline extended to Monday, November 2)",
+          "deadlineDate": "2026-11-02"
+        },
+        {
+          "name": "PMP — Spring",
+          "deadline": "1 Feb (month-day; year not labeled)",
+          "deadlineDate": null
+        }
+      ],
+      "sources": [
+        [
+          "PMP How to Apply (quarter deadlines)",
+          "https://www.cs.washington.edu/academics/graduate/pmp/admissions/how-apply/"
+        ],
+        [
+          "PMP eligibility (no F-1/J-1)",
+          "https://www.cs.washington.edu/academics/graduate/pmp/admissions/requirements/"
+        ]
+      ],
+      "notes": "Catalog route: Allen School Professional Master's (PMP) — not traditional research MS. Deadlines table: Autumn July 1; Winter November 1* with footnote that for winter 2027 the deadline is extended to Monday, November 2; Spring February 1. Autumn July 1 has no Fall/Autumn 2027 calendar year → main deadlineDate=null. No summer apps. No F-1/J-1; Seattle-area residency required. Applications generally open one year before the deadline."
+    },
+    {
+      "id": "mit-cs",
+      "as_of": "2026-10-20",
+      "deadline": "No external Fall 2027 MS deadline — EECS MEng is MIT-undergrad-only; external graduate admission is PhD-track only",
+      "deadlineDate": null,
+      "applicationOpen": null,
+      "sources": [
+        [
+          "EECS MEng (MIT undergraduates only)",
+          "https://www.eecs.mit.edu/academics/undergraduate-programs/meng-program/"
+        ],
+        [
+          "EECS Graduate Admissions FAQs (single PhD admissions process; MS en route)",
+          "https://www.eecs.mit.edu/academics/graduate-programs/admission-process/graduate-admissions-faqs/"
+        ],
+        [
+          "EECS Admission Process",
+          "https://www.eecs.mit.edu/academics/graduate-programs/admission-process/"
+        ]
+      ],
+      "notes": "Availability already set restricted: no external-admission terminal MS CS for Fall 2027. MEng open only to MIT Course 6 undergrads. Graduate FAQs: only one admissions process into the PhD program; applicants without a master's earn MS en route. PhD application deadline Dec 1 exists but is not an MS catalog deadline — not recorded as deadlineDate. No published external MS Fall 2027 deadline string."
+    },
+    {
+      "id": "caltech-cs",
+      "as_of": "2026-10-20",
+      "deadline": "No external Fall 2027 MS deadline — CMS admits PhD-track only; MS by petition after courses (not open terminal MS)",
+      "deadlineDate": null,
+      "applicationOpen": null,
+      "sources": [
+        [
+          "CMS Graduate Programs (no terminal Master's)",
+          "https://www.cms.caltech.edu/academics/grad"
+        ],
+        [
+          "CMS catalog special regulations (MS by petition)",
+          "https://catalog.caltech.edu/current/information-for-graduate-students/special-regulations-for-graduate-options/computing-and-mathematical-science-cms/"
+        ]
+      ],
+      "notes": "Availability already set restricted. CMS FAQ: traditionally do not offer a Master's as a terminal degree. Catalog: only students who expect to pursue the Ph.D. are admitted; PhD students may petition to add MS after course requirements. PhD application dates (Dec 1 / Dec 15 elsewhere) are not MS deadlines — not recorded as deadlineDate. No published external MS Fall 2027 deadline string."
+    },
+    {
+      "id": "princeton-cs",
+      "as_of": "2026-10-20",
+      "deadline": "No Fall 2027 MS deadline — CS will not accept master's applications for Fall 2027 (MSE closed)",
+      "deadlineDate": null,
+      "applicationOpen": null,
+      "sources": [
+        [
+          "CS Master's requirements (Fall 2027 suspension notice)",
+          "https://www.cs.princeton.edu/grad/masters-degree-requirements"
+        ],
+        [
+          "Grad School Application Deadlines (no M.S.E. admission Fall 2027 for CS)",
+          "https://gradschool.princeton.edu/admission-onboarding/prepare/application-deadlines"
+        ]
+      ],
+      "notes": "Availability already set closed/suspended for Fall 2027. CS department: will not accept applications to the master's degree program for Fall 2027. Grad School deadlines page: Computer Science, M.S.E. among programs not accepting Fall 2027; footnote **No M.S.E. admission for Fall 2027 under Computer Science Dec 15 PhD row. No MS application deadline to fill for Fall 2027."
+    }
+  ]
+}

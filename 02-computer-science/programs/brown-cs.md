@@ -18,7 +18,7 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Eight-course master’s with a flexible study plan; on-campus study is separate from the online AI/ML track.
+Eight-course master’s with a flexible study plan; on-campus study is separate from the online AI/ML track. Application open: AI/ML track: applications open now (Fall 2027 launch noted on CS masters hub) (deadline research 2026-10-20; see deadline field).
 
 Orientation: See degree route and academic overview
 
@@ -32,7 +32,7 @@ $43,908 — Academic-year tuition (ScM Computer Science, 4 courses × per-course
 
 Brown Student Financial Services / Graduate Funding COA 2026–27: Computer Science master’s per-course rate $10,977. Standard track for ScM CS is 8 courses; COA budgets 2 courses/term → AY tuition $21,954 × 2 = $43,908. Estimated total program tuition at the published rate = $87,816. Mandatory fees in the COA (~$1,596 AY at the 2+2 pattern) and health insurance are separate. Program may also be completed as 8 courses in one year.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: Fall: 15 Jan (month-day; year not labeled) · Spring: 1 Nov · Fifth-year Fall: 1 May. Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -46,10 +46,12 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program / academic source](https://cs.brown.edu/degrees/masters/)
+- [Brown CS Master's hub](https://cs.brown.edu/degrees/masters/)
 - [Official tuition / budget](https://sfs.brown.edu/tuition-and-fees/graduate)
 - [COA by program (CS)](https://gradfunding.brown.edu/cost-attendance-program)
-- [ScM Computer Science](https://graduateprograms.brown.edu/graduate-program/computer-science-scm)
+- [Graduate Programs ScM Computer Science (deadlines)](https://graduateprograms.brown.edu/graduate-program/computer-science-scm)
+- [Brown CS Applying to Master's](https://cs.brown.edu/degrees/masters/applications/)
+- [SPS Deadlines and Credits (CS Fall Jan. 15)](https://masters.brown.edu/admissions/tuition-aid/deadlines-credits)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

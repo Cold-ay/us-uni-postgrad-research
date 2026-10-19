@@ -32,7 +32,7 @@ $58,224 — Academic-year tuition (GSAS Courant, $2,426/point × 12 points × 2 
 
 NYU Bursar 2026–27 Tuition and Fees PDF: Graduate School of Arts and Science All Programs $2,426 per credit/point, plus Registration & Services fee $503 for the first credit and $81 per additional credit each term. GSAS states a full-time load is typically 12 points/semester → tuition $29,112/semester → $58,224 AY Fall+Spring (R&S fees ~$1,394/term not included in the tuition figure). Courant MSCS requires 30 points (36 with concentration); full 30-point tuition at $2,426 = $72,780. Do not use Tandon Engineering rates ($2,626/point).
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: MSCS Fall 12 Feb 2027 (CEI year-labeled Fall 2027; GSAS month-day Feb 12) · 5 p.m. ET · Spring 1 Nov. Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -46,9 +46,11 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Courant MS overview](https://cs.nyu.edu/dynamic/masters/prospective-overview/)
+- [Courant Master's prospective overview (Feb 12 Fall / Nov 1 Spring)](https://cs.nyu.edu/dynamic/masters/prospective-overview/)
 - [Official tuition / budget (Bursar PDF)](https://www.nyu.edu/content/dam/nyu/bursar/documents/2026-2027%20Tuition%20and%20Fees.pdf)
 - [GSAS tuition & fees](https://gsas.nyu.edu/admissions/financial-aid/tuition-fees.html)
+- [GSAS ARC Computer Science (MSCS deadlines; 5PM ET)](https://gsas.nyu.edu/admissions/arc/programs/computer-science.html)
+- [MS-CEI Admissions (Fall 2027 deadline February 12)](https://cs.nyu.edu/ms-cei/admissions.html)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

@@ -1,0 +1,146 @@
+import { readFileSync, writeFileSync } from 'node:fs';
+
+const translations = {
+  'A terminal MS route; the department describes its one-year option as the most common terminal degree. Application open: Open as of page check (Fall 2027 entry application now available) (deadline research 2026-10-20; see deadline field).':
+    '終端 MS 路徑；院系稱一年制選項為最常見的終端學位。申請開放：頁面查核時已開放（Fall 2027 入學申請已開放）（期限研究截至 2026-10-20；詳見 deadline 欄位）。',
+  'Eight-course master’s with a flexible study plan; on-campus study is separate from the online AI/ML track. Application open: AI/ML track: applications open now (Fall 2027 launch noted on CS masters hub) (deadline research 2026-10-20; see deadline field).':
+    '八門課碩士、學習計畫彈性；校內學習與線上 AI/ML 軌道分開。申請開放：AI/ML 軌道現已開放申請（CS 碩士中心註明 Fall 2027 開課）（期限研究截至 2026-10-20；詳見 deadline 欄位）。',
+  'A terminal MS application is distinct from PhD admission; research interests form part of program planning. Application open: 15 Sep 2026 (deadline research 2026-10-20; see deadline field).':
+    '終端 MS 申請與 PhD 入學不同；研究興趣是課程規劃的一部分。申請開放：2026 年 9 月 15 日（期限研究截至 2026-10-20；詳見 deadline 欄位）。',
+  'CSE is an interdisciplinary alternative combining computing and applied mathematics; do not treat it as a standalone MS in Computer Science. Application open: Open as of page check (submission portal open for Fall 2027 CSE) (deadline research 2026-10-20; see deadline field).':
+    'CSE 為結合計算與應用數學的跨領域替代方案；勿視為獨立的計算機科學 MS。申請開放：頁面查核時已開放（Fall 2027 CSE 提交入口已開放）（期限研究截至 2026-10-20；詳見 deadline 欄位）。',
+  'The professional master’s cannot accept applicants who require F-1 or J-1 student visas. Application open: In general, applications open one year in advance of the deadline (PMP how-to-apply) (deadline research 2026-10-20; see deadline field).':
+    '專業碩士不接受需要 F-1 或 J-1 學生簽證的申請人。申請開放：一般於截止日前一年開放（PMP 申請說明）（期限研究截至 2026-10-20；詳見 deadline 欄位）。',
+};
+
+const toHans = (s) =>
+  s
+    .replaceAll('學', '学')
+    .replaceAll('碩', '硕')
+    .replaceAll('須', '须')
+    .replaceAll('與', '与')
+    .replaceAll('線', '线')
+    .replaceAll('開', '开')
+    .replaceAll('詳', '详')
+    .replaceAll('見', '见')
+    .replaceAll('欄', '栏')
+    .replaceAll('區', '区')
+    .replaceAll('產', '产')
+    .replaceAll('業', '业')
+    .replaceAll('領', '领')
+    .replaceAll('導', '导')
+    .replaceAll('為', '为')
+    .replaceAll('選', '选')
+    .replaceAll('論', '论')
+    .replaceAll('文', '文')
+    .replaceAll('參', '参')
+    .replaceAll('師', '师')
+    .replaceAll('得', '得')
+    .replaceAll('性', '性')
+    .replaceAll('個', '个')
+    .replaceAll('別', '别')
+    .replaceAll('確認', '确认')
+    .replaceAll('九', '九')
+    .replaceAll('月', '月')
+    .replaceAll('中', '中')
+    .replaceAll('旬', '旬')
+    .replaceAll('要', '要')
+    .replaceAll('求', '求')
+    .replaceAll('頁', '页')
+    .replaceAll('面', '面')
+    .replaceAll('未', '未')
+    .replaceAll('標', '标')
+    .replaceAll('年', '年')
+    .replaceAll('份', '份')
+    .replaceAll('限', '限')
+    .replaceAll('截', '截')
+    .replaceAll('至', '至')
+    .replaceAll('計', '计')
+    .replaceAll('算', '算')
+    .replaceAll('科', '科')
+    .replaceAll('基', '基')
+    .replaceAll('礎', '础')
+    .replaceAll('進', '进')
+    .replaceAll('階', '阶')
+    .replaceAll('習', '习')
+    .replaceAll('此', '此')
+    .replaceAll('轉', '转')
+    .replaceAll('換', '换')
+    .replaceAll('位', '位')
+    .replaceAll('不', '不')
+    .replaceAll('同', '同')
+    .replaceAll('申', '申')
+    .replaceAll('請', '请')
+    .replaceAll('日', '日')
+    .replaceAll('終', '终')
+    .replaceAll('端', '端')
+    .replaceAll('路', '路')
+    .replaceAll('徑', '径')
+    .replaceAll('院', '院')
+    .replaceAll('系', '系')
+    .replaceAll('稱', '称')
+    .replaceAll('一', '一')
+    .replaceAll('制', '制')
+    .replaceAll('項', '项')
+    .replaceAll('最', '最')
+    .replaceAll('常', '常')
+    .replaceAll('見', '见')
+    .replaceAll('的', '的')
+    .replaceAll('度', '度')
+    .replaceAll('八', '八')
+    .replaceAll('門', '门')
+    .replaceAll('課', '课')
+    .replaceAll('彈', '弹')
+    .replaceAll('校', '校')
+    .replaceAll('內', '内')
+    .replaceAll('軌', '轨')
+    .replaceAll('道', '道')
+    .replaceAll('分', '分')
+    .replaceAll('現', '现')
+    .replaceAll('已', '已')
+    .replaceAll('放', '放')
+    .replaceAll('心', '心')
+    .replaceAll('註', '注')
+    .replaceAll('明', '明')
+    .replaceAll('入', '入')
+    .replaceAll('興', '兴')
+    .replaceAll('趣', '趣')
+    .replaceAll('是', '是')
+    .replaceAll('規', '规')
+    .replaceAll('劃', '划')
+    .replaceAll('部', '部')
+    .replaceAll('結', '结')
+    .replaceAll('合', '合')
+    .replaceAll('應', '应')
+    .replaceAll('用', '用')
+    .replaceAll('數', '数')
+    .replaceAll('勿', '勿')
+    .replaceAll('視', '视')
+    .replaceAll('獨', '独')
+    .replaceAll('立', '立')
+    .replaceAll('機', '机')
+    .replaceAll('提', '提')
+    .replaceAll('交', '交')
+    .replaceAll('口', '口')
+    .replaceAll('專', '专')
+    .replaceAll('業', '业')
+    .replaceAll('接', '接')
+    .replaceAll('受', '受')
+    .replaceAll('需', '需')
+    .replaceAll('簽', '签')
+    .replaceAll('證', '证')
+    .replaceAll('人', '人')
+    .replaceAll('般', '般')
+    .replaceAll('於', '于')
+    .replaceAll('前', '前')
+    .replaceAll('說', '说');
+
+for (const locale of ['zh-Hant', 'zh-Hans']) {
+  const path = new URL(`../locales/${locale}.json`, import.meta.url);
+  const dict = JSON.parse(readFileSync(path, 'utf8'));
+  for (const [en, hant] of Object.entries(translations)) {
+    dict[en] = locale === 'zh-Hant' ? hant : toHans(hant);
+  }
+  writeFileSync(path, `${JSON.stringify(dict, null, 2)}\n`);
+  console.log(`Updated ${locale}.json with ${Object.keys(translations).length} deadline-batch3 CS academic strings.`);
+}
