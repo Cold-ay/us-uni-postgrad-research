@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-$87,536 — Academic-year tuition (Class of 2027 budget); 2026–27.
+$87,536 — Academic-year tuition (Tuck MBA); 2026–27.
 
-2026–27 official Tuck COA; not Fall 2027 quote or two-year total. Anticipate 3–5% increase for 2027–28 per Tuck note.
+2026–27 reference, not a Fall 2027 quote or full-degree total.
 
-Tuck Cost of Attendance AY 2026–2027 (single student): Tuition $87,536; on-campus Housing $16,700 (first-year default package); Program Fee $6,150 on-campus / $5,440–$6,150 off-campus variants; Books $1,500; Food allowance $10,910; Misc personal varies; Health Insurance $5,216. Example on-campus total with insurance $135,331. Anticipate 3–5% tuition increase for 2027–28. First year = 4 terms; second year = 3 terms. Living/housing band from official COA: $10910–$27400 (Tuck food allowance $10,910; on-campus housing $16,700 (direct) or off-campus housing allowance $20,475 — band depends on housing choice.).
+Tuck Cost of Attendance for Academic Year 2026–2027 lists Tuition $87,536 for Class of 2028 (on- or off-campus) and Class of 2027 (off-campus). Program fee is separate ($6,150 first-year / $5,440 second-year). Housing, food, and health insurance ($5,216) are separate. Footnote: tuition costs are for AY 2026–27 and subject to change; anticipate a 3–5% increase for 2027–28. First year is four terms; second year three terms on Tuck’s quarter schedule.
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -46,7 +46,8 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program / academic source](https://tuck.dartmouth.edu/mba/academic-experience)
+- [MBA academic experience](https://tuck.dartmouth.edu/mba/academic-experience)
+- [Official tuition / budget](https://tuck.dartmouth.edu/admissions/finance-your-degree/cost-attendance)
 - [Tuck Tuition and Costs](https://tuck.dartmouth.edu/admissions/finance-your-degree/tuition-and-costs)
 - [Scholarships and Fellowships](https://tuck.dartmouth.edu/admissions/finance-your-degree/scholarships-and-fellowships)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)

@@ -1,0 +1,166 @@
+{
+  "batch": "tuition-batch1-mba",
+  "as_of": "2026-10-20",
+  "items": [
+    {
+      "id": "columbia-mba",
+      "as_of": "2026-10-20",
+      "tuition": 93908,
+      "tuitionLabel": "Academic-year tuition (Full-Time MBA, August-entry first-year budget)",
+      "period": "2026–27",
+      "costNote": "2026–27 reference, not a Fall 2027 quote or full-degree total.",
+      "costDetail": "Columbia Business School Financial Aid Full-Time MBA and MBAxMS costs page lists 2026–27 August-entry Cost of Attendance with Tuition $93,908 (9-month first-year budget). Mandatory fees $6,783, health insurance $5,823, and living expenses are separate; first-year total budget $143,030. Continuing (second-year) budget also lists Tuition $93,908 (mandatory fees $6,678; second-year total budget $142,925). Note that tuition and fees generally increase 2–7% in the second year. Full-time MBA only — not Professional MBA or EMBA.",
+      "sources": [
+        [
+          "Official tuition / budget",
+          "https://business.columbia.edu/financial-aid/costs/full-time"
+        ],
+        [
+          "MBA academics",
+          "https://academics.business.columbia.edu/mba"
+        ]
+      ]
+    },
+    {
+      "id": "dartmouth-mba",
+      "as_of": "2026-10-20",
+      "tuition": 87536,
+      "tuitionLabel": "Academic-year tuition (Tuck MBA)",
+      "period": "2026–27",
+      "costNote": "2026–27 reference, not a Fall 2027 quote or full-degree total.",
+      "costDetail": "Tuck Cost of Attendance for Academic Year 2026–2027 lists Tuition $87,536 for Class of 2028 (on- or off-campus) and Class of 2027 (off-campus). Program fee is separate ($6,150 first-year / $5,440 second-year). Housing, food, and health insurance ($5,216) are separate. Footnote: tuition costs are for AY 2026–27 and subject to change; anticipate a 3–5% increase for 2027–28. First year is four terms; second year three terms on Tuck’s quarter schedule.",
+      "sources": [
+        [
+          "Official tuition / budget",
+          "https://tuck.dartmouth.edu/admissions/finance-your-degree/cost-attendance"
+        ],
+        [
+          "MBA academic experience",
+          "https://tuck.dartmouth.edu/mba/academic-experience"
+        ]
+      ]
+    },
+    {
+      "id": "berkeley-mba",
+      "as_of": "2026-10-20",
+      "tuition": 92755,
+      "tuitionLabel": "Academic-year tuition and fees (Full-Time MBA, nonresident, excl. SHIP)",
+      "period": "2026–27",
+      "costNote": "2026–27 reference, not a Fall 2027 quote or full-degree total.",
+      "costDetail": "Haas Financial Aid 2026–27 Estimated Cost of Attendance (Full-Time MBA): Nonresident Year 1 Tuition & Fees Subtotal $92,755 (Fall+Spring; includes systemwide tuition, campus/class pass fees, Nonresident Supplemental Tuition $12,245, PDST $62,880, IREF). Resident Tuition & Fees Subtotal $80,510. Mandatory SHIP health insurance $8,206 AY is billed separately (waivable with comparable coverage); Direct billable with SHIP ≈ $100,881 nonresident / $88,716 resident. One-time Document Management Fee $119 for new students is not in COA. Registrar 2026–27 Fee Schedule Full-time MBA continuing semester totals align ($50,480.25 nonresident / $44,357.75 resident including SHIP). Haas marketing costs page still shows 2025–26 estimates — use FAO/registrar 2026–27 figures. Full-time MBA only — not EMBA/evening/online.",
+      "sources": [
+        [
+          "Official tuition / budget",
+          "https://haas.berkeley.edu/financial-aid/full-time-mba/cost/"
+        ],
+        [
+          "Registrar fee schedule 2026–27",
+          "https://registrar.berkeley.edu/tuition-fees/fee-schedule/"
+        ],
+        [
+          "Full-time MBA academics",
+          "https://mba.haas.berkeley.edu/academics"
+        ]
+      ]
+    },
+    {
+      "id": "yale-mba",
+      "as_of": "2026-10-20",
+      "tuition": 90900,
+      "tuitionLabel": "Academic-year tuition (Yale SOM MBA)",
+      "period": "2026–27",
+      "costNote": "2026–27 reference, not a Fall 2027 quote or full-degree total.",
+      "costDetail": "Yale SOM Affording Your MBA Cost Information lists Cost of Attendance 2026–27 with Tuition $90,900 and Program Fee $500 (Total Tuition and Fees $91,400). Living expenses, books, transportation, and Yale Health insurance ($3,764) are separate; total single-student budget $128,976. Joint-degree fees may differ.",
+      "sources": [
+        [
+          "Official tuition / budget",
+          "https://som.yale.edu/programs/mba/affording-your-mba/cost-information"
+        ],
+        [
+          "MBA curriculum",
+          "https://som.yale.edu/programs/mba/curriculum"
+        ]
+      ]
+    },
+    {
+      "id": "virginia-mba",
+      "as_of": "2026-10-20",
+      "tuition": 83328,
+      "tuitionLabel": "Academic-year tuition (Darden MBA, Non-Virginia domicile)",
+      "period": "2026–27",
+      "costNote": "2026–27 reference, not a Fall 2027 quote or full-degree total.",
+      "costDetail": "Darden Tuition, Fees & Billing for Class of 2028: Fall 2026 / Spring 2027 Tuition $41,664 per semester for Non-Virginia domicile and International students → $83,328 AY. Virginia domicile tuition $39,505/semester → $79,010 AY. Comprehensive and activity fees are separate; published Fall/Spring Tuition & Fees (excl. case fees) are $44,000 Non-VA / $41,500 VA per semester ($88,000 / $83,000 AY). COA Class of 2028 lists Tuition & Fees $88,000 Non-VA / $88,240 International / $83,000 Virginia, plus case fees $1,100. Health insurance $4,220 billed in Fall if on UVA plan. Full-time residential MBA — not EMBA.",
+      "sources": [
+        [
+          "Official tuition / budget",
+          "https://www.darden.virginia.edu/mba/tuition-financial-aid/tuition-fees-billing"
+        ],
+        [
+          "Cost of Attendance",
+          "https://www.darden.virginia.edu/mba/tuition-financial-aid/cost-of-attendance"
+        ],
+        [
+          "MBA academics",
+          "https://www.darden.virginia.edu/mba/academics"
+        ]
+      ]
+    },
+    {
+      "id": "michigan-mba",
+      "as_of": "2026-10-20",
+      "tuition": 83946,
+      "tuitionLabel": "Academic-year tuition (Full-Time MBA, non-Michigan resident / international)",
+      "period": "2026–27",
+      "costNote": "2026–27 reference, not a Fall 2027 quote or full-degree total.",
+      "costDetail": "Michigan Ross Full-Time MBA Tuition & Financial Aid: 2026–2027 rates approved by the Board of Regents in June 2026 — Non-Michigan Residents/International $83,946 per academic year; Michigan Residents $78,586. Mandatory fees $246.89 per full term; International Student Services Fee $500 per term for F/J visa students. Living-cost guidance (books, food & housing, personal, loan fees) is separate. 2027–2028 rates to be posted July 2027. Full-time MBA only — not Weekend/Online/EMBA.",
+      "sources": [
+        [
+          "Official tuition / budget",
+          "https://michiganross.umich.edu/graduate/full-time-mba/admissions/tuition-financial-aid"
+        ],
+        [
+          "Full-Time MBA program",
+          "https://michiganross.umich.edu/graduate/full-time-mba"
+        ]
+      ]
+    },
+    {
+      "id": "duke-mba",
+      "as_of": "2026-10-20",
+      "tuition": 83700,
+      "tuitionLabel": "Academic-year tuition (Daytime MBA, Class of 2028)",
+      "period": "2026–27",
+      "costNote": "2026–27 reference, not a Fall 2027 quote or full-degree total.",
+      "costDetail": "Fuqua Daytime MBA Tuition + Costs: for students beginning August 2026 (Class of 2028), tuition is currently $83,700 USD ($41,850 Fall + $41,850 Spring; includes $4,000 non-refundable deposit credited to Fall). 2026–27 first-year COA lists additional fees (health fee, MBA Association, pre-term fee, etc.) and living expenses separately; Total COA $118,974. Dual-degree blended rates differ. Daytime MBA only — not Executive/online formats.",
+      "sources": [
+        [
+          "Official tuition / budget",
+          "https://www.fuqua.duke.edu/programs/daytime-mba/tuition-costs"
+        ],
+        [
+          "Daytime MBA curriculum",
+          "https://www.fuqua.duke.edu/programs/daytime-mba/curriculum"
+        ]
+      ]
+    },
+    {
+      "id": "cornell-mba",
+      "as_of": "2026-10-20",
+      "tuition": 88934,
+      "tuitionLabel": "Academic-year tuition (Two-Year Cornell MBA, Ithaca)",
+      "period": "2026–27",
+      "costNote": "2026–27 reference, not a Fall 2027 quote or full-degree total.",
+      "costDetail": "Cornell SC Johnson / Johnson Two-Year MBA Tuition & financing Estimated cost of attendance for Fall/Spring term (academic year 2026–27) lists Tuition $88,934. Separate first-year fee $1,500 (core course packs/materials, charged first semester only), student activity fees $100, health fee $600; living costs separate. Total estimated COA $127,278. Two-Year Ithaca full-time MBA — not Cornell Tech MBA or EMBA.",
+      "sources": [
+        [
+          "Official tuition / budget",
+          "https://business.cornell.edu/admissions/graduate/mba/tuition-financing/"
+        ],
+        [
+          "Two-Year MBA curriculum",
+          "https://www.johnson.cornell.edu/programs/full-time-mba/two-year-mba/curriculum/"
+        ]
+      ]
+    }
+  ]
+}

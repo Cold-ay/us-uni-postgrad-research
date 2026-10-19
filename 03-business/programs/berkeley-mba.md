@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-$92,755 — Year-1 Tuition & Fees subtotal (Nonresident Full-Time MBA); 2026–27.
+$92,755 — Academic-year tuition and fees (Full-Time MBA, nonresident, excl. SHIP); 2026–27.
 
-2026–27 estimated Haas COA; labels as estimates pending final UC approval. Not Fall 2027 quote or two-year total.
+2026–27 reference, not a Fall 2027 quote or full-degree total.
 
-Haas Financial Aid COA (estimated, subject to Regents approval): Nonresident Tuition & Fees subtotal $92,755; SHIP $8,206; Housing & Food $29,882; Books $782; Personal $3,376; Transportation $3,920; Grand total COA $138,921. Resident Tuition & Fees $80,510; COA $126,676. Additional: Document Management Fee $119 (new students, not in COA); BIO international fee $100/semester for F/J. Living/housing band from official COA: $29882–$37960 (Haas 2026–27 Housing & Food $29,882; full indirect living subtotal $37,960 including books/personal/transport.).
+Haas Financial Aid 2026–27 Estimated Cost of Attendance (Full-Time MBA): Nonresident Year 1 Tuition & Fees Subtotal $92,755 (Fall+Spring; includes systemwide tuition, campus/class pass fees, Nonresident Supplemental Tuition $12,245, PDST $62,880, IREF). Resident Tuition & Fees Subtotal $80,510. Mandatory SHIP health insurance $8,206 AY is billed separately (waivable with comparable coverage); Direct billable with SHIP ≈ $100,881 nonresident / $88,716 resident. One-time Document Management Fee $119 for new students is not in COA. Registrar 2026–27 Fee Schedule Full-time MBA continuing semester totals align ($50,480.25 nonresident / $44,357.75 resident including SHIP). Haas marketing costs page still shows 2025–26 estimates — use FAO/registrar 2026–27 figures. Full-time MBA only — not EMBA/evening/online.
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -46,7 +46,7 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program / academic source](https://mba.haas.berkeley.edu/academics)
+- [Full-time MBA academics](https://mba.haas.berkeley.edu/academics)
 - [Official tuition / budget](https://haas.berkeley.edu/financial-aid/full-time-mba/cost/)
 - [UC Berkeley Registrar Fee Schedule](https://registrar.berkeley.edu/tuition-fees/fee-schedule/)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)

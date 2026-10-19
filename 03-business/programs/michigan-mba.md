@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-$83,946 — Full-Time MBA tuition per academic year (Non-Michigan Residents/International); 2026–27.
+$83,946 — Academic-year tuition (Full-Time MBA, non-Michigan resident / international); 2026–27.
 
-2026–27 Regents-approved tuition. Fall 2027 entrants (cohort 2028) should expect updated COA June 2027; 2027–28 tuition posted ~July 2027.
+2026–27 reference, not a Fall 2027 quote or full-degree total.
 
-Ross: Michigan Residents $78,586; Non-Michigan/International $83,946 per academic year (Regents approved June 2026). Mandatory Fees $246.89 per full term; International Student Services Fee $500 per term for F/J. COA guidance Fall 2026–Winter 2027: Books $2,000; Food & Housing $22,276; Personal $7,360; Loan Fees $224. Note: Cohort 2028 entering summer 2027 gets finalized COA in June 2027. Living/housing band from official COA: $22276–$29636 (Ross COA Food & Housing $22,276; plus Personal $7,360 for Fall 2026–Winter 2027 budget (cohort 2027).).
+Michigan Ross Full-Time MBA Tuition & Financial Aid: 2026–2027 rates approved by the Board of Regents in June 2026 — Non-Michigan Residents/International $83,946 per academic year; Michigan Residents $78,586. Mandatory fees $246.89 per full term; International Student Services Fee $500 per term for F/J visa students. Living-cost guidance (books, food & housing, personal, loan fees) is separate. 2027–2028 rates to be posted July 2027. Full-time MBA only — not Weekend/Online/EMBA.
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -47,8 +47,8 @@ Shared scholarship IDs: SCH-006, SCH-007. See the [scholarship library](../../04
 ## Sources
 
 - [Program / academic source](https://michiganross.umich.edu/graduate/full-time-mba/curriculum/map)
-- [Rank 13 cross-check](https://michiganross.umich.edu/graduate/full-time-mba)
 - [Full-Time MBA Tuition & Financial Aid](https://michiganross.umich.edu/graduate/full-time-mba/admissions/tuition-financial-aid)
+- [Rank 13 cross-check](https://michiganross.umich.edu/graduate/full-time-mba)
 - [Affording Your MBA](https://michiganross.umich.edu/graduate/full-time-mba/admissions/tuition-financial-aid/affording-your-mba)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 

@@ -25,7 +25,7 @@ test('search combines names, academic topics and subject/status filters', () => 
   assert.equal(filterPrograms('','Business').length,30);
   assert.equal(filterPrograms('unresearched school').length,0);
   assert.ok(filterPrograms('thesis','Computer science').length>5);
-  assert.equal(filterPrograms('','All programs','With tuition reference').length,48);
+  assert.equal(filterPrograms('','All programs','With tuition reference').length,50);
 });
 test('restrictions remain visible and are not turned into open applications', () => {
   const restricted=filterPrograms('','Computer science','Restrictions & exceptions');
