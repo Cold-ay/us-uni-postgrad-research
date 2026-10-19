@@ -18,7 +18,7 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-The on-campus research degree includes a thesis route for in-depth work; separate from online master’s offerings.
+The on-campus research degree includes a thesis route for in-depth work; separate from online master’s offerings. Application open: 15 Oct (month-day as posted; year not labeled) (deadline research 2026-10-20; see deadline field).
 
 Orientation: See degree route and academic overview
 
@@ -32,7 +32,7 @@ $18,162 — Academic-year tuition and fees (Natural Sciences nonresident graduat
 
 Graduate Nonresident Natural Sciences: 9 semester hours = $9,081 per semester → $18,162 for Fall+Spring. At 12 hours: $10,970/semester. Separately, the catalog lists Option III Computer Science (MSCompSci) total program fee estimate $10,000 (same resident/nonresident)—commonly associated with the online/CDSO pathway. Confirm with UTCS which schedule applies to a specific on-campus research MS offer.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: Apps open 15 Oct · Deadline 15 Dec (Fall only; month-day as posted — year not labeled on UTCS apply page). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -46,11 +46,13 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Research degrees / on-campus MS](https://www.cs.utexas.edu/graduate/research-degrees)
+- [Research degrees (on-campus MS)](https://www.cs.utexas.edu/graduate/research-degrees)
 - [Official tuition / budget](https://catalog.utexas.edu/general-information/registration-tuition-and-fees/tuition-and-fees/tables-tuition-for-fall-and-spring/)
 - [Tuition rates hub](https://onestop.utexas.edu/managing-costs/cost-tuition-rates/tuition-rates/)
 - [Cost & aid](https://www.cs.utexas.edu/graduate/cost-and-aid)
 - [UT tuition tables PDF (catalog)](https://catalog.utexas.edu/general-information/registration-tuition-and-fees/tuition-and-fees/tables-tuition-for-fall-and-spring/tables-tuition-for-fall-and-spring.pdf)
+- [UTCS graduate apply / important dates](https://www.cs.utexas.edu/graduate/apply)
+- [UT Graduate degrees & programs (CS Fall only; Dec. 15)](https://graduate.utexas.edu/degrees-programs)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

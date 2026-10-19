@@ -669,7 +669,13 @@ export const dictionaries = {
     "low confidence": "低可信度",
     "medium confidence": "中可信度",
     "ranked schools and degree routes": "上榜學校與學位途徑",
-    "scholarship library": "獎學金資料庫"
+    "scholarship library": "獎學金資料庫",
+    "45-unit master’s with coursework or research options; MS admission does not guarantee entry to the PhD. Application open: 15 Sep 2026 (deadline research 2026-10-20; see deadline field).": "45 學分碩士，可選課程或研究路徑；MS 入學不保證可升讀 PhD。申請開放：2026 年 9 月 15 日（期限研究截至 2026-10-20；詳見 deadline 欄位）。",
+    "An industry-oriented route with technical study, leadership and a capstone; distinguish it from research graduate degrees. Application open: Open as of page check (Fall 2027 Graduate Admission application for EECS now open) (deadline research 2026-10-20; see deadline field).": "產業取向路徑，含技術學習、領導力與 capstone；須與研究型研究生學位區分。申請開放：頁面查核時已開放（Fall 2027 EECS 研究生入學申請已開放）（期限研究截至 2026-10-20；詳見 deadline 欄位）。",
+    "The on-campus research degree includes a thesis route for in-depth work; separate from online master’s offerings. Application open: 15 Oct (month-day as posted; year not labeled) (deadline research 2026-10-20; see deadline field).": "校內研究型學位含論文路徑以深入學習；與線上碩士不同。申請開放：10 月 15 日（頁面僅列月日；未標年份）（期限研究截至 2026-10-20；詳見 deadline 欄位）。",
+    "A master’s in CSE with an optional thesis. Research participation and advisor availability need individual confirmation. Application open: Reopens mid-September (Rackham closes in summer; late August/early September also stated) (deadline research 2026-10-20; see deadline field).": "CSE 碩士可選論文。研究參與與導師可得性須個別確認。申請開放：九月中旬重開（Rackham 夏季關閉；頁面亦提及八月底／九月初）（期限研究截至 2026-10-20；詳見 deadline 欄位）。",
+    "Thesis, comprehensive standard and comprehensive interdisciplinary plans; breadth and depth requirements. Application open: 2 Sep 2026 (deadline research 2026-10-20; see deadline field).": "論文、綜合標準與綜合跨領域方案；含廣度與深度要求。申請開放：2026 年 9 月 2 日（期限研究截至 2026-10-20；詳見 deadline 欄位）。",
+    "Coursework with optional research and a thesis route. Application open: 9 Sep 2026 (deadline research 2026-10-20; see deadline field).": "課程為主，可選研究與論文路徑。申請開放：2026 年 9 月 9 日（期限研究截至 2026-10-20；詳見 deadline 欄位）。"
   },
   "zh-Hans": {
     "$31,100 per fall/spring semester. The SCS budget lists $37,374 in additional annual items, including $1,500 in federal loan fees applicable to borrowers. Not every item is mandatory for every student. Full-degree cost is not yet verified.": "秋季／春季每学期 $31,100。SCS 预算另列每年 $37,374 的其他项目，包括适用于借款人的 $1,500 联邦贷款费。并非每项费用都适用于所有学生。整个学位总费用尚未核实。",
@@ -1340,6 +1346,12 @@ export const dictionaries = {
     "low confidence": "低可信度",
     "medium confidence": "中可信度",
     "ranked schools and degree routes": "上榜学校与学位途径",
-    "scholarship library": "奖学金资料库"
+    "scholarship library": "奖学金资料库",
+    "45-unit master’s with coursework or research options; MS admission does not guarantee entry to the PhD. Application open: 15 Sep 2026 (deadline research 2026-10-20; see deadline field).": "45 学分硕士，可选课程或研究路径；MS 入学不保证可升读 PhD。申请开放：2026 年 9 月 15 日（期限研究截至 2026-10-20；详见 deadline 栏位）。",
+    "An industry-oriented route with technical study, leadership and a capstone; distinguish it from research graduate degrees. Application open: Open as of page check (Fall 2027 Graduate Admission application for EECS now open) (deadline research 2026-10-20; see deadline field).": "产业取向路径，含技術学习、领导力与 capstone；须与研究型研究生学位区分。申请开放：页面查核时已开放（Fall 2027 EECS 研究生入学申请已开放）（期限研究截至 2026-10-20；详见 deadline 栏位）。",
+    "The on-campus research degree includes a thesis route for in-depth work; separate from online master’s offerings. Application open: 15 Oct (month-day as posted; year not labeled) (deadline research 2026-10-20; see deadline field).": "校内研究型学位含论文路径以深入学习；与线上硕士不同。申请开放：10 月 15 日（页面仅列月日；未标年份）（期限研究截至 2026-10-20；详见 deadline 栏位）。",
+    "A master’s in CSE with an optional thesis. Research participation and advisor availability need individual confirmation. Application open: Reopens mid-September (Rackham closes in summer; late August/early September also stated) (deadline research 2026-10-20; see deadline field).": "CSE 硕士可选论文。研究参与与导师可得性须个别确认。申请开放：九月中旬重开（Rackham 夏季关闭；页面亦提及八月底／九月初）（期限研究截至 2026-10-20；详见 deadline 栏位）。",
+    "Thesis, comprehensive standard and comprehensive interdisciplinary plans; breadth and depth requirements. Application open: 2 Sep 2026 (deadline research 2026-10-20; see deadline field).": "论文、綜合标準与綜合跨领域方案；含广度与深度要求。申请开放：2026 年 9 月 2 日（期限研究截至 2026-10-20；详见 deadline 栏位）。",
+    "Coursework with optional research and a thesis route. Application open: 9 Sep 2026 (deadline research 2026-10-20; see deadline field).": "课程为主，可选研究与论文路径。申请开放：2026 年 9 月 9 日（期限研究截至 2026-10-20；详见 deadline 栏位）。"
   }
 };

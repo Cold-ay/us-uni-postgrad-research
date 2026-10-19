@@ -1,0 +1,242 @@
+{
+  "batch": "deadlines-batch1-cs",
+  "as_of": "2026-10-20",
+  "items": [
+    {
+      "id": "stanford-cs",
+      "as_of": "2026-10-20",
+      "deadline": "Apps open 15 Sep 2026 · Deadline 8 Dec 2026 · 11:59 p.m. PT (Autumn / Fall 2027 entry)",
+      "deadlineDate": "2026-12-08",
+      "applicationOpen": "15 Sep 2026",
+      "sources": [
+        [
+          "CS graduate application deadlines",
+          "https://www.cs.stanford.edu/admissions-graduate-application-deadlines"
+        ],
+        [
+          "Master's admissions",
+          "https://www.cs.stanford.edu/admissions/masters-admissions"
+        ],
+        [
+          "Stanford Grad Admissions apply (11:59 p.m. Pacific Time)",
+          "https://gradadmissions.stanford.edu/apply/apply-now"
+        ]
+      ],
+      "notes": "Official CS deadlines table: Master's Application entry Autumn; application opens September 15, 2026; application deadline December 8, 2026; decision March 2027. Coterm row lists Autumn 2027–2028 separately, confirming this Master's cycle feeds Autumn 2027. Stanford Grad Admissions: finalize before 11:59 p.m. Pacific Time on the program deadline. One Autumn cycle for MS (incl. HCP). Fall 2027 dates are posted (not inferred)."
+    },
+    {
+      "id": "berkeley-cs",
+      "as_of": "2026-10-20",
+      "deadline": "Apps open (Fall 2027 cycle open) · Deadline 6 Jan 2027 · 8:59 p.m. PST (MEng EECS)",
+      "deadlineDate": "2027-01-06",
+      "applicationOpen": "Open as of page check (Fall 2027 Graduate Admission application for EECS now open)",
+      "sources": [
+        [
+          "MEng EECS program / apply",
+          "https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/"
+        ]
+      ],
+      "notes": "Catalog route is professional MEng EECS (not research MS). Page states: Fall 2027 Graduate Admission application for EECS is now open; MEng deadline Wednesday, January 6, 2027, at 8:59 pm PST. Timeline table also lists January 6 for online application deadline. Fall 2027 dates explicitly posted."
+    },
+    {
+      "id": "illinois-cs",
+      "as_of": "2026-10-20",
+      "deadline": "MCS Urbana Fall: 1 May · 11:59 p.m. CT (annual month-day; year not labeled) · MS thesis Fall: 1 Dec · 11:59 p.m. CT",
+      "deadlineDate": null,
+      "applicationOpen": null,
+      "rounds": [
+        {
+          "name": "MCS Urbana-Champaign (preferred catalog route) — Fall",
+          "deadline": "1 May · 11:59 p.m. CT (year not labeled; for Fall 2027 entry if annual → 1 May 2027)",
+          "deadlineDate": null
+        },
+        {
+          "name": "MS in Computer Science (thesis) — Fall",
+          "deadline": "1 Dec · 11:59 p.m. CT (year not labeled; for Fall 2027 entry if annual → 1 Dec 2026)",
+          "deadlineDate": null
+        },
+        {
+          "name": "MCS Urbana — Spring",
+          "deadline": "15 Oct · 11:59 p.m. CT",
+          "deadlineDate": null
+        }
+      ],
+      "sources": [
+        [
+          "Application deadlines",
+          "https://siebelschool.illinois.edu/admissions/graduate/application-deadlines"
+        ],
+        [
+          "Graduate FAQs",
+          "https://siebelschool.illinois.edu/admissions/graduate/faqs"
+        ]
+      ],
+      "notes": "Prefer on-campus professional MCS (Urbana); MS thesis differs (Dec 1 vs May 1 for Fall). Official deadlines page posts month-day only (no Fall 2027 calendar year). All materials by 11:59 PM U.S. Central Time. Application open date not posted. Do not treat inferred YYYY for Fall 2027 as official until year appears on the page. Online MCS and Chicago MCS have separate deadlines (not primary here)."
+    },
+    {
+      "id": "cornell-cs",
+      "as_of": "2026-10-20",
+      "deadline": "MS: 18 Jan for Fall (month-day as posted; year/timezone not labeled) · MEng Fall: 1 Feb; MEng Spring: 1 Oct",
+      "deadlineDate": null,
+      "applicationOpen": null,
+      "rounds": [
+        {
+          "name": "MS Computer Science (primary catalog route) — Fall",
+          "deadline": "18 Jan for Fall Admissions (year not labeled on CS page; if annual for Fall 2027 → 18 Jan 2027)",
+          "deadlineDate": null
+        },
+        {
+          "name": "MEng Computer Science — Fall",
+          "deadline": "1 Feb (year not labeled)",
+          "deadlineDate": null
+        },
+        {
+          "name": "MEng Computer Science — Spring",
+          "deadline": "1 Oct (year not labeled)",
+          "deadlineDate": null
+        }
+      ],
+      "sources": [
+        [
+          "CS MS apply",
+          "https://www.cs.cornell.edu/master-science-computer-science/apply"
+        ],
+        [
+          "CS MEng apply",
+          "https://www.cs.cornell.edu/master-engineering-computer-science/apply"
+        ]
+      ],
+      "notes": "Primary route: research MS (four-semester thesis; funded via TA). Official MS page: 'The application deadline is January 18 for Fall Admissions' — no calendar year or timezone. MEng separately: Fall Feb 1 / Spring Oct 1. Fall 2027 year not explicitly published on these pages; do not treat an inferred 2027 date as official without labeling. Application open date not posted."
+    },
+    {
+      "id": "gatech-cs",
+      "as_of": "2026-10-20",
+      "deadline": "1 Feb 2027 · 11:59 p.m. ET (Atlanta campus MS CS — Fall 2027; not OMSCS)",
+      "deadlineDate": "2027-02-01",
+      "applicationOpen": null,
+      "rounds": [
+        {
+          "name": "Fall 2027 (campus MSCS)",
+          "deadline": "1 Feb 2027 · 11:59 p.m. ET",
+          "deadlineDate": "2027-02-01"
+        },
+        {
+          "name": "Fall 2026 (campus MSCS; prior cycle)",
+          "deadline": "2 Feb 2026 · 11:59 p.m. ET",
+          "deadlineDate": "2026-02-02"
+        }
+      ],
+      "sources": [
+        [
+          "GT GradApp program info (MS CS deadlines)",
+          "https://gradapp.gatech.edu/portal/program-info?cmd=view-program&program=86097380-be9a-4631-6407-50f3d959f466"
+        ],
+        [
+          "MS CS admission requirements",
+          "https://www.cc.gatech.edu/ms-computer-science-admission-requirements"
+        ],
+        [
+          "MS CS specializations",
+          "https://www.cc.gatech.edu/ms-computer-science-specializations"
+        ]
+      ],
+      "notes": "Campus Atlanta MSCS only — not OMSCS. GradApp portal lists Fall 2027 deadline February 1, 2027; all deadlines 11:59 PM Eastern Time. College page: admitted once a year; deadline Feb. 1 for following fall. Application open date not stated on these pages. Fall 2027 date explicitly posted on GradApp."
+    },
+    {
+      "id": "texas-cs",
+      "as_of": "2026-10-20",
+      "deadline": "Apps open 15 Oct · Deadline 15 Dec (Fall only; month-day as posted — year not labeled on UTCS apply page)",
+      "deadlineDate": null,
+      "applicationOpen": "15 Oct (month-day as posted; year not labeled)",
+      "sources": [
+        [
+          "UTCS graduate apply / important dates",
+          "https://www.cs.utexas.edu/graduate/apply"
+        ],
+        [
+          "Research degrees (on-campus MS)",
+          "https://www.cs.utexas.edu/graduate/research-degrees"
+        ],
+        [
+          "UT Graduate degrees & programs (CS Fall only; Dec. 15)",
+          "https://graduate.utexas.edu/degrees-programs"
+        ]
+      ],
+      "notes": "On-campus research MS (not online/CDSO Option III). UTCS Important Dates: Application Opens October 15; Application Deadline December 15; LoR December 20; Master's decisions April 1 — no calendar year on page. Grad School lists Computer Science MSCS/PhD Fall only; Dec. 15. As of 2026-10-20 the Oct 15 open date is consistent with a live Fall 2027 cycle whose Dec deadline would be 15 Dec 2026 if annual, but year is NOT printed — do not treat inferred ISO as official without labeling. Online MSCS uses different deadlines."
+    },
+    {
+      "id": "michigan-cs",
+      "as_of": "2026-10-20",
+      "deadline": "Apps reopen mid-Sep (Rackham; late Aug/early Sep noted) · Master's deadline 15 Jan · 11:59 p.m. ET (FA 2027 cycle referenced on page)",
+      "deadlineDate": "2027-01-15",
+      "applicationOpen": "Reopens mid-September (Rackham closes in summer; late August/early September also stated)",
+      "sources": [
+        [
+          "CSE graduate admissions",
+          "https://cse.engin.umich.edu/academics/graduate/admissions/"
+        ],
+        [
+          "CSE how to apply",
+          "https://cse.engin.umich.edu/academics/graduate/admissions/apply/"
+        ],
+        [
+          "Master's in CSE",
+          "https://cse.engin.umich.edu/academics/graduate/graduate-programs/masters-in-cse/"
+        ]
+      ],
+      "notes": "Master's Application Deadline: January 15th, 11:59 PM ET; Fall term only. Same page discusses fee waivers for the FA 2027 application cycle — used to anchor Jan 15 to Fall 2027 entry (2027-01-15). Application reopens mid-September; also 'late August/early September'. PhD deadline Dec 15 (not primary). Exact open calendar day not posted."
+    },
+    {
+      "id": "ucsd-cs",
+      "as_of": "2026-10-20",
+      "deadline": "Apps open 2 Sep 2026 · Deadline 16 Dec 2026 · 11:59 p.m. PST (Fall 2027)",
+      "deadlineDate": "2026-12-16",
+      "applicationOpen": "2 Sep 2026",
+      "sources": [
+        [
+          "CSE graduate admissions",
+          "https://cse.ucsd.edu/graduate/admissions"
+        ],
+        [
+          "MS program",
+          "https://cse.ucsd.edu/graduate/degree-programs/ms-program"
+        ],
+        [
+          "UCSD Grad application portal note",
+          "https://connect.grad.ucsd.edu/apply/"
+        ]
+      ],
+      "notes": "Page updated October 5th, 2026: Fall 2027 admission opens September 2, 2026 until December 16, 2026 at 11:59 p.m. PST. Fall quarter only. GRE not required for Fall 2027. Fall 2027 dates explicitly posted."
+    },
+    {
+      "id": "cmu-mscs",
+      "as_of": "2026-10-20",
+      "deadline": "Apps open 9 Sep 2026 · Early 18 Nov 2026 · 3 p.m. EST · Final 9 Dec 2026 · 3 p.m. EST (Fall 2027 SCS)",
+      "deadlineDate": "2026-12-09",
+      "applicationOpen": "9 Sep 2026",
+      "rounds": [
+        {
+          "name": "Early (fee discount; SCS graduate portal)",
+          "deadline": "18 Nov 2026 · 3 p.m. EST",
+          "deadlineDate": "2026-11-18"
+        },
+        {
+          "name": "Final (primary hard deadline)",
+          "deadline": "9 Dec 2026 · 3 p.m. EST",
+          "deadlineDate": "2026-12-09"
+        }
+      ],
+      "sources": [
+        [
+          "SCS Graduate Admissions",
+          "https://www.cs.cmu.edu/education/graduate-admissions"
+        ],
+        [
+          "MS in Computer Science",
+          "https://csd.cs.cmu.edu/academics/masters/ms-in-computer-science"
+        ]
+      ],
+      "notes": "SCS portal: Applications for Fall 2027 enrollment open September 9, 2026; early Nov 18, 2026 3 p.m. EST; final Dec 9, 2026 3 p.m. EST. MSCS uses the Graduate Programs portal (not MHCI-only Jan 15 deadline). deadlineDate set to final deadline. Fall 2027 dates explicitly posted."
+    }
+  ]
+}

@@ -32,7 +32,7 @@ $40,444 — Academic-year tuition (MCS / Engineering, international or nonreside
 
 Registrar: Engineering and Engineering Related Programs (including Computer Science) — Nonresident or International Range I (12+ hours) $20,222/semester ($40,444 AY Fall+Spring). Resident Range I $10,636/semester ($21,272 AY). Range II (6–11 hours) nonresident/international $13,482/semester ($26,964 AY); Illinois Cost Calculator for MCS international at 9 credits matches Range II. Campus fees and living costs are extra. Online MCS uses a different per-credit schedule—not recorded here.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: MCS Urbana Fall: 1 May · 11:59 p.m. CT (annual month-day; year not labeled) · MS thesis Fall: 1 Dec · 11:59 p.m. CT. Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -51,6 +51,7 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 - [Credit-hour ranges](https://www.registrar.illinois.edu/g-tuition-cr-2627/)
 - [MCS tuition page](https://siebelschool.illinois.edu/academics/graduate/professional-mcs/tuition-fees)
 - [Cost calculator MCS international 9 cr](https://cost.illinois.edu/Home/Cost/I/G/10KS0112MCS/9/120268/120268)
+- [Application deadlines](https://siebelschool.illinois.edu/admissions/graduate/application-deadlines)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

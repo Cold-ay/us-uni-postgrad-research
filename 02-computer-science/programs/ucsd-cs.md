@@ -18,7 +18,7 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Thesis, comprehensive standard and comprehensive interdisciplinary plans; breadth and depth requirements.
+Thesis, comprehensive standard and comprehensive interdisciplinary plans; breadth and depth requirements. Application open: 2 Sep 2026 (deadline research 2026-10-20; see deadline field).
 
 Orientation: See degree route and academic overview
 
@@ -32,7 +32,7 @@ $38,087 — Academic-year registration fees total (graduate nonresident); 2026�
 
 UCSD Graduate Registration Fees 2026–27: California Nonresidents annual total $38,087.17 (includes systemwide tuition $13,722, Student Services Fee $1,344, campus fees, mandatory health insurance $6,660, and Nonresident Supplemental Tuition $15,102). California Residents annual total $22,985.17. CSE MS uses the standard graduate schedule (not self-supporting). One-time Enrollment Services Fee $115 is included in the published Fall/annual nonresident total. International visa administration fee $200 is separate.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: Apps open 2 Sep 2026 · Deadline 16 Dec 2026 · 11:59 p.m. PST (Fall 2027). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -49,6 +49,8 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 - [MS program](https://cse.ucsd.edu/graduate/degree-programs/ms-program)
 - [Official tuition / budget](https://students.ucsd.edu/finances/fees/registration/2026-27/graduate.html)
 - [CSE Financial Opportunities](https://cse.ucsd.edu/graduate/financial-opportunities)
+- [CSE graduate admissions](https://cse.ucsd.edu/graduate/admissions)
+- [UCSD Grad application portal note](https://connect.grad.ucsd.edu/apply/)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

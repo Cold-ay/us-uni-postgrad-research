@@ -18,7 +18,7 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Coursework with optional research and a thesis route.
+Coursework with optional research and a thesis route. Application open: 9 Sep 2026 (deadline research 2026-10-20; see deadline field).
 
 Orientation: Coursework · Optional research · Thesis option
 
@@ -32,7 +32,7 @@ SCS-wide reference rate; actual tuition may vary by program. Not an MSCS-specifi
 
 $31,100 per fall/spring semester. The SCS budget lists $37,374 in additional annual items, including $1,500 in federal loan fees applicable to borrowers. Not every item is mandatory for every student. Full-degree cost is not yet verified.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: Apps open 9 Sep 2026 · Early 18 Nov 2026 · 3 p.m. EST · Final 9 Dec 2026 · 3 p.m. EST (Fall 2027 SCS). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -46,9 +46,10 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program & curriculum](https://csd.cs.cmu.edu/academics/masters/ms-in-computer-science)
+- [MS in Computer Science](https://csd.cs.cmu.edu/academics/masters/ms-in-computer-science)
 - [Tuition & attendance budget](https://www.cmu.edu/sfs/tuition/graduate/scs.html)
 - [SCS program comparison](https://www.cs.cmu.edu/education/masters/programs-comparison)
+- [SCS Graduate Admissions](https://www.cs.cmu.edu/education/graduate-admissions)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

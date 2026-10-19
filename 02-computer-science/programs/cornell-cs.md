@@ -32,7 +32,7 @@ $29,500 — Academic-year tuition (Endowed research master’s MS); 2026–27.
 
 Bursar: Endowed Research Master’s (M.S. and listed M.A./non-degree) $14,750/semester, $29,500/year (2026–27). CS MS admitted students receive full tuition, stipend, and health insurance via required TA-ships each of four semesters—so billed tuition is typically covered for admitted students. Separately, M.Eng is Professional Tier 1: $36,973/semester, $73,946/year (self-supported).
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: MS: 18 Jan for Fall (month-day as posted; year/timezone not labeled) · MEng Fall: 1 Feb; MEng Spring: 1 Oct. Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -46,9 +46,9 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [CS MS apply / funding](https://www.cs.cornell.edu/master-science-computer-science/apply)
+- [CS MS apply](https://www.cs.cornell.edu/master-science-computer-science/apply)
 - [Official tuition / budget](https://bursar.cornell.edu/students-parents/tuition-rates-and-fees)
-- [MEng admissions](https://www.cs.cornell.edu/master-engineering-computer-science/apply)
+- [CS MEng apply](https://www.cs.cornell.edu/master-engineering-computer-science/apply)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

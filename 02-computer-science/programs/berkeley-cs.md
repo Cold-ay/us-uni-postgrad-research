@@ -18,7 +18,7 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-An industry-oriented route with technical study, leadership and a capstone; distinguish it from research graduate degrees.
+An industry-oriented route with technical study, leadership and a capstone; distinguish it from research graduate degrees. Application open: Open as of page check (Fall 2027 Graduate Admission application for EECS now open) (deadline research 2026-10-20; see deadline field).
 
 Orientation: Professional · Technical leadership · Capstone
 
@@ -32,7 +32,7 @@ $73,767 — Academic-year tuition and mandatory fees (MEng nonresident, continui
 
 Registrar Master of Engineering (All M.Eng Degrees) per-semester continuing totals: residents $29,767.75; nonresidents $36,883.25 (includes tuition, Student Services Fee, campus/transit fees, PDST $16,850 resident / $17,843 nonresident, NRST $6,122.50 for nonresidents, IREF, and health insurance $4,103). Program is Fall+Spring only → nonresident AY $73,766.50. New students add $119 document fee in first semester ($37,002.25 first-semester nonresident total).
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: Apps open (Fall 2027 cycle open) · Deadline 6 Jan 2027 · 8:59 p.m. PST (MEng EECS). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -46,7 +46,7 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [MEng EECS program](https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/)
+- [MEng EECS program / apply](https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/)
 - [Official tuition / budget](https://registrar.berkeley.edu/tuition-fees/fee-schedule/)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
