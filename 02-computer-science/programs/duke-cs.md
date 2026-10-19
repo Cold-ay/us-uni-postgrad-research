@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$69,880 — Academic-year tuition (Graduate School master’s full-time × 2 semesters); 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 reference, not a Fall 2027 quote or full-degree total.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+Duke Graduate School Tuition, Fees, and Ph.D. Stipend Schedule 2026–27: Master’s Students $34,940 per fall/spring semester → $69,880 AY. Summer I or II $17,470/term; after three full-time semesters, continuing/part-time $4,055 per unit. Master’s students must enroll full-time for at least three semesters. Mandatory fees (health, recreation, activity, student services; transcript fee first term) and health insurance are separate from the tuition figure. CS MS is 30 credits (coursework-only, thesis, or project).
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -46,7 +46,9 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program / academic source](https://gradschool.duke.edu/academics/programs-degrees/computer-science-ms/)
+- [CS MS program](https://gradschool.duke.edu/academics/programs-degrees/computer-science-ms/)
+- [Official tuition / budget](https://gradschool.duke.edu/financial-support/tuition-fees-and-phd-stipend-schedule/)
+- [Cost to attend (master’s COA)](https://gradschool.duke.edu/financial-support/cost-attend/)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

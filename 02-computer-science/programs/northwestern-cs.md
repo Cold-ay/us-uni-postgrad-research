@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$70,986 — Academic-year tuition (TGS master’s full-time 3–4 units × 3 quarters); 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 reference, not a Fall 2027 quote or full-degree total.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+Northwestern Evanston Graduate Financial Aid / TGS Master’s COA 2026–27: full-time 3–4 credits/units $23,662 per quarter. Academic-year Fall+Winter+Spring = $70,986. Single unit $8,418; two units $16,836. Health Services Fee $298/quarter (F/W/S); NU-SHIP annual premium $5,996—fees not included in the tuition figure. MS Computer Science requires 12 graduate units (typically 3–4 quarters). McCormick SFS also lists $23,662/quarter full-time for several engineering master’s schedules.
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -46,7 +46,9 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program / academic source](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/)
+- [CS graduate programs](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/)
+- [Official tuition / budget (TGS master’s COA)](https://www.northwestern.edu/evanston-graduate-financial-aid/getting-started/tuition-cost-of-attendance/tgs/masters.html)
+- [McCormick graduate tuition](https://www.northwestern.edu/sfs/tuition/graduate/mccormick.html)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

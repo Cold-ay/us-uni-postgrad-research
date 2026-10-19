@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$52,400 — Academic-year tuition (GSAS full-time master’s); 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 reference, not a Fall 2027 quote or full-degree total.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+Yale Graduate School of Arts and Sciences Tuition and Fees 2026–27: full-time study $26,200 per term → $52,400 AY. Half-time $13,100/term; one-quarter time $6,550/term. Continuous Registration Fee $880/term; Yale Health Hospitalization/Specialty Coverage $3,764 for twelve months—fees not included in the tuition figure. CS one-year MS is typically eight courses (four per term for visa full-time); two-year research/TF track exists with limited places. Most one-year MS students pay tuition themselves.
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -46,7 +46,9 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program / academic source](https://engineering.yale.edu/academic-study/departments/computer-science/graduate-study/master-science-program)
+- [CS MS program](https://engineering.yale.edu/academic-study/departments/computer-science/graduate-study/master-science-program)
+- [Official tuition / budget](https://gsas.yale.edu/resources/graduate-financial-aid/tuition-and-fees)
+- [Student Accounts GSAS rates](https://student-accounts.yale.edu/tuition-and-fees)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

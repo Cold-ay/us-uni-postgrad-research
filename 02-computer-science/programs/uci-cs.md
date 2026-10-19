@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$38,784 — Academic-year tuition and mandatory fees (graduate nonresident; research MSCS); 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 reference, not a Fall 2027 quote or full-degree total. Prefer research MS; MCS labeled separately.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+UCI Registrar Graduate/Credential Student Fees 2026–27: Total Nonresident annual $38,784.44 (Tuition $13,722 + Student Services Fee $1,344 + campus fees + Student Health Insurance $7,771.86 + Nonresident Supplemental Tuition $15,102). California Resident annual $23,682.44 without NRST. Document Fee $87 new students only (not in annual total). Research Master of Science in Computer Science (MSCS) uses this academic graduate schedule. Separately, professional Master of Computer Science (MCS) cohort entering Fall 2026: Program Fee $63,500 total ($12,700/quarter × 5 quarters including Summer); first four quarters program-fee portion $50,800; registrar MCS schedule shows Total Fees Paid about $60,765.13 for Fall–Summer 2026–27 including campus fees and GSHIP—MCS is a different self-supporting schedule, not the primary research-MS figure.
 
 Application timing: MCS international: 15 Jan 2027; MS not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -46,8 +46,10 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program / academic source](https://ics.uci.edu/academics/graduate-programs/program-comparison/)
-- [Official tuition / budget](https://mcs.ics.uci.edu/faq/)
+- [Program comparison (MSCS vs MCS)](https://ics.uci.edu/academics/graduate-programs/program-comparison/)
+- [Professional MCS admissions FAQ](https://mcs.ics.uci.edu/faq/)
+- [Official tuition / budget (graduate fees)](https://reg.uci.edu/fees/2026-2027/graduate.html)
+- [MCS fee schedule PDF](https://www.reg.uci.edu/fees/2026-2027/compsci.pdf)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

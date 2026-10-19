@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$43,908 — Academic-year tuition (ScM Computer Science, 4 courses × per-course rate); 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 reference, not a Fall 2027 quote or full-degree total.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+Brown Student Financial Services / Graduate Funding COA 2026–27: Computer Science master’s per-course rate $10,977. Standard track for ScM CS is 8 courses; COA budgets 2 courses/term → AY tuition $21,954 × 2 = $43,908. Estimated total program tuition at the published rate = $87,816. Mandatory fees in the COA (~$1,596 AY at the 2+2 pattern) and health insurance are separate. Program may also be completed as 8 courses in one year.
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -47,6 +47,9 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 ## Sources
 
 - [Program / academic source](https://cs.brown.edu/degrees/masters/)
+- [Official tuition / budget](https://sfs.brown.edu/tuition-and-fees/graduate)
+- [COA by program (CS)](https://gradfunding.brown.edu/cost-attendance-program)
+- [ScM Computer Science](https://graduateprograms.brown.edu/graduate-program/computer-science-scm)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence
