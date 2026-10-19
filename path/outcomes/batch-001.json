@@ -1,0 +1,543 @@
+{
+  "meta": {
+    "batch_id": "batch-001",
+    "agent": "path",
+    "created": "2026-10-20",
+    "access_date": "2026-10-20",
+    "card_count": 11,
+    "methodology": "Open public sources only (school career reports/PDFs, official pages, Scorecard/IPEDS via secondary aggregators, reputable MBA press summarizing official reports). No fabricated numbers; gaps labeled unknown. No alumni messaging.",
+    "program_ids": [
+      "stanford-mscs",
+      "mit-eecs-meng",
+      "cmu-mscs",
+      "berkeley-eecs-meng",
+      "uiuc-mcs",
+      "gatech-mscs",
+      "cornell-tech-meng-cs",
+      "uw-cse-ms",
+      "stanford-gsb-mba",
+      "harvard-hbs-mba",
+      "wharton-mba"
+    ]
+  },
+  "cards": [
+    {
+      "program_id": "stanford-mscs",
+      "school": "Stanford University",
+      "program": "MS in Computer Science",
+      "degree": "MS",
+      "internship_rate": "unknown",
+      "internship_rate_notes": "Stanford CS department does not publish an MSCS-specific internship rate in a public employment report located this run.",
+      "full_time_placement": "unknown (no MSCS-specific first-destination % found)",
+      "full_time_placement_notes": "College Scorecard (field of study, CS master's) reports median earnings 1 year after completion ~$199,761 and 5-year median ~$331,747 for Stanford CS master's completers; these are earnings outcomes, not placement rates. Stanford MS&E (different program) publishes an MS employment report with Big Tech employers listed.",
+      "notable_employers": [
+        "Google",
+        "Meta",
+        "NVIDIA",
+        "Microsoft",
+        "Amazon",
+        "Apple",
+        "Tesla",
+        "DeepMind (via anecdotal/public reports)",
+        "Bay Area startups (qualitative)"
+      ],
+      "notable_employers_caveat": "Employer names for MSCS specifically are largely from secondary/alumni anecdotal sources (e.g., csgrad.com) and adjacent Stanford MS&E report, not an official MSCS career PDF.",
+      "big_tech_or_top_firm_signal": "Qualitative: very high. Bay Area location + Stanford brand historically yields strong FAANG/AI resume screens. Quantitative MSCS-specific Big Tech %: unknown.",
+      "sample_alumni_paths": [
+        "Public anecdotal (csgrad.com, anonymized undergrad backgrounds): Meta SWE after Nvidia/Point72 internships",
+        "Public anecdotal: Google / Google DeepMind new-grad roles from MSCS peers",
+        "Public anecdotal: NVIDIA SWE/MLE paths; Scale AI MLE; Bloomberg NG",
+        "Official adjacent (MS&E MS report, not CS): Amazon, Google, Google DeepMind, Microsoft, NVIDIA, Tesla, TikTok, Uber among Engineering & Technology employers"
+      ],
+      "referral_network_notes": "Public signals suggest dense Bay Area alumni in Big Tech; Stanford CS TA/RA culture and large MSCS cohort increase peer referral surface. Ease of cold outreach: unknown from public data alone.",
+      "difficulty_notes": "Admissions extremely selective; once enrolled, public anecdotal consensus is strong Big Tech access, but 2024\u201326 market tightness means interview performance still decisive. Official competitive entry stats into specific employers: unknown.",
+      "sources": [
+        {
+          "title": "College Grad Analyst \u2013 Stanford CS Master's earnings (Scorecard)",
+          "url": "https://www.collegegradanalyst.com/state/california/institution/stanford-university-243744/program/1107-c5/",
+          "access_date": "2026-10-20"
+        },
+        {
+          "title": "Degree Atlas \u2013 Stanford CS master's (IPEDS/Scorecard)",
+          "url": "https://degreeatlas.org/institutions/stanford-university/programs/computer-science-masters/",
+          "access_date": "2026-10-20"
+        },
+        {
+          "title": "Stanford MS&E Careers \u2013 MS Employment Report (adjacent program)",
+          "url": "https://msandecareers.stanford.edu/employment-report/employment-report-master-science-graduates",
+          "access_date": "2026-10-20"
+        },
+        {
+          "title": "CS Grad \u2013 Stanford MSCS job outcomes notes (anecdotal, non-official)",
+          "url": "https://csgrad.com/en/SSS/stanford%20mscs",
+          "access_date": "2026-10-20"
+        }
+      ],
+      "confidence": "low",
+      "confidence_reason": "No official Stanford MSCS first-destination report found; reliance on Scorecard earnings + anecdotal employer lists.",
+      "last_updated": "2026-10-20"
+    },
+    {
+      "program_id": "mit-eecs-meng",
+      "school": "Massachusetts Institute of Technology",
+      "program": "EECS Master of Engineering (MEng)",
+      "degree": "MEng",
+      "internship_rate": "unknown (program requires professional experience; % completing internship vs colloquia/prior work unknown)",
+      "internship_rate_notes": "MEng Professional Perspectives Requirement allows internship (4+ weeks), prior employment, 6-A, or colloquia. 6-A internship program notes employers often extend offers.",
+      "full_time_placement": "MIT-wide master's (not EECS-specific): Fall 2025 GSS \u2014 77.4% employed full-time as principal activity; among those working/military, 80.7% had accepted a position. 2023 GSS: 87% of master's job seekers obtained a job within 3 months.",
+      "full_time_placement_notes": "Figures are Institute-wide master's, not EECS MEng only. EECS-specific employment rate: unknown.",
+      "notable_employers": "unknown at EECS MEng program level from public dashboards fetched this run (interactive CAPD dashboards exist but EECS filter not extracted as static numbers)",
+      "big_tech_or_top_firm_signal": "Qualitative: very high MIT brand + Boston/Cambridge tech + finance. Master's industry mix (Institute-wide 2025): Information/Computer Technology 24.3%, Professional/Scientific/Consulting 23.4%, Finance/Insurance 15.7%. EECS-specific Big Tech %: unknown.",
+      "sample_alumni_paths": "unknown (EECS-specific public alumni examples not collected this run without login scrape)",
+      "referral_network_notes": "MIT alumni network and CAPD recruiting are publicly strong; 6-A creates employer relationships. Specific referral ease metrics: unknown.",
+      "difficulty_notes": "MEng primarily for MIT undergrads continuing; external applicants rare. Employer interview bars remain high despite brand.",
+      "sources": [
+        {
+          "title": "MIT IR \u2013 Student Placement (2025 Graduating Student Survey)",
+          "url": "https://ir.mit.edu/projects/student-placement/",
+          "access_date": "2026-10-20"
+        },
+        {
+          "title": "MIT News \u2013 Tracking graduates' career trajectories (2023 GSS stats)",
+          "url": "https://news.mit.edu/2024/3-questions-tracking-mit-graduate-career-trajectories-1217",
+          "access_date": "2026-10-20"
+        },
+        {
+          "title": "MIT CAPD \u2013 Post-Graduate and Summer Outcomes",
+          "url": "https://capd.mit.edu/post-graduateandsummer/",
+          "access_date": "2026-10-20"
+        },
+        {
+          "title": "MIT EECS \u2013 MEng Requirements (PPR/internship)",
+          "url": "https://www.eecs.mit.edu/academics/undergraduate-programs/meng-program/requirements/",
+          "access_date": "2026-10-20"
+        },
+        {
+          "title": "MIT EECS \u2013 6-A Graduate MEng",
+          "url": "https://www.eecs.mit.edu/home/eecs-alliance-2/6a/6a-students/graduate-meng/",
+          "access_date": "2026-10-20"
+        }
+      ],
+      "confidence": "medium",
+      "confidence_reason": "Solid Institute-wide master's placement numbers; EECS-MEng-specific rates and employer lists not broken out in static public pages.",
+      "last_updated": "2026-10-20"
+    },
+    {
+      "program_id": "cmu-mscs",
+      "school": "Carnegie Mellon University",
+      "program": "MS in Computer Science (School of Computer Science)",
+      "degree": "MS",
+      "internship_rate": "unknown (program lists typical internship semesters = 1.0; cohort internship % not published in comparison sheet)",
+      "full_time_placement": "93% employed (Grads EMPL %); 90% employed or PhD; 4% continued education \u2014 SCS Master's Programs Comparison Data for grads Aug 2024 / Dec 2024 / May 2025 (n grads=50 for MSCS)",
+      "full_time_placement_notes": "Official SCS comparison Excel: Grad EMPL 43/50 (0.93); Cont'd Educ 2 (0.04). Selectivity ~5.2% (107 admitted / 2073 apps).",
+      "notable_employers": [
+        "Databricks",
+        "Snowflake",
+        "Apple",
+        "Tesla",
+        "TikTok"
+      ],
+      "notable_employers_notes": "SCS comparison lists employers by popularity only if hiring \u22652 students. Broader CMU MSE 2024 PDF (sister SCS program) lists Amazon, Meta, Google, Nvidia, Microsoft, Apple, TikTok, etc.",
+      "big_tech_or_top_firm_signal": "High. Official MSCS popular employers include Apple/TikTok/Tesla plus data-platform leaders Databricks/Snowflake. Median salary $150,000; average $158,967 (23 salaries reported).",
+      "sample_alumni_paths": [
+        "Typical titles from related SCS professional programs: Software Engineer / SDE / ML roles at Big Tech (MSE report)",
+        "MSCS-specific titled paths: unknown beyond employer popularity list"
+      ],
+      "referral_network_notes": "SCS alumni density in Big Tech and infra startups is a known public signal; CMU CPDC publishes masters internship dashboards. Formal referral ease: unknown.",
+      "difficulty_notes": "Admission highly selective (~5%). Post-admit placement % strong, but salary variance and market competition remain; average applications journey for related MSE programs was hundreds of apps (MSE PDF).",
+      "sources": [
+        {
+          "title": "SCS Master's Programs Comparison Data (web)",
+          "url": "https://www.cs.cmu.edu/education/masters/programs-comparison",
+          "access_date": "2026-10-20"
+        },
+        {
+          "title": "SCS MS Program Comparison Excel (official download)",
+          "url": "https://www.cs.cmu.edu/education/masters/resources/scs-ms-program-comparison.xlsx",
+          "access_date": "2026-10-20"
+        },
+        {
+          "title": "CMU CPDC Outcomes",
+          "url": "https://www.cmu.edu/career/outcomes/",
+          "access_date": "2026-10-20"
+        },
+        {
+          "title": "CMU MSE 2024 Career Outcomes PDF (related SCS program)",
+          "url": "https://mse.s3d.cmu.edu/applicants/career/2024-career-outcomes.pdf",
+          "access_date": "2026-10-20"
+        }
+      ],
+      "confidence": "high",
+      "confidence_reason": "Official SCS comparison spreadsheet provides MSCS-specific employment %, employers, and salaries for 2024\u201325 graduates.",
+      "last_updated": "2026-10-20"
+    },
+    {
+      "program_id": "berkeley-eecs-meng",
+      "school": "UC Berkeley",
+      "program": "Master of Engineering (MEng) \u2013 EECS concentrations (Fung Institute)",
+      "degree": "MEng",
+      "internship_rate": "unknown (1-year lockstep Fall\u2013Spring; limited summer internship window for full-time cohort)",
+      "full_time_placement": "Program-wide MEng (all CoE depts): UC Regents PDST summary cites 87% of 2023 graduates working in the US and 71% remaining in California; over 60% consistently find employment in California. EECS-only placement %: unknown. Class of 2025 median salary $108,000 and median signing bonus $9,875 (Fung Institute site, program-wide).",
+      "full_time_placement_notes": "Detailed Class of 2025 employment dashboard exists at funginstitute.berkeley.edu/career/employment-data/ but interactive/embed numbers not fully extractable as static text this run.",
+      "notable_employers": "Major technology companies (UC Regents summary); specific named list for Class of 2025 EECS: unknown from static extract. Job titles listed program-wide include Software Developer, Data Scientist, Product Manager, Technology Consultant, Hardware Engineer, Systems Engineer.",
+      "big_tech_or_top_firm_signal": "High qualitative (Bay Area + Berkeley EECS brand). Quantitative Big Tech share: unknown. Note: Class of 2025 reported median salary $108k is lower than many peer CS MS medians\u2014may reflect mixed engineering departments in Fung MEng cohort, not EECS-only.",
+      "sample_alumni_paths": [
+        "Public alumni spotlights (Fung site): EECS MEng alumni in industry (e.g., Aditya Chichani MEng '22 EECS; Jun Zhang MEng '22 EECS) \u2014 specific employers not extracted from video spotlights this run"
+      ],
+      "referral_network_notes": "Fung Institute cites 3,400+ MEng alumni, dedicated career development team, Bay Area/SV entrepreneurial community. Referral ease: unknown quantitatively.",
+      "difficulty_notes": "Competitive admissions; 1-year pace compresses recruiting vs 2-year MS. Bay Area employer density helps, but EECS MEng shares Fung career services with other engineering majors.",
+      "sources": [
+        {
+          "title": "Fung Institute \u2013 Employment Data",
+          "url": "https://funginstitute.berkeley.edu/career/employment-data/",
+          "access_date": "2026-10-20"
+        },
+        {
+          "title": "Fung Institute \u2013 Full-time MEng (Class of 2025 salary)",
+          "url": "https://funginstitute.berkeley.edu/fulltimemeng/",
+          "access_date": "2026-10-20"
+        },
+        {
+          "title": "UC Regents PDST attachment \u2013 Berkeley MEng outcomes summary",
+          "url": "https://regents.universityofcalifornia.edu/regmeet/may25/a1attach.pdf",
+          "access_date": "2026-10-20"
+        },
+        {
+          "title": "Berkeley EECS \u2013 MEng program page",
+          "url": "https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/",
+          "access_date": "2026-10-20"
+        }
+      ],
+      "confidence": "medium",
+      "confidence_reason": "Official median salary and geographic outcome stats available; EECS-specific placement % and employer counts not isolated in static public text.",
+      "last_updated": "2026-10-20"
+    },
+    {
+      "program_id": "uiuc-mcs",
+      "school": "University of Illinois Urbana-Champaign",
+      "program": "Master of Computer Science (MCS) / MS in Computer Science",
+      "degree": "MCS / MS",
+      "internship_rate": "unknown (graduate-specific internship rate not found; undergrad CS reports 95% internship/co-op \u2014 not applicable to MS)",
+      "full_time_placement": "unknown (Illini Success first-destination reports cover bachelor's primarily). College Scorecard: CS master's median earnings 1 year after completion $146,670 (2025-26 Scorecard field-of-study data). IPEDS: 1,131 CS master's credentials awarded 2024-25 (includes MCS on-campus/online and MS).",
+      "notable_employers": [
+        "Amazon",
+        "Apple",
+        "Capital One",
+        "Google",
+        "IBM",
+        "Meta",
+        "Microsoft",
+        "Netflix",
+        "Sandia National Laboratories",
+        "Twitch"
+      ],
+      "notable_employers_notes": "Employer list from Siebel School undergraduate career success page (2023-24 Illini Success). Graduate-specific employer list: unknown from sources fetched.",
+      "big_tech_or_top_firm_signal": "Historically strong Big Tech feeder among publics; Scorecard 1-yr median $146,670 exceeds national CS master's median $108,219. Exact Big Tech % for MCS/MS: unknown.",
+      "sample_alumni_paths": "unknown at graduate level from public reports this run (undergrad sample roles: Software Engineer, MLE, Quant Developer, etc.)",
+      "referral_network_notes": "Large MCS alumni volume (hundreds of degrees/year) implies broad LinkedIn density at Big Tech. Formal referral metrics: unknown.",
+      "difficulty_notes": "On-campus MCS/MS selective; online MCS more accessible. Large cohort size can increase peer competition for limited Big Tech slots.",
+      "sources": [
+        {
+          "title": "Degree Atlas \u2013 UIUC CS master's (Scorecard/IPEDS)",
+          "url": "https://degreeatlas.org/institutions/university-of-illinois-urbana-champaign/programs/computer-science-masters/",
+          "access_date": "2026-10-20"
+        },
+        {
+          "title": "Siebel School \u2013 Facts & Rankings (undergrad outcomes + employers)",
+          "url": "https://siebelschool.illinois.edu/about/facts-and-rankings",
+          "access_date": "2026-10-20"
+        },
+        {
+          "title": "Illinois Engineering Career Services \u2013 Salary and Outcomes Data",
+          "url": "https://ecs.grainger.illinois.edu/fac-staff-resources/SalaryandOutcomesData",
+          "access_date": "2026-10-20"
+        },
+        {
+          "title": "Illini Success 2024-25 Annual Report (bachelor's)",
+          "url": "https://illinisuccess.illinois.edu/24-25-annual-report",
+          "access_date": "2026-10-20"
+        }
+      ],
+      "confidence": "low",
+      "confidence_reason": "Strong Scorecard earnings signal but no official MCS/MS first-destination employment rate or graduate employer table located.",
+      "last_updated": "2026-10-20"
+    },
+    {
+      "program_id": "gatech-mscs",
+      "school": "Georgia Institute of Technology",
+      "program": "MS in Computer Science (College of Computing)",
+      "degree": "MS",
+      "internship_rate": "Partial signal only: College of Computing registered substantial master's CS internships (e.g., graduate internship enrollment tables show Computer Science master's internship counts; exact % of cohort unknown). Master's internship top CoC CS hiring companies include NVIDIA, Amazon, Meta, Microsoft, Apple, Google.",
+      "full_time_placement": "84.3% placement (Computer Science Master's), n=834 responses; median salary $134,000; 95th percentile salary $206,000; mean signing bonus ~$20,586 \u2014 Georgia Tech Career & Salary Employment Report 2024-25, College of Computing section.",
+      "notable_employers": [
+        "Amazon",
+        "Microsoft",
+        "Apple",
+        "Google",
+        "Meta",
+        "Capital One",
+        "Amazon Web Services",
+        "AT&T",
+        "Deloitte",
+        "Adobe",
+        "Bloomberg",
+        "NVIDIA",
+        "Intel",
+        "Intuit",
+        "JP Morgan"
+      ],
+      "big_tech_or_top_firm_signal": "Very high volume signal. Master's CoC employer list led by Amazon, Microsoft, Apple, Google, Meta. Institute-wide master's job accept 79%; CoC CS master's placement 84.3%. CS master's summer internship hourly rates reported ~$48\u2013$56 depending on term.",
+      "sample_alumni_paths": [
+        "Common master's titles (CoC report): Software Engineer / SDE / Full Stack / Data / AI roles",
+        "Employers spanning FAANG, finance (Capital One, JP Morgan, Bank of America), and defense/consulting"
+      ],
+      "referral_network_notes": "Large CoC graduate population and OMSCS alumni extend network; Atlanta + West Coast hiring both visible in location charts. Referral ease: unknown quantitatively.",
+      "difficulty_notes": "On-campus MSCS competitive; large response n=834 means outcomes are robust but also reflect a big, varied cohort. Big Tech interviews still rigorous.",
+      "sources": [
+        {
+          "title": "Georgia Tech Career Center Outcomes Report 2024-2025 (PDF)",
+          "url": "https://bpb-us-e1.wpmucdn.com/sites.gatech.edu/dist/1/5568/files/2026/07/Career-Center-Outcomes-Report-2024-2025.pdf",
+          "access_date": "2026-10-20"
+        },
+        {
+          "title": "GT College of Computing \u2013 Facts and Rankings",
+          "url": "https://www.cc.gatech.edu/facts-and-rankings",
+          "access_date": "2026-10-20"
+        },
+        {
+          "title": "GT Academic Effectiveness \u2013 Career Survey Report AY 2024-2025",
+          "url": "https://s2.academiceffectiveness.gatech.edu/surveys/reports/georgia-tech-career-survey-report-ay-2024-2025",
+          "access_date": "2026-10-20"
+        }
+      ],
+      "confidence": "high",
+      "confidence_reason": "Official Career Center PDF publishes CS master's placement %, salary, and named employers for 2024-25.",
+      "last_updated": "2026-10-20"
+    },
+    {
+      "program_id": "cornell-tech-meng-cs",
+      "school": "Cornell Tech (Cornell University)",
+      "program": "Master of Engineering in Computer Science",
+      "degree": "MEng",
+      "internship_rate": "unknown for 1-year MEng CS (summer internships highlighted mainly for two-year Jacobs programs; 2025 Jacobs intern employers included Amazon, Google, Meta, etc.)",
+      "full_time_placement": "94% employed within 9 months of graduation (Class of 2025, n=110). Career paths: 74% job seekers, 11% founders, 15% other paths. All technical programs aggregate: 89% employed within 9 months (n=278).",
+      "notable_employers": [
+        "Google",
+        "Amazon",
+        "Palantir",
+        "Bloomberg",
+        "Visa",
+        "Microsoft",
+        "TikTok",
+        "Scale AI"
+      ],
+      "big_tech_or_top_firm_signal": "High for NYC tech. Median salary for technical program graduates 2025: $140,000. Majority of roles: software developer, data scientist, data analyst, data engineer.",
+      "sample_alumni_paths": [
+        "Software developer / data scientist / data engineer at mature tech or startups (program statement)",
+        "11% of CS MEng Class of 2025 pursued founding"
+      ],
+      "referral_network_notes": "NYC campus + Cornell alumni; startup studio ecosystem (128+ companies launched historically). Referral ease: unknown quantitatively.",
+      "difficulty_notes": "Competitive admissions; NYC market competitive with Columbia/NYU peers. 9-month employment window used (not 3-month MBA-style).",
+      "sources": [
+        {
+          "title": "Cornell Tech \u2013 Career Outcomes (Class of 2025)",
+          "url": "https://tech.cornell.edu/career-management/career-outcomes/",
+          "access_date": "2026-10-20"
+        },
+        {
+          "title": "Cornell Tech \u2013 Master of Engineering admissions page",
+          "url": "https://admissions.tech.cornell.edu/masters-of-engineering/",
+          "access_date": "2026-10-20"
+        }
+      ],
+      "confidence": "high",
+      "confidence_reason": "Official Cornell Tech outcomes page publishes CS MEng-specific employment rate, path mix, employers, and median salary for Class of 2025.",
+      "last_updated": "2026-10-20"
+    },
+    {
+      "program_id": "uw-cse-ms",
+      "school": "University of Washington",
+      "program": "MS in Computer Science & Engineering (Allen School)",
+      "degree": "MS",
+      "internship_rate": "unknown",
+      "full_time_placement": "UW Alumni Survey 2024-25 Master's CSE: among respondents (15/155 = 10% response rate), 93% employed full-time, 0% seeking employment, 7% enrolled in further education. Mean salary $170,727 (n=11); mean first-year bonus $56,429 (n=7). Caveat: very low response rate \u2014 treat as directional only.",
+      "notable_employers": [
+        "Amazon (Allen School statement: 100+ hires of 2024-25 graduates)",
+        "Google",
+        "Meta",
+        "Microsoft (more than two dozen new graduates per Allen School statement)",
+        "Stripe",
+        "Pinterest",
+        "Jane Street",
+        "Visa",
+        "Qualcomm",
+        "NTT Research"
+      ],
+      "notable_employers_notes": "Employer roster combines official Allen School careers myth-vs-reality PDF (Amazon/Google/Meta/Microsoft counts for Allen School grads broadly) and UW alumni survey current-activity roster for MS respondents (Stripe, Pinterest, Microsoft, Jane Street, Meta, Google, Visa, Qualcomm, etc.).",
+      "big_tech_or_top_firm_signal": "Very high geographic signal (Seattle). Allen School: 120+ companies hired 2024-25 graduates into SWE roles; Amazon alone 100+. Survey respondents clustered in King/Pierce/Snohomish counties (69%).",
+      "sample_alumni_paths": [
+        "Senior Software Engineer \u2013 Stripe",
+        "Software Engineer \u2013 Microsoft / Google / Meta / Pinterest / Visa",
+        "Member of Technical Staff (employer redacted in survey table)",
+        "Software Engineer \u2013 Jane Street",
+        "CPU Performance Architect \u2013 Qualcomm; Postdoctoral fellow \u2013 NTT Research"
+      ],
+      "referral_network_notes": "Extremely dense Amazon/Microsoft alumni presence in Seattle from public hiring statements. Referral surface likely strong for Pacific Northwest roles.",
+      "difficulty_notes": "Allen School MS admissions selective. Local Big Tech saturation helps screening but 2024\u201325 market still described as tighter than peak COVID years by Allen School itself.",
+      "sources": [
+        {
+          "title": "UW Alumni Survey \u2013 2024-25 Master's CSE PDF",
+          "url": "https://depts.washington.edu/assessmt/pdfs/reports/2602/2602_UWS_Engineering_ComputerSci_M.PDF",
+          "access_date": "2026-10-20"
+        },
+        {
+          "title": "Allen School \u2013 CS Careers Myth vs Reality PDF",
+          "url": "https://www.cs.washington.edu/wp-content/uploads/2025/09/cs-careers-myth-vs-reality.pdf",
+          "access_date": "2026-10-20"
+        },
+        {
+          "title": "GeekWire \u2013 Amazon hiring UW CS grads",
+          "url": "https://www.geekwire.com/2025/this-seattle-tech-giant-is-gobbling-up-computer-science-grads-from-the-university-of-washington/",
+          "access_date": "2026-10-20"
+        }
+      ],
+      "confidence": "medium",
+      "confidence_reason": "Official survey + Allen School hiring statement are strong, but MS survey response rate is only 10%, so placement % is not robust.",
+      "last_updated": "2026-10-20"
+    },
+    {
+      "program_id": "stanford-gsb-mba",
+      "school": "Stanford Graduate School of Business",
+      "program": "MBA",
+      "degree": "MBA",
+      "internship_rate": "unknown as a single %; Class of 2026 internships: Finance dominant industry; Technology (AI-driven) second; Health Care third; Consulting fourth (GSB employment reports narrative).",
+      "full_time_placement": "Class of 2025: 426 graduates; 63% seeking employment (268). Offers within 3 months: 90%; acceptances within 3 months: 81%. 16% pursued own ventures; 13% company-sponsored/already employed; 3% continued education. 54% of acceptances facilitated by school channels.",
+      "notable_employers": "Industry-level (not always named firm list in public summary): Technology 35%, Finance 33% (PE 16%, VC 6%, IM/HF 8%), Consulting 11%, Healthcare 5%, Energy 4%.",
+      "big_tech_or_top_firm_signal": "Very high for tech MBA. Tech took #1 industry share (35%). Median base $185,000; average base $190,901; median signing bonus $30,000 (51% reported signing bonus). West US placement 55%.",
+      "sample_alumni_paths": [
+        "Enterprise technology / AI-related PM, GTM, customer success, sales (GSB narrative for 2025)",
+        "Private equity / VC / investment management tracks within finance 33%",
+        "Entrepreneurship: 16% of class; among founders, 42% tech, 18% search funds, 10% healthcare, 8% consumer"
+      ],
+      "referral_network_notes": "GSB network + Stanford ecosystem + CMC support publicly emphasized; 54% of accepts via school facilitation. Extremely strong founder/investor network signals.",
+      "difficulty_notes": "Most selective MBA globally; even admits compete for scarce PE/VC/tech PM seats. Offer rate recovered but not at historical peaks for all peer schools.",
+      "sources": [
+        {
+          "title": "Stanford GSB \u2013 Employment Outcomes",
+          "url": "https://www.gsb.stanford.edu/programs/mba/career-impact/employment-outcomes",
+          "access_date": "2026-10-20"
+        },
+        {
+          "title": "Stanford GSB \u2013 Employment Reports",
+          "url": "https://www.gsb.stanford.edu/organizations/recruit/strategies-resources/employment-reports",
+          "access_date": "2026-10-20"
+        },
+        {
+          "title": "Clear Admit \u2013 Stanford GSB Employment Report MBA Class of 2025",
+          "url": "https://www.clearadmit.com/2025/12/stanford-gsb-employment-report-mba-class-of-2025/",
+          "access_date": "2026-10-20"
+        }
+      ],
+      "confidence": "high",
+      "confidence_reason": "Official GSB employment report figures corroborated by Clear Admit summary with detailed industry/salary breakdowns.",
+      "last_updated": "2026-10-20"
+    },
+    {
+      "program_id": "harvard-hbs-mba",
+      "school": "Harvard Business School",
+      "program": "MBA",
+      "degree": "MBA",
+      "internship_rate": "unknown (not extracted as a single % this run)",
+      "full_time_placement": "Class of 2025: 65% of 925 graduates sought employment. Of seekers: 90% received offer within 3 months; 84% accepted within 3 months. Of non-seekers: 17% started businesses, 14% company-sponsored/already employed, 1% continuing education, 2% other.",
+      "notable_employers": "Industry shares: Technology 22%, Consulting 21%, Private Equity 14%, Investment Management/HF 7%, Investment Banking 6%, Health Care 6%, VC 4%, Nonprofit/Government 4%. Firm-level named list: see HBS employment data portal (JS-gated this run).",
+      "big_tech_or_top_firm_signal": "Very high across consulting/finance/tech. Median base $184,500 (~$185k overall in tables); median total compensation $232,800; median signing $30k (58% received); median variable bonus $46,100 (67%). Tech median base $178k; Consulting $190k; PE $188k + large bonuses; VC median base $200k.",
+      "sample_alumni_paths": [
+        "Consulting associate/consultant at MBB-type firms (21% consulting)",
+        "Tech PM/strategy roles (22% technology)",
+        "PE investor / IB analyst pathways",
+        "Entrepreneurship: ~17% started businesses (~155 founders); ~17% joined startups (70% of startup joiners in tech)"
+      ],
+      "referral_network_notes": "HBS alumni network among the densest globally for consulting/PE/VC; entrepreneurship programming highlighted by admissions leadership. Quantitative referral ease: unknown.",
+      "difficulty_notes": "Extremely selective admissions; Class of 2025 seeker offer rates improved vs 2024 but still below 2021 peaks (96%). Students increasingly take longer / non-traditional paths.",
+      "sources": [
+        {
+          "title": "HBS MBA Blog \u2013 Class of 2025 Employment Report",
+          "url": "https://www.hbs.edu/mba/blog/class-of-2025-employment-report",
+          "access_date": "2026-10-20"
+        },
+        {
+          "title": "HBS Recruiting \u2013 Employment Data portal",
+          "url": "https://www.hbs.edu/recruiting/employment-data/Pages/default.aspx",
+          "access_date": "2026-10-20"
+        },
+        {
+          "title": "Poets&Quants \u2013 HBS Class of 2025 Jobs Report",
+          "url": "https://poetsandquants.com/2025/12/02/harvard-business-school-class-of-2025-jobs-report-offers-rebound-pay-soars/",
+          "access_date": "2026-10-20"
+        }
+      ],
+      "confidence": "high",
+      "confidence_reason": "Official HBS Class of 2025 employment figures widely published; detailed industry/salary tables from P&Q citing HBS report.",
+      "last_updated": "2026-10-20"
+    },
+    {
+      "program_id": "wharton-mba",
+      "school": "University of Pennsylvania \u2013 The Wharton School",
+      "program": "MBA",
+      "degree": "MBA",
+      "internship_rate": "Class of 2026 internships: 778/858 seeking (90.7%); 100% of seekers reporting offers; 99.7% reporting acceptances (official 2025 Career Report).",
+      "full_time_placement": "Class of 2025: 608/879 seeking (69.2%); 90.5% reporting job offers; 87.0% reporting acceptances. Non-seeking 25.4% including 150 returning to company, 46 self-employed/starting business.",
+      "notable_employers": [
+        "McKinsey & Company",
+        "Boston Consulting Group (BCG)",
+        "Bain & Company",
+        "Goldman Sachs",
+        "J.P. Morgan",
+        "Morgan Stanley",
+        "Blackstone",
+        "KKR",
+        "Apollo Global Management",
+        "Google",
+        "Microsoft",
+        "Amazon",
+        "Adobe",
+        "TikTok",
+        "Uber",
+        "Accenture",
+        "Deloitte",
+        "EY-Parthenon",
+        "Capital One",
+        "American Express"
+      ],
+      "notable_employers_notes": "Employers listed hired \u22652 Class of 2025 members (official report).",
+      "big_tech_or_top_firm_signal": "Finance-dominant elite MBA. Full-time industry: Financial Services 38.2% (median $175k), Consulting 28.2% ($190k), Technology 15.3% ($164,250). Overall median base $185,000. 94% US placement; Northeast 54.5%.",
+      "sample_alumni_paths": [
+        "Investment banking / PE / VC investor roles (finance 38.2%)",
+        "Consulting/strategy (31.4% of function accepts in consulting/strategy)",
+        "Product management / tech roles (tech 15.3%)"
+      ],
+      "referral_network_notes": "Wharton finance alumni network is among the strongest publicly signaled MBA networks; employer list shows breadth across bulge-bracket banks, mega-funds, and MBB.",
+      "difficulty_notes": "Highly selective; finance recruiting intensity is extreme. Offer rates solid but students note longer timelines in recent cycles industry-wide.",
+      "sources": [
+        {
+          "title": "Wharton MBA 2025 Career Report (PDF)",
+          "url": "https://statistics.mbacareers.wharton.upenn.edu/wp-content/uploads/2025/12/2025-Career-Report.pdf",
+          "access_date": "2026-10-20"
+        },
+        {
+          "title": "Clear Admit \u2013 Wharton MBA Class of 2025 Employment Report",
+          "url": "https://www.clearadmit.com/2025/12/wharton-mba-class-of-2025-employment-report/",
+          "access_date": "2026-10-20"
+        },
+        {
+          "title": "Wharton MBA Career Services",
+          "url": "https://mba.wharton.upenn.edu/mba-career-services/",
+          "access_date": "2026-10-20"
+        }
+      ],
+      "confidence": "high",
+      "confidence_reason": "Official Wharton PDF employment report with seeker %, offers, accepts, industry/function compensation, and named employers.",
+      "last_updated": "2026-10-20"
+    }
+  ]
+}

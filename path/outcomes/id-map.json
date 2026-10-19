@@ -1,0 +1,17 @@
+{
+  "asOf": "2026-10-20",
+  "note": "path program_id → catalog id in dist/catalog.js. Prefer future path batches to emit catalog ids directly.",
+  "map": {
+    "stanford-mscs": { "catalogId": "stanford-cs", "match": "same-route" },
+    "mit-eecs-meng": { "catalogId": "mit-cs", "match": "adjacent", "caveat": "Catalog marks MIT as no external terminal master’s (PhD route). Path card is EECS MEng (mostly continuing undergrads). Show outcomes with this caveat; do not imply open Fall 2027 external MS." },
+    "cmu-mscs": { "catalogId": "cmu-mscs", "match": "same-route" },
+    "berkeley-eecs-meng": { "catalogId": "berkeley-cs", "match": "same-route" },
+    "uiuc-mcs": { "catalogId": "illinois-cs", "match": "same-route", "caveat": "Catalog covers MS/MCS; path card mixes MCS/MS. Keep route distinction in prose." },
+    "gatech-mscs": { "catalogId": "gatech-cs", "match": "same-route" },
+    "cornell-tech-meng-cs": { "catalogId": "cornell-cs", "match": "different-campus", "caveat": "Catalog cornell-cs is Ithaca MS/MEng. Path card is Cornell Tech MEng CS (NYC). Display outcomes labeled Cornell Tech; do not present as Ithaca route outcomes." },
+    "uw-cse-ms": { "catalogId": "washington-cs", "match": "different-route", "caveat": "Catalog washington-cs is Professional Master’s Program (no F-1/J-1). Path card is Allen School MS CSE. Label outcomes as Allen School MS; keep PMP visa restriction on the catalog row." },
+    "stanford-gsb-mba": { "catalogId": "stanford-mba", "match": "same-route" },
+    "harvard-hbs-mba": { "catalogId": "harvard-mba", "match": "same-route" },
+    "wharton-mba": { "catalogId": "penn-mba", "match": "same-route" }
+  }
+}
