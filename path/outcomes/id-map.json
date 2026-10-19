@@ -1,6 +1,6 @@
 {
   "asOf": "2026-10-20",
-  "note": "path program_id → catalog id in dist/catalog.js. Prefer future path batches to emit catalog ids directly.",
+  "note": "batch-001 only: path program_id → catalog id in dist/catalog.js. batch-002+ emit catalog_id on each card (see batch-002.json).",
   "map": {
     "stanford-mscs": { "catalogId": "stanford-cs", "match": "same-route" },
     "mit-eecs-meng": { "catalogId": "mit-cs", "match": "adjacent", "caveat": "Catalog marks MIT as no external terminal master’s (PhD route). Path card is EECS MEng (mostly continuing undergrads). Show outcomes with this caveat; do not imply open Fall 2027 external MS." },

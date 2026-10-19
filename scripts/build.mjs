@@ -5,8 +5,8 @@ import { readdir, readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 const root = path.resolve(import.meta.dirname, '..');
 const folders = ['01-sources', '02-computer-science', '03-business', '04-scholarships', '05-application-planning', 'templates'];
-await generateResearch();
 await generateOutcomes();
+await generateResearch();
 const notes = [];
 async function visit(dir) {
   for (const item of await readdir(path.join(root, dir), { withFileTypes: true })) {
