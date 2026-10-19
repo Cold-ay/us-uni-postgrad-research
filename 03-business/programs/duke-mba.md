@@ -32,7 +32,7 @@ $83,700 — Academic-year tuition (Daytime MBA, Class of 2028); 2026–27.
 
 Fuqua Daytime MBA Tuition + Costs: for students beginning August 2026 (Class of 2028), tuition is currently $83,700 USD ($41,850 Fall + $41,850 Spring; includes $4,000 non-refundable deposit credited to Fall). 2026–27 first-year COA lists additional fees (health fee, MBA Association, pre-term fee, etc.) and living expenses separately; Total COA $118,974. Dual-degree blended rates differ. Daytime MBA only — not Executive/online formats.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: Round 2 · 5 Jan 2027 (Daytime MBA 2026–2027 cycle; EA & R1 passed; clock time not on table). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -48,6 +48,8 @@ Shared scholarship IDs: SCH-008. See the [scholarship library](../../04-scholars
 
 - [Daytime MBA curriculum](https://www.fuqua.duke.edu/programs/daytime-mba/curriculum)
 - [Fuqua Daytime MBA Tuition + Costs](https://www.fuqua.duke.edu/programs/daytime-mba/tuition-costs)
+- [Daytime MBA Admissions Facts + Dates](https://www.fuqua.duke.edu/programs/daytime-mba/admissions-facts-dates)
+- [Daytime MBA program](https://www.fuqua.duke.edu/programs/daytime-mba/)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

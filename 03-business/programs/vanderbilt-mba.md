@@ -18,7 +18,7 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Core and career-focused electives are completed before internships; concentrations and emphases customize the degree.
+Core and career-focused electives are completed before internships; concentrations and emphases customize the degree. Application open: 19 Aug 2026 (Fall 2027 enrollment; Owen news 14 Aug 2026) (deadline research 2026-10-20; see deadline field).
 
 Orientation: Core before internships · Concentrations
 
@@ -32,7 +32,7 @@ $76,700 — Academic-year tuition (Owen Full-Time MBA); 2026–27.
 
 Vanderbilt Owen MBA Tuition & Financing and Student Accounts Graduate/Professional Tuition and Fees 2026–2027 both list Owen Graduate School of Management Tuition $76,700 per year. Separate first-year direct costs include Maintenance Fee $1,250, Transcript Fee $100 (first Fall), Student Services Fee $694, Student Health Fee $882; health insurance and living expenses are additional. Full-time MBA only — not Executive MBA.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: Round 2 · 6 Jan 2027 · 11:59 p.m. CT (Fall 2027; R1 passed; apps opened 19 Aug 2026). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -49,6 +49,9 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 - [MBA program](https://business.vanderbilt.edu/mba/)
 - [Official tuition / budget](https://business.vanderbilt.edu/mba/admissions/tuition-financing-scholarships/)
 - [Student Accounts 2026–27 grad/prof fees](https://www.vanderbilt.edu/stuaccts/fees/tuition_fees_2026-27_grad_prof/)
+- [MBA Admissions (Fall 2027 deadlines)](https://business.vanderbilt.edu/mba/admissions/)
+- [MBA Application Instructions (11:59 p.m. CT)](https://business.vanderbilt.edu/mba/admissions/application-instructions/)
+- [Applications for Fall 2027 Open August 19](https://business.vanderbilt.edu/news/2026/08/14/vanderbilt-business-applications-fall-2027-open-august-19/)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence
