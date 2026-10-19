@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$83,328 — Academic-year tuition (Darden MBA, Non-Virginia domicile); 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 reference, not a Fall 2027 quote or full-degree total.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+Darden Tuition, Fees & Billing for Class of 2028: Fall 2026 / Spring 2027 Tuition $41,664 per semester for Non-Virginia domicile and International students → $83,328 AY. Virginia domicile tuition $39,505/semester → $79,010 AY. Comprehensive and activity fees are separate; published Fall/Spring Tuition & Fees (excl. case fees) are $44,000 Non-VA / $41,500 VA per semester ($88,000 / $83,000 AY). COA Class of 2028 lists Tuition & Fees $88,000 Non-VA / $88,240 International / $83,000 Virginia, plus case fees $1,100. Health insurance $4,220 billed in Fall if on UVA plan. Full-time residential MBA — not EMBA.
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -46,7 +46,9 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program / academic source](https://www.darden.virginia.edu/mba/academics)
+- [MBA academics](https://www.darden.virginia.edu/mba/academics)
+- [Official tuition / budget](https://www.darden.virginia.edu/mba/tuition-financial-aid/tuition-fees-billing)
+- [Cost of Attendance](https://www.darden.virginia.edu/mba/tuition-financial-aid/cost-of-attendance)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

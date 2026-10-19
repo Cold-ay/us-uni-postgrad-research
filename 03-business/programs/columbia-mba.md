@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-$93,908 — First-year / academic-year tuition (August entry full-time MBA); 2026–27.
+$93,908 — Academic-year tuition (Full-Time MBA, August-entry first-year budget); 2026–27.
 
-2026–27 official CBS cost page for new August entry; not Fall 2027 quote or two-year total.
+2026–27 reference, not a Fall 2027 quote or full-degree total.
 
-CBS Financial Aid Full-Time MBA/MBAxMS costs: Tuition $93,908; Mandatory Fees $6,783; Health Insurance $5,823; Books & Supplies $1,290; Food & Housing $30,231; Personal $3,636; Transportation $1,359; Total COA $143,030 (9-month August-entry budget). Note tuition/fees generally increase 2–7% in year 2. January-entry and continuing-student budgets differ on same page. Living/housing band from official COA: $30231–$30231 (CBS published Food & Housing $30,231 in 9-month August-entry 2026–27 budget (personal/transport separate).).
+Columbia Business School Financial Aid Full-Time MBA and MBAxMS costs page lists 2026–27 August-entry Cost of Attendance with Tuition $93,908 (9-month first-year budget). Mandatory fees $6,783, health insurance $5,823, and living expenses are separate; first-year total budget $143,030. Continuing (second-year) budget also lists Tuition $93,908 (mandatory fees $6,678; second-year total budget $142,925). Note that tuition and fees generally increase 2–7% in the second year. Full-time MBA only — not Professional MBA or EMBA.
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 

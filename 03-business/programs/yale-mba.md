@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-$90,900 — Academic-year tuition; 2026–27.
+$90,900 — Academic-year tuition (Yale SOM MBA); 2026–27.
 
-2026–27 official SOM cost page; not Fall 2027 quote or two-year total.
+2026–27 reference, not a Fall 2027 quote or full-degree total.
 
-Yale SOM Cost Information: Tuition $90,900; Program Fee $500; Total Tuition and Fees $91,400; Living (Housing/Food/Utilities) $22,991; Misc personal $5,525; Transportation $3,856; Books $1,440; Health Insurance $3,764; Total estimated living $37,576; Total single-student budget $128,976. Page notes 66% of MBA students receive scholarships; median scholarship Class of 2027 $65K. Separate scholarship application after admission. Living/housing band from official COA: $22991–$37576 (SOM 2026–27 Living Expenses $22,991; Total Estimated Living Expenses $37,576 including insurance/books/personal/transport.).
+Yale SOM Affording Your MBA Cost Information lists Cost of Attendance 2026–27 with Tuition $90,900 and Program Fee $500 (Total Tuition and Fees $91,400). Living expenses, books, transportation, and Yale Health insurance ($3,764) are separate; total single-student budget $128,976. Joint-degree fees may differ.
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -46,7 +46,7 @@ Shared scholarship IDs: SCH-005. See the [scholarship library](../../04-scholars
 
 ## Sources
 
-- [Program / academic source](https://som.yale.edu/programs/mba/curriculum)
+- [MBA curriculum](https://som.yale.edu/programs/mba/curriculum)
 - [Official tuition / budget](https://som.yale.edu/programs/mba/affording-your-mba/cost-information)
 - [Affording Your MBA](https://som.yale.edu/programs/mba/affording-your-mba)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)

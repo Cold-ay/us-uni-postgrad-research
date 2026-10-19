@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-$83,700 — Daytime MBA tuition (Class of 2028 / entering August 2026); 2026–27.
+$83,700 — Academic-year tuition (Daytime MBA, Class of 2028); 2026–27.
 
-Official Fuqua page for students beginning August 2026 (Class of 2028). Fall 2027 entrants (Class of 2029) rates not yet this figure — treat as prior-year reference for Fall 2027 planning until updated.
+2026–27 reference, not a Fall 2027 quote or full-degree total.
 
-Fuqua Daytime MBA COA 2026–27 (9 months): Tuition $83,700 (includes $4,000 non-refundable deposit credited to Fall); total direct educational expenses $92,834; books $850; living $25,290; Total COA $118,974. Merit scholarships: all applicants considered, no separate application. International Student Loan Program listed (no cosigner). Living/housing band from official COA: $14220–$25290 (Fuqua housing $14,220; total student living expenses $25,290 in 2026–27 Daytime MBA COA.).
+Fuqua Daytime MBA Tuition + Costs: for students beginning August 2026 (Class of 2028), tuition is currently $83,700 USD ($41,850 Fall + $41,850 Spring; includes $4,000 non-refundable deposit credited to Fall). 2026–27 first-year COA lists additional fees (health fee, MBA Association, pre-term fee, etc.) and living expenses separately; Total COA $118,974. Dual-degree blended rates differ. Daytime MBA only — not Executive/online formats.
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -46,7 +46,7 @@ Shared scholarship IDs: SCH-008. See the [scholarship library](../../04-scholars
 
 ## Sources
 
-- [Program / academic source](https://www.fuqua.duke.edu/programs/daytime-mba/curriculum)
+- [Daytime MBA curriculum](https://www.fuqua.duke.edu/programs/daytime-mba/curriculum)
 - [Fuqua Daytime MBA Tuition + Costs](https://www.fuqua.duke.edu/programs/daytime-mba/tuition-costs)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
