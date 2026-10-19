@@ -18,7 +18,7 @@ Application status: Related CSE degree · not standalone CS
 
 ## Academic direction
 
-CSE is an interdisciplinary alternative combining computing and applied mathematics; do not treat it as a standalone MS in Computer Science.
+CSE is an interdisciplinary alternative combining computing and applied mathematics; do not treat it as a standalone MS in Computer Science. Application open: Open as of page check (submission portal open for Fall 2027 CSE) (deadline research 2026-10-20; see deadline field).
 
 Orientation: Computational science · Applied mathematics
 
@@ -32,7 +32,7 @@ $67,504 — Program / full-year tuition (SEAS CSE SM) — related alternative, n
 
 Harvard Griffin GSAS Cost of Attendance 2026–27: SEAS Computational Science and Engineering master of science (SM) full-year cost $67,504 (one-year program). CSE ME and Data Science SM use $67,504 first year / $33,752 subsequent listed terms. Per-course rates if less than full-time: $8,438 / $16,876 / $25,314 / $33,752 for 1–4 courses per term. Standard GSAS full tuition for other master’s/PhD years 1–2 is $59,048—not used here. Catalog harvard-cs uses this CSE-related SM figure with an alternative-route label; Harvard does not publish a separate terminal MS Computer Science under this id.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: Apps open (Fall 2027 CSE/Data Science portal open) · Deadline 1 Dec 2026 · 5:00 p.m. ET (CSE SM). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -46,8 +46,10 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [SEAS CSE master’s](https://seas.harvard.edu/masters-computational-science-and-engineering)
+- [SEAS CSE program home](https://seas.harvard.edu/masters-computational-science-and-engineering)
 - [Official tuition / budget (GSAS COA)](https://gsas.harvard.edu/apply/cost-attendance-2026-2027)
+- [SEAS CSE How to Apply (Fall 2027; Dec 1, 2026)](https://seas.harvard.edu/masters-computational-science-and-engineering/how-apply)
+- [GSAS Computational Science and Engineering (SM/ME Dec 01, 2026 05:00 pm)](https://gsas.harvard.edu/program/computational-science-and-engineering)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

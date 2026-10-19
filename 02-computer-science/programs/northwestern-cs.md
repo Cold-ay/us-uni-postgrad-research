@@ -18,7 +18,7 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-A terminal MS application is distinct from PhD admission; research interests form part of program planning.
+A terminal MS application is distinct from PhD admission; research interests form part of program planning. Application open: 15 Sep 2026 (deadline research 2026-10-20; see deadline field).
 
 Orientation: See degree route and academic overview
 
@@ -32,7 +32,7 @@ $70,986 — Academic-year tuition (TGS master’s full-time 3–4 units × 3 qua
 
 Northwestern Evanston Graduate Financial Aid / TGS Master’s COA 2026–27: full-time 3–4 credits/units $23,662 per quarter. Academic-year Fall+Winter+Spring = $70,986. Single unit $8,418; two units $16,836. Health Services Fee $298/quarter (F/W/S); NU-SHIP annual premium $5,996—fees not included in the tuition figure. MS Computer Science requires 12 graduate units (typically 3–4 quarters). McCormick SFS also lists $23,662/quarter full-time for several engineering master’s schedules.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: Apps open 15 Sep 2026 · MS Fall 2027 staged: by 30 Nov · 31 Dec · 28 Feb · 15 Jun (portal may close when full). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -46,9 +46,11 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [CS graduate programs](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/)
+- [CS Graduate Programs hub](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/)
 - [Official tuition / budget (TGS master’s COA)](https://www.northwestern.edu/evanston-graduate-financial-aid/getting-started/tuition-cost-of-attendance/tgs/masters.html)
 - [McCormick graduate tuition](https://www.northwestern.edu/sfs/tuition/graduate/mccormick.html)
+- [CS Graduate Admissions (Fall 2027 open + MS staged dates)](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/admissions/)
+- [TGS Application Deadlines](https://www.tgs.northwestern.edu/admission/application-procedures/application-deadlines.html)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

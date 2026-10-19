@@ -32,7 +32,7 @@ $39,421 — Academic-year tuition (MSCS nonresident semester maximum × 2); 2026
 
 UNC Cashier Graduate and Professional Tuition and Fees Fall 2026–Spring 2027: Master of Science in Computer Science (mscs) Non-Resident $2,190.06 per credit hour, semester maximum $19,710.50 (9+ hours) → $39,421 AY Fall+Spring. NC Resident MSCS $1,153.56/credit, semester max $10,382. Campus-based mandatory fees $1,063/semester ($2,126 AY) not included in the tuition figure. Student health insurance is separate. Rates marked not final until Board of Governors approval.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: Final 9 Mar 2027 · Fellowship recommend 15 Dec 2026 · RA/TA recommend 5 Jan 2027 (MS/PhD Fall only). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -46,9 +46,11 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [CS catalog](https://catalog.unc.edu/graduate/schools-departments/computer-science/)
+- [CS catalog (admissions narrative)](https://catalog.unc.edu/graduate/schools-departments/computer-science/)
 - [Official tuition / budget (Cashier PDF)](https://cashier.unc.edu/wp-content/uploads/sites/259/2026/04/graduate-and-professional-tuition-and-fees-fall-2026-spring-2027.pdf)
 - [Graduate programs tuition hub](https://cashier.unc.edu/tuition-fees/graduate-programs/)
+- [CS Admissions Deadline (year-labeled fellowship/RA/final)](https://cs.unc.edu/graduate/graduate-admissions/admissions-deadline/)
+- [UNC Grad School Computer Science program sheet](https://gradschool.sites.unc.edu/computer-science/)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

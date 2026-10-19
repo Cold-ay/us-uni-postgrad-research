@@ -32,7 +32,7 @@ $40,985 — Academic-year tuition and mandatory fees (graduate nonresident); 202
 
 UCSB Graduate Division 2026–27 Quarterly Fees: Nonresident yearly total $40,984.68 (Tuition $13,722 + Student Service Fee $1,344 + Campus Based Fees $1,279.53 + Tech Fee $152.40 + Student Health Insurance $9,384.75 + Nonresident Supplemental Tuition $15,102). Resident yearly total without NRST $25,882.68. NRST reduction for advanced-to-candidacy doctoral students does not apply to MS. MS Computer Science uses the standard graduate fee schedule.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: Fall 2027 final — 16 Dec 2026 (Wednesday). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -46,10 +46,13 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program / academic source](https://cs.ucsb.edu/education/graduate/masters-degree)
+- [CS Master's degree overview](https://cs.ucsb.edu/education/graduate/masters-degree)
 - [Official tuition / budget](https://www.graddiv.ucsb.edu/fees-costs/26-27-quarterly)
 - [Fees & costs hub](https://www.graddiv.ucsb.edu/fees-costs)
 - [MS CMPSC catalog](https://catalog.ucsb.edu/programs/MSCMPSC)
+- [Grad Division MS Computer Science program (Fall 2027 final Dec 16, 2026)](https://www.graddiv.ucsb.edu/graduate-programs/departments/computer-science)
+- [Grad Division portal MS CMPSC-MS-0](https://engage.graddiv.ucsb.edu/portal/programs?cmd=prog&code=CMPSC-MS-0)
+- [CS How to Apply (points to Grad Division deadline)](https://cs.ucsb.edu/education/graduate/how-to-apply)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

@@ -32,7 +32,7 @@ $68,574 — Academic-year tuition (Institute graduate) — restricted / PhD-path
 
 Caltech Graduate Studies Estimated Budget 2026–27: Tuition $68,574 annual ($22,858/term × 3); Mandatory Fees $2,448 (total tuition+mandatory fees $71,022). Computing and Mathematical Sciences (CMS) catalog: only students who expect to pursue the Ph.D. are admitted; PhD students in good standing may petition to add the MS after course requirements. No open external terminal MS CS for Fall 2027. Published Institute tuition recorded with that availability note. Stipend packages typically cover tuition for funded PhD students.
 
-Application timing: Not a standard terminal master’s route. Confirm deadline time zone and personal requirements on the official page.
+Application timing: No external Fall 2027 MS deadline — CMS admits PhD-track only; MS by petition after courses (not open terminal MS). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -46,9 +46,9 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [CMS graduate programs](https://www.cms.caltech.edu/academics/grad)
+- [CMS Graduate Programs (no terminal Master's)](https://www.cms.caltech.edu/academics/grad)
 - [Official tuition / budget](https://www.gradoffice.caltech.edu/financialsupport/budget)
-- [CMS special regulations (catalog)](https://catalog.caltech.edu/current/information-for-graduate-students/special-regulations-for-graduate-options/computing-and-mathematical-science-cms/)
+- [CMS catalog special regulations (MS by petition)](https://catalog.caltech.edu/current/information-for-graduate-students/special-regulations-for-graduate-options/computing-and-mathematical-science-cms/)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

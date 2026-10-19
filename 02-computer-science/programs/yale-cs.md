@@ -18,7 +18,7 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-A terminal MS route; the department describes its one-year option as the most common terminal degree.
+A terminal MS route; the department describes its one-year option as the most common terminal degree. Application open: Open as of page check (Fall 2027 entry application now available) (deadline research 2026-10-20; see deadline field).
 
 Orientation: See degree route and academic overview
 
@@ -32,7 +32,7 @@ $52,400 — Academic-year tuition (GSAS full-time master’s); 2026–27.
 
 Yale Graduate School of Arts and Sciences Tuition and Fees 2026–27: full-time study $26,200 per term → $52,400 AY. Half-time $13,100/term; one-quarter time $6,550/term. Continuous Registration Fee $880/term; Yale Health Hospitalization/Specialty Coverage $3,764 for twelve months—fees not included in the tuition figure. CS one-year MS is typically eight courses (four per term for visa full-time); two-year research/TF track exists with limited places. Most one-year MS students pay tuition themselves.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: Apps open (Fall 2027 application available) · Deadline 2 Jan 2027 · 11:59 p.m. ET (CS MS). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -46,9 +46,12 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [CS MS program](https://engineering.yale.edu/academic-study/departments/computer-science/graduate-study/master-science-program)
+- [Yale Engineering CS MS program](https://engineering.yale.edu/academic-study/departments/computer-science/graduate-study/master-science-program)
 - [Official tuition / budget](https://gsas.yale.edu/resources/graduate-financial-aid/tuition-and-fees)
 - [Student Accounts GSAS rates](https://student-accounts.yale.edu/tuition-and-fees)
+- [GSAS Dates & Deadlines (CS MS Jan 2, 2027; Fall 2027 reply Apr 15)](https://gsas.yale.edu/admissions/phdmasters-application-process/dates-deadlines)
+- [GSAS Computer Science program (MS Jan 2 11:59pm ET)](https://gsas.yale.edu/programs-of-study/computer-science)
+- [GSAS PhD/Master's application process (Fall 2027 app available)](https://gsas.yale.edu/admissions/phdmasters-application-process)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence
