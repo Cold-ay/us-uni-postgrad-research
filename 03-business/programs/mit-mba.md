@@ -32,7 +32,7 @@ $91,892 — Annual tuition + MBA program fee; 2026–27.
 
 Published figure includes the mandatory $2,200 annual MBA program fee. Living costs and full-degree total are not recorded here.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: Round 2 · 12 Jan 2027 · 3:00 p.m. ET (2027 entry; R1 passed). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -46,8 +46,10 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program / academic source](https://mitsloan.mit.edu/mba/explore-program)
+- [Explore MBA program](https://mitsloan.mit.edu/mba/explore-program)
 - [Official tuition / budget](https://mitsloan.mit.edu/mba/admissions/financing-your-education)
+- [MBA how to apply / deadlines](https://mitsloan.mit.edu/mba/admissions/how-to-apply)
+- [MBA admissions](https://mitsloan.mit.edu/mba/admissions)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

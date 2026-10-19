@@ -32,7 +32,7 @@ $89,976 — Academic-year tuition; 2026–27.
 
 Three quarters / nine months, MBA Class of 2028 reference. Published estimated attendance budget: $132,449. Booth says 2027–28 tuition will be released in spring 2027.
 
-Application timing: Round 2 · 7 Jan 2027. Confirm deadline time zone and personal requirements on the official page.
+Application timing: Round 2 · 7 Jan 2027 · 11:59 p.m. CT (Fall matriculation; R1 passed). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -46,8 +46,9 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program / academic source](https://www.chicagobooth.edu/mba/full-time)
+- [Full-Time MBA](https://www.chicagobooth.edu/mba/full-time)
 - [Official tuition / budget](https://www.chicagobooth.edu/mba/full-time/admissions/cost)
+- [Full-Time MBA Admissions (deadlines table)](https://www.chicagobooth.edu/mba/full-time/admissions)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

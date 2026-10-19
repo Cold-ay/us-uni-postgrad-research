@@ -32,7 +32,7 @@ $87,970 — Academic-year tuition; 2026–27.
 
 2026–27 university fees: $5,038; published annual budget: $135,441. Extra-curricular activities can add costs.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: Round 2 · 5 Jan 2027 · 5:00 p.m. ET (Fall 2027 / 2026–27 cycle; R1 passed). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -46,8 +46,10 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program / academic source](https://mba.wharton.upenn.edu/)
+- [Wharton MBA home](https://mba.wharton.upenn.edu/)
 - [Official tuition / budget](https://mba.wharton.upenn.edu/tuition-financial-aid/)
+- [Application timeline & deadlines 2026–27](https://mba.wharton.upenn.edu/application-timeline-deadlines/)
+- [Admissions process / application guide](https://mba.wharton.upenn.edu/admissions/admissions-process/)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

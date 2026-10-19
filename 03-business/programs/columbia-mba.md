@@ -18,7 +18,7 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-MBA program; use the August-entry route for a Fall 2027 comparison and verify its internship calendar separately.
+MBA program; use the August-entry route for a Fall 2027 comparison and verify its internship calendar separately. Application open: August 2027 application now open (as of page check 2026-10-20; calendar open day not posted) (deadline research 2026-10-20; see deadline field).
 
 Orientation: Full-time MBA · Management
 
@@ -32,7 +32,7 @@ $93,908 — Academic-year tuition (Full-Time MBA, August-entry first-year budget
 
 Columbia Business School Financial Aid Full-Time MBA and MBAxMS costs page lists 2026–27 August-entry Cost of Attendance with Tuition $93,908 (9-month first-year budget). Mandatory fees $6,783, health insurance $5,823, and living expenses are separate; first-year total budget $143,030. Continuing (second-year) budget also lists Tuition $93,908 (mandatory fees $6,678; second-year total budget $142,925). Note that tuition and fees generally increase 2–7% in the second year. Full-time MBA only — not Professional MBA or EMBA.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: August-entry Round 2 · 5 Jan 2027 · 12:00 p.m. ET (August 2027 entry; R1 passed; apps open). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -46,8 +46,10 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [MBA program](https://academics.business.columbia.edu/mba)
+- [MBA academics](https://academics.business.columbia.edu/mba)
 - [Official tuition / budget](https://business.columbia.edu/financial-aid/costs/full-time)
+- [MBA options and deadlines (August 2027)](https://academics.business.columbia.edu/admissions/mba/options-deadlines)
+- [Full-Time MBA Admissions](https://academics.business.columbia.edu/admissions/mba)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

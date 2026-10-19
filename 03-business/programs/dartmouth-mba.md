@@ -32,7 +32,7 @@ $87,536 — Academic-year tuition (Tuck MBA); 2026–27.
 
 Tuck Cost of Attendance for Academic Year 2026–2027 lists Tuition $87,536 for Class of 2028 (on- or off-campus) and Class of 2027 (off-campus). Program fee is separate ($6,150 first-year / $5,440 second-year). Housing, food, and health insurance ($5,216) are separate. Footnote: tuition costs are for AY 2026–27 and subject to change; anticipate a 3–5% increase for 2027–28. First year is four terms; second year three terms on Tuck’s quarter schedule.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: Round 2 · 5 Jan 2027 · 5:00 p.m. ET (Tuck; R1 passed). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -46,10 +46,11 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [MBA academic experience](https://tuck.dartmouth.edu/mba/academic-experience)
+- [Academic experience](https://tuck.dartmouth.edu/mba/academic-experience)
 - [Official tuition / budget](https://tuck.dartmouth.edu/admissions/finance-your-degree/cost-attendance)
 - [Tuck Tuition and Costs](https://tuck.dartmouth.edu/admissions/finance-your-degree/tuition-and-costs)
 - [Scholarships and Fellowships](https://tuck.dartmouth.edu/admissions/finance-your-degree/scholarships-and-fellowships)
+- [Applying to Tuck (application deadlines)](https://www.tuck.dartmouth.edu/admissions/apply)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

@@ -32,7 +32,7 @@ $92,658 — First-year tuition; 2026–27.
 
 First-year, nine-month budget: $140,668, including $2,040 LAUNCH orientation fee and a loan-fee allowance.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: 3rd Deadline · 15 Jan 2027 · 11:59 p.m. ET (Full-time MBA Fall 2027; 1st/2nd passed). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -48,6 +48,8 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 - [Program / academic source](https://www.stern.nyu.edu/portal-partners/academic-affairs-advising/mba-programs/full-time-mba)
 - [Official tuition / budget](https://www.stern.nyu.edu/programs-admissions/full-time-mba/financial-aid/tuition-cost-attendance)
+- [Full-time MBA admissions deadlines](https://www.stern.nyu.edu/programs-admissions/full-time-mba/admissions/deadlines)
+- [Full-time MBA admissions](https://www.stern.nyu.edu/programs-admissions/full-time-mba/admissions)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

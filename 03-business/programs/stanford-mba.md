@@ -32,7 +32,7 @@ Prior-year tuition reference. Not a 2027–28 quote or a full-degree cost.
 
 Published first-year single-student budget: $140,940 for 2026–27. The global experience requirement carries additional costs. Full-degree cost is not yet verified.
 
-Application timing: Round 2 · 6 Jan 2027. Confirm deadline time zone and personal requirements on the official page.
+Application timing: Round 2 · 6 Jan 2027 · 4:00 p.m. PT (Fall 2027 / 2026–27 cycle; R1 passed). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -46,9 +46,10 @@ Shared scholarship IDs: SCH-003, SCH-002. See the [scholarship library](../../04
 
 ## Sources
 
-- [Program & application rounds](https://www.gsb.stanford.edu/programs/mba)
+- [MBA program](https://www.gsb.stanford.edu/programs/mba)
 - [Tuition & attendance budget](https://www.gsb.stanford.edu/programs/mba/tuition-financial-aid/cost-attendance)
 - [Financial aid](https://www.gsb.stanford.edu/programs/mba/tuition-financial-aid)
+- [MBA application deadlines (2026–27)](https://www.gsb.stanford.edu/programs/mba/admission/deadlines)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence
