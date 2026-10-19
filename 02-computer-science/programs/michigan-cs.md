@@ -18,7 +18,7 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-A master’s in CSE with an optional thesis. Research participation and advisor availability need individual confirmation.
+A master’s in CSE with an optional thesis. Research participation and advisor availability need individual confirmation. Application open: Reopens mid-September (Rackham closes in summer; late August/early September also stated) (deadline research 2026-10-20; see deadline field).
 
 Orientation: See degree route and academic overview
 
@@ -32,7 +32,7 @@ $68,038 — Academic-year tuition (College of Engineering graduate, nonresident 
 
 Registrar College of Engineering Graduate Full Term 2026–27: Michigan Non-Resident 9+ (Full-Time) $34,019 per full term; Michigan Resident $18,308. Typical academic year = Fall + Winter full terms → nonresident $68,038. CSE MS/MSE uses Engineering graduate rates. Master’s funding is not guaranteed at admission.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: Apps reopen mid-Sep (Rackham; late Aug/early Sep noted) · Master's deadline 15 Jan · 11:59 p.m. ET (FA 2027 cycle referenced on page). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -46,8 +46,10 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [CSE master’s program](https://cse.engin.umich.edu/academics/graduate/graduate-programs/masters-in-cse/)
+- [Master's in CSE](https://cse.engin.umich.edu/academics/graduate/graduate-programs/masters-in-cse/)
 - [Official tuition / budget](https://ro.umich.edu/tuition-residency/tuition-fees/2026-2027/graduate/full-term/college-engineering-graduate-full-term)
+- [CSE graduate admissions](https://cse.engin.umich.edu/academics/graduate/admissions/)
+- [CSE how to apply](https://cse.engin.umich.edu/academics/graduate/admissions/apply/)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

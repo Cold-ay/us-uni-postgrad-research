@@ -32,7 +32,7 @@ $33,080 — Academic-year tuition (campus Master & PhD, out-of-country, 12+ hour
 
 Bursar 2026–27 Atlanta campus graduate Master & PhD Candidates: In-State $7,280/semester (12+ hrs) or $607/hr (1–11); Out-of-State $16,073/semester (12+) or $1,341/hr; Out-of-Country $16,540/semester (12+) or $1,379/hr. International-relevant figure uses Out-of-Country full-time: $16,540 × 2 = $33,080 AY. Mandatory student fees $608/semester at 4+ credits not included in the tuition figure. OMSCS ($227/hr) is excluded.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: 1 Feb 2027 · 11:59 p.m. ET (Atlanta campus MS CS — Fall 2027; not OMSCS). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -46,11 +46,13 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [MSCS specializations](https://www.cc.gatech.edu/ms-computer-science-specializations)
+- [MS CS specializations](https://www.cc.gatech.edu/ms-computer-science-specializations)
 - [Official tuition / budget](https://bursar.gatech.edu/student/tuition/su27/su27_totals.pdf)
 - [Gatech Bursar Tuition & Fees](https://bursar.gatech.edu/tuition-fees)
 - [Fall 2026 Tuition and Fee Rates PDF](https://bursar.gatech.edu/sites/default/files/2026-07/fa26_totals_page_0.pdf)
 - [Graduate Costs (OSFA)](https://finaid.gatech.edu/costs/graduate-costs)
+- [GT GradApp program info (MS CS deadlines)](https://gradapp.gatech.edu/portal/program-info?cmd=view-program&program=86097380-be9a-4631-6407-50f3d959f466)
+- [MS CS admission requirements](https://www.cc.gatech.edu/ms-computer-science-admission-requirements)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

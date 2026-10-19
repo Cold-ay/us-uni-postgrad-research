@@ -18,7 +18,7 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-45-unit master’s with coursework or research options; MS admission does not guarantee entry to the PhD.
+45-unit master’s with coursework or research options; MS admission does not guarantee entry to the PhD. Application open: 15 Sep 2026 (deadline research 2026-10-20; see deadline field).
 
 Orientation: Coursework or research · 45 units
 
@@ -32,7 +32,7 @@ $69,717 — Academic-year tuition (Engineering, 11–18 units × 3 quarters); 20
 
 Graduate School of Engineering quarterly rate for 11–18 units is $23,239 (2026–27). Three academic-year quarters (Autumn–Spring) = $69,717. 8–10 units is $15,100/quarter. Per-unit above 18: $1,549. MS CS requires 45 units; HCP/online uses a different per-unit schedule. Living costs and Cardinal Care are separate.
 
-Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
+Application timing: Apps open 15 Sep 2026 · Deadline 8 Dec 2026 · 11:59 p.m. PT (Autumn / Fall 2027 entry). Confirm deadline time zone and personal requirements on the official page.
 
 ## Internships
 
@@ -46,13 +46,15 @@ Shared scholarship IDs: SCH-002. See the [scholarship library](../../04-scholars
 
 ## Sources
 
-- [MS admissions](https://www.cs.stanford.edu/admissions/masters-admissions)
+- [Master's admissions](https://www.cs.stanford.edu/admissions/masters-admissions)
 - [Official tuition / budget](https://studentservices.stanford.edu/tuition-rates/2026-2027-graduate-and-professional-tuition-rates)
 - [MS requirements](https://www.cs.stanford.edu/masters-degree-requirements)
 - [Specializations](https://www.cs.stanford.edu/masters-specializations)
 - [The Student Budget (graduate)](https://financialaid.stanford.edu/grad/budget/)
 - [Estimate Your Graduate Charges](https://studentservices.stanford.edu/my-finances/tuition-fees/estimate-your-graduate-charges-0)
 - [CS MS CA/RA overview](https://www.cs.stanford.edu/masters-course-assistant-and-research-assistant)
+- [CS graduate application deadlines](https://www.cs.stanford.edu/admissions-graduate-application-deadlines)
+- [Stanford Grad Admissions apply (11:59 p.m. Pacific Time)](https://gradadmissions.stanford.edu/apply/apply-now)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence
