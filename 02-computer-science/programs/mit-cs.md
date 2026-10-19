@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$66,720 — Academic-year tuition (full regular graduate × 2 terms) — restricted route; 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 reference, not a Fall 2027 quote or full-degree total. Availability: EECS MEng is open only to MIT undergraduates (not an external terminal MS).
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+MIT Registrar Graduate tuition 2026–27: Full regular tuition $33,360 per fall/spring term → $66,720 AY. EECS MEng is a fifth-year bachelor’s/master’s path for MIT undergraduates in listed Course 6 programs only; MIT does not offer a general external-admission terminal MS in CS/EECS for Fall 2027 applicants. Published rate recorded for sticker reference with that availability restriction. Miscellaneous fees and living costs separate.
 
 Application timing: Not a standalone master’s application. Confirm deadline time zone and personal requirements on the official page.
 
@@ -47,6 +47,9 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 ## Sources
 
 - [Program / academic source](https://www.eecs.mit.edu/graduate-admissions-information-letter/)
+- [Official tuition / budget](https://registrar.mit.edu/registration-academics/tuition-fees/graduate)
+- [EECS MEng (MIT undergrads only)](https://www.eecs.mit.edu/academics/undergraduate-programs/meng-program/)
+- [EECS graduate admission process](https://www.eecs.mit.edu/academics/graduate-programs/admission-process/)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

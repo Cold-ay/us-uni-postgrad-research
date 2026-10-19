@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$67,504 — Program / full-year tuition (SEAS CSE SM) — related alternative, not a pure CS MS; 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 reference, not a Fall 2027 quote or full-degree total. Availability: Computational Science and Engineering SM (related SEAS master’s), not a standalone CS MS.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+Harvard Griffin GSAS Cost of Attendance 2026–27: SEAS Computational Science and Engineering master of science (SM) full-year cost $67,504 (one-year program). CSE ME and Data Science SM use $67,504 first year / $33,752 subsequent listed terms. Per-course rates if less than full-time: $8,438 / $16,876 / $25,314 / $33,752 for 1–4 courses per term. Standard GSAS full tuition for other master’s/PhD years 1–2 is $59,048—not used here. Catalog harvard-cs uses this CSE-related SM figure with an alternative-route label; Harvard does not publish a separate terminal MS Computer Science under this id.
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -46,7 +46,8 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program / academic source](https://seas.harvard.edu/masters-computational-science-and-engineering)
+- [SEAS CSE master’s](https://seas.harvard.edu/masters-computational-science-and-engineering)
+- [Official tuition / budget (GSAS COA)](https://gsas.harvard.edu/apply/cost-attendance-2026-2027)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$58,224 — Academic-year tuition (GSAS Courant, $2,426/point × 12 points × 2 semesters); 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 reference, not a Fall 2027 quote or full-degree total. Courant GSAS—not Tandon.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+NYU Bursar 2026–27 Tuition and Fees PDF: Graduate School of Arts and Science All Programs $2,426 per credit/point, plus Registration & Services fee $503 for the first credit and $81 per additional credit each term. GSAS states a full-time load is typically 12 points/semester → tuition $29,112/semester → $58,224 AY Fall+Spring (R&S fees ~$1,394/term not included in the tuition figure). Courant MSCS requires 30 points (36 with concentration); full 30-point tuition at $2,426 = $72,780. Do not use Tandon Engineering rates ($2,626/point).
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -46,7 +46,9 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program / academic source](https://cs.nyu.edu/dynamic/masters/prospective-overview/)
+- [Courant MS overview](https://cs.nyu.edu/dynamic/masters/prospective-overview/)
+- [Official tuition / budget (Bursar PDF)](https://www.nyu.edu/content/dam/nyu/bursar/documents/2026-2027%20Tuition%20and%20Fees.pdf)
+- [GSAS tuition & fees](https://gsas.nyu.edu/admissions/financial-aid/tuition-fees.html)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$66,784 — Academic-year tuition (Engineering master’s/PhD full-time × 2 semesters); 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 reference, not a Fall 2027 quote or full-degree total.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+Rice Bursar Engineering graduate rates 2026–27: Masters & PhD Full-Time Tuition $33,392/semester → $66,784 AY. Part-time approved $3,710 per credit (maximum $33,392/semester). MCS is a terminal non-thesis master’s requiring 30 credit hours (normally three semesters); catalog states MCS students are expected to pay full tuition with no university/department financial aid. GSA fee $45 AY, Student Organization $8, Health & Wellness Support $720 AY, and health insurance are separate. Online OMCS is a different per-credit schedule ($1,700/credit)—not used here.
 
 Application timing: 10 Feb 2027 · Early scholarship consideration. Confirm deadline time zone and personal requirements on the official page.
 
@@ -46,8 +46,10 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program / academic source](https://cs.rice.edu/academics/graduate-programs/master-computer-science)
-- [Official tuition / budget](https://engineering.rice.edu/about/facts-rankings)
+- [MCS program home](https://cs.rice.edu/academics/graduate-programs/master-computer-science)
+- [Rank 27 cross-check](https://engineering.rice.edu/about/facts-rankings)
+- [Official tuition / budget (Bursar Engineering)](https://bursar.rice.edu/tuition_fee_rates/graduate-programs/engineering)
+- [MCS degree catalog](https://ga.rice.edu/programs-study/departments-programs/engineering/computer-science/computer-science-mcs/)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

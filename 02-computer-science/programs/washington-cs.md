@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$17,130 — Typical academic-year instructional fees (PMP, 15 credits) — no F-1/J-1; 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 reference, not a Fall 2027 quote or full-degree total. Availability: PMP does not support F-1 or J-1 student visas.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+UW Allen School PMP Costs & Fees: as of autumn 2026, per-credit instructional fee $1,142 (same rate regardless of residency/citizenship). Typical enrollment 4–5 credits/quarter (12–15 credits/year) → typical academic-year instructional cost $17,130 at 15 credits; typical program cost $45,680 at required 40 credits. About $295/quarter additional mandatory student fees. Eligibility: PMP does not support F-1 or J-1; international students need another status allowing Seattle-area residence and part-time study. Traditional research MS/PhD funding routes differ—this catalog id maps to the published PMP fee schedule with that visa restriction.
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -47,6 +47,9 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 ## Sources
 
 - [Program / academic source](https://www.cs.washington.edu/academics/graduate/pmp/admissions/how-apply/)
+- [Official tuition / budget (PMP costs)](https://www.cs.washington.edu/academics/graduate/pmp/program-overview/pmp-costs-fees/)
+- [PMP eligibility (no F-1/J-1)](https://www.cs.washington.edu/academics/graduate/pmp/admissions/requirements/)
+- [UW fee-based program rates PDF](https://finance.uw.edu/tuition-fees/files/docs/fee-programs/2026-27-fee-based-program-rates-5.7.2026.pdf)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

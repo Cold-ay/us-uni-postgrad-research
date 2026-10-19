@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$65,210 — Academic-year tuition (Graduate School regular rate) — applications suspended Fall 2027; 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 sticker reference only. Availability: CS will not accept master’s applications for Fall 2027.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+Princeton CS department: will not accept applications to the master’s degree program for Fall 2027 admission (resource uncertainty); MSE/M.Eng. are normally fully funded via teaching assistantships when offered. Graduate School University Rates 2026–27: Tuition Regular Rate $65,210; SHP Fee $4,220 (total $69,430)—SHP not included in the tuition figure. Rate recorded as published sticker with clear closed/suspended availability for Fall 2027 entry; not a billable quote for new Fall 2027 master’s admits.
 
 Application timing: No Fall 2027 master’s applications. Confirm deadline time zone and personal requirements on the official page.
 
@@ -46,7 +46,9 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 
 ## Sources
 
-- [Program / academic source](https://www.cs.princeton.edu/grad/masters-degree-requirements)
+- [CS master’s (Fall 2027 suspension notice)](https://www.cs.princeton.edu/grad/masters-degree-requirements)
+- [Official tuition / budget (Grad School rates)](https://gradschool.princeton.edu/financial-support/financial-support-model/funding-calendar-university-rates-costs)
+- [Application deadlines](https://gradschool.princeton.edu/admission-onboarding/prepare/application-deadlines)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

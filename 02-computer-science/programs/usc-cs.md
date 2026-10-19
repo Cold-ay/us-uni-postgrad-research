@@ -26,11 +26,11 @@ Faculty and supervision: Individual faculty specialties and master’s supervisi
 
 ## Tuition and application timing
 
-Not verified — Tuition not yet verified; Year not verified.
+$43,872 — Academic-year tuition (Viterbi graduate engineering, 8 units × 2 semesters); 2026–27.
 
-No verified program-specific figure recorded. Fall 2027 tuition is not assumed.
+2026–27 reference, not a Fall 2027 quote or full-degree total.
 
-Required fees, insurance, living expenses and full-degree total need verification for the selected route.
+USC Viterbi Graduate Tuition Fall 2026–Summer 2027: $2,742 per unit (same for on-campus and DEN@Viterbi). MS Computer Science requires 32 units (thesis option adds 4). Typical full-time pace in Viterbi COA examples is 8 units/semester → AY tuition $2,742 × 8 × 2 = $43,872. Full 32-unit program tuition at the published rate = $87,744. Mandatory fees about $922/semester (health center, Topping, programming, transportation; first semester adds one-time $55 orientation) not included in the tuition figure. Health insurance separate.
 
 Application timing: Fall 2027 deadline not verified. Confirm deadline time zone and personal requirements on the official page.
 
@@ -47,6 +47,9 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 ## Sources
 
 - [Program / academic source](https://www.cs.usc.edu/academic-programs/masters/)
+- [Official tuition / budget](https://viterbigradadmission.usc.edu/programs/masters/tuition-funding/tuition-funding-masters/)
+- [32-unit MS COA PDF](https://viterbigradadmission.usc.edu/wp-content/uploads/2026/03/2026-2027-Tuition-and-Fees-32.pdf)
+- [MS Computer Science program](https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/ms-computer-science/)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

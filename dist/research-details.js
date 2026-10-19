@@ -12,6 +12,16 @@ export const researchDetails = {
     availabilityType: 'restricted',
     orientation: 'Doctoral admissions only',
     deadline: 'Not a standalone master’s application',
+    tuition: 66720,
+    tuitionLabel: 'Academic-year tuition (full regular graduate × 2 terms) — restricted route',
+    period: '2026–27',
+    costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total. Availability: EECS MEng is open only to MIT undergraduates (not an external terminal MS).',
+    costDetail: 'MIT Registrar Graduate tuition 2026–27: Full regular tuition $33,360 per fall/spring term → $66,720 AY. EECS MEng is a fifth-year bachelor’s/master’s path for MIT undergraduates in listed Course 6 programs only; MIT does not offer a general external-admission terminal MS in CS/EECS for Fall 2027 applicants. Published rate recorded for sticker reference with that availability restriction. Miscellaneous fees and living costs separate.',
+    sources: [
+      ['Official tuition / budget', 'https://registrar.mit.edu/registration-academics/tuition-fees/graduate'],
+      ['EECS MEng (MIT undergrads only)', 'https://www.eecs.mit.edu/academics/undergraduate-programs/meng-program/'],
+      ['EECS graduate admission process', 'https://www.eecs.mit.edu/academics/graduate-programs/admission-process/'],
+    ],
   },
   'caltech-cs': {
     kind: 'PhD route',
@@ -19,6 +29,16 @@ export const researchDetails = {
     availabilityType: 'restricted',
     orientation: 'Doctoral program',
     deadline: 'Not a standard terminal master’s route',
+    tuition: 68574,
+    tuitionLabel: 'Academic-year tuition (Institute graduate) — restricted / PhD-path MS only',
+    period: '2026–27',
+    costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total. Availability: CMS admits only PhD-track students; MS awarded by petition, not as an open terminal master’s.',
+    costDetail: 'Caltech Graduate Studies Estimated Budget 2026–27: Tuition $68,574 annual ($22,858/term × 3); Mandatory Fees $2,448 (total tuition+mandatory fees $71,022). Computing and Mathematical Sciences (CMS) catalog: only students who expect to pursue the Ph.D. are admitted; PhD students in good standing may petition to add the MS after course requirements. No open external terminal MS CS for Fall 2027. Published Institute tuition recorded with that availability note. Stipend packages typically cover tuition for funded PhD students.',
+    sources: [
+      ['Official tuition / budget', 'https://www.gradoffice.caltech.edu/financialsupport/budget'],
+      ['CMS special regulations (catalog)', 'https://catalog.caltech.edu/current/information-for-graduate-students/special-regulations-for-graduate-options/computing-and-mathematical-science-cms/'],
+      ['CMS graduate programs', 'https://www.cms.caltech.edu/academics/grad'],
+    ],
   },
   'princeton-cs': {
     kind: 'MSE / MEng',
@@ -26,32 +46,53 @@ export const researchDetails = {
     availabilityType: 'closed',
     deadline: 'No Fall 2027 master’s applications',
     funding: 'The department describes funded master’s degrees, but has suspended Fall 2027 admission. This is not an available Fall 2027 funding opportunity.',
+    tuition: 65210,
+    tuitionLabel: 'Academic-year tuition (Graduate School regular rate) — applications suspended Fall 2027',
+    period: '2026–27',
+    costNote: '2026–27 sticker reference only. Availability: CS will not accept master’s applications for Fall 2027.',
+    costDetail: 'Princeton CS department: will not accept applications to the master’s degree program for Fall 2027 admission (resource uncertainty); MSE/M.Eng. are normally fully funded via teaching assistantships when offered. Graduate School University Rates 2026–27: Tuition Regular Rate $65,210; SHP Fee $4,220 (total $69,430)—SHP not included in the tuition figure. Rate recorded as published sticker with clear closed/suspended availability for Fall 2027 entry; not a billable quote for new Fall 2027 master’s admits.',
+    sources: [
+      ['CS master’s (Fall 2027 suspension notice)', 'https://www.cs.princeton.edu/grad/masters-degree-requirements'],
+      ['Official tuition / budget (Grad School rates)', 'https://gradschool.princeton.edu/financial-support/financial-support-model/funding-calendar-university-rates-costs'],
+      ['Application deadlines', 'https://gradschool.princeton.edu/admission-onboarding/prepare/application-deadlines'],
+    ],
   },
   'washington-cs': {
     availability: 'PMP: no F-1 / J-1 applicants',
     availabilityType: 'restricted',
     orientation: 'Professional master’s · Visa restriction',
+    tuition: 17130,
+    tuitionLabel: 'Typical academic-year instructional fees (PMP, 15 credits) — no F-1/J-1',
+    period: '2026–27',
+    costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total. Availability: PMP does not support F-1 or J-1 student visas.',
+    costDetail: 'UW Allen School PMP Costs & Fees: as of autumn 2026, per-credit instructional fee $1,142 (same rate regardless of residency/citizenship). Typical enrollment 4–5 credits/quarter (12–15 credits/year) → typical academic-year instructional cost $17,130 at 15 credits; typical program cost $45,680 at required 40 credits. About $295/quarter additional mandatory student fees. Eligibility: PMP does not support F-1 or J-1; international students need another status allowing Seattle-area residence and part-time study. Traditional research MS/PhD funding routes differ—this catalog id maps to the published PMP fee schedule with that visa restriction.',
+    sources: [
+      ['Official tuition / budget (PMP costs)', 'https://www.cs.washington.edu/academics/graduate/pmp/program-overview/pmp-costs-fees/'],
+      ['PMP eligibility (no F-1/J-1)', 'https://www.cs.washington.edu/academics/graduate/pmp/admissions/requirements/'],
+      ['UW fee-based program rates PDF', 'https://finance.uw.edu/tuition-fees/files/docs/fee-programs/2026-27-fee-based-program-rates-5.7.2026.pdf'],
+    ],
   },
   'harvard-cs': {
     kind: 'Related SM',
     availability: 'Related CSE degree · not standalone CS',
     availabilityType: 'alternative',
     orientation: 'Computational science · Applied mathematics',
+    tuition: 67504,
+    tuitionLabel: 'Program / full-year tuition (SEAS CSE SM) — related alternative, not a pure CS MS',
+    period: '2026–27',
+    costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total. Availability: Computational Science and Engineering SM (related SEAS master’s), not a standalone CS MS.',
+    costDetail: 'Harvard Griffin GSAS Cost of Attendance 2026–27: SEAS Computational Science and Engineering master of science (SM) full-year cost $67,504 (one-year program). CSE ME and Data Science SM use $67,504 first year / $33,752 subsequent listed terms. Per-course rates if less than full-time: $8,438 / $16,876 / $25,314 / $33,752 for 1–4 courses per term. Standard GSAS full tuition for other master’s/PhD years 1–2 is $59,048—not used here. Catalog harvard-cs uses this CSE-related SM figure with an alternative-route label; Harvard does not publish a separate terminal MS Computer Science under this id.',
+    sources: [
+      ['Official tuition / budget (GSAS COA)', 'https://gsas.harvard.edu/apply/cost-attendance-2026-2027'],
+      ['SEAS CSE master’s', 'https://seas.harvard.edu/masters-computational-science-and-engineering'],
+    ],
   },
   'stanford-cs': {
-    ...referenceCost(
-      69717,
-      'https://studentservices.stanford.edu/tuition-rates/2026-2027-graduate-and-professional-tuition-rates',
-      'Graduate School of Engineering quarterly rate for 11–18 units is $23,239 (2026–27). Three academic-year quarters (Autumn–Spring) = $69,717. 8–10 units is $15,100/quarter. Per-unit above 18: $1,549. MS CS requires 45 units; HCP/online uses a different per-unit schedule. Living costs and Cardinal Care are separate.',
-      'Academic-year tuition (Engineering, 11–18 units × 3 quarters)'
-    ),
+    tuition: 69717,
+    tuitionLabel: 'Academic-year tuition (Engineering, 11–18 units × 3 quarters)',
+    period: '2026–27',
     costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total.',
-    orientation: 'Coursework or research · 45 units',
-    funding: 'CS MS pages and Stanford Grad Aid: no guaranteed department funding for MS; international students generally ineligible for Stanford/federal loans. Course/Research Assistant roles exist but are limited; PhD priority. Knight-Hennessy (SCH-002) listed in catalog but 2027 application closed.',
-    confidence: 'high',
-    unresolved: ['Fall 2027–28 Engineering rates not yet published', 'Exact unit plan for a typical 45-unit MS pathway (1 vs 2 years) varies by student'],
-    asOf: '2026-10-20',
-    scholarships: ['SCH-002'],
+    costDetail: 'Graduate School of Engineering quarterly rate for 11–18 units is $23,239 (2026–27). Three academic-year quarters (Autumn–Spring) = $69,717. 8–10 units is $15,100/quarter. Per-unit above 18: $1,549. MS CS requires 45 units; HCP/online uses a different per-unit schedule. Living costs and Cardinal Care are separate.',
     sources: [
       ['Official tuition / budget', 'https://studentservices.stanford.edu/tuition-rates/2026-2027-graduate-and-professional-tuition-rates'],
       ['MS admissions', 'https://www.cs.stanford.edu/admissions/masters-admissions'],
@@ -59,290 +100,284 @@ export const researchDetails = {
       ['Specializations', 'https://www.cs.stanford.edu/masters-specializations'],
       ['The Student Budget (graduate)', 'https://financialaid.stanford.edu/grad/budget/'],
       ['Estimate Your Graduate Charges', 'https://studentservices.stanford.edu/my-finances/tuition-fees/estimate-your-graduate-charges-0'],
-      ['CS MS CA/RA overview', 'https://www.cs.stanford.edu/masters-course-assistant-and-research-assistant']
+      ['CS MS CA/RA overview', 'https://www.cs.stanford.edu/masters-course-assistant-and-research-assistant'],
     ],
+    orientation: 'Coursework or research · 45 units',
+    funding: 'CS MS pages and Stanford Grad Aid: no guaranteed department funding for MS; international students generally ineligible for Stanford/federal loans. Course/Research Assistant roles exist but are limited; PhD priority. Knight-Hennessy (SCH-002) listed in catalog but 2027 application closed.',
+    confidence: 'high',
+    unresolved: ["Fall 2027–28 Engineering rates not yet published","Exact unit plan for a typical 45-unit MS pathway (1 vs 2 years) varies by student"],
+    asOf: '2026-10-20',
+    scholarships: ["SCH-002"],
   },
   'berkeley-cs': {
-    ...referenceCost(
-      73766.5,
-      'https://registrar.berkeley.edu/tuition-fees/fee-schedule/',
-      'Registrar Master of Engineering (All M.Eng Degrees) per-semester continuing totals: residents $29,767.75; nonresidents $36,883.25 (includes tuition, Student Services Fee, campus/transit fees, PDST $16,850 resident / $17,843 nonresident, NRST $6,122.50 for nonresidents, IREF, and health insurance $4,103). Program is Fall+Spring only → nonresident AY $73,766.50. New students add $119 document fee in first semester ($37,002.25 first-semester nonresident total).',
-      'Academic-year tuition and mandatory fees (MEng nonresident, continuing)'
-    ),
+    tuition: 73766.5,
+    tuitionLabel: 'Academic-year tuition and mandatory fees (MEng nonresident, continuing)',
+    period: '2026–27',
     costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total.',
+    costDetail: 'Registrar Master of Engineering (All M.Eng Degrees) per-semester continuing totals: residents $29,767.75; nonresidents $36,883.25 (includes tuition, Student Services Fee, campus/transit fees, PDST $16,850 resident / $17,843 nonresident, NRST $6,122.50 for nonresidents, IREF, and health insurance $4,103). Program is Fall+Spring only → nonresident AY $73,766.50. New students add $119 document fee in first semester ($37,002.25 first-semester nonresident total).',
+    sources: [
+      ['Official tuition / budget', 'https://registrar.berkeley.edu/tuition-fees/fee-schedule/'],
+      ['MEng EECS program', 'https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/'],
+    ],
     kind: 'MEng',
     orientation: 'Professional · Technical leadership · Capstone',
     funding: 'MEng is a professional/industry program; do not assume PhD-style funding. Specific MEng fellowships not verified on fee pages fetched; unresolved beyond fee schedule.',
     confidence: 'high',
-    unresolved: ['Official MEng-specific living/COA band not captured (Haas MBA COA is separate)', 'Program-tied scholarships for MEng EECS not verified on pages retrieved', 'Fall 2027–28 rates not published'],
+    unresolved: ["Official MEng-specific living/COA band not captured (Haas MBA COA is separate)","Program-tied scholarships for MEng EECS not verified on pages retrieved","Fall 2027–28 rates not published"],
     asOf: '2026-10-20',
-    sources: [
-      ['Official tuition / budget', 'https://registrar.berkeley.edu/tuition-fees/fee-schedule/'],
-      ['MEng EECS program', 'https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/']
-    ],
   },
   'illinois-cs': {
-    ...referenceCost(
-      40444,
-      'https://www.registrar.illinois.edu/g-tuition-rates-2627/',
-      'Registrar: Engineering and Engineering Related Programs (including Computer Science) — Nonresident or International Range I (12+ hours) $20,222/semester ($40,444 AY Fall+Spring). Resident Range I $10,636/semester ($21,272 AY). Range II (6–11 hours) nonresident/international $13,482/semester ($26,964 AY); Illinois Cost Calculator for MCS international at 9 credits matches Range II. Campus fees and living costs are extra. Online MCS uses a different per-credit schedule—not recorded here.',
-      'Academic-year tuition (MCS / Engineering, international or nonresident, Range I 12+ hours)'
-    ),
+    tuition: 40444,
+    tuitionLabel: 'Academic-year tuition (MCS / Engineering, international or nonresident, Range I 12+ hours)',
+    period: '2026–27',
     costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total.',
-    kind: 'MS / MCS',
-    orientation: 'Research MS or professional MCS',
-    funding: 'MCS: eligible to accept RA/TA if offered; opportunities limited and not guaranteed (Siebel MCS tuition page). Do not apply PhD funding policies to MCS/MS.',
-    confidence: 'medium',
-    unresolved: ['Which tuition schedule applies to research MS vs professional MCS for a given admit', 'Exact Fall 2027 rates', 'Intl eligibility for any named MCS scholarships beyond RA/TA statement'],
-    asOf: '2026-10-20',
+    costDetail: 'Registrar: Engineering and Engineering Related Programs (including Computer Science) — Nonresident or International Range I (12+ hours) $20,222/semester ($40,444 AY Fall+Spring). Resident Range I $10,636/semester ($21,272 AY). Range II (6–11 hours) nonresident/international $13,482/semester ($26,964 AY); Illinois Cost Calculator for MCS international at 9 credits matches Range II. Campus fees and living costs are extra. Online MCS uses a different per-credit schedule—not recorded here.',
     sources: [
       ['Official tuition / budget', 'https://www.registrar.illinois.edu/g-tuition-rates-2627/'],
       ['Credit-hour ranges', 'https://www.registrar.illinois.edu/g-tuition-cr-2627/'],
       ['MCS tuition page', 'https://siebelschool.illinois.edu/academics/graduate/professional-mcs/tuition-fees'],
       ['Cost calculator MCS international 9 cr', 'https://cost.illinois.edu/Home/Cost/I/G/10KS0112MCS/9/120268/120268'],
-      ['Graduate FAQs', 'https://siebelschool.illinois.edu/admissions/graduate/faqs']
+      ['Graduate FAQs', 'https://siebelschool.illinois.edu/admissions/graduate/faqs'],
     ],
+    kind: 'MS / MCS',
+    orientation: 'Research MS or professional MCS',
+    funding: 'MCS: eligible to accept RA/TA if offered; opportunities limited and not guaranteed (Siebel MCS tuition page). Do not apply PhD funding policies to MCS/MS.',
+    confidence: 'medium',
+    unresolved: ["Which tuition schedule applies to research MS vs professional MCS for a given admit","Exact Fall 2027 rates","Intl eligibility for any named MCS scholarships beyond RA/TA statement"],
+    asOf: '2026-10-20',
   },
   'cornell-cs': {
-    ...referenceCost(
-      29500,
-      'https://bursar.cornell.edu/students-parents/tuition-rates-and-fees',
-      'Bursar: Endowed Research Master’s (M.S. and listed M.A./non-degree) $14,750/semester, $29,500/year (2026–27). CS MS admitted students receive full tuition, stipend, and health insurance via required TA-ships each of four semesters—so billed tuition is typically covered for admitted students. Separately, M.Eng is Professional Tier 1: $36,973/semester, $73,946/year (self-supported).',
-      'Academic-year tuition (Endowed research master’s MS)'
-    ),
+    tuition: 29500,
+    tuitionLabel: 'Academic-year tuition (Endowed research master’s MS)',
+    period: '2026–27',
     costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total.',
+    costDetail: 'Bursar: Endowed Research Master’s (M.S. and listed M.A./non-degree) $14,750/semester, $29,500/year (2026–27). CS MS admitted students receive full tuition, stipend, and health insurance via required TA-ships each of four semesters—so billed tuition is typically covered for admitted students. Separately, M.Eng is Professional Tier 1: $36,973/semester, $73,946/year (self-supported).',
+    sources: [
+      ['Official tuition / budget', 'https://bursar.cornell.edu/students-parents/tuition-rates-and-fees'],
+      ['CS MS apply / funding', 'https://www.cs.cornell.edu/master-science-computer-science/apply'],
+      ['MEng admissions', 'https://www.cs.cornell.edu/master-engineering-computer-science/apply'],
+    ],
     kind: 'MS / MEng',
     orientation: 'Separate research and professional routes',
     funding: 'Program pages emphasize distinct MS vs M.Eng routes; funding policies differ — do not assume PhD funding for either. Specific M.Eng/MS CS assistantship guarantees not verified on bursar page.',
     confidence: 'high',
-    unresolved: ['Official living/COA band for Ithaca M.Eng/MS CS not fully captured', 'Program-tied scholarships for CS M.Eng/MS', 'Fall 2027 rates'],
+    unresolved: ["Official living/COA band for Ithaca M.Eng/MS CS not fully captured","Program-tied scholarships for CS M.Eng/MS","Fall 2027 rates"],
     asOf: '2026-10-20',
-    sources: [
-      ['Official tuition / budget', 'https://bursar.cornell.edu/students-parents/tuition-rates-and-fees'],
-      ['CS MS apply / funding', 'https://www.cs.cornell.edu/master-science-computer-science/apply'],
-      ['MEng admissions', 'https://www.cs.cornell.edu/master-engineering-computer-science/apply']
-    ],
   },
   'gatech-cs': {
-    ...referenceCost(
-      33080,
-      'https://bursar.gatech.edu/student/tuition/su27/su27_totals.pdf',
-      'Bursar 2026–27 Atlanta campus graduate Master & PhD Candidates: In-State $7,280/semester (12+ hrs) or $607/hr (1–11); Out-of-State $16,073/semester (12+) or $1,341/hr; Out-of-Country $16,540/semester (12+) or $1,379/hr. International-relevant figure uses Out-of-Country full-time: $16,540 × 2 = $33,080 AY. Mandatory student fees $608/semester at 4+ credits not included in the tuition figure. OMSCS ($227/hr) is excluded.',
-      'Academic-year tuition (campus Master & PhD, out-of-country, 12+ hours × 2 semesters)'
-    ),
+    tuition: 33080,
+    tuitionLabel: 'Academic-year tuition (campus Master & PhD, out-of-country, 12+ hours × 2 semesters)',
+    period: '2026–27',
     costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total.',
-    funding: 'Campus MS funding not automatic; GRA/GTA pay reduced tuition per BOR policy when appointed. Do not apply PhD funding assumptions to MS.',
-    confidence: 'high',
-    unresolved: ['Confirm Spring 2027 identical Out-of-Country 12+ rate', 'Which OSFA living table year (page shows multiple blocks)', 'Campus MS program-tied scholarships'],
-    asOf: '2026-10-20',
+    costDetail: 'Bursar 2026–27 Atlanta campus graduate Master & PhD Candidates: In-State $7,280/semester (12+ hrs) or $607/hr (1–11); Out-of-State $16,073/semester (12+) or $1,341/hr; Out-of-Country $16,540/semester (12+) or $1,379/hr. International-relevant figure uses Out-of-Country full-time: $16,540 × 2 = $33,080 AY. Mandatory student fees $608/semester at 4+ credits not included in the tuition figure. OMSCS ($227/hr) is excluded.',
     sources: [
       ['Official tuition / budget', 'https://bursar.gatech.edu/student/tuition/su27/su27_totals.pdf'],
       ['MSCS specializations', 'https://www.cc.gatech.edu/ms-computer-science-specializations'],
       ['Gatech Bursar Tuition & Fees', 'https://bursar.gatech.edu/tuition-fees'],
       ['Fall 2026 Tuition and Fee Rates PDF', 'https://bursar.gatech.edu/sites/default/files/2026-07/fa26_totals_page_0.pdf'],
-      ['Graduate Costs (OSFA)', 'https://finaid.gatech.edu/costs/graduate-costs']
+      ['Graduate Costs (OSFA)', 'https://finaid.gatech.edu/costs/graduate-costs'],
     ],
+    funding: 'Campus MS funding not automatic; GRA/GTA pay reduced tuition per BOR policy when appointed. Do not apply PhD funding assumptions to MS.',
+    confidence: 'high',
+    unresolved: ["Confirm Spring 2027 identical Out-of-Country 12+ rate","Which OSFA living table year (page shows multiple blocks)","Campus MS program-tied scholarships"],
+    asOf: '2026-10-20',
   },
   'texas-cs': {
-    ...referenceCost(
-      18162,
-      'https://catalog.utexas.edu/general-information/registration-tuition-and-fees/tuition-and-fees/tables-tuition-for-fall-and-spring/',
-      'Graduate Nonresident Natural Sciences: 9 semester hours = $9,081 per semester → $18,162 for Fall+Spring. At 12 hours: $10,970/semester. Separately, the catalog lists Option III Computer Science (MSCompSci) total program fee estimate $10,000 (same resident/nonresident)—commonly associated with the online/CDSO pathway. Confirm with UTCS which schedule applies to a specific on-campus research MS offer.',
-      'Academic-year tuition and fees (Natural Sciences nonresident graduate, 9 hours × 2 semesters)'
-    ),
+    tuition: 18162,
+    tuitionLabel: 'Academic-year tuition and fees (Natural Sciences nonresident graduate, 9 hours × 2 semesters)',
+    period: '2026–27',
     costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total.',
-    funding: 'Master’s: no automatic funding. Teaching/research positions may be available; summer FoCS internships mentioned. PhD funding must not be applied to MS.',
-    confidence: 'medium',
-    unresolved: ['Confirm exact credit load used for COA packaging', 'Whether MSCompSci Option III $10,000 fee applies to the research MS route and how it stacks with Natural Sciences rates', 'Official graduate living-band for CS MS', 'Fall 2027 rates'],
-    asOf: '2026-10-20',
+    costDetail: 'Graduate Nonresident Natural Sciences: 9 semester hours = $9,081 per semester → $18,162 for Fall+Spring. At 12 hours: $10,970/semester. Separately, the catalog lists Option III Computer Science (MSCompSci) total program fee estimate $10,000 (same resident/nonresident)—commonly associated with the online/CDSO pathway. Confirm with UTCS which schedule applies to a specific on-campus research MS offer.',
     sources: [
       ['Official tuition / budget', 'https://catalog.utexas.edu/general-information/registration-tuition-and-fees/tuition-and-fees/tables-tuition-for-fall-and-spring/'],
       ['Tuition rates hub', 'https://onestop.utexas.edu/managing-costs/cost-tuition-rates/tuition-rates/'],
       ['Research degrees / on-campus MS', 'https://www.cs.utexas.edu/graduate/research-degrees'],
       ['Cost & aid', 'https://www.cs.utexas.edu/graduate/cost-and-aid'],
-      ['UT tuition tables PDF (catalog)', 'https://catalog.utexas.edu/general-information/registration-tuition-and-fees/tuition-and-fees/tables-tuition-for-fall-and-spring/tables-tuition-for-fall-and-spring.pdf']
+      ['UT tuition tables PDF (catalog)', 'https://catalog.utexas.edu/general-information/registration-tuition-and-fees/tuition-and-fees/tables-tuition-for-fall-and-spring/tables-tuition-for-fall-and-spring.pdf'],
     ],
+    funding: 'Master’s: no automatic funding. Teaching/research positions may be available; summer FoCS internships mentioned. PhD funding must not be applied to MS.',
+    confidence: 'medium',
+    unresolved: ["Confirm exact credit load used for COA packaging","Whether MSCompSci Option III $10,000 fee applies to the research MS route and how it stacks with Natural Sciences rates","Official graduate living-band for CS MS","Fall 2027 rates"],
+    asOf: '2026-10-20',
   },
   'michigan-cs': {
-    ...referenceCost(
-      68038,
-      'https://ro.umich.edu/tuition-residency/tuition-fees/2026-2027/graduate/full-term/college-engineering-graduate-full-term',
-      'Registrar College of Engineering Graduate Full Term 2026–27: Michigan Non-Resident 9+ (Full-Time) $34,019 per full term; Michigan Resident $18,308. Typical academic year = Fall + Winter full terms → nonresident $68,038. CSE MS/MSE uses Engineering graduate rates. Master’s funding is not guaranteed at admission.',
-      'Academic-year tuition (College of Engineering graduate, nonresident full-time × 2 full terms)'
-    ),
+    tuition: 68038,
+    tuitionLabel: 'Academic-year tuition (College of Engineering graduate, nonresident full-time × 2 full terms)',
+    period: '2026–27',
     costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total.',
-    funding: 'CSE master’s pages historically note limited funding; do not assume PhD support. Specific 2026–27 MS funding guarantees not verified on tuition page.',
-    confidence: 'high',
-    unresolved: ['Mandatory fees + international student fee stack for CSE MS', 'Official living/COA for Engineering master’s', 'Program-tied MS scholarships/assistantships details', '2027–28 rates (posted ~July 2027 per Ross MBA note pattern)'],
-    asOf: '2026-10-20',
+    costDetail: 'Registrar College of Engineering Graduate Full Term 2026–27: Michigan Non-Resident 9+ (Full-Time) $34,019 per full term; Michigan Resident $18,308. Typical academic year = Fall + Winter full terms → nonresident $68,038. CSE MS/MSE uses Engineering graduate rates. Master’s funding is not guaranteed at admission.',
     sources: [
       ['Official tuition / budget', 'https://ro.umich.edu/tuition-residency/tuition-fees/2026-2027/graduate/full-term/college-engineering-graduate-full-term'],
-      ['CSE master’s program', 'https://cse.engin.umich.edu/academics/graduate/graduate-programs/masters-in-cse/']
+      ['CSE master’s program', 'https://cse.engin.umich.edu/academics/graduate/graduate-programs/masters-in-cse/'],
     ],
+    funding: 'CSE master’s pages historically note limited funding; do not assume PhD support. Specific 2026–27 MS funding guarantees not verified on tuition page.',
+    confidence: 'high',
+    unresolved: ["Mandatory fees + international student fee stack for CSE MS","Official living/COA for Engineering master’s","Program-tied MS scholarships/assistantships details","2027–28 rates (posted ~July 2027 per Ross MBA note pattern)"],
+    asOf: '2026-10-20',
   },
   'ucsd-cs': {
-    ...referenceCost(
-      38087.17,
-      'https://students.ucsd.edu/finances/fees/registration/2026-27/graduate.html',
-      'UCSD Graduate Registration Fees 2026–27: California Nonresidents annual total $38,087.17 (includes systemwide tuition $13,722, Student Services Fee $1,344, campus fees, mandatory health insurance $6,660, and Nonresident Supplemental Tuition $15,102). California Residents annual total $22,985.17. CSE MS uses the standard graduate schedule (not self-supporting). One-time Enrollment Services Fee $115 is included in the published Fall/annual nonresident total. International visa administration fee $200 is separate.',
-      'Academic-year registration fees total (graduate nonresident)'
-    ),
+    tuition: 38087.17,
+    tuitionLabel: 'Academic-year registration fees total (graduate nonresident)',
+    period: '2026–27',
     costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total.',
-    funding: 'CSE: financial opportunities page lists TA info; MS funding not guaranteed. Do not apply PhD funding policies.',
-    confidence: 'high',
-    unresolved: ['FAO full COA living band URL amounts not captured in this pass', 'Fall 2027–28 fees'],
-    asOf: '2026-10-20',
+    costDetail: 'UCSD Graduate Registration Fees 2026–27: California Nonresidents annual total $38,087.17 (includes systemwide tuition $13,722, Student Services Fee $1,344, campus fees, mandatory health insurance $6,660, and Nonresident Supplemental Tuition $15,102). California Residents annual total $22,985.17. CSE MS uses the standard graduate schedule (not self-supporting). One-time Enrollment Services Fee $115 is included in the published Fall/annual nonresident total. International visa administration fee $200 is separate.',
     sources: [
       ['Official tuition / budget', 'https://students.ucsd.edu/finances/fees/registration/2026-27/graduate.html'],
       ['MS program', 'https://cse.ucsd.edu/graduate/degree-programs/ms-program'],
-      ['CSE Financial Opportunities', 'https://cse.ucsd.edu/graduate/financial-opportunities']
+      ['CSE Financial Opportunities', 'https://cse.ucsd.edu/graduate/financial-opportunities'],
     ],
+    funding: 'CSE: financial opportunities page lists TA info; MS funding not guaranteed. Do not apply PhD funding policies.',
+    confidence: 'high',
+    unresolved: ["FAO full COA living band URL amounts not captured in this pass","Fall 2027–28 fees"],
+    asOf: '2026-10-20',
   },
   'maryland-cs': {
-    ...referenceCost(
-      34488,
-      'https://billpay.umd.edu/GraduateTuition',
-      'UMD Student Financial Services Fall 2026 & Spring 2027: graduate Non-Resident tuition $1,916/credit (Resident $913). Academic-year reference at 9 credits/semester (mandatory campus-fee plateau) = $17,244 × 2 = $34,488. Campus fees for 9+ credits: $738/semester ($1,476 AY) not included in the tuition figure. Extended Studies CS professional page lists the same out-of-state per-credit rate and estimates 30-credit total master’s tuition $57,480 (out-of-state). SHIP (~$2,939 AY) and international student fee $125/semester are separate. MS is 30 credits.',
-      'Academic-year tuition (graduate nonresident, 9 credits × 2 semesters)'
-    ),
+    tuition: 34488,
+    tuitionLabel: 'Academic-year tuition (graduate nonresident, 9 credits × 2 semesters)',
+    period: '2026–27',
     costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total.',
-    availability: 'CSMS route · confirm catalog distinction',
-    availabilityType: 'review',
-    deadline: '4 Dec 2026 · MS application page',
-    deadlineDate: '2026-12-04',
-    funding: 'CS apply page; financial aid specifics for MS not fully verified. Do not assume PhD funding.',
-    confidence: 'high',
-    unresolved: ['Official FAO living-band dollar amounts (page referenced but not extracted)', 'Program-tied CS MS scholarships', '2027–28 rates'],
-    asOf: '2026-10-20',
+    costDetail: 'UMD Student Financial Services Fall 2026 & Spring 2027: graduate Non-Resident tuition $1,916/credit (Resident $913). Academic-year reference at 9 credits/semester (mandatory campus-fee plateau) = $17,244 × 2 = $34,488. Campus fees for 9+ credits: $738/semester ($1,476 AY) not included in the tuition figure. Extended Studies CS professional page lists the same out-of-state per-credit rate and estimates 30-credit total master’s tuition $57,480 (out-of-state). SHIP (~$2,939 AY) and international student fee $125/semester are separate. MS is 30 credits.',
     sources: [
       ['Official tuition / budget', 'https://billpay.umd.edu/GraduateTuition'],
       ['Extended Studies CS tuition', 'https://exst.umd.edu/professionals-post-baccalaureates/professional-graduate-programs/computer-science/tuition-and-fees'],
       ['MS prospective / catalog', 'https://www.cs.umd.edu/grad/ms-catalog'],
       ['Grad apply', 'https://www.cs.umd.edu/grad/apply'],
       ['CMSC catalog — different MS route', 'https://academiccatalog.umd.edu/graduate/programs/computer-science-cmsc/computer-science-ms/'],
-      ['Rank 12 cross-check · May 2026', 'https://science.umd.edu/newsletters/cs/2026-05.html']
+      ['Rank 12 cross-check · May 2026', 'https://science.umd.edu/newsletters/cs/2026-05.html'],
     ],
+    availability: 'CSMS route · confirm catalog distinction',
+    availabilityType: 'review',
+    deadline: '4 Dec 2026 · MS application page',
+    deadlineDate: '2026-12-04',
+    funding: 'CS apply page; financial aid specifics for MS not fully verified. Do not assume PhD funding.',
+    confidence: 'high',
+    unresolved: ["Official FAO living-band dollar amounts (page referenced but not extracted)","Program-tied CS MS scholarships","2027–28 rates"],
+    asOf: '2026-10-20',
   },
   'columbia-cs': {
-    ...referenceCost(
-      67728,
-      'https://bulletin.columbia.edu/columbia-engineering/graduate-studies/graduate-tuition-fees-payments/',
-      'Columbia Engineering Graduate Tuition bulletin and SFS Graduate Engineering COA 2026–27: M.S. tuition $2,822 per credit/point. Full-time COA budgets 12 points/semester → $33,864/semester → $67,728 AY Fall+Spring. A typical 30-credit MS CS totals $84,660 in tuition across the degree (pace varies). Mandatory fees in the COA (health insurance, health service, university services, SEAS activities, document fee) and living costs are separate; CS is not listed with the IEOR/AI program fee.',
-      'Academic-year tuition (SEAS MS, $2,822/point × 12 points × 2 semesters)'
-    ),
+    tuition: 67728,
+    tuitionLabel: 'Academic-year tuition (SEAS MS, $2,822/point × 12 points × 2 semesters)',
+    period: '2026–27',
     costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total.',
-    orientation: 'Pathways · 30 points · Thesis by invitation',
-    funding: 'MS pathways page; department funding for MS not verified as guaranteed. Do not apply PhD funding.',
-    confidence: 'medium',
-    unresolved: ['Official Engineering COA living/fees table (fetch blocked/timeout)', 'Typical credits per academic year for billing', 'MS-specific scholarships', 'Fall 2027 rate'],
-    asOf: '2026-10-20',
+    costDetail: 'Columbia Engineering Graduate Tuition bulletin and SFS Graduate Engineering COA 2026–27: M.S. tuition $2,822 per credit/point. Full-time COA budgets 12 points/semester → $33,864/semester → $67,728 AY Fall+Spring. A typical 30-credit MS CS totals $84,660 in tuition across the degree (pace varies). Mandatory fees in the COA (health insurance, health service, university services, SEAS activities, document fee) and living costs are separate; CS is not listed with the IEOR/AI program fee.',
     sources: [
       ['Official tuition / budget', 'https://sfs.columbia.edu/content/graduate-engineering-cost-attendance'],
       ['SEAS graduate tuition bulletin', 'https://bulletin.columbia.edu/columbia-engineering/graduate-studies/graduate-tuition-fees-payments/'],
-      ['MS CS program', 'https://www.cs.columbia.edu/education/ms/']
+      ['MS CS program', 'https://www.cs.columbia.edu/education/ms/'],
     ],
+    orientation: 'Pathways · 30 points · Thesis by invitation',
+    funding: 'MS pathways page; department funding for MS not verified as guaranteed. Do not apply PhD funding.',
+    confidence: 'medium',
+    unresolved: ["Official Engineering COA living/fees table (fetch blocked/timeout)","Typical credits per academic year for billing","MS-specific scholarships","Fall 2027 rate"],
+    asOf: '2026-10-20',
   },
   'purdue-cs': {
-    ...referenceCost(
-      29918,
-      'https://www.purdue.edu/treasurer/finance/bursar-office/tuition/fee-rates-2026-2027/graduate-tuition-and-fees-2026-2027/',
-      'Purdue Bursar Graduate Tuition and Fees 2026–27: Computer Science & Engineering flat rate (8+ credit hours) Non-Resident sub-total tuition $14,959/semester → $29,918 AY (includes General Service, Fitness/Wellness, Student Activity, Nonresident Tuition, and Differential General Service $562/semester). Indiana Resident CS&E sub-total $5,558/semester ($11,116 AY). International students add International Fee $200/semester ($400 AY) on top of the nonresident CS&E total ($15,159/semester; $30,318 AY). Separately, Professional Master’s “MA in Computer Science” is billed per credit ($1,413.25 nonresident/international; 30-credit estimate $42,397.50)—not used here; the catalog master’s curriculum page is the standard on-campus MS. Living costs extra.',
-      'Academic-year tuition and mandatory fees (CS & Engineering graduate, nonresident, 8+ hours × 2 semesters)'
-    ),
+    tuition: 29918,
+    tuitionLabel: 'Academic-year tuition and mandatory fees (CS & Engineering graduate, nonresident, 8+ hours × 2 semesters)',
+    period: '2026–27',
     costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total.',
+    costDetail: 'Purdue Bursar Graduate Tuition and Fees 2026–27: Computer Science & Engineering flat rate (8+ credit hours) Non-Resident sub-total tuition $14,959/semester → $29,918 AY (includes General Service, Fitness/Wellness, Student Activity, Nonresident Tuition, and Differential General Service $562/semester). Indiana Resident CS&E sub-total $5,558/semester ($11,116 AY). International students add International Fee $200/semester ($400 AY) on top of the nonresident CS&E total ($15,159/semester; $30,318 AY). Separately, Professional Master’s “MA in Computer Science” is billed per credit ($1,413.25 nonresident/international; 30-credit estimate $42,397.50)—not used here; the catalog master’s curriculum page is the standard on-campus MS. Living costs extra.',
     sources: [
       ['Official tuition / budget', 'https://www.purdue.edu/treasurer/finance/bursar-office/tuition/fee-rates-2026-2027/graduate-tuition-and-fees-2026-2027/'],
       ['Professional master’s fees (alternate schedule)', 'https://www.purdue.edu/treasurer/finance/bursar-office/tuition/fee-rates-2026-2027/professional-masters-program-fees-2026-2027/'],
-      ['MS curriculum', 'https://www.cs.purdue.edu/graduate/curriculum/masters.html']
+      ['MS curriculum', 'https://www.cs.purdue.edu/graduate/curriculum/masters.html'],
     ],
   },
   'ucla-cs': {
-    ...referenceCost(
-      38232.76,
-      'https://sa.ucla.edu/RO/Fees/Public/public-fees',
-      'UCLA Registrar public fee tables Academic Master annual 2026–27 nonresident continuing total $38,232.76 (Tuition $13,722 + NRST $15,102 + Student Services Fee $1,344 + UCSHIP $7,516.98 + campus fees). California resident continuing total without NRST $23,130.76. Grad Division rounds these to about $38,233 / $23,131. New students add one-time Document Fee $97.43. CS MS uses the standard Academic Master schedule (not a self-supporting program). NRST PhD candidacy waiver does not apply to MS.',
-      'Academic-year tuition and mandatory fees (Academic Master, nonresident, continuing)'
-    ),
+    tuition: 38232.76,
+    tuitionLabel: 'Academic-year tuition and mandatory fees (Academic Master, nonresident, continuing)',
+    period: '2026–27',
     costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total.',
-    orientation: 'Thesis or student-driven capstone',
-    funding: 'The department explicitly does not guarantee TA, graduate student researcher or reader positions to MS students.',
+    costDetail: 'UCLA Registrar public fee tables Academic Master annual 2026–27 nonresident continuing total $38,232.76 (Tuition $13,722 + NRST $15,102 + Student Services Fee $1,344 + UCSHIP $7,516.98 + campus fees). California resident continuing total without NRST $23,130.76. Grad Division rounds these to about $38,233 / $23,131. New students add one-time Document Fee $97.43. CS MS uses the standard Academic Master schedule (not a self-supporting program). NRST PhD candidacy waiver does not apply to MS.',
     sources: [
       ['Official tuition / budget (Registrar public fees)', 'https://sa.ucla.edu/RO/Fees/Public/public-fees'],
       ['Grad Division tuition summary', 'https://grad.ucla.edu/funding/tuition/'],
       ['Financial aid COA', 'https://financialaid.ucla.edu/graduate-aid/cost-of-attendance'],
       ['Graduate admissions', 'https://www.cs.ucla.edu/graduate-admissions/'],
-      ['Admissions and MS funding limitations', 'https://www.cs.ucla.edu/graduate-requirements/']
+      ['Admissions and MS funding limitations', 'https://www.cs.ucla.edu/graduate-requirements/'],
     ],
+    orientation: 'Thesis or student-driven capstone',
+    funding: 'The department explicitly does not guarantee TA, graduate student researcher or reader positions to MS students.',
   },
   'wisconsin-cs': {
-    ...referenceCost(
-      24054.4,
-      'https://www.wisconsin.edu/budget-planning/download/tuition/2026-27-Tuition-Schedule-FINAL.pdf',
-      'UW System Tuition Schedule 2026–27 UW–Madison Graduate full-time Nonresident tuition $12,027.20/term → $24,054.40 AY Fall+Spring. Resident $5,363.76/term ($10,727.52 AY). Segregated fees $849.74/term ($1,699.48 AY) not included in the tuition figure. This is the standard graduate schedule used by the traditional CS MS/PhD track. Separately, the Professional Program MS (PMP) lists nonresident $1,503.40/credit (matches the graduate part-time nonresident rate); PMP is self-funded and not used as the primary figure here. Traditional-track funding/tuition remission is common but out of scope for this tuition reference.',
-      'Academic-year tuition (graduate nonresident full-time × 2 terms)'
-    ),
+    tuition: 24054.4,
+    tuitionLabel: 'Academic-year tuition (graduate nonresident full-time × 2 terms)',
+    period: '2026–27',
     costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total.',
-    orientation: 'Traditional MS/PhD or professional MS',
+    costDetail: 'UW System Tuition Schedule 2026–27 UW–Madison Graduate full-time Nonresident tuition $12,027.20/term → $24,054.40 AY Fall+Spring. Resident $5,363.76/term ($10,727.52 AY). Segregated fees $849.74/term ($1,699.48 AY) not included in the tuition figure. This is the standard graduate schedule used by the traditional CS MS/PhD track. Separately, the Professional Program MS (PMP) lists nonresident $1,503.40/credit (matches the graduate part-time nonresident rate); PMP is self-funded and not used as the primary figure here. Traditional-track funding/tuition remission is common but out of scope for this tuition reference.',
     sources: [
       ['Official tuition / budget', 'https://www.wisconsin.edu/budget-planning/download/tuition/2026-27-Tuition-Schedule-FINAL.pdf'],
       ['Bursar Fall 2026 announcement', 'https://bursar.wisc.edu/tuition-and-fees/fall-2026-increase'],
       ['CS degree programs', 'https://www.cs.wisc.edu/grad/programs/'],
       ['Funding & COA', 'https://www.cs.wisc.edu/grad/programs/funding/'],
-      ['Professional MS', 'https://www.cs.wisc.edu/grad/programs/pmp/']
+      ['Professional MS', 'https://www.cs.wisc.edu/grad/programs/pmp/'],
     ],
+    orientation: 'Traditional MS/PhD or professional MS',
   },
   'penn-cs': {
-    ...referenceCost(
-      52950,
-      'https://srfs.upenn.edu/costs-budgeting/seas',
-      'Penn SRFS SEAS on-campus master’s 2026–27: tuition $8,825 per course unit (CU). Catalog CIS MSE requires 10 CUs; sample plans use 3 CUs in a typical Fall or Spring term → AY tuition reference $8,825 × 3 × 2 = $52,950. At 4 CUs/term: $35,300/semester ($70,600 AY). Mandatory fees at 3 CUs: General Fee $2,134 + Technology Fee $405 + Clinical Fee $385 (semester totals with tuition $29,399)—fees not included in the tuition figure. Full 10-CU degree tuition at $8,825 = $88,250. Online Engineering rates differ.',
-      'Academic-year tuition (SEAS on-campus master’s, 3 CUs × 2 semesters)'
-    ),
+    tuition: 52950,
+    tuitionLabel: 'Academic-year tuition (SEAS on-campus master’s, 3 CUs × 2 semesters)',
+    period: '2026–27',
     costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total.',
+    costDetail: 'Penn SRFS SEAS on-campus master’s 2026–27: tuition $8,825 per course unit (CU). Catalog CIS MSE requires 10 CUs; sample plans use 3 CUs in a typical Fall or Spring term → AY tuition reference $8,825 × 3 × 2 = $52,950. At 4 CUs/term: $35,300/semester ($70,600 AY). Mandatory fees at 3 CUs: General Fee $2,134 + Technology Fee $405 + Clinical Fee $385 (semester totals with tuition $29,399)—fees not included in the tuition figure. Full 10-CU degree tuition at $8,825 = $88,250. Online Engineering rates differ.',
     sources: [
       ['Official tuition / budget', 'https://srfs.upenn.edu/costs-budgeting/seas'],
       ['CIS MSE catalog', 'https://catalog.upenn.edu/graduate/programs/computer-information-science-mse/'],
-      ['Residential master’s CS admissions', 'https://gradadm.engineering.upenn.edu/residential-masters/computer-science/']
+      ['Residential master’s CS admissions', 'https://gradadm.engineering.upenn.edu/residential-masters/computer-science/'],
     ],
   },
   'jhu-cs': {
-    ...referenceCost(
-      68670,
-      'https://engineering.jhu.edu/education/graduate-studies/graduate-financial-aid/affording-your-education/',
-      'Johns Hopkins Whiting School of Engineering Cost of Attendance: WSE Residential Master’s and PhD Full-time Tuition $68,670 annually / $34,335 per semester (2026–27). The separately listed “Non-resident Fee” $6,868 annually is a part-time/non-resident enrollment status charge, not an out-of-state surcharge for on-campus full-time students—do not add it to the residential full-time figure. Matriculation fee $500 and living/insurance costs are separate. MSE CS is the full-time residential route.',
-      'Academic-year tuition (WSE residential master’s / PhD full-time)'
-    ),
+    tuition: 68670,
+    tuitionLabel: 'Academic-year tuition (WSE residential master’s / PhD full-time)',
+    period: '2026–27',
     costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total.',
-    kind: 'MSE',
-    orientation: 'Human language technology · AI track',
+    costDetail: 'Johns Hopkins Whiting School of Engineering Cost of Attendance: WSE Residential Master’s and PhD Full-time Tuition $68,670 annually / $34,335 per semester (2026–27). The separately listed “Non-resident Fee” $6,868 annually is a part-time/non-resident enrollment status charge, not an out-of-state surcharge for on-campus full-time students—do not add it to the residential full-time figure. Matriculation fee $500 and living/insurance costs are separate. MSE CS is the full-time residential route.',
     sources: [
       ['Official tuition / budget', 'https://engineering.jhu.edu/education/graduate-studies/graduate-financial-aid/affording-your-education/'],
       ['MSE CS program', 'https://www.cs.jhu.edu/academic-programs/graduate-studies/masters-computer-science/'],
-      ['MSE programs (catalog target)', 'https://www.cs.jhu.edu/mse-programs-original/']
+      ['MSE programs (catalog target)', 'https://www.cs.jhu.edu/mse-programs-original/'],
     ],
+    kind: 'MSE',
+    orientation: 'Human language technology · AI track',
   },
   'chicago-cs': {
-    ...referenceCost(
-      66762,
-      'https://masters.cs.uchicago.edu/tuition-fees/',
-      'UChicago MPCS Tuition & Fees 2026–2027: estimated total tuition 9-Course MS $66,762; 12-Course MS $89,016. Quarterly schedule: 1 course $7,415; 2 $14,833; 3 $22,254; 4 $29,668. Full-time at 3 courses for Autumn–Winter–Spring = $22,254 × 3 = $66,762 (matches the 9-course program total). Quarterly Graduate Student Services Fee $520; lifetime transcript fee $84 (first quarter only); U-SHIP listed at $1,715 using the 2025–2026 rate—fees not included in the tuition figure. Immersion coursework, if required, is billed at the one-course rate extra.',
-      'Program / full-time academic-year tuition (MPCS 9-course; 3 courses × 3 quarters)'
-    ),
+    tuition: 66762,
+    tuitionLabel: 'Program / full-time academic-year tuition (MPCS 9-course; 3 courses × 3 quarters)',
+    period: '2026–27',
     costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total.',
+    costDetail: 'UChicago MPCS Tuition & Fees 2026–2027: estimated total tuition 9-Course MS $66,762; 12-Course MS $89,016. Quarterly schedule: 1 course $7,415; 2 $14,833; 3 $22,254; 4 $29,668. Full-time at 3 courses for Autumn–Winter–Spring = $22,254 × 3 = $66,762 (matches the 9-course program total). Quarterly Graduate Student Services Fee $520; lifetime transcript fee $84 (first quarter only); U-SHIP listed at $1,715 using the 2025–2026 rate—fees not included in the tuition figure. Immersion coursework, if required, is billed at the one-course rate extra.',
     sources: [
       ['Official tuition / budget', 'https://masters.cs.uchicago.edu/tuition-fees/'],
       ['MPCS admissions tuition', 'https://masters.cs.uchicago.edu/mpcs-admissions/tuition-fees/'],
-      ['Program home', 'https://masters.cs.uchicago.edu/']
+      ['Program home', 'https://masters.cs.uchicago.edu/'],
     ],
   },
   'duke-cs': {
     orientation: 'Coursework, thesis or project · AI/ML · Security',
     funding: 'The Graduate School’s CS MS page lists no financial aid available for the MS. External funding requires separate verification.',
+    tuition: 69880,
+    tuitionLabel: 'Academic-year tuition (Graduate School master’s full-time × 2 semesters)',
+    period: '2026–27',
+    costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total.',
+    costDetail: 'Duke Graduate School Tuition, Fees, and Ph.D. Stipend Schedule 2026–27: Master’s Students $34,940 per fall/spring semester → $69,880 AY. Summer I or II $17,470/term; after three full-time semesters, continuing/part-time $4,055 per unit. Master’s students must enroll full-time for at least three semesters. Mandatory fees (health, recreation, activity, student services; transcript fee first term) and health insurance are separate from the tuition figure. CS MS is 30 credits (coursework-only, thesis, or project).',
+    sources: [
+      ['Official tuition / budget', 'https://gradschool.duke.edu/financial-support/tuition-fees-and-phd-stipend-schedule/'],
+      ['Cost to attend (master’s COA)', 'https://gradschool.duke.edu/financial-support/cost-attend/'],
+      ['CS MS program', 'https://gradschool.duke.edu/academics/programs-degrees/computer-science-ms/'],
+    ],
   },
   'umass-cs': {
     sources: [
-      ['Official tuition / budget', 'https://www.cics.umass.edu/academics/masters']
+      ['Graduate program and rank 25 cross-check', 'https://www.cics.umass.edu/academics/masters'],
+      ['Official tuition / budget (Bursar)', 'https://www.umass.edu/bursar/tuition/graduate-tuition'],
+      ['CICS MS campus tuition page', 'https://www.cics.umass.edu/academics/ms-computer-science-campus/ms-campus-tuition-and-fees'],
+      ['MS campus program', 'https://www.cics.umass.edu/academics/ms-computer-science-campus'],
     ],
+    tuition: 35613,
+    tuitionLabel: 'Academic-year tuition (graduate out-of-state/international, 9 credits × 2 semesters)',
+    period: '2026–27',
+    costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total.',
+    costDetail: 'UMass Amherst Bursar 2026–27 Graduate Tuition and Fees: Out-of-state & International at 9 credits tuition $17,806.50/semester → $35,613 AY (full-time threshold is 9+ credits; 12+ credits tuition $19,532.50/semester → $39,065 AY). In-state 9-credit tuition $8,083/semester ($16,166 AY). Campus fees on the bursar schedule (Graduate Service Fee, Graduate Health Fee, Senate Tax) and Student Health Insurance are separate from the tuition figure. Separately, Manning CICS publishes Total Tuition & Mandatory Fees Out-of-State/International $60,750 for the campus MS (program-level estimate including listed mandatory fees)—not used as the primary AY figure; prefer bursar. MS is 30 credits.',
   },
   'rice-cs': {
     kind: 'MCS',
@@ -351,8 +386,16 @@ export const researchDetails = {
     deadlineDate: '2027-02-10',
     funding: 'The on-campus program lists early scholarship consideration and limited TA/RA roles. Eligibility, amounts and international final deadline need confirmation; July 1 is labeled domestic.',
     sources: [
-      ['Official tuition / budget', 'https://engineering.rice.edu/about/facts-rankings']
+      ['Rank 27 cross-check', 'https://engineering.rice.edu/about/facts-rankings'],
+      ['Official tuition / budget (Bursar Engineering)', 'https://bursar.rice.edu/tuition_fee_rates/graduate-programs/engineering'],
+      ['MCS degree catalog', 'https://ga.rice.edu/programs-study/departments-programs/engineering/computer-science/computer-science-mcs/'],
+      ['MCS program home', 'https://cs.rice.edu/academics/graduate-programs/master-computer-science'],
     ],
+    tuition: 66784,
+    tuitionLabel: 'Academic-year tuition (Engineering master’s/PhD full-time × 2 semesters)',
+    period: '2026–27',
+    costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total.',
+    costDetail: 'Rice Bursar Engineering graduate rates 2026–27: Masters & PhD Full-Time Tuition $33,392/semester → $66,784 AY. Part-time approved $3,710 per credit (maximum $33,392/semester). MCS is a terminal non-thesis master’s requiring 30 credit hours (normally three semesters); catalog states MCS students are expected to pay full tuition with no university/department financial aid. GSA fee $45 AY, Student Organization $8, Health & Wellness Support $720 AY, and health insurance are separate. Online OMCS is a different per-credit schedule ($1,700/credit)—not used here.',
   },
   'uci-cs': {
     kind: 'MS / MCS',
@@ -360,235 +403,214 @@ export const researchDetails = {
     deadline: 'MCS international: 15 Jan 2027; MS not verified',
     deadlineDate: '2027-01-15',
     sources: [
-      ['Official tuition / budget', 'https://mcs.ics.uci.edu/faq/']
+      ['Professional MCS admissions FAQ', 'https://mcs.ics.uci.edu/faq/'],
+      ['Official tuition / budget (graduate fees)', 'https://reg.uci.edu/fees/2026-2027/graduate.html'],
+      ['MCS fee schedule PDF', 'https://www.reg.uci.edu/fees/2026-2027/compsci.pdf'],
+      ['Program comparison (MSCS vs MCS)', 'https://ics.uci.edu/academics/graduate-programs/program-comparison/'],
     ],
+    tuition: 38784.44,
+    tuitionLabel: 'Academic-year tuition and mandatory fees (graduate nonresident; research MSCS)',
+    period: '2026–27',
+    costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total. Prefer research MS; MCS labeled separately.',
+    costDetail: 'UCI Registrar Graduate/Credential Student Fees 2026–27: Total Nonresident annual $38,784.44 (Tuition $13,722 + Student Services Fee $1,344 + campus fees + Student Health Insurance $7,771.86 + Nonresident Supplemental Tuition $15,102). California Resident annual $23,682.44 without NRST. Document Fee $87 new students only (not in annual total). Research Master of Science in Computer Science (MSCS) uses this academic graduate schedule. Separately, professional Master of Computer Science (MCS) cohort entering Fall 2026: Program Fee $63,500 total ($12,700/quarter × 5 quarters including Summer); first four quarters program-fee portion $50,800; registrar MCS schedule shows Total Fees Paid about $60,765.13 for Fall–Summer 2026–27 including campus fees and GSHIP—MCS is a different self-supporting schedule, not the primary research-MS figure.',
   },
   'berkeley-mba': {
-    ...referenceCost(
-      92755,
-      'https://haas.berkeley.edu/financial-aid/full-time-mba/cost/',
-      'Haas Financial Aid COA (estimated, subject to Regents approval): Nonresident Tuition & Fees subtotal $92,755; SHIP $8,206; Housing & Food $29,882; Books $782; Personal $3,376; Transportation $3,920; Grand total COA $138,921. Resident Tuition & Fees $80,510; COA $126,676. Additional: Document Management Fee $119 (new students, not in COA); BIO international fee $100/semester for F/J. Living/housing band from official COA: $29882–$37960 (Haas 2026–27 Housing & Food $29,882; full indirect living subtotal $37,960 including books/personal/transport.).',
-      'Year-1 Tuition & Fees subtotal (Nonresident Full-Time MBA)'
-    ),
+    tuition: 92755,
+    tuitionLabel: 'Year-1 Tuition & Fees subtotal (Nonresident Full-Time MBA)',
+    period: '2026–27',
     costNote: '2026–27 estimated Haas COA; labels as estimates pending final UC approval. Not Fall 2027 quote or two-year total.',
-    funding: 'Haas merit/need scholarships via Haas Financial Aid; intl students typically considered for school scholarships — confirm on aid pages. BIO fees apply to F/J.',
-    confidence: 'high',
-    unresolved: ['Final Regents-approved 2026–27 vs estimate', '2027–28 rates', 'Named Haas award cards'],
-    asOf: '2026-10-20',
+    costDetail: 'Haas Financial Aid COA (estimated, subject to Regents approval): Nonresident Tuition & Fees subtotal $92,755; SHIP $8,206; Housing & Food $29,882; Books $782; Personal $3,376; Transportation $3,920; Grand total COA $138,921. Resident Tuition & Fees $80,510; COA $126,676. Additional: Document Management Fee $119 (new students, not in COA); BIO international fee $100/semester for F/J. Living/housing band from official COA: $29882–$37960 (Haas 2026–27 Housing & Food $29,882; full indirect living subtotal $37,960 including books/personal/transport.).',
     sources: [
       ['Official tuition / budget', 'https://haas.berkeley.edu/financial-aid/full-time-mba/cost/'],
-      ['UC Berkeley Registrar Fee Schedule', 'https://registrar.berkeley.edu/tuition-fees/fee-schedule/']
+      ['UC Berkeley Registrar Fee Schedule', 'https://registrar.berkeley.edu/tuition-fees/fee-schedule/'],
     ],
+    funding: 'Haas merit/need scholarships via Haas Financial Aid; intl students typically considered for school scholarships — confirm on aid pages. BIO fees apply to F/J.',
+    confidence: 'high',
+    unresolved: ["Final Regents-approved 2026–27 vs estimate","2027–28 rates","Named Haas award cards"],
+    asOf: '2026-10-20',
   },
   'cmu-mba': {
-    ...referenceCost(
-      84186,
-      'https://www.cmu.edu/sfs/tuition/graduate/tepper/full-accel-mba.html',
-      'CMU SFS Tepper Full-Time/Accelerated MBA budget: Tuition $42,093/semester → $84,186 AY. Single graduate student academic-year total $120,798 including housing $10,350; food $5,176; books $1,450; travel $3,220; misc $10,524; activity/transport/tech fees; health insurance $3,352; estimated loan fees $1,500. Full-Time MBA = four semesters; Accelerated = three. Laptop ~$1,500 separate. Living/housing band from official COA: $15526–$26020 (SFS single-student Housing+Food $15,526; Housing+Food+Misc+Travel $26,270 approx within published non-tuition lines.).',
-      'Academic-year Full-Time MBA tuition'
-    ),
+    tuition: 84186,
+    tuitionLabel: 'Academic-year Full-Time MBA tuition',
+    period: '2026–27',
     costNote: '2026–27 official SFS Tepper budget; not Fall 2027 quote. Not full four-semester total unless multiplied.',
-    funding: 'Tepper MBA scholarships not detailed on SFS tuition page; check Tepper admissions financial aid. Do not invent amounts.',
-    confidence: 'high',
-    unresolved: ['Named Tepper MBA fellowship list/intl eligibility', '2027–28 rates'],
-    asOf: '2026-10-20',
+    costDetail: 'CMU SFS Tepper Full-Time/Accelerated MBA budget: Tuition $42,093/semester → $84,186 AY. Single graduate student academic-year total $120,798 including housing $10,350; food $5,176; books $1,450; travel $3,220; misc $10,524; activity/transport/tech fees; health insurance $3,352; estimated loan fees $1,500. Full-Time MBA = four semesters; Accelerated = three. Laptop ~$1,500 separate. Living/housing band from official COA: $15526–$26020 (SFS single-student Housing+Food $15,526; Housing+Food+Misc+Travel $26,270 approx within published non-tuition lines.).',
     sources: [
       ['Tepper Full-Time MBA and Accelerated MBA — SFS', 'https://www.cmu.edu/sfs/tuition/graduate/tepper/full-accel-mba.html'],
-      ['2026–2027 Graduate Tuition index', 'https://www.cmu.edu/sfs/tuition/graduate/index.html']
+      ['2026–2027 Graduate Tuition index', 'https://www.cmu.edu/sfs/tuition/graduate/index.html'],
     ],
+    funding: 'Tepper MBA scholarships not detailed on SFS tuition page; check Tepper admissions financial aid. Do not invent amounts.',
+    confidence: 'high',
+    unresolved: ["Named Tepper MBA fellowship list/intl eligibility","2027–28 rates"],
+    asOf: '2026-10-20',
   },
   'columbia-mba': {
-    ...referenceCost(
-      93908,
-      'https://business.columbia.edu/financial-aid/costs/full-time',
-      'CBS Financial Aid Full-Time MBA/MBAxMS costs: Tuition $93,908; Mandatory Fees $6,783; Health Insurance $5,823; Books & Supplies $1,290; Food & Housing $30,231; Personal $3,636; Transportation $1,359; Total COA $143,030 (9-month August-entry budget). Note tuition/fees generally increase 2–7% in year 2. January-entry and continuing-student budgets differ on same page. Living/housing band from official COA: $30231–$30231 (CBS published Food & Housing $30,231 in 9-month August-entry 2026–27 budget (personal/transport separate).).',
-      'First-year / academic-year tuition (August entry full-time MBA)'
-    ),
+    tuition: 93908,
+    tuitionLabel: 'First-year / academic-year tuition (August entry full-time MBA)',
+    period: '2026–27',
     costNote: '2026–27 official CBS cost page for new August entry; not Fall 2027 quote or two-year total.',
-    funding: 'Merit/need aid via CBS Financial Aid; international eligibility for scholarships typically yes for school awards but verify per award. Federal loans restricted.',
-    confidence: 'high',
-    unresolved: ['Direct WebFetch of costs page timed out once; figures from search+prior official synthesis — re-open page to confirm if needed', 'Named CBS fellowships list and intl flags', '2027–28 tuition'],
-    asOf: '2026-10-20',
+    costDetail: 'CBS Financial Aid Full-Time MBA/MBAxMS costs: Tuition $93,908; Mandatory Fees $6,783; Health Insurance $5,823; Books & Supplies $1,290; Food & Housing $30,231; Personal $3,636; Transportation $1,359; Total COA $143,030 (9-month August-entry budget). Note tuition/fees generally increase 2–7% in year 2. January-entry and continuing-student budgets differ on same page. Living/housing band from official COA: $30231–$30231 (CBS published Food & Housing $30,231 in 9-month August-entry 2026–27 budget (personal/transport separate).).',
     sources: [
       ['Official tuition / budget', 'https://business.columbia.edu/financial-aid/costs/full-time'],
-      ['MBA program', 'https://academics.business.columbia.edu/mba']
+      ['MBA program', 'https://academics.business.columbia.edu/mba'],
     ],
+    funding: 'Merit/need aid via CBS Financial Aid; international eligibility for scholarships typically yes for school awards but verify per award. Federal loans restricted.',
+    confidence: 'high',
+    unresolved: ["Direct WebFetch of costs page timed out once; figures from search+prior official synthesis — re-open page to confirm if needed","Named CBS fellowships list and intl flags","2027–28 tuition"],
+    asOf: '2026-10-20',
   },
   'dartmouth-mba': {
-    ...referenceCost(
-      87536,
-      'https://tuck.dartmouth.edu/admissions/finance-your-degree/tuition-and-costs',
-      'Tuck Cost of Attendance AY 2026–2027 (single student): Tuition $87,536; on-campus Housing $16,700 (first-year default package); Program Fee $6,150 on-campus / $5,440–$6,150 off-campus variants; Books $1,500; Food allowance $10,910; Misc personal varies; Health Insurance $5,216. Example on-campus total with insurance $135,331. Anticipate 3–5% tuition increase for 2027–28. First year = 4 terms; second year = 3 terms. Living/housing band from official COA: $10910–$27400 (Tuck food allowance $10,910; on-campus housing $16,700 (direct) or off-campus housing allowance $20,475 — band depends on housing choice.).',
-      'Academic-year tuition (Class of 2027 budget)'
-    ),
+    tuition: 87536,
+    tuitionLabel: 'Academic-year tuition (Class of 2027 budget)',
+    period: '2026–27',
     costNote: '2026–27 official Tuck COA; not Fall 2027 quote or two-year total. Anticipate 3–5% increase for 2027–28 per Tuck note.',
-    funding: 'Tuck scholarships/fellowships pages under Finance Your Degree; intl eligibility typically yes for school merit aid — confirm each award.',
-    confidence: 'high',
-    unresolved: ['Named Tuck fellowship cards and intl flags', 'Exact Class of 2028 (Fall 2027 entry) tuition when published'],
-    asOf: '2026-10-20',
+    costDetail: 'Tuck Cost of Attendance AY 2026–2027 (single student): Tuition $87,536; on-campus Housing $16,700 (first-year default package); Program Fee $6,150 on-campus / $5,440–$6,150 off-campus variants; Books $1,500; Food allowance $10,910; Misc personal varies; Health Insurance $5,216. Example on-campus total with insurance $135,331. Anticipate 3–5% tuition increase for 2027–28. First year = 4 terms; second year = 3 terms. Living/housing band from official COA: $10910–$27400 (Tuck food allowance $10,910; on-campus housing $16,700 (direct) or off-campus housing allowance $20,475 — band depends on housing choice.).',
     sources: [
       ['Tuck Tuition and Costs', 'https://tuck.dartmouth.edu/admissions/finance-your-degree/tuition-and-costs'],
-      ['Scholarships and Fellowships', 'https://tuck.dartmouth.edu/admissions/finance-your-degree/scholarships-and-fellowships']
+      ['Scholarships and Fellowships', 'https://tuck.dartmouth.edu/admissions/finance-your-degree/scholarships-and-fellowships'],
     ],
+    funding: 'Tuck scholarships/fellowships pages under Finance Your Degree; intl eligibility typically yes for school merit aid — confirm each award.',
+    confidence: 'high',
+    unresolved: ["Named Tuck fellowship cards and intl flags","Exact Class of 2028 (Fall 2027 entry) tuition when published"],
+    asOf: '2026-10-20',
   },
   'duke-mba': {
-    ...referenceCost(
-      83700,
-      'https://www.fuqua.duke.edu/programs/daytime-mba/tuition-costs',
-      'Fuqua Daytime MBA COA 2026–27 (9 months): Tuition $83,700 (includes $4,000 non-refundable deposit credited to Fall); total direct educational expenses $92,834; books $850; living $25,290; Total COA $118,974. Merit scholarships: all applicants considered, no separate application. International Student Loan Program listed (no cosigner). Living/housing band from official COA: $14220–$25290 (Fuqua housing $14,220; total student living expenses $25,290 in 2026–27 Daytime MBA COA.).',
-      'Daytime MBA tuition (Class of 2028 / entering August 2026)'
-    ),
+    tuition: 83700,
+    tuitionLabel: 'Daytime MBA tuition (Class of 2028 / entering August 2026)',
+    period: '2026–27',
     costNote: 'Official Fuqua page for students beginning August 2026 (Class of 2028). Fall 2027 entrants (Class of 2029) rates not yet this figure — treat as prior-year reference for Fall 2027 planning until updated.',
+    costDetail: 'Fuqua Daytime MBA COA 2026–27 (9 months): Tuition $83,700 (includes $4,000 non-refundable deposit credited to Fall); total direct educational expenses $92,834; books $850; living $25,290; Total COA $118,974. Merit scholarships: all applicants considered, no separate application. International Student Loan Program listed (no cosigner). Living/housing band from official COA: $14220–$25290 (Fuqua housing $14,220; total student living expenses $25,290 in 2026–27 Daytime MBA COA.).',
+    sources: [
+      ['Fuqua Daytime MBA Tuition + Costs', 'https://www.fuqua.duke.edu/programs/daytime-mba/tuition-costs'],
+    ],
     funding: 'Merit-based scholarships: all applicants considered. International Student Loan Program available. Yellow Ribbon / CASE / Adams LRAP have separate criteria.',
     confidence: 'high',
-    unresolved: ['Tuition for Class of 2029 (Fall 2027 entry)', 'Merit award ranges'],
+    unresolved: ["Tuition for Class of 2029 (Fall 2027 entry)","Merit award ranges"],
     asOf: '2026-10-20',
-    scholarships: ['SCH-008'],
-    sources: [
-      ['Fuqua Daytime MBA Tuition + Costs', 'https://www.fuqua.duke.edu/programs/daytime-mba/tuition-costs']
-    ],
+    scholarships: ["SCH-008"],
   },
   'texas-mba': {
-    ...referenceCost(
-      61214,
-      'https://www.mccombs.utexas.edu/graduate/mba/full-time-mba/tuition-financial-aid/',
-      'McCombs Full-Time MBA Class of 2027 table: Non-Texas Residents Year 1 $61,214; Year 2 $61,214; TOTAL $122,428. Texas Residents $55,196/year. Based on expected 15/14/15/15 hour enrollment; actual varies by hours. Non-refundable $2,000 deposit credited to first semester; required $1,500 student fee summer before enrollment. First-year COA Non-Texas Resident $85,889 (tuition/fees $61,214; housing & food $17,355; transport $1,785; books $775; personal $4,760). International students charged non-resident rates + additional ISS/insurance fees not fully in estimate. Living/housing band from official COA: $17355–$17355 (McCombs first-year COA Housing & Food $17,355 (Fall 2026/Spring 2027 packaging on page).).',
-      'Year-1 program tuition & fees estimate (Non-Texas Residents / International)'
-    ),
-    costNote: 'Official McCombs page labeled Full-Time MBA Class of 2027. For Fall 2027 intake (likely Class of 2029), treat as prior cohort reference until McCombs publishes the matching class table.',
+    tuition: 61214,
+    tuitionLabel: 'Year-1 program tuition & fees estimate (Non-Texas Residents / International)',
     period: '2026–27 (Class of 2027 published schedule; verify Class of 2029 for Fall 2027 entry)',
+    costNote: 'Official McCombs page labeled Full-Time MBA Class of 2027. For Fall 2027 intake (likely Class of 2029), treat as prior cohort reference until McCombs publishes the matching class table.',
+    costDetail: 'McCombs Full-Time MBA Class of 2027 table: Non-Texas Residents Year 1 $61,214; Year 2 $61,214; TOTAL $122,428. Texas Residents $55,196/year. Based on expected 15/14/15/15 hour enrollment; actual varies by hours. Non-refundable $2,000 deposit credited to first semester; required $1,500 student fee summer before enrollment. First-year COA Non-Texas Resident $85,889 (tuition/fees $61,214; housing & food $17,355; transport $1,785; books $775; personal $4,760). International students charged non-resident rates + additional ISS/insurance fees not fully in estimate. Living/housing band from official COA: $17355–$17355 (McCombs first-year COA Housing & Food $17,355 (Fall 2026/Spring 2027 packaging on page).).',
+    sources: [
+      ['McCombs Full-Time MBA Tuition & Financial Aid', 'https://www.mccombs.utexas.edu/graduate/mba/full-time-mba/tuition-financial-aid/'],
+    ],
     funding: 'All Full-Time MBA applicants considered for merit scholarships regardless of citizenship; cash awards and out-of-state tuition waivers; $2,000 to full tuition. TA/RA limited; first-semester difficult; no residency change via assistantship.',
     confidence: 'medium',
-    unresolved: ['Class of 2029 (Fall 2027 entry) tuition table not confirmed on page (Class of 2027 shown)', 'Exact international mandatory fees stack'],
+    unresolved: ["Class of 2029 (Fall 2027 entry) tuition table not confirmed on page (Class of 2027 shown)","Exact international mandatory fees stack"],
     asOf: '2026-10-20',
-    scholarships: ['SCH-009'],
-    sources: [
-      ['McCombs Full-Time MBA Tuition & Financial Aid', 'https://www.mccombs.utexas.edu/graduate/mba/full-time-mba/tuition-financial-aid/']
-    ],
+    scholarships: ["SCH-009"],
   },
   'yale-mba': {
-    ...referenceCost(
-      90900,
-      'https://som.yale.edu/programs/mba/affording-your-mba/cost-information',
-      'Yale SOM Cost Information: Tuition $90,900; Program Fee $500; Total Tuition and Fees $91,400; Living (Housing/Food/Utilities) $22,991; Misc personal $5,525; Transportation $3,856; Books $1,440; Health Insurance $3,764; Total estimated living $37,576; Total single-student budget $128,976. Page notes 66% of MBA students receive scholarships; median scholarship Class of 2027 $65K. Separate scholarship application after admission. Living/housing band from official COA: $22991–$37576 (SOM 2026–27 Living Expenses $22,991; Total Estimated Living Expenses $37,576 including insurance/books/personal/transport.).',
-      'Academic-year tuition'
-    ),
+    tuition: 90900,
+    tuitionLabel: 'Academic-year tuition',
+    period: '2026–27',
     costNote: '2026–27 official SOM cost page; not Fall 2027 quote or two-year total.',
-    funding: 'All full-time MBA students complete Scholarship Application after admission for Yale SOM scholarships; international students eligible for school scholarships (country-specific awards also exist). Median award figure is Class of 2027 statistic, not a guarantee.',
-    confidence: 'high',
-    unresolved: ['2027–28 tuition', 'Full list of named SOM fellowships'],
-    asOf: '2026-10-20',
-    scholarships: ['SCH-005'],
+    costDetail: 'Yale SOM Cost Information: Tuition $90,900; Program Fee $500; Total Tuition and Fees $91,400; Living (Housing/Food/Utilities) $22,991; Misc personal $5,525; Transportation $3,856; Books $1,440; Health Insurance $3,764; Total estimated living $37,576; Total single-student budget $128,976. Page notes 66% of MBA students receive scholarships; median scholarship Class of 2027 $65K. Separate scholarship application after admission. Living/housing band from official COA: $22991–$37576 (SOM 2026–27 Living Expenses $22,991; Total Estimated Living Expenses $37,576 including insurance/books/personal/transport.).',
     sources: [
       ['Official tuition / budget', 'https://som.yale.edu/programs/mba/affording-your-mba/cost-information'],
-      ['Affording Your MBA', 'https://som.yale.edu/programs/mba/affording-your-mba']
+      ['Affording Your MBA', 'https://som.yale.edu/programs/mba/affording-your-mba'],
     ],
+    funding: 'All full-time MBA students complete Scholarship Application after admission for Yale SOM scholarships; international students eligible for school scholarships (country-specific awards also exist). Median award figure is Class of 2027 statistic, not a guarantee.',
+    confidence: 'high',
+    unresolved: ["2027–28 tuition","Full list of named SOM fellowships"],
+    asOf: '2026-10-20',
+    scholarships: ["SCH-005"],
   },
   'penn-mba': {
-    ...referenceCost(
-      87970,
-      'https://mba.wharton.upenn.edu/tuition-financial-aid/',
-      '2026–27 university fees: $5,038; published annual budget: $135,441. Extra-curricular activities can add costs.',
-      'Academic-year tuition'
-    ),
+    tuition: 87970,
+    tuitionLabel: 'Academic-year tuition',
+    period: '2026–27',
     costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total.',
+    costDetail: '2026–27 university fees: $5,038; published annual budget: $135,441. Extra-curricular activities can add costs.',
+    sources: [
+      ['Official tuition / budget', 'https://mba.wharton.upenn.edu/tuition-financial-aid/'],
+    ],
     orientation: 'Flexible core · Majors · Interdisciplinary options',
     internship: 'Individual career advising is described on the MBA page. Internship placement rate and international outcomes have not been verified.',
-    sources: [
-      ['Official tuition / budget', 'https://mba.wharton.upenn.edu/tuition-financial-aid/']
-    ],
   },
   'chicago-mba': {
-    ...referenceCost(
-      89976,
-      'https://www.chicagobooth.edu/mba/full-time/admissions/cost',
-      'Three quarters / nine months, MBA Class of 2028 reference. Published estimated attendance budget: $132,449. Booth says 2027–28 tuition will be released in spring 2027.',
-      'Academic-year tuition'
-    ),
+    tuition: 89976,
+    tuitionLabel: 'Academic-year tuition',
+    period: '2026–27',
     costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total.',
+    costDetail: 'Three quarters / nine months, MBA Class of 2028 reference. Published estimated attendance budget: $132,449. Booth says 2027–28 tuition will be released in spring 2027.',
+    sources: [
+      ['Official tuition / budget', 'https://www.chicagobooth.edu/mba/full-time/admissions/cost'],
+    ],
     orientation: 'Flexible curriculum · Analytical approach',
     deadline: 'Round 2 · 7 Jan 2027',
     deadlineDate: '2027-01-07',
-    sources: [
-      ['Official tuition / budget', 'https://www.chicagobooth.edu/mba/full-time/admissions/cost']
-    ],
   },
   'northwestern-mba': {
-    ...referenceCost(
-      88536,
-      'https://kellogg.northwestern.edu/admissions/financial-aid/ft-fin-aid/',
-      'Two-Year MBA first-year tuition. Published first-year estimated budget: $130,072, including a loan-fee allowance; other MBA formats have different budgets.',
-      'Two-Year MBA · First-year tuition'
-    ),
+    tuition: 88536,
+    tuitionLabel: 'Two-Year MBA · First-year tuition',
+    period: '2026–27',
     costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total.',
-    orientation: 'Two-Year MBA · Format-specific costs',
+    costDetail: 'Two-Year MBA first-year tuition. Published first-year estimated budget: $130,072, including a loan-fee allowance; other MBA formats have different budgets.',
     sources: [
-      ['Official tuition / budget', 'https://kellogg.northwestern.edu/admissions/financial-aid/ft-fin-aid/']
+      ['Official tuition / budget', 'https://kellogg.northwestern.edu/admissions/financial-aid/ft-fin-aid/'],
     ],
+    orientation: 'Two-Year MBA · Format-specific costs',
   },
   'harvard-mba': {
-    ...referenceCost(
-      84760,
-      'https://www.hbs.edu/mba/financial-aid/tuition-assistance/cost-of-attendance',
-      'Nine-month, single-student budget: $130,318, excluding a $1,500 computer estimate. Summer housing and optional activities can add costs.',
-      'Academic-year tuition'
-    ),
+    tuition: 84760,
+    tuitionLabel: 'Academic-year tuition',
+    period: '2026–27',
     costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total.',
-    orientation: 'Case method · General management · FIELD',
-    academic: 'Two-year MBA with a shared first-year Required Curriculum and FIELD, followed by electives. The case method emphasizes decisions under incomplete information.',
-    funding: 'HBS need-based scholarships are open to admitted domestic and international students. Aid applications follow admission; personal eligibility and amount are assessed individually.',
-    scholarships: ['SCH-004'],
+    costDetail: 'Nine-month, single-student budget: $130,318, excluding a $1,500 computer estimate. Summer housing and optional activities can add costs.',
     sources: [
       ['Tuition and attendance budget', 'https://www.hbs.edu/mba/financial-aid/tuition-assistance/cost-of-attendance'],
       ['MBA curriculum', 'https://www.hbs.edu/mba/academic-experience/curriculum'],
       ['Case method', 'https://www.hbs.edu/mba/academic-experience/the-case-method'],
-      ['Need-based scholarships', 'https://www.hbs.edu/mba/financial-aid/tuition-assistance']
+      ['Need-based scholarships', 'https://www.hbs.edu/mba/financial-aid/tuition-assistance'],
     ],
+    orientation: 'Case method · General management · FIELD',
+    academic: 'Two-year MBA with a shared first-year Required Curriculum and FIELD, followed by electives. The case method emphasizes decisions under incomplete information.',
+    funding: 'HBS need-based scholarships are open to admitted domestic and international students. Aid applications follow admission; personal eligibility and amount are assessed individually.',
+    scholarships: ["SCH-004"],
   },
   'mit-mba': {
-    ...referenceCost(
-      91892,
-      'https://mitsloan.mit.edu/mba/admissions/financing-your-education',
-      'Published figure includes the mandatory $2,200 annual MBA program fee. Living costs and full-degree total are not recorded here.',
-      'Annual tuition + MBA program fee'
-    ),
+    tuition: 91892,
+    tuitionLabel: 'Annual tuition + MBA program fee',
+    period: '2026–27',
     costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total.',
+    costDetail: 'Published figure includes the mandatory $2,200 annual MBA program fee. Living costs and full-degree total are not recorded here.',
     sources: [
-      ['Official tuition / budget', 'https://mitsloan.mit.edu/mba/admissions/financing-your-education']
+      ['Official tuition / budget', 'https://mitsloan.mit.edu/mba/admissions/financing-your-education'],
     ],
   },
   'nyu-mba': {
-    ...referenceCost(
-      92658,
-      'https://www.stern.nyu.edu/programs-admissions/full-time-mba/financial-aid/tuition-cost-attendance',
-      'First-year, nine-month budget: $140,668, including $2,040 LAUNCH orientation fee and a loan-fee allowance.',
-      'First-year tuition'
-    ),
+    tuition: 92658,
+    tuitionLabel: 'First-year tuition',
+    period: '2026–27',
     costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total.',
+    costDetail: 'First-year, nine-month budget: $140,668, including $2,040 LAUNCH orientation fee and a loan-fee allowance.',
     sources: [
-      ['Official tuition / budget', 'https://www.stern.nyu.edu/programs-admissions/full-time-mba/financial-aid/tuition-cost-attendance']
+      ['Official tuition / budget', 'https://www.stern.nyu.edu/programs-admissions/full-time-mba/financial-aid/tuition-cost-attendance'],
     ],
   },
   'michigan-mba': {
-    ...referenceCost(
-      83946,
-      'https://michiganross.umich.edu/graduate/full-time-mba/admissions/tuition-financial-aid',
-      'Ross: Michigan Residents $78,586; Non-Michigan/International $83,946 per academic year (Regents approved June 2026). Mandatory Fees $246.89 per full term; International Student Services Fee $500 per term for F/J. COA guidance Fall 2026–Winter 2027: Books $2,000; Food & Housing $22,276; Personal $7,360; Loan Fees $224. Note: Cohort 2028 entering summer 2027 gets finalized COA in June 2027. Living/housing band from official COA: $22276–$29636 (Ross COA Food & Housing $22,276; plus Personal $7,360 for Fall 2026–Winter 2027 budget (cohort 2027).).',
-      'Full-Time MBA tuition per academic year (Non-Michigan Residents/International)'
-    ),
+    tuition: 83946,
+    tuitionLabel: 'Full-Time MBA tuition per academic year (Non-Michigan Residents/International)',
+    period: '2026–27',
     costNote: '2026–27 Regents-approved tuition. Fall 2027 entrants (cohort 2028) should expect updated COA June 2027; 2027–28 tuition posted ~July 2027.',
+    costDetail: 'Ross: Michigan Residents $78,586; Non-Michigan/International $83,946 per academic year (Regents approved June 2026). Mandatory Fees $246.89 per full term; International Student Services Fee $500 per term for F/J. COA guidance Fall 2026–Winter 2027: Books $2,000; Food & Housing $22,276; Personal $7,360; Loan Fees $224. Note: Cohort 2028 entering summer 2027 gets finalized COA in June 2027. Living/housing band from official COA: $22276–$29636 (Ross COA Food & Housing $22,276; plus Personal $7,360 for Fall 2026–Winter 2027 budget (cohort 2027).).',
+    sources: [
+      ['Rank 13 cross-check', 'https://michiganross.umich.edu/graduate/full-time-mba'],
+      ['Full-Time MBA Tuition & Financial Aid', 'https://michiganross.umich.edu/graduate/full-time-mba/admissions/tuition-financial-aid'],
+      ['Affording Your MBA', 'https://michiganross.umich.edu/graduate/full-time-mba/admissions/tuition-financial-aid/affording-your-mba'],
+    ],
     orientation: 'Action learning · MAP consulting project',
     internship: 'MAP is a required seven-week consulting project preparing students for internships and careers. A project is not a guaranteed paid internship.',
     funding: 'Automatic merit scholarship consideration on admission; $10,000 to full tuition. No separate application. Federal loans US-only; internationals use private loans. True Grit and several awards open to domestic and international students per affording page.',
     confidence: 'high',
-    unresolved: ['2027–28 tuition for Fall 2027 matriculants', 'Exact Dean’s Impact stipend amount'],
+    unresolved: ["2027–28 tuition for Fall 2027 matriculants","Exact Dean’s Impact stipend amount"],
     asOf: '2026-10-20',
-    scholarships: ['SCH-006', 'SCH-007'],
-    sources: [
-      ['Rank 13 cross-check', 'https://michiganross.umich.edu/graduate/full-time-mba'],
-      ['Full-Time MBA Tuition & Financial Aid', 'https://michiganross.umich.edu/graduate/full-time-mba/admissions/tuition-financial-aid'],
-      ['Affording Your MBA', 'https://michiganross.umich.edu/graduate/full-time-mba/admissions/tuition-financial-aid/affording-your-mba']
-    ],
+    scholarships: ["SCH-006","SCH-007"],
   },
   'cornell-mba': {
     orientation: 'Immersion · Required summer internship',
@@ -631,7 +653,91 @@ export const researchDetails = {
     orientation: '67 credits · 12 specializations',
     faculty: 'The specialization page identifies Patrick Moreton as faculty advisor for Strategy and Consulting. This is an advising role, not confirmation of research supervision availability.',
     sources: [
-      ['Official tuition / budget', 'https://olin.washu.edu/programs/mbas/full-time-mba/specializations.php']
+      ['Official tuition / budget', 'https://olin.washu.edu/programs/mbas/full-time-mba/specializations.php'],
+    ],
+  },
+  'usc-cs': {
+    tuition: 43872,
+    tuitionLabel: 'Academic-year tuition (Viterbi graduate engineering, 8 units × 2 semesters)',
+    period: '2026–27',
+    costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total.',
+    costDetail: 'USC Viterbi Graduate Tuition Fall 2026–Summer 2027: $2,742 per unit (same for on-campus and DEN@Viterbi). MS Computer Science requires 32 units (thesis option adds 4). Typical full-time pace in Viterbi COA examples is 8 units/semester → AY tuition $2,742 × 8 × 2 = $43,872. Full 32-unit program tuition at the published rate = $87,744. Mandatory fees about $922/semester (health center, Topping, programming, transportation; first semester adds one-time $55 orientation) not included in the tuition figure. Health insurance separate.',
+    sources: [
+      ['Official tuition / budget', 'https://viterbigradadmission.usc.edu/programs/masters/tuition-funding/tuition-funding-masters/'],
+      ['32-unit MS COA PDF', 'https://viterbigradadmission.usc.edu/wp-content/uploads/2026/03/2026-2027-Tuition-and-Fees-32.pdf'],
+      ['MS Computer Science program', 'https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/ms-computer-science/'],
+    ],
+  },
+  'yale-cs': {
+    tuition: 52400,
+    tuitionLabel: 'Academic-year tuition (GSAS full-time master’s)',
+    period: '2026–27',
+    costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total.',
+    costDetail: 'Yale Graduate School of Arts and Sciences Tuition and Fees 2026–27: full-time study $26,200 per term → $52,400 AY. Half-time $13,100/term; one-quarter time $6,550/term. Continuous Registration Fee $880/term; Yale Health Hospitalization/Specialty Coverage $3,764 for twelve months—fees not included in the tuition figure. CS one-year MS is typically eight courses (four per term for visa full-time); two-year research/TF track exists with limited places. Most one-year MS students pay tuition themselves.',
+    sources: [
+      ['Official tuition / budget', 'https://gsas.yale.edu/resources/graduate-financial-aid/tuition-and-fees'],
+      ['Student Accounts GSAS rates', 'https://student-accounts.yale.edu/tuition-and-fees'],
+      ['CS MS program', 'https://engineering.yale.edu/academic-study/departments/computer-science/graduate-study/master-science-program'],
+    ],
+  },
+  'brown-cs': {
+    tuition: 43908,
+    tuitionLabel: 'Academic-year tuition (ScM Computer Science, 4 courses × per-course rate)',
+    period: '2026–27',
+    costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total.',
+    costDetail: 'Brown Student Financial Services / Graduate Funding COA 2026–27: Computer Science master’s per-course rate $10,977. Standard track for ScM CS is 8 courses; COA budgets 2 courses/term → AY tuition $21,954 × 2 = $43,908. Estimated total program tuition at the published rate = $87,816. Mandatory fees in the COA (~$1,596 AY at the 2+2 pattern) and health insurance are separate. Program may also be completed as 8 courses in one year.',
+    sources: [
+      ['Official tuition / budget', 'https://sfs.brown.edu/tuition-and-fees/graduate'],
+      ['COA by program (CS)', 'https://gradfunding.brown.edu/cost-attendance-program'],
+      ['ScM Computer Science', 'https://graduateprograms.brown.edu/graduate-program/computer-science-scm'],
+    ],
+  },
+  'nyu-cs': {
+    tuition: 58224,
+    tuitionLabel: 'Academic-year tuition (GSAS Courant, $2,426/point × 12 points × 2 semesters)',
+    period: '2026–27',
+    costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total. Courant GSAS—not Tandon.',
+    costDetail: 'NYU Bursar 2026–27 Tuition and Fees PDF: Graduate School of Arts and Science All Programs $2,426 per credit/point, plus Registration & Services fee $503 for the first credit and $81 per additional credit each term. GSAS states a full-time load is typically 12 points/semester → tuition $29,112/semester → $58,224 AY Fall+Spring (R&S fees ~$1,394/term not included in the tuition figure). Courant MSCS requires 30 points (36 with concentration); full 30-point tuition at $2,426 = $72,780. Do not use Tandon Engineering rates ($2,626/point).',
+    sources: [
+      ['Official tuition / budget (Bursar PDF)', 'https://www.nyu.edu/content/dam/nyu/bursar/documents/2026-2027%20Tuition%20and%20Fees.pdf'],
+      ['GSAS tuition & fees', 'https://gsas.nyu.edu/admissions/financial-aid/tuition-fees.html'],
+      ['Courant MS overview', 'https://cs.nyu.edu/dynamic/masters/prospective-overview/'],
+    ],
+  },
+  'northwestern-cs': {
+    tuition: 70986,
+    tuitionLabel: 'Academic-year tuition (TGS master’s full-time 3–4 units × 3 quarters)',
+    period: '2026–27',
+    costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total.',
+    costDetail: 'Northwestern Evanston Graduate Financial Aid / TGS Master’s COA 2026–27: full-time 3–4 credits/units $23,662 per quarter. Academic-year Fall+Winter+Spring = $70,986. Single unit $8,418; two units $16,836. Health Services Fee $298/quarter (F/W/S); NU-SHIP annual premium $5,996—fees not included in the tuition figure. MS Computer Science requires 12 graduate units (typically 3–4 quarters). McCormick SFS also lists $23,662/quarter full-time for several engineering master’s schedules.',
+    sources: [
+      ['Official tuition / budget (TGS master’s COA)', 'https://www.northwestern.edu/evanston-graduate-financial-aid/getting-started/tuition-cost-of-attendance/tgs/masters.html'],
+      ['McCormick graduate tuition', 'https://www.northwestern.edu/sfs/tuition/graduate/mccormick.html'],
+      ['CS graduate programs', 'https://www.mccormick.northwestern.edu/computer-science/academics/graduate/'],
+    ],
+  },
+  'ucsb-cs': {
+    tuition: 40984.68,
+    tuitionLabel: 'Academic-year tuition and mandatory fees (graduate nonresident)',
+    period: '2026–27',
+    costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total.',
+    costDetail: 'UCSB Graduate Division 2026–27 Quarterly Fees: Nonresident yearly total $40,984.68 (Tuition $13,722 + Student Service Fee $1,344 + Campus Based Fees $1,279.53 + Tech Fee $152.40 + Student Health Insurance $9,384.75 + Nonresident Supplemental Tuition $15,102). Resident yearly total without NRST $25,882.68. NRST reduction for advanced-to-candidacy doctoral students does not apply to MS. MS Computer Science uses the standard graduate fee schedule.',
+    sources: [
+      ['Official tuition / budget', 'https://www.graddiv.ucsb.edu/fees-costs/26-27-quarterly'],
+      ['Fees & costs hub', 'https://www.graddiv.ucsb.edu/fees-costs'],
+      ['MS CMPSC catalog', 'https://catalog.ucsb.edu/programs/MSCMPSC'],
+    ],
+  },
+  'unc-cs': {
+    tuition: 39421,
+    tuitionLabel: 'Academic-year tuition (MSCS nonresident semester maximum × 2)',
+    period: '2026–27',
+    costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total. Cashier PDF notes rates not final until NC System Board of Governors approval.',
+    costDetail: 'UNC Cashier Graduate and Professional Tuition and Fees Fall 2026–Spring 2027: Master of Science in Computer Science (mscs) Non-Resident $2,190.06 per credit hour, semester maximum $19,710.50 (9+ hours) → $39,421 AY Fall+Spring. NC Resident MSCS $1,153.56/credit, semester max $10,382. Campus-based mandatory fees $1,063/semester ($2,126 AY) not included in the tuition figure. Student health insurance is separate. Rates marked not final until Board of Governors approval.',
+    sources: [
+      ['Official tuition / budget (Cashier PDF)', 'https://cashier.unc.edu/wp-content/uploads/sites/259/2026/04/graduate-and-professional-tuition-and-fees-fall-2026-spring-2027.pdf'],
+      ['Graduate programs tuition hub', 'https://cashier.unc.edu/tuition-fees/graduate-programs/'],
+      ['CS catalog', 'https://catalog.unc.edu/graduate/schools-departments/computer-science/'],
     ],
   },
 };
