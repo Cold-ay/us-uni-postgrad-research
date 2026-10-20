@@ -1,0 +1,210 @@
+{
+  "batch": "duration-batch2-mba",
+  "as_of": "2026-10-20",
+  "field": "duration/core/tracks",
+  "items": [
+    {
+      "id": "berkeley-mba",
+      "as_of": "2026-10-20",
+      "duration": "Full-time MBA ~21 months; four semesters of academic residency; internship required.",
+      "credits": "\u226551 units. Core: 11 courses / 20 units (Fall 2024+). Experiential learning course required; GPA \u22653.0.",
+      "tracks": [
+        "Full-time MBA (catalog default)",
+        "Evening & Weekend MBA (separate)",
+        "Electives after Y1 core"
+      ],
+      "coreNotes": "Core includes Data & Decisions, Microeconomics, Financial Accounting, Leading People, Finance, Business Communication, Marketing, Macroeconomics, Operations, Ethics, Strategic Leadership.",
+      "academic": "Haas Full-Time MBA: ~21 months, \u226551 units with 11-course (20-unit) core, experiential course, and required internship.",
+      "orientation": "~21 months \u00b7 \u226551 units \u00b7 11-course core",
+      "sources": [
+        [
+          "Curriculum outline",
+          "https://haas.berkeley.edu/mba/academics/course-planning/curriculum-outline/"
+        ],
+        [
+          "Graduation requirements",
+          "https://haas.berkeley.edu/mba/academics/course-planning/graduation-requirements/"
+        ]
+      ]
+    },
+    {
+      "id": "duke-mba",
+      "as_of": "2026-10-20",
+      "duration": "Daytime MBA ~22 months; six-week terms.",
+      "credits": "\u226579 credits: core ~34.5 (Class of 2026) / 35.5 (Class of 2027) + electives ~44.5 / 43.5. Applied Learning Requirement; GPA \u22653.0.",
+      "tracks": [
+        "Daytime MBA",
+        "~13 mandated core courses then electives",
+        "Concentrations / certificates / dual degrees"
+      ],
+      "coreNotes": "Fewer mandated cores than many peers; exemptions available. Cite Fuqua curriculum/graduation pages for current core list.",
+      "academic": "Fuqua Daytime MBA: ~22 months, \u226579 credits with ~13 core courses then heavy electives; 6-week terms.",
+      "orientation": "~22 months \u00b7 \u226579 credits \u00b7 Flexible electives",
+      "sources": [
+        [
+          "Program format",
+          "https://www.fuqua.duke.edu/programs/daytime-mba/program-format"
+        ],
+        [
+          "Graduation requirements",
+          "https://www.fuqua.duke.edu/graduation-requirements"
+        ],
+        [
+          "Curriculum",
+          "https://www.fuqua.duke.edu/programs/daytime-mba/curriculum"
+        ]
+      ]
+    },
+    {
+      "id": "michigan-mba",
+      "as_of": "2026-10-20",
+      "duration": "Two-year full-time; required 6\u201312 week summer internship/business experience between years.",
+      "credits": "57 graduate credits. Y1 prescribed core including MAP (Multidisciplinary Action Project); Y2 mostly electives (\u226525 elective credits; \u226410 outside Ross).",
+      "tracks": [
+        "Full-time MBA",
+        "MAP experiential core",
+        "Elective year 2"
+      ],
+      "coreNotes": "Y1 covers accounting, economics, statistics, strategy, finance, marketing, management, operations, plus MAP. Exact course codes on Ross core page.",
+      "academic": "Ross Full-Time MBA: 2 years, 57 credits. Prescribed Y1 core with MAP; Y2 electives; summer internship required.",
+      "orientation": "2 years \u00b7 57 credits \u00b7 MAP core",
+      "sources": [
+        [
+          "Full-time MBA curriculum",
+          "https://michiganross.umich.edu/graduate/full-time-mba/curriculum"
+        ],
+        [
+          "Core course requirements",
+          "https://rossweb.bus.umich.edu/academics/curriculum/core-curriculum/full-time-mba/"
+        ]
+      ]
+    },
+    {
+      "id": "nyu-mba",
+      "as_of": "2026-10-20",
+      "duration": "Two-year full-time Fall-start MBA; summer internship between years.",
+      "credits": "60 total credits. Required cores include Financial Accounting & Reporting, Statistics & Data Analysis, Leadership, Strategic Communication, Professional Responsibility; menu core (\u22655 of 7); specializations optional (up to three).",
+      "tracks": [
+        "Full-Time MBA",
+        "Menu core + specializations",
+        "Elective-heavy Year 2"
+      ],
+      "coreNotes": "Menu-core set on Stern academic affairs pages \u2014 cite rather than invent all seven titles if not fully listed in search synthesis.",
+      "academic": "Stern Full-Time MBA: 2 years, 60 credits. Required + menu core in Y1, electives/specializations in Y2, summer internship typical.",
+      "orientation": "2 years \u00b7 60 credits \u00b7 Menu core + specializations",
+      "sources": [
+        [
+          "Fall-start program outline",
+          "https://www.stern.nyu.edu/portal-partners/academic-affairs-advising/mba-programs/full-time-mba/full-time-mba-fall-start"
+        ],
+        [
+          "Curriculum",
+          "https://www.stern.nyu.edu/programs-admissions/full-time-mba/academics/curriculum"
+        ]
+      ]
+    },
+    {
+      "id": "dartmouth-mba",
+      "as_of": "2026-10-20",
+      "duration": "Two-year full-time residential MBA.",
+      "credits": "76.5 course credits: 37.5 from 14 core courses + 39 elective credits (\u22653 first-year electives).",
+      "tracks": [
+        "Integrated first-year required curriculum",
+        "Second-year electives (100+ courses)"
+      ],
+      "coreNotes": "Y1 integrated core covers analytics, finance, economics, marketing, OB, strategy, communications, operations \u2014 see Tuck required curriculum pages for full list.",
+      "academic": "Tuck MBA: 2 years, 76.5 credits (14-course core + electives). Integrated Y1 required curriculum; Y2 electives.",
+      "orientation": "2 years \u00b7 76.5 credits \u00b7 14-course core",
+      "sources": [
+        [
+          "Required curriculum",
+          "https://tuck.dartmouth.edu/mba/academic-experience/required-curriculum"
+        ],
+        [
+          "Academic FAQs",
+          "https://tuck.dartmouth.edu/mba/academic-experience/academic-faqs"
+        ]
+      ]
+    },
+    {
+      "id": "cornell-mba",
+      "as_of": "2026-10-20",
+      "duration": "Two-Year Residential MBA ~21 months; starts early August; required summer internship; four residency semesters \u226512 credits each.",
+      "credits": "60 graduate credits. Core ~20.5 credits covering accounting, analytics, economics, marketing, finance, operations, strategy, leadership, critical thinking; immersion + internship prep in Y1.",
+      "tracks": [
+        "Two-Year Residential MBA",
+        "Immersion options",
+        "Electives after core"
+      ],
+      "coreNotes": "Core ~20.5 credits \u2014 course titles on Johnson curriculum / Courses of Study pages.",
+      "academic": "Cornell Two-Year MBA: ~21 months, 60 credits with ~20.5-credit core, immersion, and required summer internship.",
+      "orientation": "~21 months \u00b7 60 credits \u00b7 ~20.5 core",
+      "sources": [
+        [
+          "MBA curriculum",
+          "https://business.cornell.edu/admissions/graduate/mba/curriculum/"
+        ],
+        [
+          "Two-year residential MBA",
+          "https://courses.cornell.edu/programs/two-year-residential-mba/"
+        ]
+      ]
+    },
+    {
+      "id": "ucla-mba",
+      "as_of": "2026-10-20",
+      "duration": "Full-Time MBA ~22 months.",
+      "credits": "Marketing pages describe ten-course core foundation then electives + two-quarter Capstone in Y2. Grad Division historically lists ~94 units with multi-course management core \u2014 cite both; prefer Anderson current customizable-schedule pages for structure.",
+      "tracks": [
+        "Full-Time MBA",
+        "Customizable electives",
+        "Capstone Project (two quarters)"
+      ],
+      "coreNotes": "Ten-course core foundation per Anderson; do not invent unit totals beyond Grad Division if conflicting \u2014 note dual sources.",
+      "academic": "UCLA Anderson Full-Time MBA: ~22 months with a ten-course core foundation, customizable electives, and a two-quarter Capstone Project.",
+      "orientation": "~22 months \u00b7 10-course core \u00b7 Capstone",
+      "sources": [
+        [
+          "Full-Time MBA",
+          "https://www.anderson.ucla.edu/degrees/full-time-mba"
+        ],
+        [
+          "Customizable schedule",
+          "https://www.anderson.ucla.edu/degrees/full-time-mba/academics/customizable-schedule"
+        ],
+        [
+          "Grad Division MBA requirements",
+          "https://grad.ucla.edu/graduate-program-requirements/program-requirements-for-management-mba-6-2-2-2-2-2-2/"
+        ]
+      ]
+    },
+    {
+      "id": "cmu-mba",
+      "as_of": "2026-10-20",
+      "duration": "Full-Time MBA ~21 months (four mini-semesters). Accelerated path 12 months (no internship) or 16 months (with internship) exists separately.",
+      "credits": "Full-Time: 192 units. Accelerated transfers 48 and completes 144 units.",
+      "tracks": [
+        "Full-Time MBA",
+        "Accelerated MBA",
+        "Electives start in Y1; capstone in final mini"
+      ],
+      "coreNotes": "Core spans analytics, accounting, finance, marketing, operations, economics, OB, strategy, leadership, communication \u2014 see Tepper curriculum map.",
+      "academic": "Tepper Full-Time MBA: ~21 months, 192 units, mini-semester format with early electives and final-mini capstone. Accelerated option separate.",
+      "orientation": "~21 months \u00b7 192 units \u00b7 Mini-semesters",
+      "sources": [
+        [
+          "MBA curriculum",
+          "https://www.cmu.edu/tepper/programs/mba/curriculum"
+        ],
+        [
+          "Full-Time MBA",
+          "https://www.cmu.edu/tepper/programs/mba/full-time"
+        ],
+        [
+          "Curriculum map PDF",
+          "https://www.cmu.edu/sites/default/files/cmu-tepper-site-files/documents/full-time-mba-curriculum-map-24-25.pdf"
+        ]
+      ]
+    }
+  ]
+}

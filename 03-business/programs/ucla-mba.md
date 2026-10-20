@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Elective specializations and a capstone field study support applied learning. Students can pursue a client project or a Business Creation Capstone.
+UCLA Anderson Full-Time MBA: ~22 months with a ten-course core foundation, customizable electives, and a two-quarter Capstone Project.
 
-Orientation: Electives · Client or venture capstone
+Orientation: ~22 months · 10-course core · Capstone
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -52,6 +52,9 @@ Shared scholarship IDs: SCH-015, SCH-017, SCH-019, SCH-020, SCH-034, SCH-035, SC
 - [Full-Time MBA Admissions (rounds)](https://www.anderson.ucla.edu/degrees/full-time-mba/admissions)
 - [Full-Time MBA Admissions FAQ (11:59 p.m. PT)](https://www.anderson.ucla.edu/degrees/full-time-mba/admissions/faq)
 - [Full-Time MBA](https://www.anderson.ucla.edu/degrees/full-time-mba/)
+- [Full-Time MBA](https://www.anderson.ucla.edu/degrees/full-time-mba)
+- [Customizable schedule](https://www.anderson.ucla.edu/degrees/full-time-mba/academics/customizable-schedule)
+- [Grad Division MBA requirements](https://grad.ucla.edu/graduate-program-requirements/program-requirements-for-management-mba-6-2-2-2-2-2-2/)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

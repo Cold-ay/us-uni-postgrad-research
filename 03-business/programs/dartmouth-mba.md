@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Full-time MBA academic experience; curriculum details and faculty mapping remain to be verified.
+Tuck MBA: 2 years, 76.5 credits (14-course core + electives). Integrated Y1 required curriculum; Y2 electives.
 
-Orientation: Full-time MBA · Management
+Orientation: 2 years · 76.5 credits · 14-course core
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -51,6 +51,8 @@ Shared scholarship IDs: SCH-015, SCH-017, SCH-019, SCH-020, SCH-026, SCH-034, SC
 - [Tuck Tuition and Costs](https://tuck.dartmouth.edu/admissions/finance-your-degree/tuition-and-costs)
 - [Scholarships and Fellowships](https://tuck.dartmouth.edu/admissions/finance-your-degree/scholarships-and-fellowships)
 - [Applying to Tuck (application deadlines)](https://www.tuck.dartmouth.edu/admissions/apply)
+- [Required curriculum](https://tuck.dartmouth.edu/mba/academic-experience/required-curriculum)
+- [Academic FAQs](https://tuck.dartmouth.edu/mba/academic-experience/academic-faqs)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

@@ -737,7 +737,15 @@ export const dictionaries = {
     "Kellogg Two-Year MBA: 6 quarters, ≥20.5 credits, summer work experience required. Optional majors; distinct One-Year MBA path.": "Kellogg 兩年 MBA：6 學季、≥20.5 學分，須有暑期工作經驗。可選 majors；另有獨立的 One-Year MBA 路徑。",
     "MIT Sloan MBA: 2 years / 4 semesters, 144 units. Required Fall Core then customized electives across Sloan/MIT/Harvard.": "MIT Sloan MBA：2 年／4 學期、144 units。必修 Fall Core，之後在 Sloan／MIT／Harvard 自訂選修。",
     "Columbia MBA: 4 terms, 60 credits (18 core + ≥42 electives). Cluster core with exemption options; Operations typically in term 2.": "Columbia MBA：4 學期、60 學分（18 核心 + ≥42 選修）。Cluster 核心可豁免；Operations 通常在第二學期。",
-    "Yale SOM MBA: 2 years, 72 units. Integrated Year-1 core (Orientation + Organizational Perspectives) then Year-2 electives; summer internship required.": "Yale SOM MBA：2 年、72 units。第一年整合核心（Orientation + Organizational Perspectives），第二年選修；須完成暑期實習。"
+    "Yale SOM MBA: 2 years, 72 units. Integrated Year-1 core (Orientation + Organizational Perspectives) then Year-2 electives; summer internship required.": "Yale SOM MBA：2 年、72 units。第一年整合核心（Orientation + Organizational Perspectives），第二年選修；須完成暑期實習。",
+    "Haas Full-Time MBA: ~21 months, ≥51 units with 11-course (20-unit) core, experiential course, and required internship.": "Haas 全日制 MBA：約 21 個月、≥51 units，11 門核心課（20 units）、體驗式學習課程，並須完成實習。",
+    "Fuqua Daytime MBA: ~22 months, ≥79 credits with ~13 core courses then heavy electives; 6-week terms.": "Fuqua Daytime MBA：約 22 個月、≥79 學分，約 13 門核心課後大量選修；6 週學期制。",
+    "Ross Full-Time MBA: 2 years, 57 credits. Prescribed Y1 core with MAP; Y2 electives; summer internship required.": "Ross 全日制 MBA：2 年、57 學分。第一年規定核心含 MAP；第二年選修；須完成暑期實習。",
+    "Stern Full-Time MBA: 2 years, 60 credits. Required + menu core in Y1, electives/specializations in Y2, summer internship typical.": "Stern 全日制 MBA：2 年、60 學分。第一年必修與 menu 核心；第二年選修／專修；通常含暑期實習。",
+    "Tuck MBA: 2 years, 76.5 credits (14-course core + electives). Integrated Y1 required curriculum; Y2 electives.": "Tuck MBA：2 年、76.5 學分（14 門核心 + 選修）。第一年整合必修課程；第二年選修。",
+    "Cornell Two-Year MBA: ~21 months, 60 credits with ~20.5-credit core, immersion, and required summer internship.": "Cornell 兩年 MBA：約 21 個月、60 學分，約 20.5 學分核心、immersion，並須完成暑期實習。",
+    "UCLA Anderson Full-Time MBA: ~22 months with a ten-course core foundation, customizable electives, and a two-quarter Capstone Project.": "UCLA Anderson 全日制 MBA：約 22 個月，十門核心基礎課、可自訂選修，以及兩學季 Capstone 專案。",
+    "Tepper Full-Time MBA: ~21 months, 192 units, mini-semester format with early electives and final-mini capstone. Accelerated option separate.": "Tepper 全日制 MBA：約 21 個月、192 units，mini-semester 制，第一年即可選修，最後 mini 為 capstone。另有 Accelerated 路徑。"
   },
   "zh-Hans": {
     "$31,100 per fall/spring semester. The SCS budget lists $37,374 in additional annual items, including $1,500 in federal loan fees applicable to borrowers. Not every item is mandatory for every student. Full-degree cost is not yet verified.": "秋季／春季每学期 $31,100。SCS 预算另列每年 $37,374 的其他项目，包括适用于借款人的 $1,500 联邦贷款费。并非每项费用都适用于所有学生。整个学位总费用尚未核实。",
@@ -1476,6 +1484,14 @@ export const dictionaries = {
     "Kellogg Two-Year MBA: 6 quarters, ≥20.5 credits, summer work experience required. Optional majors; distinct One-Year MBA path.": "Kellogg 兩年 MBA：6 学季、≥20.5 学分，须有暑期工作经验。可选 majors；另有独立的 One-Year MBA 路径。",
     "MIT Sloan MBA: 2 years / 4 semesters, 144 units. Required Fall Core then customized electives across Sloan/MIT/Harvard.": "MIT Sloan MBA：2 年／4 学期、144 units。必修 Fall Core，之後在 Sloan／MIT／Harvard 自订选修。",
     "Columbia MBA: 4 terms, 60 credits (18 core + ≥42 electives). Cluster core with exemption options; Operations typically in term 2.": "Columbia MBA：4 学期、60 学分（18 核心 + ≥42 选修）。Cluster 核心可豁免；Operations 通常在第二学期。",
-    "Yale SOM MBA: 2 years, 72 units. Integrated Year-1 core (Orientation + Organizational Perspectives) then Year-2 electives; summer internship required.": "Yale SOM MBA：2 年、72 units。第一年整合核心（Orientation + Organizational Perspectives），第二年选修；须完成暑期实习。"
+    "Yale SOM MBA: 2 years, 72 units. Integrated Year-1 core (Orientation + Organizational Perspectives) then Year-2 electives; summer internship required.": "Yale SOM MBA：2 年、72 units。第一年整合核心（Orientation + Organizational Perspectives），第二年选修；须完成暑期实习。",
+    "Haas Full-Time MBA: ~21 months, ≥51 units with 11-course (20-unit) core, experiential course, and required internship.": "Haas 全日制 MBA：约 21 个月、≥51 units，11 门核心课（20 units）、体验式学习课程，並须完成实习。",
+    "Fuqua Daytime MBA: ~22 months, ≥79 credits with ~13 core courses then heavy electives; 6-week terms.": "Fuqua Daytime MBA：约 22 个月、≥79 学分，约 13 门核心课后大量选修；6 周学期制。",
+    "Ross Full-Time MBA: 2 years, 57 credits. Prescribed Y1 core with MAP; Y2 electives; summer internship required.": "Ross 全日制 MBA：2 年、57 学分。第一年规定核心含 MAP；第二年选修；须完成暑期实习。",
+    "Stern Full-Time MBA: 2 years, 60 credits. Required + menu core in Y1, electives/specializations in Y2, summer internship typical.": "Stern 全日制 MBA：2 年、60 学分。第一年必修与 menu 核心；第二年选修／专修；通常含暑期实习。",
+    "Tuck MBA: 2 years, 76.5 credits (14-course core + electives). Integrated Y1 required curriculum; Y2 electives.": "Tuck MBA：2 年、76.5 学分（14 门核心 + 选修）。第一年整合必修课程；第二年选修。",
+    "Cornell Two-Year MBA: ~21 months, 60 credits with ~20.5-credit core, immersion, and required summer internship.": "Cornell 两年 MBA：约 21 个月、60 学分，约 20.5 学分核心、immersion，並须完成暑期实习。",
+    "UCLA Anderson Full-Time MBA: ~22 months with a ten-course core foundation, customizable electives, and a two-quarter Capstone Project.": "UCLA Anderson 全日制 MBA：约 22 个月，十门核心基礎课、可自订选修，以及两学季 Capstone 专案。",
+    "Tepper Full-Time MBA: ~21 months, 192 units, mini-semester format with early electives and final-mini capstone. Accelerated option separate.": "Tepper 全日制 MBA：约 21 个月、192 units，mini-semester 制，第一年即可选修，最后 mini 为 capstone。另有 Accelerated 路径。"
   }
 };
