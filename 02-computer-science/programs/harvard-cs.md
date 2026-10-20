@@ -18,9 +18,9 @@ Application status: Related CSE degree · not standalone CS
 
 ## Academic direction
 
-CSE is an interdisciplinary alternative combining computing and applied mathematics; do not treat it as a standalone MS in Computer Science. Application open: Open as of page check (submission portal open for Fall 2027 CSE) (deadline research 2026-10-20; see deadline field).
+Harvard SEAS has no open terminal CS master's for external applicants. CS SM is for current Harvard PhD/A.B. students; related terminal master's are CSE and Data Science.
 
-Orientation: Computational science · Applied mathematics
+Orientation: Restricted · No external terminal CS SM
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -46,10 +46,12 @@ Shared scholarship IDs: SCH-015, SCH-016, SCH-017, SCH-018, SCH-019, SCH-020, SC
 
 ## Sources
 
-- [SEAS CSE program home](https://seas.harvard.edu/masters-computational-science-and-engineering)
+- [CSE master's](https://seas.harvard.edu/masters-computational-science-and-engineering)
 - [Official tuition / budget (GSAS COA)](https://gsas.harvard.edu/apply/cost-attendance-2026-2027)
 - [SEAS CSE How to Apply (Fall 2027; Dec 1, 2026)](https://seas.harvard.edu/masters-computational-science-and-engineering/how-apply)
 - [GSAS Computational Science and Engineering (SM/ME Dec 01, 2026 05:00 pm)](https://gsas.harvard.edu/program/computational-science-and-engineering)
+- [CS graduate program (PhD focus)](https://seas.harvard.edu/computer-science/graduate-program)
+- [SM and ME course requirements](https://seas.harvard.edu/office-academic-programs/graduate-policies-procedures-and-forms/sm-and-me-degrees/sm-and-me-area)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

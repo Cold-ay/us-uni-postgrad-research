@@ -1,0 +1,238 @@
+{
+  "batch": "duration-batch4-cs",
+  "as_of": "2026-10-20",
+  "field": "duration/core/tracks",
+  "items": [
+    {
+      "id": "uci-cs",
+      "as_of": "2026-10-20",
+      "duration": "Research MS typically ~5\u20136 quarters (~2 years) per ICS comparison pages. Distinct from 15-month professional MCS.",
+      "credits": "\u226547 units: 3\u00d7 COMPSCI 200S + 4 core-area courses + 7 electives; grades \u2265B. Thesis Plan I substitutes 2\u00d7 COMPSCI 298 for two courses; Plan II comprehensive exam.",
+      "tracks": [
+        "MS CS thesis (Plan I)",
+        "MS CS comprehensive (Plan II)",
+        "Professional Master of Computer Science (MCS) \u2014 separate program"
+      ],
+      "coreNotes": "Pick 4 of 7 areas (Algorithms, Architecture/Embedded, System Software, AI, Networks/Multimedia, Databases, Scientific/Visual Computing) with listed courses.",
+      "academic": "UCI research MS CS: \u226547 units with 4 core areas + electives; thesis or comprehensive exam. Distinct from the professional MCS (~15 months).",
+      "orientation": "47 units \u00b7 Thesis or exam \u00b7 ~2 years research MS",
+      "sources": [
+        [
+          "Catalogue CS MS",
+          "https://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/departmentofcomputerscience/computerscience_ms/"
+        ],
+        [
+          "MCS vs MSCS",
+          "https://mcs.ics.uci.edu/mcs-vs-mscs/"
+        ]
+      ]
+    },
+    {
+      "id": "ucsb-cs",
+      "as_of": "2026-10-20",
+      "duration": "Typically ~2 years; Graduate Handbook cites max 4 years and min 3 quarters residency.",
+      "credits": "42 approved upper-division/graduate units. Major area: 4\u00d7 200-level CS; breadth: 1\u00d7 200-level in each other area; 2\u20136 units CS 595. Thesis \u226412 units 596/598.",
+      "tracks": [
+        "Plan One: Thesis",
+        "Plan Two: Project",
+        "Plan Three: Comprehensive examination"
+      ],
+      "coreNotes": "Three areas: Foundations/Theory, Systems, Applications. Major = 4 courses in one; breadth = 1 in each other. Major-area grades \u2265B.",
+      "academic": "UCSB CS MS: 42 units with major+breadth across Theory/Systems/Applications; finish via thesis, project, or comprehensive exam.",
+      "orientation": "42 units \u00b7 Thesis/project/exam \u00b7 ~2 years",
+      "sources": [
+        [
+          "Master's degree",
+          "https://www.cs.ucsb.edu/education/graduate/masters-degree"
+        ],
+        [
+          "Catalog MS CMPSC",
+          "https://catalog.ucsb.edu/programs/MSCMPSC"
+        ]
+      ]
+    },
+    {
+      "id": "umass-cs",
+      "as_of": "2026-10-20",
+      "duration": "Usually two years / four semesters on campus; program allows flexibility by load.",
+      "credits": "30 course credits. Four cores (\u2265B): Theory, Systems, Machine Learning, plus one more from any core area. \u226512 credits at 600+. Non-thesis; optional 6-credit Master's Project.",
+      "tracks": [
+        "Non-thesis MS",
+        "Concentrations: AI, Data Science, Security, Field Experience",
+        "Optional Master's Project research"
+      ],
+      "coreNotes": "Core areas Theory / Systems / ML (+ one more). Concentration menus on CICS pages.",
+      "academic": "UMass Amherst CICS MS: 30 credits over ~2 years with four cores (Theory, Systems, ML + one) and \u226512 credits at 600+. Non-thesis; optional concentrations and Master's Project.",
+      "orientation": "30 credits \u00b7 4 cores \u00b7 ~2 years \u00b7 Concentrations",
+      "sources": [
+        [
+          "MS degree requirements",
+          "https://www.cics.umass.edu/academics/academic-policies/graduate-programs-policies/ms-degree-requirements"
+        ],
+        [
+          "MS course requirements",
+          "https://www.cics.umass.edu/academics/academic-policies/graduate-programs-policies/ms-degree-requirements/ms-course-requirements"
+        ]
+      ]
+    },
+    {
+      "id": "unc-cs",
+      "as_of": "2026-10-20",
+      "duration": "Full-time typically within four semesters; Graduate School 5-year clock. Requirements page last reviewed August 2026; Fall 2026 rules apply.",
+      "credits": "\u226530 hours \u2265400 (excl. listed). \u226518 COMP 400\u2013890; \u22653 COMP 992 or 993; \u22646 COMP 991; \u22646 COMP 992/993. Breadth: one course in each of Algorithms/Complexity/Formal Methods; Systems & Hardware; Applications; AI.",
+      "tracks": [
+        "Coursework + comprehensive (paper or oral)",
+        "Thesis option (infrequent)",
+        "Program product + technical writing requirements"
+      ],
+      "coreNotes": "Breadth four categories; Calingaert score rules on grades. Not a fixed named core course list.",
+      "academic": "UNC CS MS (Fall 2026+): 30 credits with four-category breadth, program product, technical writing, and comprehensive exam. Typically \u22644 semesters FT; 5-year limit.",
+      "orientation": "30 credits \u00b7 4 breadth categories \u00b7 \u22644 semesters FT",
+      "sources": [
+        [
+          "MS requirements",
+          "https://cs.unc.edu/graduate/ms/"
+        ],
+        [
+          "Catalog CS GRAD",
+          "https://catalog.unc.edu/graduate/schools-departments/computer-science/"
+        ]
+      ]
+    },
+    {
+      "id": "mit-cs",
+      "as_of": "2026-10-20",
+      "duration": "RESTRICTED for external Fall 2027 applicants: no terminal master\u2019s admission path for outside applicants.",
+      "credits": "N/A for external terminal MS. SM may be earned en route in PhD; MEng limited to MIT EECS undergraduates.",
+      "tracks": [
+        "PhD (SM possible en route)",
+        "MEng (MIT EECS undergrads only)",
+        "LGO and other special MIT paths \u2014 not a general external terminal MS"
+      ],
+      "coreNotes": "Do not invent deadlines or a terminal MS curriculum for external applicants.",
+      "academic": "MIT EECS does not offer a terminal master\u2019s for external applicants. MEng is for MIT EECS undergrads; SM is typically PhD-en-route (or special programs like LGO).",
+      "orientation": "Restricted \u00b7 No external terminal MS",
+      "sources": [
+        [
+          "OGE EECS programs",
+          "https://oge.mit.edu/programs/electrical-engineering-and-computer-science/"
+        ],
+        [
+          "EECS graduate admissions FAQs",
+          "https://www.eecs.mit.edu/academics/graduate-programs/admission-process/graduate-admissions-faqs/"
+        ],
+        [
+          "MEng program",
+          "https://www.eecs.mit.edu/academics/undergraduate-programs/meng-program/"
+        ]
+      ]
+    },
+    {
+      "id": "princeton-cs",
+      "as_of": "2026-10-20",
+      "duration": "RESTRICTED for Fall 2027: department not accepting master's applications for Fall 2027. When open: two-year full-time MSE/M.Eng.",
+      "credits": "When open: six courses (3 core from listed COS set + 3 electives) + thesis (MSE) or non-thesis M.Eng. switch option. Fully funded via TA historically.",
+      "tracks": [
+        "MSE thesis track (default enrollment when open)",
+        "M.Eng. non-thesis (switch option in Y1/Y2)",
+        "Not accepting applications Fall 2027"
+      ],
+      "coreNotes": "Core course list on MSE track page (COS 475/510/\u2026); flag admissions pause separately from curriculum.",
+      "academic": "Princeton CS master's (MSE/M.Eng.): normally 2 years with 6 courses + thesis (MSE) or non-thesis M.Eng. Department is not accepting master's applications for Fall 2027 admission.",
+      "orientation": "Restricted F27 \u00b7 No apps \u00b7 Curriculum 2yr when open",
+      "sources": [
+        [
+          "Master's degree (no F27 apps)",
+          "https://www.cs.princeton.edu/grad/masters-degree-requirements"
+        ],
+        [
+          "MSE track",
+          "https://www.cs.princeton.edu/grad/mse-track"
+        ]
+      ]
+    },
+    {
+      "id": "caltech-cs",
+      "as_of": "2026-10-20",
+      "duration": "RESTRICTED: CMS does not admit directly to a terminal MS; PhD admission only. MS may be awarded exceptionally en route to PhD.",
+      "credits": "N/A as external terminal MS. See CMS PhD option regulations for en-route MS cases.",
+      "tracks": [
+        "PhD in Computing and Mathematical Sciences",
+        "En-route MS only in exceptional PhD cases"
+      ],
+      "coreNotes": "Caltech Graduate Office: only Aeronautics, EE, and Space Engineering admit directly for terminal master's \u2014 CMS is not among them.",
+      "academic": "Caltech CMS: no direct terminal MS admissions. Applicants enter the PhD; MS may be awarded only in exceptional en-route cases.",
+      "orientation": "Restricted \u00b7 PhD-only admissions",
+      "sources": [
+        [
+          "CMS catalog regulations",
+          "https://www.catalog.caltech.edu/current/information-for-graduate-students/special-regulations-for-graduate-options/computing-and-mathematical-science-cms/"
+        ],
+        [
+          "Graduate admissions FAQ",
+          "https://gradoffice.caltech.edu/admissions/faq-applicants"
+        ],
+        [
+          "CMS graduate programs",
+          "https://www.cms.caltech.edu/academics/grad"
+        ]
+      ]
+    },
+    {
+      "id": "washington-cs",
+      "as_of": "2026-10-20",
+      "duration": "RESTRICTED for typical intl full-time MS: Allen School standalone professional MS is the part-time evening PMP (Seattle/Puget Sound residency, working professionals). Full-time research path is PhD (MS possible en route).",
+      "credits": "PMP: coursework professional master's for eligible part-time students \u2014 see PMP pages for current credit load. Not a general full-time international MS route.",
+      "tracks": [
+        "Professional Master's Program (PMP) \u2014 part-time evening",
+        "PhD (MS en route)",
+        "No separate full-time terminal MS for most external intl applicants"
+      ],
+      "coreNotes": "Flag residency/eligibility constraints; do not invent a full-time terminal MS curriculum.",
+      "academic": "UW Allen School: no general full-time terminal MS for most external applicants. Options are part-time Professional Master's (PMP, local/working professionals) or PhD with possible en-route MS.",
+      "orientation": "Restricted \u00b7 PMP part-time or PhD",
+      "sources": [
+        [
+          "PMP admissions",
+          "https://www.cs.washington.edu/academics/graduate/pmp/admissions/"
+        ],
+        [
+          "PMP overview",
+          "https://www.cs.washington.edu/academics/graduate/pmp/"
+        ],
+        [
+          "PhD FAQ",
+          "https://www.cs.washington.edu/academics/graduate/phd-program/phd-admissions/faq/"
+        ]
+      ]
+    },
+    {
+      "id": "harvard-cs",
+      "as_of": "2026-10-20",
+      "duration": "RESTRICTED: SEAS Computer Science SM is not a terminal master\u2019s for external applicants \u2014 available to current Harvard PhD and A.B./S.M. students. External master's interest directed to Computational Science & Engineering or Data Science SM programs.",
+      "credits": "CS SM (when eligible): eight letter-graded courses (32 credits), \u22655 at 200/2000-level CS including theory + large systems course. Typically ~two semesters for eligible students.",
+      "tracks": [
+        "CS SM (internal / concurrent only)",
+        "Related terminal options at SEAS: CSE SM, Data Science SM \u2014 separate program ids if catalogued"
+      ],
+      "coreNotes": "Do not treat harvard-cs catalog entry as an open Fall 2027 terminal MS application target.",
+      "academic": "Harvard SEAS has no open terminal CS master's for external applicants. CS SM is for current Harvard PhD/A.B. students; related terminal master's are CSE and Data Science.",
+      "orientation": "Restricted \u00b7 No external terminal CS SM",
+      "sources": [
+        [
+          "CS graduate program (PhD focus)",
+          "https://seas.harvard.edu/computer-science/graduate-program"
+        ],
+        [
+          "SM and ME course requirements",
+          "https://seas.harvard.edu/office-academic-programs/graduate-policies-procedures-and-forms/sm-and-me-degrees/sm-and-me-area"
+        ],
+        [
+          "CSE master's",
+          "https://seas.harvard.edu/masters-computational-science-and-engineering"
+        ]
+      ]
+    }
+  ],
+  "notes": "4 open leftover + 5 restricted notes. Restricted entries use orientation Restricted and explain admissions limits \u2014 do not invent terminal curricula."
+}

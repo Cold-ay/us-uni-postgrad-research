@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Research-oriented MS and project-based professional MCS are separate choices; costs and deadlines must match the route.
+UCI research MS CS: ≥47 units with 4 core areas + electives; thesis or comprehensive exam. Distinct from the professional MCS (~15 months).
 
-Orientation: Research MS or professional MCS
+Orientation: 47 units · Thesis or exam · ~2 years research MS
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -50,6 +50,8 @@ Shared scholarship IDs: SCH-015, SCH-016, SCH-017, SCH-018, SCH-019, SCH-020, SC
 - [Professional MCS admissions FAQ](https://mcs.ics.uci.edu/faq/)
 - [Official tuition / budget (graduate fees)](https://reg.uci.edu/fees/2026-2027/graduate.html)
 - [MCS fee schedule PDF](https://www.reg.uci.edu/fees/2026-2027/compsci.pdf)
+- [Catalogue CS MS](https://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/departmentofcomputerscience/computerscience_ms/)
+- [MCS vs MSCS](https://mcs.ics.uci.edu/mcs-vs-mscs/)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

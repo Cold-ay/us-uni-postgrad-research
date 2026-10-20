@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-30-credit degree with a program product, technical writing and a comprehensive examination; emphasis on systems and theory informing practice.
+UNC CS MS (Fall 2026+): 30 credits with four-category breadth, program product, technical writing, and comprehensive exam. Typically ≤4 semesters FT; 5-year limit.
 
-Orientation: See degree route and academic overview
+Orientation: 30 credits · 4 breadth categories · ≤4 semesters FT
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -46,11 +46,12 @@ Shared scholarship IDs: SCH-015, SCH-016, SCH-017, SCH-018, SCH-019, SCH-020, SC
 
 ## Sources
 
-- [CS catalog (admissions narrative)](https://catalog.unc.edu/graduate/schools-departments/computer-science/)
+- [Catalog CS GRAD](https://catalog.unc.edu/graduate/schools-departments/computer-science/)
 - [Official tuition / budget (Cashier PDF)](https://cashier.unc.edu/wp-content/uploads/sites/259/2026/04/graduate-and-professional-tuition-and-fees-fall-2026-spring-2027.pdf)
 - [Graduate programs tuition hub](https://cashier.unc.edu/tuition-fees/graduate-programs/)
 - [CS Admissions Deadline (year-labeled fellowship/RA/final)](https://cs.unc.edu/graduate/graduate-admissions/admissions-deadline/)
 - [UNC Grad School Computer Science program sheet](https://gradschool.sites.unc.edu/computer-science/)
+- [MS requirements](https://cs.unc.edu/graduate/ms/)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

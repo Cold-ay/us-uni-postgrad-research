@@ -18,9 +18,9 @@ Application status: Fall 2027 master’s intake suspended
 
 ## Academic direction
 
-The department has suspended master’s admissions for Fall 2027. Retained to preserve the ranking list.
+Princeton CS master's (MSE/M.Eng.): normally 2 years with 6 courses + thesis (MSE) or non-thesis M.Eng. Department is not accepting master's applications for Fall 2027 admission.
 
-Orientation: See degree route and academic overview
+Orientation: Restricted F27 · No apps · Curriculum 2yr when open
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -46,9 +46,10 @@ Shared scholarship IDs: SCH-015, SCH-016, SCH-017, SCH-018, SCH-019, SCH-020, SC
 
 ## Sources
 
-- [CS Master's requirements (Fall 2027 suspension notice)](https://www.cs.princeton.edu/grad/masters-degree-requirements)
+- [Master's degree (no F27 apps)](https://www.cs.princeton.edu/grad/masters-degree-requirements)
 - [Official tuition / budget (Grad School rates)](https://gradschool.princeton.edu/financial-support/financial-support-model/funding-calendar-university-rates-costs)
 - [Grad School Application Deadlines (no M.S.E. admission Fall 2027 for CS)](https://gradschool.princeton.edu/admission-onboarding/prepare/application-deadlines)
+- [MSE track](https://www.cs.princeton.edu/grad/mse-track)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence
