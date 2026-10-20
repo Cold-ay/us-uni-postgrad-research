@@ -696,7 +696,15 @@ export const dictionaries = {
     "TW eligible: yes": "台灣適用：是",
     "TW eligible: no": "台灣適用：否",
     "TW eligible: unclear": "台灣適用：未明",
-    "Loan": "貸款"
+    "Loan": "貸款",
+    "Coursework MS (96–108 qualifying units, typically eight courses) with optional research and a thesis option. Most finish in three semesters; MS admission does not prefer students for the PhD.": "授課型 MS（96–108 合格學分，通常八門課），可選研究與論文。多數三學期完成；MS 入學不偏好日後升讀 PhD 的學生。",
+    "45-unit MS CS with Foundations, SSI, Breadth, Depth, and Electives on an approved program sheet. Nine predefined specializations (plus rare Individually Designed). Up to three years / nine non-summer quarters.": "45 學分 MS CS，須在核准課程表上完成 Foundations、SSI、Breadth、Depth 與 Electives。九個預設專修（另含罕見的 Individually Designed）。最長三年／九個非夏季學季。",
+    "Full-time EECS MEng completed in one academic year (Fall and Spring) with a technical concentration, engineering leadership coursework, and a team capstone. Concentrations include Data Science, Computer Systems, and Visual Computing among others.": "全職 EECS MEng 於一個學年（秋、春）完成，含技術集中領域、工程領導力課程與團隊 capstone。集中領域含 Data Science、Computer Systems、Visual Computing 等。",
+    "Siebel School offers a 32-credit professional MCS (coursework-only; Urbana typically ≤3 consecutive semesters) and a separate 32-credit research MS (thesis via CS 599). Eight optional graduate tracks (AI, data science, security, etc.).": "Siebel School 提供 32 學分專業 MCS（純授課；Urbana 通常 ≤3 個連續學期）及另一條 32 學分研究 MS（論文 CS 599）。八條可選研究生 track（AI、data science、security 等）。",
+    "Research MS is a selective four-semester (≈2-year) degree: 34 credits with 6–12 thesis credits, an outside minor, and a written thesis + oral. Professional MEng is a separate ~1-year coursework + capstone route.": "研究 MS 為遴選制四學期（≈2 年）學位：34 學分，含 6–12 學分論文、校外 minor，以及書面論文與口試。專業 MEng 為另一條約 1 年授課 + capstone 路徑。",
+    "Campus MSCS is 30 hours with one required specialization (11 areas; specialization coursework 15–18 hours). Course, Project (9h), or Thesis (12h) options. Complete within six years; keep distinct from OMSCS.": "校內 MSCS 為 30 學時，須選一個專修（11 個領域；專修課程 15–18 學時）。可選 Course、Project（9h）或 Thesis（12h）。須在六年內完成；與 OMSCS 區分。",
+    "CSE master’s requires 30 credits; thesis optional; normally finished in 1.5–2 years. MS vs MSE is primarily naming/eligibility by prior engineering bachelor’s.": "CSE 碩士需 30 學分；論文可選；通常 1.5–2 年完成。MS 與 MSE 主要差異在命名／是否具工程學士資格。",
+    "On-campus research MSCS: breadth (3) + minor (2), then coursework (5 electives) or thesis (3 electives + 2 thesis courses); typically ~10 courses / ~2 years. Distinct from the online MSCS.": "校內研究 MSCS：廣度（3）+ minor（2），再選授課（5 門選修）或論文（3 門選修 + 2 門論文課）；通常約 10 門課／約 2 年。與線上 MSCS 不同。"
   },
   "zh-Hans": {
     "$31,100 per fall/spring semester. The SCS budget lists $37,374 in additional annual items, including $1,500 in federal loan fees applicable to borrowers. Not every item is mandatory for every student. Full-degree cost is not yet verified.": "秋季／春季每学期 $31,100。SCS 预算另列每年 $37,374 的其他项目，包括适用于借款人的 $1,500 联邦贷款费。并非每项费用都适用于所有学生。整个学位总费用尚未核实。",
@@ -1394,6 +1402,14 @@ export const dictionaries = {
     "TW eligible: yes": "台湾适用：是",
     "TW eligible: no": "台湾适用：否",
     "TW eligible: unclear": "台湾适用：未明",
-    "Loan": "贷款"
+    "Loan": "贷款",
+    "Coursework MS (96–108 qualifying units, typically eight courses) with optional research and a thesis option. Most finish in three semesters; MS admission does not prefer students for the PhD.": "授课型 MS（96–108 合格学分，通常八门课），可选研究与论文。多数三学期完成；MS 入学不偏好日后升读 PhD 的学生。",
+    "45-unit MS CS with Foundations, SSI, Breadth, Depth, and Electives on an approved program sheet. Nine predefined specializations (plus rare Individually Designed). Up to three years / nine non-summer quarters.": "45 学分 MS CS，须在核准课程表上完成 Foundations、SSI、Breadth、Depth 与 Electives。九个预设专修（另含罕见的 Individually Designed）。最长三年／九个非夏季学季。",
+    "Full-time EECS MEng completed in one academic year (Fall and Spring) with a technical concentration, engineering leadership coursework, and a team capstone. Concentrations include Data Science, Computer Systems, and Visual Computing among others.": "全职 EECS MEng 于一个学年（秋、春）完成，含技术集中领域、工程领导力课程与团队 capstone。集中领域含 Data Science、Computer Systems、Visual Computing 等。",
+    "Siebel School offers a 32-credit professional MCS (coursework-only; Urbana typically ≤3 consecutive semesters) and a separate 32-credit research MS (thesis via CS 599). Eight optional graduate tracks (AI, data science, security, etc.).": "Siebel School 提供 32 学分专业 MCS（纯授课；Urbana 通常 ≤3 个连续学期）及另一条 32 学分研究 MS（论文 CS 599）。八条可选研究生 track（AI、data science、security 等）。",
+    "Research MS is a selective four-semester (≈2-year) degree: 34 credits with 6–12 thesis credits, an outside minor, and a written thesis + oral. Professional MEng is a separate ~1-year coursework + capstone route.": "研究 MS 为遴选制四学期（≈2 年）学位：34 学分，含 6–12 学分论文、校外 minor，以及书面论文与口试。专业 MEng 为另一条约 1 年授课 + capstone 路径。",
+    "Campus MSCS is 30 hours with one required specialization (11 areas; specialization coursework 15–18 hours). Course, Project (9h), or Thesis (12h) options. Complete within six years; keep distinct from OMSCS.": "校内 MSCS 为 30 学时，须选一个专修（11 个领域；专修课程 15–18 学时）。可选 Course、Project（9h）或 Thesis（12h）。须在六年内完成；与 OMSCS 区分。",
+    "CSE master’s requires 30 credits; thesis optional; normally finished in 1.5–2 years. MS vs MSE is primarily naming/eligibility by prior engineering bachelor’s.": "CSE 硕士需 30 学分；论文可选；通常 1.5–2 年完成。MS 与 MSE 主要差异在命名／是否具工程学士资格。",
+    "On-campus research MSCS: breadth (3) + minor (2), then coursework (5 electives) or thesis (3 electives + 2 thesis courses); typically ~10 courses / ~2 years. Distinct from the online MSCS.": "校内研究 MSCS：广度（3）+ minor（2），再选授课（5 门选修）或论文（3 门选修 + 2 门论文课）；通常约 10 门课／约 2 年。与线上 MSCS 不同。"
   }
 };

@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Separate research MS with thesis and professional MCS routes; campus and degree choice matter.
+Siebel School offers a 32-credit professional MCS (coursework-only; Urbana typically ≤3 consecutive semesters) and a separate 32-credit research MS (thesis via CS 599). Eight optional graduate tracks (AI, data science, security, etc.).
 
-Orientation: Research MS or professional MCS
+Orientation: MCS or research MS · 32 credits · 8 tracks
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -52,6 +52,10 @@ Shared scholarship IDs: SCH-015, SCH-016, SCH-017, SCH-018, SCH-019, SCH-020, SC
 - [MCS tuition page](https://siebelschool.illinois.edu/academics/graduate/professional-mcs/tuition-fees)
 - [Cost calculator MCS international 9 cr](https://cost.illinois.edu/Home/Cost/I/G/10KS0112MCS/9/120268/120268)
 - [Application deadlines](https://siebelschool.illinois.edu/admissions/graduate/application-deadlines)
+- [MCS program](https://siebelschool.illinois.edu/academics/graduate/professional-mcs)
+- [Computer Science, MCS catalog 2026–27](https://catalog.illinois.edu/graduate/engineering/computer-science-mcs/)
+- [Computer Science, MS catalog 2026–27](https://catalog.illinois.edu/graduate/engineering/computer-science-ms/)
+- [M.S. Program](https://siebelschool.illinois.edu/academics/graduate/ms-program)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

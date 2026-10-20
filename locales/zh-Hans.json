@@ -694,5 +694,13 @@
   "TW eligible: yes": "台湾适用：是",
   "TW eligible: no": "台湾适用：否",
   "TW eligible: unclear": "台湾适用：未明",
-  "Loan": "贷款"
+  "Loan": "贷款",
+  "Coursework MS (96–108 qualifying units, typically eight courses) with optional research and a thesis option. Most finish in three semesters; MS admission does not prefer students for the PhD.": "授课型 MS（96–108 合格学分，通常八门课），可选研究与论文。多数三学期完成；MS 入学不偏好日后升读 PhD 的学生。",
+  "45-unit MS CS with Foundations, SSI, Breadth, Depth, and Electives on an approved program sheet. Nine predefined specializations (plus rare Individually Designed). Up to three years / nine non-summer quarters.": "45 学分 MS CS，须在核准课程表上完成 Foundations、SSI、Breadth、Depth 与 Electives。九个预设专修（另含罕见的 Individually Designed）。最长三年／九个非夏季学季。",
+  "Full-time EECS MEng completed in one academic year (Fall and Spring) with a technical concentration, engineering leadership coursework, and a team capstone. Concentrations include Data Science, Computer Systems, and Visual Computing among others.": "全职 EECS MEng 于一个学年（秋、春）完成，含技术集中领域、工程领导力课程与团队 capstone。集中领域含 Data Science、Computer Systems、Visual Computing 等。",
+  "Siebel School offers a 32-credit professional MCS (coursework-only; Urbana typically ≤3 consecutive semesters) and a separate 32-credit research MS (thesis via CS 599). Eight optional graduate tracks (AI, data science, security, etc.).": "Siebel School 提供 32 学分专业 MCS（纯授课；Urbana 通常 ≤3 个连续学期）及另一条 32 学分研究 MS（论文 CS 599）。八条可选研究生 track（AI、data science、security 等）。",
+  "Research MS is a selective four-semester (≈2-year) degree: 34 credits with 6–12 thesis credits, an outside minor, and a written thesis + oral. Professional MEng is a separate ~1-year coursework + capstone route.": "研究 MS 为遴选制四学期（≈2 年）学位：34 学分，含 6–12 学分论文、校外 minor，以及书面论文与口试。专业 MEng 为另一条约 1 年授课 + capstone 路径。",
+  "Campus MSCS is 30 hours with one required specialization (11 areas; specialization coursework 15–18 hours). Course, Project (9h), or Thesis (12h) options. Complete within six years; keep distinct from OMSCS.": "校内 MSCS 为 30 学时，须选一个专修（11 个领域；专修课程 15–18 学时）。可选 Course、Project（9h）或 Thesis（12h）。须在六年内完成；与 OMSCS 区分。",
+  "CSE master’s requires 30 credits; thesis optional; normally finished in 1.5–2 years. MS vs MSE is primarily naming/eligibility by prior engineering bachelor’s.": "CSE 硕士需 30 学分；论文可选；通常 1.5–2 年完成。MS 与 MSE 主要差异在命名／是否具工程学士资格。",
+  "On-campus research MSCS: breadth (3) + minor (2), then coursework (5 electives) or thesis (3 electives + 2 thesis courses); typically ~10 courses / ~2 years. Distinct from the online MSCS.": "校内研究 MSCS：广度（3）+ minor（2），再选授课（5 门选修）或论文（3 门选修 + 2 门论文课）；通常约 10 门课／约 2 年。与线上 MSCS 不同。"
 }

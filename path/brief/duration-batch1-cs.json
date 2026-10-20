@@ -1,0 +1,215 @@
+{
+  "batch": "duration-batch1-cs",
+  "as_of": "2026-10-20",
+  "field": "duration/core/tracks",
+  "items": [
+    {
+      "id": "cmu-mscs",
+      "as_of": "2026-10-20",
+      "duration": "Most students finish in three semesters; an extra semester may be needed if switching into CS.",
+      "credits": "96\u2013108 qualifying units (typically eight courses) plus up to 12 elective units; Systems, Theory, and AI breadth each required.",
+      "tracks": [
+        "Advisor-designed course of study (no fixed specialization list on the MSCS page)",
+        "Optional research (~1/3 of students); thesis option"
+      ],
+      "coreNotes": "Not a fixed core list \u2014 construct the plan with an advisor. Must pass one Systems, one Theoretical Foundations, and one AI qualifying course; maintain 3.0 QPA. Many students take 15-213/513.",
+      "academic": "Coursework MS (96\u2013108 qualifying units, typically eight courses) with optional research and a thesis option. Most finish in three semesters; MS admission does not prefer students for the PhD.",
+      "orientation": "Coursework \u00b7 Optional research \u00b7 Thesis option \u00b7 ~3 semesters",
+      "sources": [
+        [
+          "MS in Computer Science",
+          "https://csd.cs.cmu.edu/academics/masters/ms-in-computer-science"
+        ]
+      ]
+    },
+    {
+      "id": "stanford-cs",
+      "as_of": "2026-10-20",
+      "duration": "Up to 3 years / 9 non-summer quarters once the MS CS plan is active; leave of absence counts toward the clock.",
+      "credits": "At least 45 Stanford units on an approved program sheet; \u22658 units per Autumn/Winter/Spring (exceptions for HCP / final quarter).",
+      "tracks": [
+        "Artificial Intelligence",
+        "Computational Biology",
+        "Computer and Network Security",
+        "Human-Computer Interaction",
+        "Information Management and Analytics",
+        "Software Theory",
+        "Systems",
+        "Theoretical Computer Science",
+        "Visual Computing",
+        "Individually Designed (high bar)"
+      ],
+      "coreNotes": "Requirements include Foundations, Significant Software Implementation (SSI), Breadth, Depth (via specialization), and Electives \u2014 details on the degree-requirements page. Do not invent a single shared core-course list across specializations.",
+      "academic": "45-unit MS CS with Foundations, SSI, Breadth, Depth, and Electives on an approved program sheet. Nine predefined specializations (plus rare Individually Designed). Up to three years / nine non-summer quarters.",
+      "orientation": "45 units \u00b7 9 specializations \u00b7 Coursework or research options",
+      "sources": [
+        [
+          "MS degree requirements",
+          "https://www.cs.stanford.edu/masters-degree-requirements"
+        ],
+        [
+          "MS specializations",
+          "https://www.cs.stanford.edu/masters-specializations"
+        ]
+      ]
+    },
+    {
+      "id": "berkeley-cs",
+      "as_of": "2026-10-20",
+      "duration": "One academic year \u2014 Fall and Spring only (full-time MEng).",
+      "credits": "Not restated as a single credit total on the EECS MEng overview; program is Fall+Spring with technical concentration, leadership courses, and a team capstone.",
+      "tracks": [
+        "Data Science",
+        "Computer Systems",
+        "Physical Electronics and Integrated Circuits",
+        "Robotics and Embedded Software",
+        "Signal Processing and Communications",
+        "Visual Computing and Computer Graphics"
+      ],
+      "coreNotes": "Industry-oriented MEng (not a research MS). Capstone projects via Fung Capstone Marketplace. Distinguish from research graduate degrees.",
+      "academic": "Full-time EECS MEng completed in one academic year (Fall and Spring) with a technical concentration, engineering leadership coursework, and a team capstone. Concentrations include Data Science, Computer Systems, and Visual Computing among others.",
+      "orientation": "Professional MEng \u00b7 1 year \u00b7 Capstone \u00b7 Leadership",
+      "sources": [
+        [
+          "Master of Engineering (MEng) EECS",
+          "https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/"
+        ]
+      ]
+    },
+    {
+      "id": "illinois-cs",
+      "as_of": "2026-10-20",
+      "duration": "On-campus MCS: all requirements within three consecutive fall/spring semesters (Chicago/online MCS up to five years). Research MS: within five consecutive fall/spring semesters.",
+      "credits": "Both MCS and research MS: 32 credit hours. MCS is coursework-only. Research MS: 28 coursework + 4 CS 599 thesis.",
+      "tracks": [
+        "Artificial intelligence",
+        "Data science",
+        "Graphics and visualization",
+        "Immersive computing",
+        "Information Systems",
+        "Networked and distributed systems",
+        "Security",
+        "Software engineering"
+      ],
+      "coreNotes": "Catalog routes differ: professional MCS vs research MS with thesis. Breadth + advanced 500-level rules apply; do not invent a single named core-course sequence. Campus Urbana MCS is the primary Fall 2027 catalog route (vs Chicago/online).",
+      "academic": "Siebel School offers a 32-credit professional MCS (coursework-only; Urbana typically \u22643 consecutive semesters) and a separate 32-credit research MS (thesis via CS 599). Eight optional graduate tracks (AI, data science, security, etc.).",
+      "orientation": "MCS or research MS \u00b7 32 credits \u00b7 8 tracks",
+      "sources": [
+        [
+          "MCS program",
+          "https://siebelschool.illinois.edu/academics/graduate/professional-mcs"
+        ],
+        [
+          "Computer Science, MCS catalog 2026\u201327",
+          "https://catalog.illinois.edu/graduate/engineering/computer-science-mcs/"
+        ],
+        [
+          "Computer Science, MS catalog 2026\u201327",
+          "https://catalog.illinois.edu/graduate/engineering/computer-science-ms/"
+        ],
+        [
+          "M.S. Program",
+          "https://siebelschool.illinois.edu/academics/graduate/ms-program"
+        ]
+      ]
+    },
+    {
+      "id": "cornell-cs",
+      "as_of": "2026-10-20",
+      "duration": "MS: two-year / four-semester research degree. MEng: principally one-year professional master\u2019s (separate program).",
+      "credits": "MS: 34 credit hours total; 6\u201312 associated with thesis research (CS 7999); outside minor required. MEng: coursework + capstone (see MEng pages).",
+      "tracks": [
+        "MS: specialized area + thesis (research)",
+        "MEng: professional coursework + industry-oriented capstone"
+      ],
+      "coreNotes": "MS and MEng are distinct. Catalog id covers both routes \u2014 prefer stating which route. MS: \u22654 CS courses at 5000+ including \u22651 at 6000+; letter grade C or better.",
+      "academic": "Research MS is a selective four-semester (\u22482-year) degree: 34 credits with 6\u201312 thesis credits, an outside minor, and a written thesis + oral. Professional MEng is a separate ~1-year coursework + capstone route.",
+      "orientation": "MS research thesis \u00b7 or MEng professional \u00b7 Distinct routes",
+      "sources": [
+        [
+          "Master of Science in Computer Science",
+          "https://www.cs.cornell.edu/master-science-computer-science"
+        ],
+        [
+          "MEng apply",
+          "https://www.cs.cornell.edu/master-engineering-computer-science/apply"
+        ]
+      ]
+    },
+    {
+      "id": "gatech-cs",
+      "as_of": "2026-10-20",
+      "duration": "Must complete within six calendar years (Institute policy). Typical pace not fixed on the overview page \u2014 do not invent a semester count.",
+      "credits": "30 total hours. Default Course Option: 30 coursework. Project Option: 21 coursework + 9 CS 6999. Thesis Option: 18 coursework + 12 CS 7000.",
+      "tracks": [
+        "Artificial Intelligence",
+        "Computational Perception and Robotics",
+        "Computer Graphics",
+        "Computing Systems",
+        "High Performance Computing",
+        "Human Centered Computing (PhD HCC path note)",
+        "Human-Computer Interaction",
+        "Machine Learning",
+        "Modeling and Simulations",
+        "Scientific Computing",
+        "Social Computing",
+        "Visual Analytics"
+      ],
+      "coreNotes": "Exactly one specialization (15\u201318 hours, grades B+). Remaining free electives. Atlanta campus MSCS cannot use OMSCS online courses. Specialization page lists named core/elective course menus \u2014 cite specialization rather than inventing a universal core.",
+      "academic": "Campus MSCS is 30 hours with one required specialization (11 areas; specialization coursework 15\u201318 hours). Course, Project (9h), or Thesis (12h) options. Complete within six years; keep distinct from OMSCS.",
+      "orientation": "30 hours \u00b7 1 specialization \u00b7 Course / project / thesis",
+      "sources": [
+        [
+          "MS Computer Science program",
+          "https://www.cc.gatech.edu/degree-programs/master-science-computer-science"
+        ],
+        [
+          "MSCS specializations",
+          "https://www.cc.gatech.edu/ms-computer-science-specializations"
+        ],
+        [
+          "MSCS catalog",
+          "https://catalog.gatech.edu/programs/computer-science-ms/"
+        ]
+      ]
+    },
+    {
+      "id": "michigan-cs",
+      "as_of": "2026-10-20",
+      "duration": "Normally 1.5\u20132 years.",
+      "credits": "30 credits of coursework; thesis optional. MS and MSE names differ mainly by prior engineering bachelor\u2019s eligibility.",
+      "tracks": [
+        "Field customization via coursework menus in the CSE Graduate Program Guide (not a short fixed specialization list on the overview page)"
+      ],
+      "coreNotes": "Detailed requirement menus live in the CSE Graduate Program Guide / course-satisfaction sheet \u2014 do not invent named cores without that sheet. Thesis optional.",
+      "academic": "CSE master\u2019s requires 30 credits; thesis optional; normally finished in 1.5\u20132 years. MS vs MSE is primarily naming/eligibility by prior engineering bachelor\u2019s.",
+      "orientation": "30 credits \u00b7 Optional thesis \u00b7 1.5\u20132 years",
+      "sources": [
+        [
+          "Master\u2019s in CSE",
+          "https://cse.engin.umich.edu/academics/graduate/graduate-programs/masters-in-cse/"
+        ]
+      ]
+    },
+    {
+      "id": "texas-cs",
+      "as_of": "2026-10-20",
+      "duration": "Designed as about two years for both coursework and thesis options (thesis often finished in the last two semesters; may take longer).",
+      "credits": "Typically 10 courses \u00d7 3 credit hours. Breadth 3 + Minor 2; then either 5 electives (coursework) or 3 electives + 2 thesis courses.",
+      "tracks": [
+        "Coursework option",
+        "Thesis option (switchable)"
+      ],
+      "coreNotes": "On-campus research MSCS (not the online MSCS). Breadth and minor course menus are on department pages \u2014 do not invent named course lists here. Keep separate from online MSCS.",
+      "academic": "On-campus research MSCS: breadth (3) + minor (2), then coursework (5 electives) or thesis (3 electives + 2 thesis courses); typically ~10 courses / ~2 years. Distinct from the online MSCS.",
+      "orientation": "Research MSCS \u00b7 Coursework or thesis \u00b7 ~2 years",
+      "sources": [
+        [
+          "PhD and MS research degrees",
+          "https://www.cs.utexas.edu/graduate/research-degrees"
+        ]
+      ]
+    }
+  ],
+  "notes": "Overlay keys: academic, orientation, sources. Duration/credits/tracks live mainly in dossier MD + this JSON. Do not invent unlabeled cores."
+}

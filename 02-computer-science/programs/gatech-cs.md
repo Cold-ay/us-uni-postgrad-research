@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-MS students select a specialization. Compare the campus MS separately from the online OMSCS.
+Campus MSCS is 30 hours with one required specialization (11 areas; specialization coursework 15–18 hours). Course, Project (9h), or Thesis (12h) options. Complete within six years; keep distinct from OMSCS.
 
-Orientation: See degree route and academic overview
+Orientation: 30 hours · 1 specialization · Course / project / thesis
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -46,13 +46,15 @@ Shared scholarship IDs: SCH-015, SCH-016, SCH-017, SCH-018, SCH-019, SCH-020, SC
 
 ## Sources
 
-- [MS CS specializations](https://www.cc.gatech.edu/ms-computer-science-specializations)
+- [MSCS specializations](https://www.cc.gatech.edu/ms-computer-science-specializations)
 - [Official tuition / budget](https://bursar.gatech.edu/student/tuition/su27/su27_totals.pdf)
 - [Gatech Bursar Tuition & Fees](https://bursar.gatech.edu/tuition-fees)
 - [Fall 2026 Tuition and Fee Rates PDF](https://bursar.gatech.edu/sites/default/files/2026-07/fa26_totals_page_0.pdf)
 - [Graduate Costs (OSFA)](https://finaid.gatech.edu/costs/graduate-costs)
 - [GT GradApp program info (MS CS deadlines)](https://gradapp.gatech.edu/portal/program-info?cmd=view-program&program=86097380-be9a-4631-6407-50f3d959f466)
 - [MS CS admission requirements](https://www.cc.gatech.edu/ms-computer-science-admission-requirements)
+- [MS Computer Science program](https://www.cc.gatech.edu/degree-programs/master-science-computer-science)
+- [MSCS catalog](https://catalog.gatech.edu/programs/computer-science-ms/)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

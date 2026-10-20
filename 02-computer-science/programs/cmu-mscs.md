@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Coursework with optional research and a thesis route. Application open: 9 Sep 2026 (deadline research 2026-10-20; see deadline field).
+Coursework MS (96–108 qualifying units, typically eight courses) with optional research and a thesis option. Most finish in three semesters; MS admission does not prefer students for the PhD.
 
-Orientation: Coursework · Optional research · Thesis option
+Orientation: Coursework · Optional research · Thesis option · ~3 semesters
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
