@@ -42,7 +42,7 @@ Program-specific internship structure, placement rates and international-student
 
 Haas merit/need scholarships via Haas Financial Aid; intl students typically considered for school scholarships — confirm on aid pages. BIO fees apply to F/J.
 
-Shared scholarship IDs: SCH-015, SCH-017, SCH-019, SCH-020, SCH-027, SCH-034, SCH-035, SCH-036, SCH-037, SCH-038, SCH-062, SCH-064, SCH-066. See the [scholarship library](../../04-scholarships/README.md).
+Shared scholarship IDs: SCH-015, SCH-017, SCH-019, SCH-020, SCH-027, SCH-034, SCH-035, SCH-036, SCH-037, SCH-038, SCH-062, SCH-064, SCH-066, SCH-072, SCH-074, SCH-084. See the [scholarship library](../../04-scholarships/README.md).
 
 ## Sources
 

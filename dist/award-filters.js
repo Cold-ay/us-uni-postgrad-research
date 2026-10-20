@@ -1,4 +1,4 @@
-/** HK/TW eligibility filter helpers (scholarship library). */
+/** Regional eligibility filter helpers (scholarship library). */
 export function awardEligibilityMatch(s, field, filter) {
   if (filter === 'All') return true;
   const v = s[field];
@@ -6,15 +6,25 @@ export function awardEligibilityMatch(s, field, filter) {
 }
 
 /**
- * When only one of HK/TW filters is set, it must match (AND with "All" on the other).
- * When both are set, match if either dimension matches (OR) so dual "yes" is a union, not intersection.
+ * When one regional filter is set, it must match (others at All pass through).
+ * When two or more of HK/TW/PRC are set, match if any active dimension matches (OR union).
  */
+export function awardRegionFilterMatch(s, hkFilter, twFilter, prcFilter = 'All') {
+  const dims = [
+    ['hkEligible', hkFilter],
+    ['twEligible', twFilter],
+    ['prcEligible', prcFilter],
+  ];
+  const active = dims.filter(([, f]) => f !== 'All');
+  if (!active.length) return true;
+  if (active.length === 1) {
+    const [field, f] = active[0];
+    return awardEligibilityMatch(s, field, f);
+  }
+  return active.some(([field, f]) => awardEligibilityMatch(s, field, f));
+}
+
+/** @deprecated Use awardRegionFilterMatch; kept for tests and backward compatibility. */
 export function awardHkTwFilterMatch(s, hkFilter, twFilter) {
-  const hkActive = hkFilter !== 'All';
-  const twActive = twFilter !== 'All';
-  if (!hkActive && !twActive) return true;
-  const hkMatch = awardEligibilityMatch(s, 'hkEligible', hkFilter);
-  const twMatch = awardEligibilityMatch(s, 'twEligible', twFilter);
-  if (hkActive && twActive) return hkMatch || twMatch;
-  return hkMatch && twMatch;
+  return awardRegionFilterMatch(s, hkFilter, twFilter, 'All');
 }

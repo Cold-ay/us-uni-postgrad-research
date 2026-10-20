@@ -1,0 +1,659 @@
+{
+  "asOf": "2026-10-20",
+  "intake": "Fall 2027",
+  "idScheme": "SCH-067+ with prcEligible (pending gm lock)",
+  "awards": [
+    {
+      "id": "SCH-067",
+      "name": "CSC National High-Level University Graduate Program (国家建设高水平大学公派研究生项目)",
+      "scope": "national",
+      "state": "open-annual",
+      "tone": "amber",
+      "type": "Government",
+      "awardType": "fellowship",
+      "category": "National",
+      "description": "China Scholarship Council flagship outbound graduate program for 2026. Selection categories are PhD study abroad (36–48 months) and joint PhD training (6–24 months). Living stipend + one round-trip airfare; tuition is NOT covered. Applicants need foreign PhD offer/invitation plus tuition waiver or external tuition funding. Mainland PRC nationals without foreign permanent residency.",
+      "eligibility": "PRC citizens without foreign permanent residency; age ≤35 (born after 1990-01-01); language conditions per CSC guide. 2026 categories do NOT include standalone overseas master's. Masters may still appear under other CSC channels (e.g. international-organization talent program).",
+      "amount": "Living stipend for funded period + one round-trip international airfare; no tuition (verbatim from 2026 project guide mirrors)",
+      "deadline": "Online application 2026-03-10 00:00 – 2026-04-01 14:00 Beijing time; results ~end of May 2026; qualification valid through 2027-12-31",
+      "note": "aid-cn/opportunities/csc-high-level-phd.md — Critical for Fall 2027 PhD CS paths; NOT a general US MBA/terminal MS fund. Since ~2019 CSC no longer runs a broad national overseas-master's slot under this project.",
+      "url": "https://gs.dhu.edu.cn/2026/0121/c24857a371214/page.htm",
+      "sources": [
+        {
+          "label": "Donghua Univ mirror — 2026 High-Level Graduate Program Guide",
+          "url": "https://gs.dhu.edu.cn/2026/0121/c24857a371214/page.htm"
+        },
+        {
+          "label": "CSC platform sa.csc.edu.cn",
+          "url": "https://sa.csc.edu.cn/student"
+        }
+      ],
+      "programIds": [],
+      "intlEligible": "yes",
+      "hkEligible": "no",
+      "twEligible": "no",
+      "prcEligible": "yes",
+      "asOf": "2026-10-20"
+    },
+    {
+      "id": "SCH-068",
+      "name": "CSC International Organization Talent Development Program (国际组织后备人才培养项目)",
+      "scope": "national",
+      "state": "open-annual",
+      "tone": "green",
+      "type": "Government",
+      "awardType": "fellowship",
+      "category": "National",
+      "description": "CSC program that DOES select overseas master's (12–24 months) and joint master's (3–12 months) for students aiming at international-organization careers. Funding: airfare + living stipend; tuition support available for full overseas master's (degree-seeking). CSC cooperation channels listed for Sciences Po Paris, UNU-MERIT, IE University Spain — US destinations mainly via university cooperation channels.",
+      "eligibility": "PRC; excellent current master's students at Chinese universities with strong IO career intent; age ≤28 (born after 1997-01-01); must already hold foreign admit/invitation. Post-study: seek IO internship/employment ≥6 months within one year. Unit recommendation required — CSC does not take direct individual applications for unit channel.",
+      "amount": "Airfare + living stipend for funded period; tuition may be funded for degree master's (per 2026 guide)",
+      "deadline": "Person applications 2026 batch 1: Apr 1–10 14:00; batch 2: Sep 1–10 14:00 Beijing time. Results Jun / Nov 2026. Qualification valid through 2027-12-31",
+      "note": "aid-cn/opportunities/csc-io-talent-masters.md — Narrow career fit (IO track), not general CS/MBA. Include because it is one of the few verified CSC master's outbound routes for 2026.",
+      "url": "https://international.cqnu.edu.cn/info/1339/5216.htm",
+      "sources": [
+        {
+          "label": "CQNU mirror — 2026 IO Talent Program Guide",
+          "url": "https://international.cqnu.edu.cn/info/1339/5216.htm"
+        },
+        {
+          "label": "RUC notice",
+          "url": "https://grs.ruc.edu.cn/info/1017/3319.htm"
+        }
+      ],
+      "programIds": [],
+      "intlEligible": "yes",
+      "hkEligible": "no",
+      "twEligible": "no",
+      "prcEligible": "yes",
+      "asOf": "2026-10-20"
+    },
+    {
+      "id": "SCH-069",
+      "name": "CSC Americas–Oceania Bilateral / Cooperative Scholarships (美大地区中外合作奖学金)",
+      "scope": "national",
+      "state": "open-annual",
+      "tone": "amber",
+      "type": "Government",
+      "awardType": "fellowship",
+      "category": "National",
+      "description": "2026 CSC launched 42 Americas–Oceania cooperative scholarship projects. Public university mirrors list partners in Australia, New Zealand, Canada, Mexico — predominantly PhD (and some visiting/postdoc). No verified US master's project in the published 42-project detail tables reviewed for this card.",
+      "eligibility": "PRC applicants via home university recommendation; must obtain foreign admit/invitation and partner nomination. Degree level and country are project-specific.",
+      "amount": "Per individual partner project guide (not uniform); typically stipend/fees per CSC–partner agreement",
+      "deadline": "Online application 2026-03-10 00:00 – 2026-04-01 14:00 Beijing time; dispatch by end of 2027-12",
+      "note": "aid-cn/opportunities/csc-americas-oceania-coop.md — Keep on watchlist for US partners; Batch-1 finding = NO confirmed US terminal MS/MBA slot in the 42-project public list. Do not treat as a general US master's scholarship.",
+      "url": "https://www.cscdf.org/OverDetail2t808i13059",
+      "sources": [
+        {
+          "label": "CSCDF notice — 2026 Americas–Oceania 42 projects",
+          "url": "https://www.cscdf.org/OverDetail2t808i13059"
+        },
+        {
+          "label": "HUAT mirror — project detail table",
+          "url": "https://iceo.huat.edu.cn/info/1053/3392.htm"
+        },
+        {
+          "label": "CSU notice",
+          "url": "https://iecd.csu.edu.cn/info/1015/13420.htm"
+        }
+      ],
+      "programIds": [],
+      "intlEligible": "yes",
+      "hkEligible": "no",
+      "twEligible": "no",
+      "prcEligible": "yes",
+      "asOf": "2026-10-20"
+    },
+    {
+      "id": "SCH-070",
+      "name": "CSC National Outstanding Self-Financed Students Scholarship (国家优秀自费留学生奖学金)",
+      "scope": "national",
+      "state": "open-annual",
+      "tone": "amber",
+      "type": "Government",
+      "awardType": "scholarship",
+      "category": "Merit-Based",
+      "description": "One-time merit award for outstanding PRC citizens already studying abroad on self-financed status. 2026–27 cycle: Class A for current PhD year-2+ graduating after 2027-06-30 ($6,000; exceptional $10,000); Class B for returning PhD graduates/postdocs in a defined window ($10,000).",
+      "eligibility": "PRC passport, no foreign permanent residency; PhD-focused (not new master's applicants). Prior recipients or current/past CSC-funded students ineligible. Apply via CSC system + local Chinese embassy/consulate education office.",
+      "amount": "Class A USD 6,000 (exceptional USD 10,000); Class B USD 10,000 — one-time",
+      "deadline": "Online 2026-11-23 00:00 – 2026-12-04 23:59 Beijing time (system https://yxzfs.csc.edu.cn/). US-district local notices for 2026–27 may lag; watch embassy education pages.",
+      "note": "aid-cn/opportunities/csc-outstanding-self-financed.md — Useful mid-PhD / return bonus — not funding to start Fall 2027 MS/MBA. Included for PRC CS PhD pipeline completeness.",
+      "url": "https://se.china-embassy.gov.cn/sgxw/202610/t20261020_12043262.htm",
+      "sources": [
+        {
+          "label": "Embassy of China in Sweden — 2026–27 notice (amounts/dates)",
+          "url": "https://se.china-embassy.gov.cn/sgxw/202610/t20261020_12043262.htm"
+        },
+        {
+          "label": "Vancouver consulate notice",
+          "url": "https://vancouver.china-consulate.gov.cn/tztg/202610/t20261017_12042187.htm"
+        },
+        {
+          "label": "CSC portal",
+          "url": "https://yxzfs.csc.edu.cn/"
+        }
+      ],
+      "programIds": [],
+      "intlEligible": "yes",
+      "hkEligible": "no",
+      "twEligible": "no",
+      "prcEligible": "yes",
+      "asOf": "2026-10-20"
+    },
+    {
+      "id": "SCH-071",
+      "name": "CSC note — National overseas master's track largely closed since ~2019 (gap card)",
+      "scope": "national",
+      "state": "closed-policy",
+      "tone": "red",
+      "type": "Government",
+      "awardType": "fellowship",
+      "category": "National",
+      "description": "SJTU / CSC applicant FAQ mirrors state that since ~2019 China no longer runs a broad national CSC overseas-master's program; overseas master's and joint master's may still be selected through OTHER named projects (IO talent, art talent, regional studies, government exchanges, bilateral partners).",
+      "eligibility": "N/A — policy gap notice for PRC applicants seeking US terminal MS/MBA funding from CSC.",
+      "amount": "N/A — no general national master's CSC award",
+      "deadline": "N/A",
+      "note": "aid-cn/opportunities/csc-masters-gap-note.md — research-note-only — NOT a live scholarship for site ingest. Prefer gaps[]/researchNotes. Counted as a verified finding/gap card for Batch 1 transparency. Terminal MS CS and MBA applicants should not expect a general CSC master's slot; prioritize school merit aid + company/provincial channels still under research.",
+      "url": "https://icisee.sjtu.edu.cn/upload/file/20260114/20260114164440.pdf",
+      "sources": [
+        {
+          "label": "SJTU ICISEE PDF — 2026 CSC graduate FAQ (masters via other projects only)",
+          "url": "https://icisee.sjtu.edu.cn/upload/file/20260114/20260114164440.pdf"
+        }
+      ],
+      "programIds": [],
+      "intlEligible": "unclear",
+      "hkEligible": "no",
+      "twEligible": "no",
+      "prcEligible": "yes",
+      "asOf": "2026-10-20",
+      "ingest": false
+    },
+    {
+      "id": "SCH-072",
+      "name": "Knight-Hennessy Scholars (Stanford)",
+      "scope": "Stanford full-time graduate degrees (MBA, MS, PhD, and others listed)",
+      "state": "Closed for 2027 cohort · next opens summer 2027 for 2028",
+      "tone": "red",
+      "type": "Fellowship · University",
+      "awardType": "fellowship",
+      "category": "Merit-Based",
+      "description": "Stanford multidisciplinary graduate fellowship open to citizens/residents of all countries. Covers tuition and associated fees, living/academic stipend, annual travel stipend, and one-time relocation stipend for up to three years (degree-dependent; MA/MBA/MS typically up to six academic quarters).",
+      "eligibility": "No citizenship restriction (PRC passport holders eligible). Must apply concurrently to KHS and an eligible full-time Stanford graduate program (or meet listed current-student/deferral paths). First bachelor's earned Jan 2020 or later for 2027 cohort. MBA applicants must use Round 1.",
+      "amount": "Tuition + fees fellowship; living/academic stipend; annual economy travel stipend; one-time relocation stipend (exact stipend dollars not published on funding page — unclear)",
+      "deadline": "2027 cohort: Oct 6, 2026 1:00pm PT (CLOSED). Stanford degree deadline earlier of program KHS deadline or Dec 1, 2026. 2028 cohort application opens summer 2027.",
+      "note": "aid-cn/opportunities/knight-hennessy.md — 04-scholarships/opportunities/knight-hennessy.md — Strong dual-use for Stanford MBA and CS MS/PhD. 2027 cycle already closed as of asOf date.",
+      "url": "https://knight-hennessy.stanford.edu/admission/before-you-apply/eligibility",
+      "sources": [
+        {
+          "label": "KHS Eligibility",
+          "url": "https://knight-hennessy.stanford.edu/admission/before-you-apply/eligibility"
+        },
+        {
+          "label": "KHS Funding",
+          "url": "https://knight-hennessy.stanford.edu/program-overview/funding"
+        },
+        {
+          "label": "KHS Deadlines",
+          "url": "https://knight-hennessy.stanford.edu/admission/preparing-your-applications/application-deadlines"
+        }
+      ],
+      "programIds": [
+        "stanford-mba",
+        "stanford-cs",
+        "multi"
+      ],
+      "intlEligible": "yes",
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "asOf": "2026-10-20"
+    },
+    {
+      "id": "SCH-073",
+      "name": "AAUW International Fellowships (STEM master's/doctorate)",
+      "scope": "Accredited U.S. STEM graduate programs (master's or first doctorate)",
+      "state": "Closed for 2027–28 · next cycle opens ~Aug 2027",
+      "tone": "red",
+      "type": "Fellowship · Student-Specific",
+      "awardType": "fellowship",
+      "category": "Student-Specific",
+      "description": "AAUW awards for women who are non-U.S. citizens/permanent residents pursuing full-time STEM master's or academic/professional doctorate in the U.S. (CS and related STEM fields listed).",
+      "eligibility": "Must identify as a woman; non-U.S. citizen and not U.S. permanent resident; admitted or enrolled in first master's or doctorate in STEM at time of application; CGPA ≥3.5/4.0 on highest degree; program start on/before Sep 15, 2027 and complete on/after Apr 30, 2028. MBA not STEM — typically ineligible unless program is STEM-classified.",
+      "amount": "USD 20,000 (master's) or USD 25,000 (doctorate) stipend for fellowship term (disbursed in two payments)",
+      "deadline": "Applications open Aug 17, 2026 9:00am ET; close Sep 17, 2026 5:00pm ET (CLOSED for 2027–28). Award notice Mar 2027.",
+      "note": "aid-cn/opportunities/aauw-international.md — 04-scholarships/opportunities/aauw-international.md — CS master's/PhD fit; not general MBA.",
+      "url": "https://www.aauw.org/resources/programs/fellowships-grants/aauw-international-fellowships/",
+      "sources": [
+        {
+          "label": "AAUW International Fellowships",
+          "url": "https://www.aauw.org/resources/programs/fellowships-grants/aauw-international-fellowships/"
+        }
+      ],
+      "programIds": [
+        "multi (CS STEM)"
+      ],
+      "intlEligible": "yes",
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "asOf": "2026-10-20"
+    },
+    {
+      "id": "SCH-074",
+      "name": "P.E.O. International Peace Scholarship (IPS)",
+      "scope": "Graduate study at accredited U.S. or Canada colleges/universities",
+      "state": "Open window annually Sep 15–Dec 15",
+      "tone": "green",
+      "type": "Scholarship · Need-Based",
+      "awardType": "scholarship",
+      "category": "Need-Based",
+      "description": "Need-based scholarship for international women pursuing graduate study in the U.S. or Canada. Not intended to cover all expenses; applicant must show additional resources.",
+      "eligibility": "Woman outside the U.S. and Canada seeking an advanced degree in the U.S. or Canada; intends to return home to make positive impact; full year of formal coursework remaining and enrolled/in residence for entire school year. Not for U.S./Canada citizens or permanent residents. Doctoral students on dissertation-only not eligible as first-time applicants. Online-only courses ineligible.",
+      "amount": "Maximum USD 12,500; lesser amounts by need (verbatim IPS page)",
+      "deadline": "Eligibility/application period Sep 15 – Dec 15 each year; awards announced in May",
+      "note": "aid-cn/opportunities/peo-ips.md — 04-scholarships/opportunities/peo-ips.md — Postgrad-eligible need-based path for PRC women; MS CS and MBA both advanced degrees.",
+      "url": "https://www.peointernational.org/educational-support/international-peace-scholarship-fund/eligibility-and-application-process/",
+      "sources": [
+        {
+          "label": "P.E.O. IPS Eligibility",
+          "url": "https://www.peointernational.org/educational-support/international-peace-scholarship-fund/eligibility-and-application-process/"
+        }
+      ],
+      "programIds": [
+        "any US grad"
+      ],
+      "intlEligible": "yes",
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "asOf": "2026-10-20"
+    },
+    {
+      "id": "SCH-075",
+      "name": "Harvard Business School MBA Need-Based Scholarships",
+      "scope": "HBS full-time MBA (domestic and international)",
+      "state": "Open · post-admission aid application",
+      "tone": "green",
+      "type": "Scholarship · College-Specific",
+      "awardType": "scholarship",
+      "category": "Need-Based",
+      "description": "HBS awards need-based scholarships to both domestic and international MBA students. Admission is merit-based; aid is need-based via standardized formula (income, assets, socioeconomic background, undergrad debt).",
+      "eligibility": "Admitted HBS MBA students; international students eligible (page states need-based scholarships for domestic and international). Apply only after admission (MBA Financial Aid Application + Certification of Finances for non-US citizens/PRs).",
+      "amount": "Awards range USD 2,000–87,000 per year; ~50% of students receive need-based scholarships; average ~USD 100,000 over two years (verbatim HBS page)",
+      "deadline": "Post-admission; follow HBS MBA Financial Aid calendar (unclear exact Fall 2027 dates on page)",
+      "note": "aid-cn/opportunities/hbs-need.md — 04-scholarships/opportunities/hbs-need.md — Explicit international inclusion; PRC passport holders not excluded by citizenship language.",
+      "url": "https://www.hbs.edu/mba/financial-aid/tuition-assistance",
+      "sources": [
+        {
+          "label": "HBS Tuition Assistance",
+          "url": "https://www.hbs.edu/mba/financial-aid/tuition-assistance"
+        }
+      ],
+      "programIds": [
+        "hbs-mba"
+      ],
+      "intlEligible": "yes",
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "asOf": "2026-10-20"
+    },
+    {
+      "id": "SCH-076",
+      "name": "Stanford GSB MBA Need-Based Fellowships",
+      "scope": "Stanford GSB full-time MBA",
+      "state": "Open · post-admission financial aid",
+      "tone": "green",
+      "type": "Fellowship · College-Specific",
+      "awardType": "fellowship",
+      "category": "Need-Based",
+      "description": "Stanford GSB need-based fellowships (non-repayable) for MBA students. Page states all MBA students regardless of citizenship are eligible for financial aid; fellowships based solely on demonstrated need.",
+      "eligibility": "Admitted Stanford MBA students of any citizenship (verbatim: all MBA students regardless of citizenship eligible for financial aid). Employer sponsorship typically makes students ineligible for GSB fellowships.",
+      "amount": "Average fellowship ~USD 47,000 per year or ~USD 94,000 total (verbatim Types of Aid page); ~half of MBA students receive fellowship funds",
+      "deadline": "Post-admission financial aid process (unclear exact Fall 2027 deadlines on page)",
+      "note": "aid-cn/opportunities/stanford-gsb-need.md — 04-scholarships/opportunities/stanford-gsb-need.md — Complements Knight-Hennessy (SCH-072).",
+      "url": "https://www.gsb.stanford.edu/programs/mba/tuition-financial-aid/types-aid",
+      "sources": [
+        {
+          "label": "Stanford GSB Types of Aid",
+          "url": "https://www.gsb.stanford.edu/programs/mba/tuition-financial-aid/types-aid"
+        }
+      ],
+      "programIds": [
+        "stanford-mba"
+      ],
+      "intlEligible": "yes",
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "asOf": "2026-10-20"
+    },
+    {
+      "id": "SCH-077",
+      "name": "Michigan Ross Full-Time MBA Merit Scholarships",
+      "scope": "Michigan Ross full-time MBA",
+      "state": "Open · automatic with admission",
+      "tone": "green",
+      "type": "Scholarship · Merit-Based",
+      "awardType": "scholarship",
+      "category": "Merit-Based",
+      "description": "Ross considers all full-time MBA applicants for admission scholarships. Page explicitly states this applies to U.S. citizens, permanent residents, and international students. No separate application.",
+      "eligibility": "All full-time MBA admits including international students (verbatim). Awards based on academic ability, professional/personal achievements, and community contribution. Renewable for both years subject to good academic standing.",
+      "amount": "USD 10,000 to full tuition (verbatim scholarships page)",
+      "deadline": "Automatic with admission decision; no separate deadline",
+      "note": "aid-cn/opportunities/ross-merit.md — 04-scholarships/opportunities/ross-merit.md — Explicit international language; PRC eligible under intl clause.",
+      "url": "https://rossweb.bus.umich.edu/financial-aid/scholarships/mba/",
+      "sources": [
+        {
+          "label": "Ross FTMBA Scholarships",
+          "url": "https://rossweb.bus.umich.edu/financial-aid/scholarships/mba/"
+        },
+        {
+          "label": "Ross Tuition & Financial Aid",
+          "url": "https://michiganross.umich.edu/graduate/full-time-mba/admissions/tuition-financial-aid"
+        }
+      ],
+      "programIds": [
+        "ross-mba"
+      ],
+      "intlEligible": "yes",
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "asOf": "2026-10-20"
+    },
+    {
+      "id": "SCH-078",
+      "name": "Duke Fuqua Daytime MBA Merit Scholarships",
+      "scope": "Duke Fuqua Daytime MBA",
+      "state": "Open · automatic with admission",
+      "tone": "green",
+      "type": "Scholarship · Merit-Based",
+      "awardType": "scholarship",
+      "category": "Merit-Based",
+      "description": "Fuqua International Student Financial Aid FAQ: every admitted applicant is considered for a merit scholarship. Awards for the 2-year MBA duration; range partial to full tuition. Only form of gift assistance from Fuqua (aside from limited invited second-year awards).",
+      "eligibility": "Every admitted Daytime MBA applicant considered (FAQ under International Students). Criteria: prior academic achievement, leadership, community involvement, extracurriculars, professional accomplishments. No citizenship exclusion stated on FAQ.",
+      "amount": "Partial tuition to full tuition for 2 years (verbatim FAQ); exact dollar bands unclear",
+      "deadline": "Automatic with admission; no separate application",
+      "note": "aid-cn/opportunities/fuqua-merit.md — 04-scholarships/opportunities/fuqua-merit.md — On international FAQ page; treat as PRC-welcome via intl consideration.",
+      "url": "https://www.fuqua.duke.edu/programs/daytime-mba/financing-international-faq",
+      "sources": [
+        {
+          "label": "Fuqua International FA FAQ",
+          "url": "https://www.fuqua.duke.edu/programs/daytime-mba/financing-international-faq"
+        }
+      ],
+      "programIds": [
+        "fuqua-mba"
+      ],
+      "intlEligible": "yes",
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "asOf": "2026-10-20"
+    },
+    {
+      "id": "SCH-079",
+      "name": "ByteDance Scholarship (字节跳动奖学金)",
+      "scope": "Enrolled students at universities worldwide (AI/CS/basic sciences)",
+      "state": "Open · 2026 cycle (deadline Jun 26)",
+      "tone": "amber",
+      "type": "Scholarship · Company-Sponsored",
+      "awardType": "scholarship",
+      "category": "Company-Sponsored",
+      "description": "Company research prize for students enrolled at global universities in AI/CS/basic sciences. First global open year. Cash research award (not tuition-to-matriculate for US study). Dual-use for PRC students already at or soon at US programs who graduate Jun 2027 or later.",
+      "eligibility": "Global university enrolled students; graduation Jun 2027 or later; AI, CS, basic sciences (examples: foundation models, CV, speech, ML systems, AI for Science, embodied AI). Bachelor's/master's/PhD all stages welcome. Not a degree-entry scholarship.",
+      "amount": "CNY 200,000 research award to student + CNY 100,000 to advisor (non-Mainland China: equivalent currency)",
+      "deadline": "Online applications May–Jun; deadline Jun 26, 2026 24:00; results Nov 2026",
+      "note": "aid-cn/opportunities/bytedance-scholarship.md — 04-scholarships/opportunities/bytedance-scholarship.md — NOT Alibaba/Tencent/Huawei overseas-study tuition fund. No verified Alibaba/Tencent/Huawei degree-abroad scholarship found on official pages.",
+      "url": "https://scholarship.bytedance.com/",
+      "sources": [
+        {
+          "label": "ByteDance Scholarship official",
+          "url": "https://scholarship.bytedance.com/"
+        }
+      ],
+      "programIds": [
+        "multi (CS/AI enrolled)"
+      ],
+      "intlEligible": "yes",
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "asOf": "2026-10-20"
+    },
+    {
+      "id": "SCH-080",
+      "name": "Jane Street Graduate Research Fellowship (GRF)",
+      "scope": "PhD in EECS/math/physics/statistics at accredited research institutions (US and listed countries)",
+      "state": "Open · 2027 GRF cycle",
+      "tone": "green",
+      "type": "Fellowship · Company-Sponsored",
+      "awardType": "fellowship",
+      "category": "Company-Sponsored",
+      "description": "Jane Street fellowship for exceptional PhD students (or students committed to start PhD Fall 2027) in EECS, mathematics, physics, or statistics. International students explicitly encouraged.",
+      "eligibility": "At least one year remaining in PhD (or committed to commence PhD Fall 2027) in listed fields; full-time at accredited research institution in US, Canada, UK, Europe, Australia, New Zealand, or Singapore. International students eligible and encouraged. Not for MBA/terminal MS.",
+      "amount": "Full tuition and fees for upcoming academic year + USD 50,000 living stipend; finalists USD 5,000",
+      "deadline": "Student applications Nov 13, 2026 AoE; recommendation letters Dec 1, 2026 AoE; notifications February",
+      "note": "aid-cn/opportunities/jane-street-grf.md — 04-scholarships/opportunities/jane-street-grf.md — PhD CS pipeline; not MS/MBA entry funding.",
+      "url": "https://www.janestreet.com/join-jane-street/programs-and-events/graduate-research-fellowship/",
+      "sources": [
+        {
+          "label": "Jane Street GRF",
+          "url": "https://www.janestreet.com/join-jane-street/programs-and-events/graduate-research-fellowship/"
+        }
+      ],
+      "programIds": [
+        "multi (CS PhD)"
+      ],
+      "intlEligible": "yes",
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "asOf": "2026-10-20"
+    },
+    {
+      "id": "SCH-081",
+      "name": "Meta Research PhD Fellowship",
+      "scope": "Full-time PhD students at accredited universities (research areas listed by Meta)",
+      "state": "Annual cycle · 2026 dates on portal",
+      "tone": "amber",
+      "type": "Fellowship · Company-Sponsored",
+      "awardType": "fellowship",
+      "category": "Company-Sponsored",
+      "description": "Meta Research PhD Fellowship for students in any PhD year whose research aligns with Meta's listed fellowship areas. Winners receive two years of paid tuition and fees, annual stipend, Fellowship Summit visit, and Meta researcher engagement.",
+      "eligibility": "Full-time PhD student at accredited university; any PhD year; research must match Meta's listed areas for the cycle. Open to diverse backgrounds; citizenship not restricted on main portal text. Prior Facebook/Meta grant may disqualify (per third-party summaries — re-verify FAQ).",
+      "amount": "Two years tuition and fees + USD 42,000 annual stipend for living and conference travel (verbatim Meta application portal)",
+      "deadline": "Application opens Aug 3; closes Sep 20; reference letters Oct 6; winners notified ~Jan 18 (year in portal timeline; confirm current cycle year on portal)",
+      "note": "aid-cn/opportunities/meta-phd.md — 04-scholarships/opportunities/meta-phd.md — PhD only. Overlaps conceptually with SCH-042/043/059 family; NEW award not previously catalogued in HK/TW set.",
+      "url": "https://metaresearchphdfellowship.smapply.io/res/p/Main/",
+      "sources": [
+        {
+          "label": "Meta Research PhD Fellowship portal",
+          "url": "https://metaresearchphdfellowship.smapply.io/res/p/Main/"
+        }
+      ],
+      "programIds": [
+        "multi (CS PhD)"
+      ],
+      "intlEligible": "yes",
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "asOf": "2026-10-20"
+    },
+    {
+      "id": "SCH-082",
+      "name": "Yale SOM MBA Scholarships (Dean's and general grant aid)",
+      "scope": "Yale SOM full-time MBA",
+      "state": "Open · post-admission supplemental scholarship application",
+      "tone": "green",
+      "type": "Scholarship · College-Specific",
+      "awardType": "scholarship",
+      "category": "Merit-Based",
+      "description": "Yale SOM awards scholarships post-admission via a short supplemental application; only candidates who complete it are considered. Dean's Scholarships are the bulk of grants. Named country awards (India, Africa, Mexico) are separate; Dean's/general pool does not exclude PRC nationals on the page.",
+      "eligibility": "Admitted full-time MBA students who complete the scholarship application. Country-specific named awards (Global Leaders from India; Yale Africa Impact; Yale-FUNED Mexico) do NOT apply to PRC. Forté/ROMBA/Consortium tracks overlap existing SCH ids — flag only.",
+      "amount": "Unclear individual Dean's amounts; >USD 7.8M awarded to incoming MBA students in 2024; median scholarship Class of 2027 USD 65K (affording page). Aspire Fellowships USD 60,000 to full tuition/fees (Class of 2027 initiative).",
+      "deadline": "Post-admission supplemental application (dates provided in admit portal — unclear on public page)",
+      "note": "aid-cn/opportunities/yale-som.md — 04-scholarships/opportunities/yale-som.md — PRC eligible for Dean's/general; not for India/Africa/Mexico named awards.",
+      "url": "https://som.yale.edu/programs/mba/affording-your-mba/scholarships-yale-som",
+      "sources": [
+        {
+          "label": "Yale SOM Scholarships",
+          "url": "https://som.yale.edu/programs/mba/affording-your-mba/scholarships-yale-som"
+        },
+        {
+          "label": "Yale SOM Affording Your MBA",
+          "url": "https://som.yale.edu/programs/mba/affording-your-mba"
+        }
+      ],
+      "programIds": [
+        "yale-som-mba"
+      ],
+      "intlEligible": "yes",
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "asOf": "2026-10-20"
+    },
+    {
+      "id": "SCH-083",
+      "name": "CSC Innovative Talent International Cooperation Program (创新型人才国际合作培养项目)",
+      "scope": "Project-based outbound (PhD primary; limited master's if project approved)",
+      "state": "Open-annual · unit-channel only",
+      "tone": "amber",
+      "type": "Fellowship · National",
+      "awardType": "fellowship",
+      "category": "National",
+      "description": "CSC 'project-system' program: Chinese universities/institutes win multi-year projects, then select students. Main categories are PhD, joint PhD, postdoc, visiting. Units may send a small number of degree master's (12–24 months) or joint master's (3–12 months) if the approved project includes them. Tuition support possible for some urgently needed master's/PhD fields per project notice. US destinations only if the approved project lists US partners.",
+      "eligibility": "PRC citizen, no foreign PR; must be selected by a Chinese project unit that has an approved CSC innovative-talent project — CSC does not take direct individual applications. Master's category: excellent graduating undergrads at the unit (or current master's if dual-master project). Age ≤35 (born after 1990-01-01). Foreign admit/invitation required. Cannot personally pay tuition under this program.",
+      "amount": "Round-trip airfare + living stipend per national standards; tuition only if project notice funds it (unclear per project)",
+      "deadline": "2026 person batches: Mar 1–11 14:00; Jun 1–11 14:00; Sep 1–11 14:00 Beijing time. Qualification valid through 2027-12-31.",
+      "note": "aid-cn/opportunities/csc-innovative-talent.md — 04-scholarships/opportunities/csc-innovative-talent.md — Rare CSC master's path IF home university has US-partner project. Check unit project list; not a general open master's scholarship.",
+      "url": "https://gs.dhu.edu.cn/2026/0121/c24855a371219/page.htm",
+      "sources": [
+        {
+          "label": "Donghua mirror — 2026 Innovative Talent Guide",
+          "url": "https://gs.dhu.edu.cn/2026/0121/c24855a371219/page.htm"
+        },
+        {
+          "label": "CSC platform",
+          "url": "https://sa.csc.edu.cn/student"
+        }
+      ],
+      "programIds": [],
+      "intlEligible": "yes",
+      "hkEligible": "no",
+      "twEligible": "no",
+      "prcEligible": "yes",
+      "asOf": "2026-10-20"
+    },
+    {
+      "id": "SCH-084",
+      "name": "Margaret McNamara Education Grants (MMEG) — US-Canada Program",
+      "scope": "Women from eligible countries enrolled full-time in U.S./Canada in-person programs",
+      "state": "Annual window Sep 15 – Jan 15",
+      "tone": "green",
+      "type": "Grant · Need/Student-Specific",
+      "awardType": "grant",
+      "category": "Need-Based",
+      "description": "Education grants for self-identifying women from World Bank–classified eligible countries (China listed under upper-middle-income). US-Canada program for students already enrolled full-time with valid student visa.",
+      "eligibility": "Woman ≥25 at deadline; national of eligible country (China listed); registered/enrolled (not merely admitted) in accredited in-person program; continue ≥1 semester after April award; graduate within 3 years of award; not US/Canada citizen or PR; not related to WBG/IMF/IDB staff. Certificate/undergrad/grad/postdoc welcome per FAQ.",
+      "amount": "Up to USD 18,000 for US-Canada program (FAQ; amounts may vary with funding availability)",
+      "deadline": "Sep 15 – Jan 15 11:59pm ET annually; results announced April; funds May–Jun",
+      "note": "aid-cn/opportunities/mmeg-us-canada.md — 04-scholarships/opportunities/mmeg-us-canada.md — Enrolled students only (not for applicants still in China pre-enrollment).",
+      "url": "https://www.mmeg.org/apply",
+      "sources": [
+        {
+          "label": "MMEG Apply / eligibility",
+          "url": "https://www.mmeg.org/apply"
+        },
+        {
+          "label": "MMEG FAQs (amounts)",
+          "url": "https://www.mmeg.org/frequently-asked-questions"
+        },
+        {
+          "label": "MMEG Country List (China)",
+          "url": "https://www.mmeg.org/eligibility-country-list"
+        }
+      ],
+      "programIds": [
+        "any US enrolled"
+      ],
+      "intlEligible": "yes",
+      "hkEligible": "unclear",
+      "twEligible": "unclear",
+      "prcEligible": "yes",
+      "asOf": "2026-10-20"
+    }
+  ],
+  "researchDetailsLinkage": {
+    "opportunityDir": "/workspace/aid-cn/opportunities/",
+    "summary": "/workspace/aid-cn/PRC-SCHOLARSHIP-SUMMARY.md",
+    "handoff": "/workspace/aid-cn/HANDOFF-TO-SITE.md",
+    "hktwAwards": "/cursor/stores/store-20bbd35f-5a77-401c-a48e-9245552ff60c/hktw-awards.json",
+    "idScheme": "SCH-067+ locked; prcEligible yes|no|unclear; SCH-071 ingest:false research-note-only"
+  },
+  "overlapsWithExisting": [
+    {
+      "existingId": "SCH-042",
+      "name": "Google PhD Fellowship",
+      "note": "Already in HK/TW set; PRC PhD applicants may also be eligible — do not duplicate"
+    },
+    {
+      "existingId": "SCH-043",
+      "name": "NVIDIA Graduate Fellowship",
+      "note": "Already catalogued; PRC eligible if intl/graduate rules allow — flag only"
+    },
+    {
+      "existingId": "SCH-059",
+      "name": "Microsoft Research Fellowship",
+      "note": "Already catalogued; PhD-level"
+    },
+    {
+      "existingId": "SCH-063",
+      "name": "SWE scholarships",
+      "note": "Already catalogued; intl graduate eligible"
+    },
+    {
+      "existingId": "SCH-034",
+      "name": "Forté MBA Fellowships",
+      "note": "Already in HK/TW; Yale SOM Forté track and others — PRC women may be eligible; do not duplicate"
+    },
+    {
+      "existingId": "SCH-035",
+      "name": "Reaching Out MBA (ROMBA)",
+      "note": "Already catalogued; Yale ROMBA fellowship mentioned on SOM page — flag only"
+    },
+    {
+      "existingId": "SCH-036",
+      "name": "The Consortium",
+      "note": "Already catalogued; US-citizen/PR focused historically — PRC typically no; flag"
+    },
+    {
+      "existingId": "SCH-026",
+      "name": "Tuck MBA Scholarships",
+      "note": "Already in HK/TW; intl eligible — do not recreate for PRC set"
+    },
+    {
+      "existingId": "SCH-044",
+      "name": "Apple Scholars in AI/ML",
+      "note": "Already catalogued PhD fellowship"
+    },
+    {
+      "existingId": "SCH-045",
+      "name": "Qualcomm Innovation Fellowship",
+      "note": "Already catalogued"
+    }
+  ],
+  "gaps": [
+    "CSC High-Level 2026 = PhD/joint PhD only; no broad national terminal master's (see SCH-071 research note)",
+    "CSC Americas–Oceania 42 cooperative projects 2026: public tables list AU/NZ/CA/MX — no verified US MS/MBA line (SCH-069)",
+    "Shanghai Municipal Government Scholarship and similar = study IN China — excluded by scope",
+    "Provincial education departments (Zhejiang, Guangdong, Jiangsu) act as CSC application ACCEPTANCE channels; no separate provincial outbound master's scholarship verified on official pages as of 2026-10-20",
+    "Alibaba / Tencent / Huawei: no official page found offering degree-funding for overseas postgraduate study (ByteDance SCH-079 is research prize for already-enrolled students)",
+    "CSC Innovative Talent (SCH-083) master's slots exist only inside unit-approved projects; US availability unit-specific and often unclear without internal project lists",
+    "Need-based postgrad community-service awards for PRC outbound remain thin beyond PEO/MMEG/AAUW"
+  ],
+  "milestone": "batch1-complete"
+}

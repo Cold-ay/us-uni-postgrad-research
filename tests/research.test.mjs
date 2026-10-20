@@ -93,8 +93,8 @@ test('shared scholarship records retain eligibility and expiry limits', () => {
   assert.ok(programs.find(p=>p.id==='stanford-cs').scholarships.includes('SCH-002'));
   assert.ok(!programs.find(p=>p.id==='harvard-cs').scholarships.includes('SCH-004'));
 });
-test('HK/TW scholarship batch rev2: 66 awards, eligibility updates, loan badge', () => {
-  assert.equal(scholarships.length, 66);
+test('HK/TW scholarship batch rev2 + PRC batch1: 83 live awards, eligibility updates, loan badge', () => {
+  assert.equal(scholarships.length, 83);
   assert.ok(scholarships.some(s => s.id === 'SCH-066'));
   for (const id of ['SCH-022', 'SCH-023', 'SCH-024', 'SCH-025', 'SCH-026', 'SCH-027', 'SCH-028', 'SCH-029', 'SCH-030', 'SCH-031']) {
     assert.equal(scholarships.find(s => s.id === id).hkEligible, 'yes');
@@ -110,4 +110,7 @@ test('HK/TW scholarship batch rev2: 66 awards, eligibility updates, loan badge',
   assert.equal(awardTypeBadgeLabel('scholarship'), null);
   assert.ok(programs.find(p => p.id === 'penn-mba').scholarships.includes('SCH-022'));
   assert.ok(programs.find(p => p.id === 'ucla-mba').scholarships.includes('SCH-046'));
+  assert.ok(scholarships.some(s => s.id === 'SCH-084' && s.prcEligible === 'yes'));
+  assert.ok(!scholarships.some(s => s.id === 'SCH-071'));
+  assert.ok(programs.find(p => p.id === 'harvard-mba').scholarships.includes('SCH-075'));
 });
