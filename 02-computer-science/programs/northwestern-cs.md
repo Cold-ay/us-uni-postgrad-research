@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-A terminal MS application is distinct from PhD admission; research interests form part of program planning. Application open: 15 Sep 2026 (deadline research 2026-10-20; see deadline field).
+Northwestern CS MS: 12 graduate units, typically 3–4 quarters. Default course-only (Plan C); optional thesis (A) or project (B).
 
-Orientation: See degree route and academic overview
+Orientation: 12 units · 3–4 quarters · Course/thesis/project
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -51,6 +51,8 @@ Shared scholarship IDs: SCH-015, SCH-016, SCH-017, SCH-018, SCH-019, SCH-020, SC
 - [McCormick graduate tuition](https://www.northwestern.edu/sfs/tuition/graduate/mccormick.html)
 - [CS Graduate Admissions (Fall 2027 open + MS staged dates)](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/admissions/)
 - [TGS Application Deadlines](https://www.tgs.northwestern.edu/admission/application-procedures/application-deadlines.html)
+- [MS program](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/masters/)
+- [Catalog CS MS](https://catalogs.northwestern.edu/tgs/computer-science/computer-science-ms/)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Full-time Homewood campus program with a Human Language Technology concentration and an AI track.
+JHU CS MSE: 10 courses or 8 + research; ~3 semesters typical. Breadth across ≥4 of 5 areas; optional AI track and HLT concentration.
 
-Orientation: Human language technology · AI track
+Orientation: 8+research or 10 courses · ~3 semesters · AI/HLT options
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -50,6 +50,8 @@ Shared scholarship IDs: SCH-015, SCH-016, SCH-017, SCH-018, SCH-019, SCH-020, SC
 - [Official tuition / budget](https://engineering.jhu.edu/education/graduate-studies/graduate-financial-aid/affording-your-education/)
 - [MSE CS program](https://www.cs.jhu.edu/academic-programs/graduate-studies/masters-computer-science/)
 - [MSE CS Admissions (deadlines)](https://www.cs.jhu.edu/academic-programs/graduate-studies/masters-computer-science/admissions/)
+- [MSE CS program](https://www.cs.jhu.edu/academic-programs/graduate-studies/mse-programs/)
+- [Catalogue MSE CS](https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/computer-science/computer-science-master-science-engineering/)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

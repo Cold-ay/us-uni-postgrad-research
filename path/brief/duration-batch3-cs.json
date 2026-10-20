@@ -1,0 +1,203 @@
+{
+  "batch": "duration-batch3-cs",
+  "as_of": "2026-10-20",
+  "field": "duration/core/tracks",
+  "items": [
+    {
+      "id": "brown-cs",
+      "as_of": "2026-10-20",
+      "duration": "Typically within 2 years (2/2/2/2); 2/3/3 schedule \u22481.5 years; marketing also cites as little as 16 months. AI/ML track launches Fall 2027.",
+      "credits": "Eight graduate-level graded courses (avg \u2265B). Basic: 6 courses; Advanced: 2\u00d7 2000-level electives or 2\u00d7 CSCI 2980 project.",
+      "tracks": [
+        "CS Comprehensive (on-campus)",
+        "AI/ML track (on-campus or online; Fall 2027)",
+        "Optional Professional Track (internships)",
+        "Research project via CSCI 2980"
+      ],
+      "coreNotes": "No single fixed core list \u2014 flexible electives under Master\u2019s Contract with advisor/DGS approval. At least 3 of Basic Component must be CSCI.",
+      "academic": "Brown CS ScM: 8 graded graduate courses within ~2 years (or ~1.5\u201316 months accelerated). Comprehensive or AI/ML tracks; optional professional internships and CSCI 2980 research project.",
+      "orientation": "8 courses \u00b7 Comprehensive or AI/ML \u00b7 ~1.5\u20132 years",
+      "sources": [
+        [
+          "MS overview",
+          "https://cs.brown.edu/degrees/masters/"
+        ],
+        [
+          "Comprehensive track requirements",
+          "https://cs.brown.edu/degrees/masters/reqs/"
+        ]
+      ]
+    },
+    {
+      "id": "duke-cs",
+      "as_of": "2026-10-20",
+      "duration": "Full-time registration for three semesters required.",
+      "credits": "30 graduate credits. Course-only: \u226518 CS + \u22656 outside CS + \u22656 electives; \u22656 credits must be project-heavy (\u226530% weight). Project/thesis: \u226512 CS + 6 outside + 6 electives + \u22646 ungraded research. CS 704 required.",
+      "tracks": [
+        "Course-only (default)",
+        "Project",
+        "Thesis",
+        "Optional concentrations: AI/ML, Cybersecurity"
+      ],
+      "coreNotes": "No universal named core set beyond concentration menus (AI/ML and Cybersecurity). Master\u2019s exam required (portfolio oral or project/thesis defense).",
+      "academic": "Duke CS MS: 30 credits over three full-time semesters. Course-only, project, or thesis; optional AI/ML or Cybersecurity concentrations; master\u2019s exam required.",
+      "orientation": "30 credits \u00b7 3 semesters \u00b7 Course/project/thesis",
+      "sources": [
+        [
+          "MS requirements",
+          "https://cs.duke.edu/graduate/ms/ms-req"
+        ],
+        [
+          "Master's options",
+          "https://cs.duke.edu/graduate/ms/course-options"
+        ]
+      ]
+    },
+    {
+      "id": "jhu-cs",
+      "as_of": "2026-10-20",
+      "duration": "Average time to degree ~3 semesters (department page).",
+      "credits": "8 approved \u22653-credit courses + faculty-guided research project/essay/thesis, OR 10 approved courses. Breadth: \u22651 course from at least 4 of 5 core areas (Application, Reasoning, Software, Systems, Theory).",
+      "tracks": [
+        "Course-only (10 courses)",
+        "Course + research (8 + project/essay/thesis)",
+        "AI master\u2019s track",
+        "Human Language Technology concentration"
+      ],
+      "coreNotes": "Core areas: Application, Reasoning, Software, Systems, Theory \u2014 take from \u22654 of 5. AI track and HLT concentration have additional menus.",
+      "academic": "JHU CS MSE: 10 courses or 8 + research; ~3 semesters typical. Breadth across \u22654 of 5 areas; optional AI track and HLT concentration.",
+      "orientation": "8+research or 10 courses \u00b7 ~3 semesters \u00b7 AI/HLT options",
+      "sources": [
+        [
+          "MSE CS program",
+          "https://www.cs.jhu.edu/academic-programs/graduate-studies/mse-programs/"
+        ],
+        [
+          "Catalogue MSE CS",
+          "https://e-catalogue.jhu.edu/engineering/full-time-residential-programs/degree-programs/computer-science/computer-science-master-science-engineering/"
+        ]
+      ]
+    },
+    {
+      "id": "northwestern-cs",
+      "as_of": "2026-10-20",
+      "duration": "Can finish in 3\u20134 quarters; most take 4; thesis/project/internship may extend.",
+      "credits": "12 graduate letter-graded units; \u22656 COMP_SCI; \u22653 units at 400-level+; overall GPA \u22653.0.",
+      "tracks": [
+        "Plan C course-only (default)",
+        "Plan A thesis",
+        "Plan B project"
+      ],
+      "coreNotes": "Flexible plan of study with MS director \u2014 no fixed named core list on marketing page; see 2025\u201326 MS manual for detail.",
+      "academic": "Northwestern CS MS: 12 graduate units, typically 3\u20134 quarters. Default course-only (Plan C); optional thesis (A) or project (B).",
+      "orientation": "12 units \u00b7 3\u20134 quarters \u00b7 Course/thesis/project",
+      "sources": [
+        [
+          "MS program",
+          "https://www.mccormick.northwestern.edu/computer-science/academics/graduate/masters/"
+        ],
+        [
+          "Catalog CS MS",
+          "https://catalogs.northwestern.edu/tgs/computer-science/computer-science-ms/"
+        ]
+      ]
+    },
+    {
+      "id": "nyu-cs",
+      "as_of": "2026-10-20",
+      "duration": "Full-time often ~2 years at ~9 credits/semester; GSAS maximum five years. Do not invent a shorter guaranteed path.",
+      "credits": "Standard MSCS 30 credits: three foundations (Fundamental Algorithms, Programming Languages, Operating Systems) + application area + capstone (B+). 36-credit option adds AI or Systems/Security concentration.",
+      "tracks": [
+        "30-credit standard MSCS",
+        "36-credit with AI concentration",
+        "36-credit with Systems/Security concentration"
+      ],
+      "coreNotes": "Foundations: Fundamental Algorithms, Programming Languages, Operating Systems; plus application area and capstone.",
+      "academic": "NYU Courant MSCS: 30-credit standard with three foundations + application + capstone, or 36-credit AI / Systems-Security concentrations. Full-time typically ~2 years; max 5 years.",
+      "orientation": "30 or 36 credits \u00b7 Foundations + capstone \u00b7 ~2 years FT",
+      "sources": [
+        [
+          "Current MSCS requirements",
+          "https://cs.nyu.edu/home/master/current_mscsreq.html"
+        ],
+        [
+          "Bulletin MSCS",
+          "https://bulletins.nyu.edu/graduate/arts-science/programs/computer-science-courant-ms/"
+        ]
+      ]
+    },
+    {
+      "id": "rice-cs",
+      "as_of": "2026-10-20",
+      "duration": "On-campus MCS normally three semesters.",
+      "credits": "30 graduate credit hours; non-thesis. Includes cores, one specialization, COMP 608 Workplace Communication, electives, and a 3\u20136 month internship.",
+      "tracks": [
+        "On-campus MCS (professional, non-thesis)",
+        "Specializations: AI; Bioinformatics/Computational Biology; Data Science & ML; Management & Leadership; Systems & Security",
+        "Online MCS (separate)"
+      ],
+      "coreNotes": "Specialization menus on Rice MCS pages \u2014 cite specialization pages rather than inventing course titles.",
+      "academic": "Rice MCS: 30-credit non-thesis professional master\u2019s, normally 3 semesters, with specialization + internship + COMP 608.",
+      "orientation": "30 credits \u00b7 Non-thesis MCS \u00b7 ~3 semesters",
+      "sources": [
+        [
+          "MCS program",
+          "https://csweb.rice.edu/academics/graduate-programs/master-computer-science"
+        ],
+        [
+          "GA Rice MCS",
+          "https://ga.rice.edu/programs-study/departments-programs/engineering/computer-science/computer-science-mcs/"
+        ]
+      ]
+    },
+    {
+      "id": "yale-cs",
+      "as_of": "2026-10-20",
+      "duration": "One-year MS: two terms (4 courses/term for visa full-time). Two-year MS: thesis + teaching across four terms. Non-visa may part-time up to four years on one-year track.",
+      "credits": "One-year: 8 approved courses (optional CPSC 692 independent project may count). Two-year: 6 approved courses + research thesis + 20 hr/week TF each term.",
+      "tracks": [
+        "One-year coursework MS (most common)",
+        "Two-year MS with thesis + teaching"
+      ],
+      "coreNotes": "Courses from an approved list \u2014 do not invent a fixed core set. Grade rules: avg High Pass with \u22651 Honors (handbook).",
+      "academic": "Yale CS terminal MS: one-year (8 courses) or selective two-year (6 courses + thesis + teaching). Visa students on one-year track take 4 degree courses per term.",
+      "orientation": "1-year (8 courses) or 2-year thesis \u00b7 Terminal MS",
+      "sources": [
+        [
+          "MS program",
+          "https://engineering.yale.edu/academic-study/departments/computer-science/graduate-study/master-science-program"
+        ],
+        [
+          "GSAS Computer Science",
+          "https://gsas.yale.edu/programs-of-study/computer-science"
+        ]
+      ]
+    },
+    {
+      "id": "usc-cs",
+      "as_of": "2026-10-20",
+      "duration": "Full-time typically 1.5\u20132 years; part-time longer (online marketing). Exact residency not fixed here \u2014 do not invent.",
+      "credits": "General MS CS: 32 units (CSCI 570 + 28 electives). Thesis option adds units (36 for Fall 2024+ entrants per department pages). Many named specializations also ~32 units.",
+      "tracks": [
+        "Computer Science (General)",
+        "Named specializations (e.g. Data Science and others on Viterbi site)",
+        "Thesis option",
+        "DEN@Viterbi online"
+      ],
+      "coreNotes": "General track lists CSCI 570 as required; specialization cores vary \u2014 cite each specialization page.",
+      "academic": "USC Viterbi MS CS (General): 32 units with CSCI 570 + electives; thesis and many specializations available; FT often 1.5\u20132 years.",
+      "orientation": "32 units \u00b7 CSCI 570 \u00b7 Specializations / thesis",
+      "sources": [
+        [
+          "MS CS General",
+          "https://www.cs.usc.edu/academic-programs/masters/computer-science-general/"
+        ],
+        [
+          "Viterbi MS CS",
+          "https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/ms-computer-science/"
+        ]
+      ]
+    }
+  ],
+  "notes": "Overlay academic+orientation+sources. harvard-cs is restricted (no terminal SM) \u2014 defer with mit/princeton/caltech/washington notes batch."
+}

@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Courant master’s study spans AI, machine learning, systems, security, graphics and theory. Do not substitute Tandon program costs.
+NYU Courant MSCS: 30-credit standard with three foundations + application + capstone, or 36-credit AI / Systems-Security concentrations. Full-time typically ~2 years; max 5 years.
 
-Orientation: See degree route and academic overview
+Orientation: 30 or 36 credits · Foundations + capstone · ~2 years FT
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -51,6 +51,8 @@ Shared scholarship IDs: SCH-015, SCH-016, SCH-017, SCH-018, SCH-019, SCH-020, SC
 - [GSAS tuition & fees](https://gsas.nyu.edu/admissions/financial-aid/tuition-fees.html)
 - [GSAS ARC Computer Science (MSCS deadlines; 5PM ET)](https://gsas.nyu.edu/admissions/arc/programs/computer-science.html)
 - [MS-CEI Admissions (Fall 2027 deadline February 12)](https://cs.nyu.edu/ms-cei/admissions.html)
+- [Current MSCS requirements](https://cs.nyu.edu/home/master/current_mscsreq.html)
+- [Bulletin MSCS](https://bulletins.nyu.edu/graduate/arts-science/programs/computer-science-courant-ms/)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

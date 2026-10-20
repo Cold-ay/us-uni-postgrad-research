@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Coursework-only, thesis or project routes; optional cybersecurity and AI/machine learning concentrations.
+Duke CS MS: 30 credits over three full-time semesters. Course-only, project, or thesis; optional AI/ML or Cybersecurity concentrations; master’s exam required.
 
-Orientation: Coursework, thesis or project · AI/ML · Security
+Orientation: 30 credits · 3 semesters · Course/project/thesis
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -50,6 +50,8 @@ Shared scholarship IDs: SCH-015, SCH-016, SCH-017, SCH-018, SCH-019, SCH-020, SC
 - [Official tuition / budget](https://gradschool.duke.edu/financial-support/tuition-fees-and-phd-stipend-schedule/)
 - [Cost to attend (master’s COA)](https://gradschool.duke.edu/financial-support/cost-attend/)
 - [Duke Graduate School application deadlines (Fall 2027 master's)](https://gradschool.duke.edu/admissions/application-deadlines/)
+- [MS requirements](https://cs.duke.edu/graduate/ms/ms-req)
+- [Master's options](https://cs.duke.edu/graduate/ms/course-options)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence
