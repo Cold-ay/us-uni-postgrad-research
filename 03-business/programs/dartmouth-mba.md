@@ -42,7 +42,7 @@ Program-specific internship structure, placement rates and international-student
 
 Tuck scholarships/fellowships pages under Finance Your Degree; intl eligibility typically yes for school merit aid — confirm each award.
 
-Shared scholarship IDs: No verified award links yet. See the [scholarship library](../../04-scholarships/README.md).
+Shared scholarship IDs: SCH-015, SCH-017, SCH-019, SCH-020, SCH-026, SCH-034, SCH-035, SCH-036, SCH-037, SCH-038. See the [scholarship library](../../04-scholarships/README.md).
 
 ## Sources
 

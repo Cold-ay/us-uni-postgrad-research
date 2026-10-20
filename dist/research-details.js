@@ -25,6 +25,7 @@ export const researchDetails = {
     ],
     deadlineDate: null,
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-016","SCH-017","SCH-018","SCH-019","SCH-020","SCH-021","SCH-038","SCH-039","SCH-040","SCH-041","SCH-042","SCH-043","SCH-044","SCH-045"],
   },
   'caltech-cs': {
     kind: 'PhD route',
@@ -44,6 +45,7 @@ export const researchDetails = {
     ],
     deadlineDate: null,
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-016","SCH-017","SCH-018","SCH-019","SCH-020","SCH-021","SCH-038","SCH-039","SCH-040","SCH-041","SCH-042","SCH-043","SCH-044"],
   },
   'princeton-cs': {
     kind: 'MSE / MEng',
@@ -63,6 +65,7 @@ export const researchDetails = {
     ],
     deadlineDate: null,
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-016","SCH-017","SCH-018","SCH-019","SCH-020","SCH-021","SCH-038","SCH-039","SCH-040","SCH-041","SCH-042","SCH-043","SCH-044"],
   },
   'washington-cs': {
     availability: 'PMP: no F-1 / J-1 applicants',
@@ -83,6 +86,7 @@ export const researchDetails = {
     deadlineDate: null,
     academic: 'The professional master’s cannot accept applicants who require F-1 or J-1 student visas. Application open: In general, applications open one year in advance of the deadline (PMP how-to-apply) (deadline research 2026-10-20; see deadline field).',
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-016","SCH-017","SCH-018","SCH-019","SCH-020","SCH-021","SCH-038","SCH-039","SCH-040","SCH-041","SCH-042","SCH-043","SCH-044"],
   },
   'harvard-cs': {
     kind: 'Related SM',
@@ -104,6 +108,7 @@ export const researchDetails = {
     deadlineDate: '2026-12-01',
     academic: 'CSE is an interdisciplinary alternative combining computing and applied mathematics; do not treat it as a standalone MS in Computer Science. Application open: Open as of page check (submission portal open for Fall 2027 CSE) (deadline research 2026-10-20; see deadline field).',
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-016","SCH-017","SCH-018","SCH-019","SCH-020","SCH-021","SCH-038","SCH-039","SCH-040","SCH-041","SCH-042","SCH-043","SCH-044"],
   },
   'cmu-mscs': {
     deadline: 'Apps open 9 Sep 2026 · Early 18 Nov 2026 · 3 p.m. EST · Final 9 Dec 2026 · 3 p.m. EST (Fall 2027 SCS)',
@@ -114,6 +119,7 @@ export const researchDetails = {
       ['MS in Computer Science', 'https://csd.cs.cmu.edu/academics/masters/ms-in-computer-science'],
     ],
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-016","SCH-017","SCH-018","SCH-019","SCH-020","SCH-021","SCH-038","SCH-039","SCH-040","SCH-041","SCH-042","SCH-043","SCH-044"],
   },
   'stanford-cs': {
     tuition: 69717,
@@ -137,7 +143,7 @@ export const researchDetails = {
     confidence: 'high',
     unresolved: ["Fall 2027–28 Engineering rates not yet published","Exact unit plan for a typical 45-unit MS pathway (1 vs 2 years) varies by student"],
     asOf: '2026-10-20',
-    scholarships: ["SCH-002"],
+    scholarships: ["SCH-002","SCH-015","SCH-016","SCH-017","SCH-018","SCH-019","SCH-020","SCH-021","SCH-038","SCH-039","SCH-040","SCH-041","SCH-042","SCH-043","SCH-044","SCH-045"],
     deadline: 'Apps open 15 Sep 2026 · Deadline 8 Dec 2026 · 11:59 p.m. PT (Autumn / Fall 2027 entry)',
     deadlineDate: '2026-12-08',
     academic: '45-unit master’s with coursework or research options; MS admission does not guarantee entry to the PhD. Application open: 15 Sep 2026 (deadline research 2026-10-20; see deadline field).',
@@ -150,6 +156,7 @@ export const researchDetails = {
       ['MBA program', 'https://www.gsb.stanford.edu/programs/mba'],
     ],
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-017","SCH-019","SCH-020","SCH-034","SCH-035","SCH-036","SCH-037","SCH-038"],
   },
   'berkeley-cs': {
     tuition: 73766.5,
@@ -170,6 +177,7 @@ export const researchDetails = {
     deadline: 'Apps open (Fall 2027 cycle open) · Deadline 6 Jan 2027 · 8:59 p.m. PST (MEng EECS)',
     deadlineDate: '2027-01-06',
     academic: 'An industry-oriented route with technical study, leadership and a capstone; distinguish it from research graduate degrees. Application open: Open as of page check (Fall 2027 Graduate Admission application for EECS now open) (deadline research 2026-10-20; see deadline field).',
+    scholarships: ["SCH-015","SCH-016","SCH-017","SCH-018","SCH-019","SCH-020","SCH-021","SCH-038","SCH-039","SCH-040","SCH-041","SCH-042","SCH-043","SCH-044","SCH-045"],
   },
   'illinois-cs': {
     tuition: 40444,
@@ -193,6 +201,7 @@ export const researchDetails = {
     asOf: '2026-10-20',
     deadline: 'MCS Urbana Fall: 1 May · 11:59 p.m. CT (annual month-day; year not labeled) · MS thesis Fall: 1 Dec · 11:59 p.m. CT',
     deadlineDate: null,
+    scholarships: ["SCH-015","SCH-016","SCH-017","SCH-018","SCH-019","SCH-020","SCH-021","SCH-038","SCH-039","SCH-040","SCH-041","SCH-042","SCH-043","SCH-044"],
   },
   'cornell-cs': {
     tuition: 29500,
@@ -213,6 +222,7 @@ export const researchDetails = {
     asOf: '2026-10-20',
     deadline: 'MS: 18 Jan for Fall (month-day as posted; year/timezone not labeled) · MEng Fall: 1 Feb; MEng Spring: 1 Oct',
     deadlineDate: null,
+    scholarships: ["SCH-015","SCH-016","SCH-017","SCH-018","SCH-019","SCH-020","SCH-021","SCH-038","SCH-039","SCH-040","SCH-041","SCH-042","SCH-043","SCH-044","SCH-045"],
   },
   'gatech-cs': {
     tuition: 33080,
@@ -235,6 +245,7 @@ export const researchDetails = {
     asOf: '2026-10-20',
     deadline: '1 Feb 2027 · 11:59 p.m. ET (Atlanta campus MS CS — Fall 2027; not OMSCS)',
     deadlineDate: '2027-02-01',
+    scholarships: ["SCH-015","SCH-016","SCH-017","SCH-018","SCH-019","SCH-020","SCH-021","SCH-038","SCH-039","SCH-040","SCH-041","SCH-042","SCH-043","SCH-044","SCH-045"],
   },
   'texas-cs': {
     tuition: 18162,
@@ -258,6 +269,7 @@ export const researchDetails = {
     deadline: 'Apps open 15 Oct · Deadline 15 Dec (Fall only; month-day as posted — year not labeled on UTCS apply page)',
     deadlineDate: null,
     academic: 'The on-campus research degree includes a thesis route for in-depth work; separate from online master’s offerings. Application open: 15 Oct (month-day as posted; year not labeled) (deadline research 2026-10-20; see deadline field).',
+    scholarships: ["SCH-015","SCH-016","SCH-017","SCH-018","SCH-019","SCH-020","SCH-021","SCH-038","SCH-039","SCH-040","SCH-041","SCH-042","SCH-043","SCH-044"],
   },
   'michigan-cs': {
     tuition: 68038,
@@ -278,6 +290,7 @@ export const researchDetails = {
     deadline: 'Apps reopen mid-Sep (Rackham; late Aug/early Sep noted) · Master\'s deadline 15 Jan · 11:59 p.m. ET (FA 2027 cycle referenced on page)',
     deadlineDate: '2027-01-15',
     academic: 'A master’s in CSE with an optional thesis. Research participation and advisor availability need individual confirmation. Application open: Reopens mid-September (Rackham closes in summer; late August/early September also stated) (deadline research 2026-10-20; see deadline field).',
+    scholarships: ["SCH-015","SCH-016","SCH-017","SCH-018","SCH-019","SCH-020","SCH-021","SCH-038","SCH-039","SCH-040","SCH-041","SCH-042","SCH-043","SCH-044"],
   },
   'ucsd-cs': {
     tuition: 38087.17,
@@ -299,6 +312,7 @@ export const researchDetails = {
     deadline: 'Apps open 2 Sep 2026 · Deadline 16 Dec 2026 · 11:59 p.m. PST (Fall 2027)',
     deadlineDate: '2026-12-16',
     academic: 'Thesis, comprehensive standard and comprehensive interdisciplinary plans; breadth and depth requirements. Application open: 2 Sep 2026 (deadline research 2026-10-20; see deadline field).',
+    scholarships: ["SCH-015","SCH-016","SCH-017","SCH-018","SCH-019","SCH-020","SCH-021","SCH-038","SCH-039","SCH-040","SCH-041","SCH-042","SCH-043","SCH-044"],
   },
   'maryland-cs': {
     tuition: 34488,
@@ -322,6 +336,7 @@ export const researchDetails = {
     confidence: 'high',
     unresolved: ["Official FAO living-band dollar amounts (page referenced but not extracted)","Program-tied CS MS scholarships","2027–28 rates"],
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-016","SCH-017","SCH-018","SCH-019","SCH-020","SCH-021","SCH-038","SCH-039","SCH-040","SCH-041","SCH-042","SCH-043","SCH-044"],
   },
   'columbia-cs': {
     tuition: 67728,
@@ -344,6 +359,7 @@ export const researchDetails = {
     asOf: '2026-10-20',
     deadline: 'Fall priority 15 Jan · Fall final/regular 15 Feb 2027 (CVN year-labeled for Fall 2027) · Spring 15 Oct',
     deadlineDate: '2027-02-15',
+    scholarships: ["SCH-015","SCH-016","SCH-017","SCH-018","SCH-019","SCH-020","SCH-021","SCH-038","SCH-039","SCH-040","SCH-041","SCH-042","SCH-043","SCH-044"],
   },
   'purdue-cs': {
     tuition: 29918,
@@ -361,6 +377,7 @@ export const researchDetails = {
     deadline: 'Fall 2027 start — 1 Dec 2026 · Spring 2027 start — 1 Oct 2026 (MS and PhD; West Lafayette)',
     deadlineDate: '2026-12-01',
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-016","SCH-017","SCH-018","SCH-019","SCH-020","SCH-021","SCH-038","SCH-039","SCH-040","SCH-041","SCH-042","SCH-043","SCH-044"],
   },
   'ucla-cs': {
     tuition: 38232.76,
@@ -383,6 +400,7 @@ export const researchDetails = {
     deadlineDate: '2026-12-15',
     academic: 'MSCS offers a thesis or student-driven capstone. The separate MEng has an instructor-selected capstone and no thesis. Application open: mid-September (CS requirements page; year not labeled) (deadline research 2026-10-20; see deadline field).',
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-016","SCH-017","SCH-018","SCH-019","SCH-020","SCH-021","SCH-038","SCH-039","SCH-040","SCH-041","SCH-042","SCH-043","SCH-044","SCH-045"],
   },
   'wisconsin-cs': {
     tuition: 24054.4,
@@ -404,6 +422,7 @@ export const researchDetails = {
     deadline: 'Traditional MS/PhD Fall: 15 Dec (month-day; year not labeled) · PMP separate: 15 Feb (month-day)',
     deadlineDate: null,
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-016","SCH-017","SCH-018","SCH-019","SCH-020","SCH-021","SCH-038","SCH-039","SCH-040","SCH-041","SCH-042","SCH-043","SCH-044"],
   },
   'penn-cs': {
     tuition: 52950,
@@ -422,6 +441,7 @@ export const researchDetails = {
     deadlineDate: '2027-02-01',
     academic: 'Advanced study in the scientific foundations of computing. This CIS MSE is distinct from the MCIT conversion degree. Application open: 15 Sep 2026 (deadline research 2026-10-20; see deadline field).',
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-016","SCH-017","SCH-018","SCH-019","SCH-020","SCH-021","SCH-038","SCH-039","SCH-040","SCH-041","SCH-042","SCH-043","SCH-044"],
   },
   'jhu-cs': {
     tuition: 68670,
@@ -440,6 +460,7 @@ export const researchDetails = {
     deadline: 'Fall: 15 Feb · 11:59 p.m. EST · Spring: 1 Oct · 11:59 p.m. EST (month-day; year not labeled)',
     deadlineDate: null,
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-016","SCH-017","SCH-018","SCH-019","SCH-020","SCH-021","SCH-038","SCH-039","SCH-040","SCH-041","SCH-042","SCH-043","SCH-044"],
   },
   'chicago-cs': {
     tuition: 66762,
@@ -456,6 +477,7 @@ export const researchDetails = {
     deadline: 'Autumn 2027 Full-Time MPCS: R1 2 Nov 2026 · R2 1 Feb 2027 · R3 3 May 2027 · all 11:59 p.m. CT',
     deadlineDate: '2026-11-02',
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-016","SCH-017","SCH-018","SCH-019","SCH-020","SCH-021","SCH-038","SCH-039","SCH-040","SCH-041","SCH-042","SCH-043","SCH-044"],
   },
   'duke-cs': {
     orientation: 'Coursework, thesis or project · AI/ML · Security',
@@ -474,6 +496,7 @@ export const researchDetails = {
     deadline: '1 Feb 2027 · 11:59:59 p.m. EST (MS Computer Science — Fall 2027)',
     deadlineDate: '2027-02-01',
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-016","SCH-017","SCH-018","SCH-019","SCH-020","SCH-021","SCH-038","SCH-039","SCH-040","SCH-041","SCH-042","SCH-043","SCH-044"],
   },
   'umass-cs': {
     sources: [
@@ -492,6 +515,7 @@ export const researchDetails = {
     deadline: 'Campus MS Fall: 15 Dec (month-day; year not labeled) · Online MS Fall: 1 Jun · Spring: 1 Oct',
     deadlineDate: null,
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-016","SCH-017","SCH-018","SCH-019","SCH-020","SCH-021","SCH-038","SCH-039","SCH-040","SCH-041","SCH-042","SCH-043","SCH-044"],
   },
   'rice-cs': {
     kind: 'MCS',
@@ -510,6 +534,7 @@ export const researchDetails = {
     period: '2026–27',
     costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total.',
     costDetail: 'Rice Bursar Engineering graduate rates 2026–27: Masters & PhD Full-Time Tuition $33,392/semester → $66,784 AY. Part-time approved $3,710 per credit (maximum $33,392/semester). MCS is a terminal non-thesis master’s requiring 30 credit hours (normally three semesters); catalog states MCS students are expected to pay full tuition with no university/department financial aid. GSA fee $45 AY, Student Organization $8, Health & Wellness Support $720 AY, and health insurance are separate. Online OMCS is a different per-credit schedule ($1,700/credit)—not used here.',
+    scholarships: ["SCH-015","SCH-016","SCH-017","SCH-018","SCH-019","SCH-020","SCH-021","SCH-038","SCH-039","SCH-040","SCH-041","SCH-042","SCH-043","SCH-044"],
   },
   'uci-cs': {
     kind: 'MS / MCS',
@@ -527,6 +552,7 @@ export const researchDetails = {
     period: '2026–27',
     costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total. Prefer research MS; MCS labeled separately.',
     costDetail: 'UCI Registrar Graduate/Credential Student Fees 2026–27: Total Nonresident annual $38,784.44 (Tuition $13,722 + Student Services Fee $1,344 + campus fees + Student Health Insurance $7,771.86 + Nonresident Supplemental Tuition $15,102). California Resident annual $23,682.44 without NRST. Document Fee $87 new students only (not in annual total). Research Master of Science in Computer Science (MSCS) uses this academic graduate schedule. Separately, professional Master of Computer Science (MCS) cohort entering Fall 2026: Program Fee $63,500 total ($12,700/quarter × 5 quarters including Summer); first four quarters program-fee portion $50,800; registrar MCS schedule shows Total Fees Paid about $60,765.13 for Fall–Summer 2026–27 including campus fees and GSHIP—MCS is a different self-supporting schedule, not the primary research-MS figure.',
+    scholarships: ["SCH-015","SCH-016","SCH-017","SCH-018","SCH-019","SCH-020","SCH-021","SCH-038","SCH-039","SCH-040","SCH-041","SCH-042","SCH-043","SCH-044"],
   },
   'berkeley-mba': {
     tuition: 92755,
@@ -547,6 +573,7 @@ export const researchDetails = {
     asOf: '2026-10-20',
     deadline: 'Round 2 · 7 Jan 2027 (Haas FT 2026–2027 cycle; R1 passed; clock time not on round cards)',
     deadlineDate: '2027-01-07',
+    scholarships: ["SCH-015","SCH-017","SCH-019","SCH-020","SCH-027","SCH-034","SCH-035","SCH-036","SCH-037","SCH-038"],
   },
   'cmu-mba': {
     tuition: 84186,
@@ -568,6 +595,7 @@ export const researchDetails = {
     asOf: '2026-10-20',
     deadline: 'Round 2 · 8 Jan 2027 (Full-Time MBA; R1 passed; clock time not on table)',
     deadlineDate: '2027-01-08',
+    scholarships: ["SCH-015","SCH-017","SCH-019","SCH-020","SCH-034","SCH-035","SCH-036","SCH-037","SCH-038"],
   },
   'columbia-mba': {
     tuition: 93908,
@@ -588,6 +616,7 @@ export const researchDetails = {
     deadline: 'August-entry Round 2 · 5 Jan 2027 · 12:00 p.m. ET (August 2027 entry; R1 passed; apps open)',
     deadlineDate: '2027-01-05',
     academic: 'MBA program; use the August-entry route for a Fall 2027 comparison and verify its internship calendar separately. Application open: August 2027 application now open (as of page check 2026-10-20; calendar open day not posted) (deadline research 2026-10-20; see deadline field).',
+    scholarships: ["SCH-015","SCH-017","SCH-019","SCH-020","SCH-024","SCH-034","SCH-035","SCH-036","SCH-037","SCH-038"],
   },
   'dartmouth-mba': {
     tuition: 87536,
@@ -608,6 +637,7 @@ export const researchDetails = {
     asOf: '2026-10-20',
     deadline: 'Round 2 · 5 Jan 2027 · 5:00 p.m. ET (Tuck; R1 passed)',
     deadlineDate: '2027-01-05',
+    scholarships: ["SCH-015","SCH-017","SCH-019","SCH-020","SCH-026","SCH-034","SCH-035","SCH-036","SCH-037","SCH-038"],
   },
   'duke-mba': {
     tuition: 83700,
@@ -625,7 +655,7 @@ export const researchDetails = {
     confidence: 'high',
     unresolved: ["Tuition for Class of 2029 (Fall 2027 entry)","Merit award ranges"],
     asOf: '2026-10-20',
-    scholarships: ["SCH-008"],
+    scholarships: ["SCH-008","SCH-015","SCH-017","SCH-019","SCH-020","SCH-034","SCH-035","SCH-036","SCH-037","SCH-038"],
     deadline: 'Round 2 · 5 Jan 2027 (Daytime MBA 2026–2027 cycle; EA & R1 passed; clock time not on table)',
     deadlineDate: '2027-01-05',
   },
@@ -645,7 +675,7 @@ export const researchDetails = {
     confidence: 'medium',
     unresolved: ["Class of 2029 (Fall 2027 entry) tuition table not confirmed on page (Class of 2027 shown)","Exact international mandatory fees stack"],
     asOf: '2026-10-20',
-    scholarships: ["SCH-009"],
+    scholarships: ["SCH-009","SCH-015","SCH-017","SCH-019","SCH-020","SCH-034","SCH-035","SCH-036","SCH-037","SCH-038"],
     deadline: 'Round 2 · 15 Jan 2027 · 11:59 p.m. CT (Full-Time MBA; R1 passed)',
     deadlineDate: '2027-01-15',
   },
@@ -667,7 +697,7 @@ export const researchDetails = {
     confidence: 'high',
     unresolved: ["2027–28 tuition","Full list of named SOM fellowships"],
     asOf: '2026-10-20',
-    scholarships: ["SCH-005"],
+    scholarships: ["SCH-005","SCH-015","SCH-017","SCH-019","SCH-020","SCH-034","SCH-035","SCH-036","SCH-037","SCH-038"],
     deadline: 'Round 2 · 6 Jan 2027 (Fall 2027 / 2026–27 cycle; R1 passed; clock time not on table)',
     deadlineDate: '2027-01-06',
   },
@@ -688,6 +718,7 @@ export const researchDetails = {
     asOf: '2026-10-20',
     deadline: 'Round 2 · 7 Jan 2027 (Full-Time MBA Class of 2029 / Aug 2027; EA & R1 passed; clock time not on table)',
     deadlineDate: '2027-01-07',
+    scholarships: ["SCH-015","SCH-017","SCH-019","SCH-020","SCH-029","SCH-034","SCH-035","SCH-036","SCH-037","SCH-038"],
   },
   'penn-mba': {
     tuition: 87970,
@@ -706,6 +737,7 @@ export const researchDetails = {
     deadline: 'Round 2 · 5 Jan 2027 · 5:00 p.m. ET (Fall 2027 / 2026–27 cycle; R1 passed)',
     deadlineDate: '2027-01-05',
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-017","SCH-019","SCH-020","SCH-022","SCH-034","SCH-035","SCH-036","SCH-037","SCH-038"],
   },
   'chicago-mba': {
     tuition: 89976,
@@ -722,6 +754,7 @@ export const researchDetails = {
     deadline: 'Round 2 · 7 Jan 2027 · 11:59 p.m. CT (Fall matriculation; R1 passed)',
     deadlineDate: '2027-01-07',
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-017","SCH-019","SCH-020","SCH-023","SCH-034","SCH-035","SCH-036","SCH-037","SCH-038"],
   },
   'northwestern-mba': {
     tuition: 88536,
@@ -739,6 +772,7 @@ export const researchDetails = {
     deadline: 'Round 2 · 6 Jan 2027 (Two-Year / Full-Time MBA; R1 passed; clock time not on table)',
     deadlineDate: '2027-01-06',
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-017","SCH-019","SCH-020","SCH-032","SCH-034","SCH-035","SCH-036","SCH-037","SCH-038"],
   },
   'harvard-mba': {
     tuition: 84760,
@@ -758,7 +792,7 @@ export const researchDetails = {
     orientation: 'Case method · General management · FIELD',
     academic: 'Two-year MBA with a shared first-year Required Curriculum and FIELD, followed by electives. The case method emphasizes decisions under incomplete information.',
     funding: 'HBS need-based scholarships are open to admitted domestic and international students. Aid applications follow admission; personal eligibility and amount are assessed individually.',
-    scholarships: ["SCH-004"],
+    scholarships: ["SCH-004","SCH-015","SCH-017","SCH-019","SCH-020","SCH-034","SCH-035","SCH-036","SCH-037","SCH-038"],
     deadline: 'Round Two · 5 Jan 2027 · 12:00 p.m. ET (Class of 2029 / matriculating fall 2027; R1 passed)',
     deadlineDate: '2027-01-05',
     asOf: '2026-10-20',
@@ -778,6 +812,7 @@ export const researchDetails = {
     deadline: 'Round 2 · 12 Jan 2027 · 3:00 p.m. ET (2027 entry; R1 passed)',
     deadlineDate: '2027-01-12',
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-017","SCH-019","SCH-020","SCH-025","SCH-034","SCH-035","SCH-036","SCH-037","SCH-038"],
   },
   'nyu-mba': {
     tuition: 92658,
@@ -793,6 +828,7 @@ export const researchDetails = {
     deadline: '3rd Deadline · 15 Jan 2027 · 11:59 p.m. ET (Full-time MBA Fall 2027; 1st/2nd passed)',
     deadlineDate: '2027-01-15',
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-017","SCH-019","SCH-020","SCH-028","SCH-034","SCH-035","SCH-036","SCH-037","SCH-038"],
   },
   'michigan-mba': {
     tuition: 83946,
@@ -812,7 +848,7 @@ export const researchDetails = {
     confidence: 'high',
     unresolved: ["2027–28 tuition for Fall 2027 matriculants","Exact Dean’s Impact stipend amount"],
     asOf: '2026-10-20',
-    scholarships: ["SCH-006","SCH-007"],
+    scholarships: ["SCH-006","SCH-007","SCH-015","SCH-017","SCH-019","SCH-020","SCH-034","SCH-035","SCH-036","SCH-037","SCH-038"],
     deadline: 'Round 2 · 4 Jan 2027 · 11:59 p.m. ET (Full-Time MBA; R1 passed)',
     deadlineDate: '2027-01-04',
   },
@@ -836,6 +872,7 @@ export const researchDetails = {
     asOf: '2026-10-20',
     deadline: 'Round 2 · 5 Jan 2027 · 11:59 p.m. ET (Two-Year FT MBA; R1 passed)',
     deadlineDate: '2027-01-05',
+    scholarships: ["SCH-015","SCH-017","SCH-019","SCH-020","SCH-033","SCH-034","SCH-035","SCH-036","SCH-037","SCH-038"],
   },
   'vanderbilt-mba': {
     orientation: 'Core before internships · Concentrations',
@@ -857,6 +894,7 @@ export const researchDetails = {
     deadline: 'Round 2 · 6 Jan 2027 · 11:59 p.m. CT (Fall 2027; R1 passed; apps opened 19 Aug 2026)',
     deadlineDate: '2027-01-06',
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-017","SCH-019","SCH-020","SCH-034","SCH-035","SCH-036","SCH-037","SCH-038"],
   },
   'ucla-mba': {
     orientation: 'Electives · Client or venture capstone',
@@ -878,6 +916,7 @@ export const researchDetails = {
     deadline: 'Round 2 · 6 Jan 2027 · 11:59 p.m. PT (Full-Time MBA; R1 passed)',
     deadlineDate: '2027-01-06',
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-017","SCH-019","SCH-020","SCH-034","SCH-035","SCH-036","SCH-037","SCH-038"],
   },
   'indiana-mba': {
     availability: '+Flex delivery · confirm visa implications',
@@ -900,6 +939,7 @@ export const researchDetails = {
     deadline: 'Round 2 Phase 2 · 5 Jan (month-day; year not labeled on official table; portal Fall 2027; R1 Phase 2 Oct 15 passed if same annual cycle)',
     deadlineDate: null,
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-017","SCH-019","SCH-020","SCH-034","SCH-035","SCH-036","SCH-037","SCH-038"],
   },
   'utd-mba': {
     orientation: 'Cohort · 18–21 months · July start',
@@ -920,6 +960,7 @@ export const researchDetails = {
     deadline: 'Round 2 · 8 Jan (month-day; year not labeled on official FT MBA deadlines table; fall start; R1 Oct 15 passed if same annual cycle)',
     deadlineDate: null,
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-017","SCH-019","SCH-020","SCH-034","SCH-035","SCH-036","SCH-037","SCH-038"],
   },
   'usc-mba': {
     orientation: 'Two-year · Career Launchpad',
@@ -938,6 +979,7 @@ export const researchDetails = {
     deadline: 'Round 2 · 5 Jan 2027 (Full-Time MBA; R1 passed; clock time not on table)',
     deadlineDate: '2027-01-05',
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-017","SCH-019","SCH-020","SCH-034","SCH-035","SCH-036","SCH-037","SCH-038"],
   },
   'gatech-mba': {
     orientation: 'Core + electives · Concentrations',
@@ -957,6 +999,7 @@ export const researchDetails = {
     deadline: 'Round 2 · 8 Jan 2027 (Fall 2027 Start Full-time MBA; R1 passed; clock time not on table)',
     deadlineDate: '2027-01-08',
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-017","SCH-019","SCH-020","SCH-034","SCH-035","SCH-036","SCH-037","SCH-038"],
   },
   'washu-mba': {
     orientation: '67 credits · 12 specializations',
@@ -977,6 +1020,7 @@ export const researchDetails = {
     deadline: 'Round 2 · 7 Jan 2027 · 11:59 p.m. CT (Full-Time MBA Fall 2027; R1 passed)',
     deadlineDate: '2027-01-07',
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-017","SCH-019","SCH-020","SCH-034","SCH-035","SCH-036","SCH-037","SCH-038"],
   },
   'usc-cs': {
     tuition: 43872,
@@ -994,6 +1038,7 @@ export const researchDetails = {
     deadline: 'Fall 2027 final 15 Jan 2027 · 11:59 p.m. PT · Scholarship consideration 15 Dec (Fall 2027 row; year not printed on that cell)',
     deadlineDate: '2027-01-15',
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-016","SCH-017","SCH-018","SCH-019","SCH-020","SCH-021","SCH-038","SCH-039","SCH-040","SCH-041","SCH-042","SCH-043","SCH-044"],
   },
   'yale-cs': {
     tuition: 52400,
@@ -1013,6 +1058,7 @@ export const researchDetails = {
     deadlineDate: '2027-01-02',
     academic: 'A terminal MS route; the department describes its one-year option as the most common terminal degree. Application open: Open as of page check (Fall 2027 entry application now available) (deadline research 2026-10-20; see deadline field).',
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-016","SCH-017","SCH-018","SCH-019","SCH-020","SCH-021","SCH-038","SCH-039","SCH-040","SCH-041","SCH-042","SCH-043","SCH-044"],
   },
   'brown-cs': {
     tuition: 43908,
@@ -1032,6 +1078,7 @@ export const researchDetails = {
     deadlineDate: null,
     academic: 'Eight-course master’s with a flexible study plan; on-campus study is separate from the online AI/ML track. Application open: AI/ML track: applications open now (Fall 2027 launch noted on CS masters hub) (deadline research 2026-10-20; see deadline field).',
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-016","SCH-017","SCH-018","SCH-019","SCH-020","SCH-021","SCH-038","SCH-039","SCH-040","SCH-041","SCH-042","SCH-043","SCH-044"],
   },
   'nyu-cs': {
     tuition: 58224,
@@ -1049,6 +1096,7 @@ export const researchDetails = {
     deadline: 'MSCS Fall 12 Feb 2027 (CEI year-labeled Fall 2027; GSAS month-day Feb 12) · 5 p.m. ET · Spring 1 Nov',
     deadlineDate: '2027-02-12',
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-016","SCH-017","SCH-018","SCH-019","SCH-020","SCH-021","SCH-038","SCH-039","SCH-040","SCH-041","SCH-042","SCH-043","SCH-044"],
   },
   'northwestern-cs': {
     tuition: 70986,
@@ -1067,6 +1115,7 @@ export const researchDetails = {
     deadlineDate: '2026-11-30',
     academic: 'A terminal MS application is distinct from PhD admission; research interests form part of program planning. Application open: 15 Sep 2026 (deadline research 2026-10-20; see deadline field).',
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-016","SCH-017","SCH-018","SCH-019","SCH-020","SCH-021","SCH-038","SCH-039","SCH-040","SCH-041","SCH-042","SCH-043","SCH-044"],
   },
   'ucsb-cs': {
     tuition: 40984.68,
@@ -1086,6 +1135,7 @@ export const researchDetails = {
     deadline: 'Fall 2027 final — 16 Dec 2026 (Wednesday)',
     deadlineDate: '2026-12-16',
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-016","SCH-017","SCH-018","SCH-019","SCH-020","SCH-021","SCH-038","SCH-039","SCH-040","SCH-041","SCH-042","SCH-043","SCH-044"],
   },
   'unc-cs': {
     tuition: 39421,
@@ -1103,6 +1153,7 @@ export const researchDetails = {
     deadline: 'Final 9 Mar 2027 · Fellowship recommend 15 Dec 2026 · RA/TA recommend 5 Jan 2027 (MS/PhD Fall only)',
     deadlineDate: '2027-03-09',
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-016","SCH-017","SCH-018","SCH-019","SCH-020","SCH-021","SCH-038","SCH-039","SCH-040","SCH-041","SCH-042","SCH-043","SCH-044"],
   },
   'washington-mba': {
     tuition: 60180,
@@ -1119,6 +1170,7 @@ export const researchDetails = {
     deadline: 'Round 2 · 5 Jan 2027 · 11:59 p.m. PDT (Full-time MBA 2026–2027; R1 passed; final for internationals)',
     deadlineDate: '2027-01-05',
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-017","SCH-019","SCH-020","SCH-034","SCH-035","SCH-036","SCH-037","SCH-038"],
   },
   'unc-mba': {
     tuition: 74192,
@@ -1136,6 +1188,7 @@ export const researchDetails = {
     deadline: 'Round 2 · 6 Jan 2027 · 11:59 p.m. ET (Full-Time MBA Class of 2029 / Aug 2027; R1 passed)',
     deadlineDate: '2027-01-06',
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-017","SCH-019","SCH-020","SCH-034","SCH-035","SCH-036","SCH-037","SCH-038"],
   },
   'emory-mba': {
     tuition: 79200,
@@ -1154,6 +1207,7 @@ export const researchDetails = {
     deadline: 'Round 2 · 6 Jan 2027 · 11:59 p.m. ET (Two-Year FT MBA 26–27 cycle; R1 passed)',
     deadlineDate: '2027-01-06',
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-017","SCH-019","SCH-020","SCH-030","SCH-034","SCH-035","SCH-036","SCH-037","SCH-038"],
   },
   'georgia-mba': {
     tuition: 36000,
@@ -1171,6 +1225,7 @@ export const researchDetails = {
     deadline: 'Round 2 · 10 Jan 2027 · 11:59 p.m. ET (Full-Time MBA; R1 passed; recommended for internationals)',
     deadlineDate: '2027-01-10',
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-017","SCH-019","SCH-020","SCH-034","SCH-035","SCH-036","SCH-037","SCH-038"],
   },
   'asu-mba': {
     tuition: null,
@@ -1185,6 +1240,7 @@ export const researchDetails = {
     deadline: 'Round II · 1 Dec 2026 (Full-time MBA Fall 2027; Round I passed; clock time not on table)',
     deadlineDate: '2026-12-01',
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-017","SCH-019","SCH-020","SCH-031","SCH-034","SCH-035","SCH-036","SCH-037","SCH-038"],
   },
   'rice-mba': {
     tuition: 79116,
@@ -1203,5 +1259,6 @@ export const researchDetails = {
     deadlineDate: '2027-01-06',
     academic: 'First-year core followed by more than 100 elective choices, spanning analytics, finance, strategy and other business disciplines. Application open: Class of 2029 applications open (as of page check 2026-10-20; calendar open day not posted) (deadline research 2026-10-20; see deadline field).',
     asOf: '2026-10-20',
+    scholarships: ["SCH-015","SCH-017","SCH-019","SCH-020","SCH-034","SCH-035","SCH-036","SCH-037","SCH-038"],
   },
 };

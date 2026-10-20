@@ -42,7 +42,7 @@ Program-specific internship structure, placement rates and international-student
 
 Master’s scholarship eligibility, award coverage and deadlines are not yet verified. Doctoral funding must not be assumed to cover this degree.
 
-Shared scholarship IDs: No verified award links yet. See the [scholarship library](../../04-scholarships/README.md).
+Shared scholarship IDs: SCH-015, SCH-016, SCH-017, SCH-018, SCH-019, SCH-020, SCH-021, SCH-038, SCH-039, SCH-040, SCH-041, SCH-042, SCH-043, SCH-044, SCH-045. See the [scholarship library](../../04-scholarships/README.md).
 
 ## Sources
 

@@ -42,7 +42,7 @@ Program-specific internship structure, placement rates and international-student
 
 Merit-based scholarships: all applicants considered. International Student Loan Program available. Yellow Ribbon / CASE / Adams LRAP have separate criteria.
 
-Shared scholarship IDs: SCH-008. See the [scholarship library](../../04-scholarships/README.md).
+Shared scholarship IDs: SCH-008, SCH-015, SCH-017, SCH-019, SCH-020, SCH-034, SCH-035, SCH-036, SCH-037, SCH-038. See the [scholarship library](../../04-scholarships/README.md).
 
 ## Sources
 
