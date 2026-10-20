@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-On-campus, non-thesis professional degree with faculty, advisor and career-service support.
+Rice MCS: 30-credit non-thesis professional master’s, normally 3 semesters, with specialization + internship + COMP 608.
 
-Orientation: Professional · Non-thesis
+Orientation: 30 credits · Non-thesis MCS · ~3 semesters
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -49,7 +49,8 @@ Shared scholarship IDs: SCH-015, SCH-016, SCH-017, SCH-018, SCH-019, SCH-020, SC
 - [MCS program home](https://cs.rice.edu/academics/graduate-programs/master-computer-science)
 - [Rank 27 cross-check](https://engineering.rice.edu/about/facts-rankings)
 - [Official tuition / budget (Bursar Engineering)](https://bursar.rice.edu/tuition_fee_rates/graduate-programs/engineering)
-- [MCS degree catalog](https://ga.rice.edu/programs-study/departments-programs/engineering/computer-science/computer-science-mcs/)
+- [GA Rice MCS](https://ga.rice.edu/programs-study/departments-programs/engineering/computer-science/computer-science-mcs/)
+- [MCS program](https://csweb.rice.edu/academics/graduate-programs/master-computer-science)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

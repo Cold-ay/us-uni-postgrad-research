@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Eight-course master’s with a flexible study plan; on-campus study is separate from the online AI/ML track. Application open: AI/ML track: applications open now (Fall 2027 launch noted on CS masters hub) (deadline research 2026-10-20; see deadline field).
+Brown CS ScM: 8 graded graduate courses within ~2 years (or ~1.5–16 months accelerated). Comprehensive or AI/ML tracks; optional professional internships and CSCI 2980 research project.
 
-Orientation: See degree route and academic overview
+Orientation: 8 courses · Comprehensive or AI/ML · ~1.5–2 years
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -46,12 +46,13 @@ Shared scholarship IDs: SCH-015, SCH-016, SCH-017, SCH-018, SCH-019, SCH-020, SC
 
 ## Sources
 
-- [Brown CS Master's hub](https://cs.brown.edu/degrees/masters/)
+- [MS overview](https://cs.brown.edu/degrees/masters/)
 - [Official tuition / budget](https://sfs.brown.edu/tuition-and-fees/graduate)
 - [COA by program (CS)](https://gradfunding.brown.edu/cost-attendance-program)
 - [Graduate Programs ScM Computer Science (deadlines)](https://graduateprograms.brown.edu/graduate-program/computer-science-scm)
 - [Brown CS Applying to Master's](https://cs.brown.edu/degrees/masters/applications/)
 - [SPS Deadlines and Credits (CS Fall Jan. 15)](https://masters.brown.edu/admissions/tuition-aid/deadlines-credits)
+- [Comprehensive track requirements](https://cs.brown.edu/degrees/masters/reqs/)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-A terminal MS route; the department describes its one-year option as the most common terminal degree. Application open: Open as of page check (Fall 2027 entry application now available) (deadline research 2026-10-20; see deadline field).
+Yale CS terminal MS: one-year (8 courses) or selective two-year (6 courses + thesis + teaching). Visa students on one-year track take 4 degree courses per term.
 
-Orientation: See degree route and academic overview
+Orientation: 1-year (8 courses) or 2-year thesis · Terminal MS
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -46,11 +46,11 @@ Shared scholarship IDs: SCH-015, SCH-016, SCH-017, SCH-018, SCH-019, SCH-020, SC
 
 ## Sources
 
-- [Yale Engineering CS MS program](https://engineering.yale.edu/academic-study/departments/computer-science/graduate-study/master-science-program)
+- [MS program](https://engineering.yale.edu/academic-study/departments/computer-science/graduate-study/master-science-program)
 - [Official tuition / budget](https://gsas.yale.edu/resources/graduate-financial-aid/tuition-and-fees)
 - [Student Accounts GSAS rates](https://student-accounts.yale.edu/tuition-and-fees)
 - [GSAS Dates & Deadlines (CS MS Jan 2, 2027; Fall 2027 reply Apr 15)](https://gsas.yale.edu/admissions/phdmasters-application-process/dates-deadlines)
-- [GSAS Computer Science program (MS Jan 2 11:59pm ET)](https://gsas.yale.edu/programs-of-study/computer-science)
+- [GSAS Computer Science](https://gsas.yale.edu/programs-of-study/computer-science)
 - [GSAS PhD/Master's application process (Fall 2027 app available)](https://gsas.yale.edu/admissions/phdmasters-application-process)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 

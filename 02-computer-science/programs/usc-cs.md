@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-General MS plus specializations in AI, data science and game development. Several older specializations were discontinued in Fall 2024.
+USC Viterbi MS CS (General): 32 units with CSCI 570 + electives; thesis and many specializations available; FT often 1.5–2 years.
 
-Orientation: See degree route and academic overview
+Orientation: 32 units · CSCI 570 · Specializations / thesis
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -49,8 +49,9 @@ Shared scholarship IDs: SCH-015, SCH-016, SCH-017, SCH-018, SCH-019, SCH-020, SC
 - [USC CS Master's programs](https://www.cs.usc.edu/academic-programs/masters/)
 - [Official tuition / budget](https://viterbigradadmission.usc.edu/programs/masters/tuition-funding/tuition-funding-masters/)
 - [32-unit MS COA PDF](https://viterbigradadmission.usc.edu/wp-content/uploads/2026/03/2026-2027-Tuition-and-Fees-32.pdf)
-- [Viterbi MS Computer Science](https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/ms-computer-science/)
+- [Viterbi MS CS](https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/ms-computer-science/)
 - [USC Viterbi Master's Application Deadlines](https://viterbigradadmission.usc.edu/programs/masters/apply/)
+- [MS CS General](https://www.cs.usc.edu/academic-programs/masters/computer-science-general/)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence
