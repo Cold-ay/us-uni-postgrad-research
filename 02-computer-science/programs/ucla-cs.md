@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-MSCS offers a thesis or student-driven capstone. The separate MEng has an instructor-selected capstone and no thesis. Application open: mid-September (CS requirements page; year not labeled) (deadline research 2026-10-20; see deadline field).
+UCLA CS MS: nine 4-unit courses (B- or better) plus three CS 201 seminars. Thesis (CS 598) or Capstone project plans; no fixed core list — majority CS coursework.
 
-Orientation: Thesis or student-driven capstone
+Orientation: 36 units · Thesis or capstone · Flexible coursework
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -53,6 +53,8 @@ Shared scholarship IDs: SCH-015, SCH-016, SCH-017, SCH-018, SCH-019, SCH-020, SC
 - [CS Graduate Application Requirements (Dec 15 23:59 PT; mid-Sep open)](https://www.cs.ucla.edu/graduate-requirements/)
 - [UCLA Grad Division CS 2027–2028 requirements (deadline Dec 15, 2026)](https://grad.ucla.edu/gasaa/deptinfo/deptinfo.asp?academicyear=20272028&code=0201)
 - [CS Grad Admissions FAQ](https://www.cs.ucla.edu/graduate-admission-frequently-asked-questions/)
+- [Program requirements (Grad Division)](https://grad.ucla.edu/graduate-program-requirements/program-requirements-for-computer-science-7-2-2-2-2-2-2-2-2-2/)
+- [Graduate student handbook](https://www.cs.ucla.edu/graduate-student-handbook/)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Traditional MS/PhD and Professional Master’s Program are separate routes with different purposes and admissions pools.
+UW–Madison traditional CS MS: 30 credits with 24 CS (≥15 core 700–889). Optional thesis/project via CS 790. Distinguish from Professional MS (PMP).
 
-Orientation: Traditional MS/PhD or professional MS
+Orientation: 30 credits · Optional thesis · Traditional vs PMP
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -52,8 +52,8 @@ Shared scholarship IDs: SCH-015, SCH-016, SCH-017, SCH-018, SCH-019, SCH-020, SC
 - [Funding & COA](https://www.cs.wisc.edu/grad/programs/funding/)
 - [Professional MS](https://www.cs.wisc.edu/grad/programs/pmp/)
 - [CS Graduate Admissions (traditional Dec 15; PMP Feb 15)](https://www.cs.wisc.edu/grad/programs/admissions/)
-- [Traditional CS MS/PhD program](https://www.cs.wisc.edu/grad/programs/traditional/)
-- [Guide: Computer Sciences MS named option (Fall Deadline Dec 15)](https://guide.wisc.edu/graduate/computer-sciences/computer-sciences-ms/computer-sciences-computer-sciences-ms/)
+- [Traditional CS MS/PhD](https://www.cs.wisc.edu/grad/programs/traditional/)
+- [Guide: Computer Sciences MS](https://guide.wisc.edu/graduate/computer-sciences/computer-sciences-ms/computer-sciences-computer-sciences-ms/)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

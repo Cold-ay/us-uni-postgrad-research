@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Advanced study in the scientific foundations of computing. This CIS MSE is distinct from the MCIT conversion degree. Application open: 15 Sep 2026 (deadline research 2026-10-20; see deadline field).
+Penn CIS MSE: 10 course units with four constrained cores (theory + systems rules), CIS electives, and optional thesis (CIS 9990). Complete within seven years; min GPA 2.7.
 
-Orientation: See degree route and academic overview
+Orientation: 10 CUs · Constrained cores · Optional thesis
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -46,11 +46,12 @@ Shared scholarship IDs: SCH-015, SCH-016, SCH-017, SCH-018, SCH-019, SCH-020, SC
 
 ## Sources
 
-- [Catalog: Computer & Information Science, MSE](https://catalog.upenn.edu/graduate/programs/computer-information-science-mse/)
+- [CIS MSE catalog](https://catalog.upenn.edu/graduate/programs/computer-information-science-mse/)
 - [Official tuition / budget](https://srfs.upenn.edu/costs-budgeting/seas)
 - [Residential master’s CS admissions](https://gradadm.engineering.upenn.edu/residential-masters/computer-science/)
 - [Penn Engineering How to Apply (Fall 2027 master's timeline)](https://gradadm.engineering.upenn.edu/how-to-apply/)
 - [Penn Engineering Master's Programs (CIS early deadline noted)](https://gradadm.engineering.upenn.edu/masters/)
+- [MSE in CIS requirements](https://www.cis.upenn.edu/mse-in-cis-requirements/)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

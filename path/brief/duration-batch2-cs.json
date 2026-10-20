@@ -1,0 +1,196 @@
+{
+  "batch": "duration-batch2-cs",
+  "as_of": "2026-10-20",
+  "field": "duration/core/tracks",
+  "items": [
+    {
+      "id": "ucsd-cs",
+      "as_of": "2026-10-20",
+      "duration": "Minimum three quarters residency; full- or part-time possible. Typical calendar length not fixed on overview \u2014 do not invent years.",
+      "credits": "Breadth 3 graduate courses (12 units); Depth 3 graduate courses (12 units); electives/research vary by plan. Thesis plan: 8\u201312 units CSE 298.",
+      "tracks": [
+        "Thesis Plan",
+        "Comprehensive Standard",
+        "Comprehensive Interdisciplinary",
+        "Majors: CS or Computer Engineering"
+      ],
+      "coreNotes": "Breadth across Theory, Systems, Applications. Depth in a specialization area. Do not invent a universal named core list beyond breadth/depth structure.",
+      "academic": "UCSD CSE MS offers Thesis, Comprehensive Standard, or Comprehensive Interdisciplinary plans with CS or Computer Engineering majors. Breadth (12 units) + Depth (12 units) plus electives/research; thesis needs 8\u201312 units CSE 298.",
+      "orientation": "Thesis or comprehensive \u00b7 Breadth + depth \u00b7 \u22653 quarters",
+      "sources": [
+        [
+          "MS program",
+          "https://cse.ucsd.edu/graduate/degree-programs/ms-program"
+        ]
+      ]
+    },
+    {
+      "id": "maryland-cs",
+      "as_of": "2026-10-20",
+      "duration": "All requirements within five years of admission.",
+      "credits": "30 credit hours. Thesis: 24 coursework + 6 CMSC 799. Non-thesis: 30 coursework + scholarly paper (up to 6 CMSC 798).",
+      "tracks": [
+        "Thesis",
+        "Non-thesis (scholarly paper)"
+      ],
+      "coreNotes": "Four MS qualifying 600\u2013800-level courses covering four of eight areas (\u22652 with A-range; others \u2265B including B-). Eight areas include AI, systems, theory, etc.",
+      "academic": "UMD CS MS is 30 credits with thesis (6 CMSC 799) or non-thesis scholarly paper. Four qualifying courses across four of eight areas; complete within five years.",
+      "orientation": "30 credits \u00b7 Thesis or scholarly paper \u00b7 8 areas",
+      "sources": [
+        [
+          "M.S. degree requirements",
+          "https://www.cs.umd.edu/grad/ms-policy-manual"
+        ],
+        [
+          "Catalog CSMS",
+          "https://academiccatalog.umd.edu/graduate/programs/computer-science-csms/computer-science-ms/"
+        ]
+      ]
+    },
+    {
+      "id": "columbia-cs",
+      "as_of": "2026-10-20",
+      "duration": "Designed for three semesters; speak with advising if timeline concerns.",
+      "credits": "\u226530 graduate points (\u22654000-level); \u22656 points of 6000-level technical courses; PDL requirement; breadth; min GPA 2.7.",
+      "tracks": [
+        "Computational Biology",
+        "Computer Security",
+        "Foundations of CS",
+        "Machine Learning",
+        "Natural Language Processing",
+        "Network Systems",
+        "Software Systems",
+        "Vision/Graphics/Interaction/Robotics",
+        "Personalized (invite)",
+        "MS Thesis (invite)"
+      ],
+      "coreNotes": "Pathway-specific fundamentals \u2014 cite pathway pages; do not invent a single shared core list.",
+      "academic": "Columbia CS MS: \u226530 points, designed for ~3 semesters, with breadth, PDL, and \u22656 points at 6000-level. Eight faculty pathways plus Personalized/Thesis by invite.",
+      "orientation": "30 points \u00b7 Pathways \u00b7 ~3 semesters",
+      "sources": [
+        [
+          "MS overview",
+          "https://www.cs.columbia.edu/education/ms/"
+        ],
+        [
+          "MS requirements FAQ",
+          "https://www.cs.columbia.edu/education/ms/regfaq/"
+        ]
+      ]
+    },
+    {
+      "id": "purdue-cs",
+      "as_of": "2026-10-20",
+      "duration": "Typically three or four semesters; twelve months possible for well-prepared students.",
+      "credits": "Non-thesis: 10 three-credit courses. Thesis: 8 courses + \u22656 credits CS 69800 research.",
+      "tracks": [
+        "Non-thesis",
+        "Thesis"
+      ],
+      "coreNotes": "Three core area courses: Systems I (502/565), Systems II (503/536), Algorithms (580/588), plus four table courses spanning \u22652 other areas.",
+      "academic": "Purdue CS MS: typically 3\u20134 semesters. Non-thesis 10 courses or thesis 8 courses + CS 69800. Required cores in Systems I/II and Algorithms plus breadth across areas.",
+      "orientation": "10 courses or thesis \u00b7 Systems + algorithms cores \u00b7 3\u20134 semesters",
+      "sources": [
+        [
+          "Master's program curriculum",
+          "https://www.cs.purdue.edu/graduate/curriculum/masters.html"
+        ]
+      ]
+    },
+    {
+      "id": "ucla-cs",
+      "as_of": "2026-10-20",
+      "duration": "Not a fixed semester count on Grad Division requirements; MS enrollment minimum 12 units/quarter. Do not invent years.",
+      "credits": "Nine 4-unit courses (36 units) + three CS 201 seminars. Thesis Plan I uses 2\u00d7 CS 598; Capstone Plan II is coursework + individual project.",
+      "tracks": [
+        "Thesis Plan I",
+        "Capstone Plan II"
+      ],
+      "coreNotes": "No fixed required course list; majority of graded and graduate courses must be CS. Capstone is student-driven with CS faculty advisor.",
+      "academic": "UCLA CS MS: nine 4-unit courses (B- or better) plus three CS 201 seminars. Thesis (CS 598) or Capstone project plans; no fixed core list \u2014 majority CS coursework.",
+      "orientation": "36 units \u00b7 Thesis or capstone \u00b7 Flexible coursework",
+      "sources": [
+        [
+          "Program requirements (Grad Division)",
+          "https://grad.ucla.edu/graduate-program-requirements/program-requirements-for-computer-science-7-2-2-2-2-2-2-2-2-2/"
+        ],
+        [
+          "Graduate student handbook",
+          "https://www.cs.ucla.edu/graduate-student-handbook/"
+        ]
+      ]
+    },
+    {
+      "id": "wisconsin-cs",
+      "as_of": "2026-10-20",
+      "duration": "Traditional MS pace not fixed on Guide; PMP is a separate professional route \u2014 catalog entry is traditional MS/PhD family; keep PMP distinct.",
+      "credits": "30 credits: 24 COMP SCI \u2265400 (with exclusions) including \u226515 core (700\u2013889 A\u2013F); 6 any subject. Optional CS 790 thesis (\u22646) or project (\u22643).",
+      "tracks": [
+        "Traditional MS (optional thesis/project)",
+        "Professional MS (PMP) \u2014 separate program"
+      ],
+      "coreNotes": "Traditional Guide requirements above. Do not invent specialization menus for traditional MS.",
+      "academic": "UW\u2013Madison traditional CS MS: 30 credits with 24 CS (\u226515 core 700\u2013889). Optional thesis/project via CS 790. Distinguish from Professional MS (PMP).",
+      "orientation": "30 credits \u00b7 Optional thesis \u00b7 Traditional vs PMP",
+      "sources": [
+        [
+          "Guide: Computer Sciences MS",
+          "https://guide.wisc.edu/graduate/computer-sciences/computer-sciences-ms/computer-sciences-computer-sciences-ms/"
+        ],
+        [
+          "Traditional CS MS/PhD",
+          "https://www.cs.wisc.edu/grad/programs/traditional/"
+        ],
+        [
+          "Degree programs hub",
+          "https://www.cs.wisc.edu/grad/programs/"
+        ]
+      ]
+    },
+    {
+      "id": "penn-cs",
+      "as_of": "2026-10-20",
+      "duration": "Maximum seven years; typical pace not fixed on catalog \u2014 do not invent.",
+      "credits": "10 course units. \u22657 CIS including 4 core + 3 CIS electives; 3 more CIS or approved non-CIS. Optional thesis CIS 9990 = 2 units.",
+      "tracks": [
+        "Flexible advanced study (no fixed specialization list on catalog)",
+        "Optional master's thesis"
+      ],
+      "coreNotes": "Four cores from theory/systems/ML/other menus with constraints: \u22651 systems (or CIS 5010), \u22651 theory, \u22641 ML among the four cores.",
+      "academic": "Penn CIS MSE: 10 course units with four constrained cores (theory + systems rules), CIS electives, and optional thesis (CIS 9990). Complete within seven years; min GPA 2.7.",
+      "orientation": "10 CUs \u00b7 Constrained cores \u00b7 Optional thesis",
+      "sources": [
+        [
+          "CIS MSE catalog",
+          "https://catalog.upenn.edu/graduate/programs/computer-information-science-mse/"
+        ],
+        [
+          "MSE in CIS requirements",
+          "https://www.cis.upenn.edu/mse-in-cis-requirements/"
+        ]
+      ]
+    },
+    {
+      "id": "chicago-cs",
+      "as_of": "2026-10-20",
+      "duration": "9-course MS: as little as nine months full-time. 12-course MS: about 15\u201324 months. Full- or part-time; evening options.",
+      "credits": "9-course pathway: five cores (algorithms/programming/systems categories) + four electives. 12-course: same cores + specialization (4 electives) + internship/practicum options.",
+      "tracks": [
+        "9-course MS",
+        "12-course MS with specializations (AI-Applications, AI-Foundations, HPC, Software Engineering)",
+        "Joint MBA/MPCS",
+        "4+1 Advanced Scholars"
+      ],
+      "coreNotes": "Five core courses across algorithms, programming, and computer systems categories \u2014 exact course menu on MPCS curriculum pages; do not invent titles beyond examples on marketing page.",
+      "academic": "UChicago MPCS: 9-course MS (\u2265~9 months) with five cores + four electives, or 12-course MS (\u224815\u201324 months) adding a specialization and internship/practicum options.",
+      "orientation": "9- or 12-course MPCS \u00b7 Specializations \u00b7 9\u201324 months",
+      "sources": [
+        [
+          "MPCS home",
+          "https://masters.cs.uchicago.edu/"
+        ]
+      ]
+    }
+  ],
+  "notes": "Overlay academic+orientation+sources. No invented universal cores. Restricted routes (mit/princeton/caltech/washington) deferred."
+}
