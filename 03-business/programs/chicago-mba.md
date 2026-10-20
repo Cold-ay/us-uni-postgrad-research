@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Flexible full-time MBA with concentrations spanning analytic finance, behavioral science, business analytics and other disciplines.
+Chicago Booth Full-Time MBA: ~21 months, 2,000 units. Highly flexible curriculum with LEAD + foundations + function areas + electives.
 
-Orientation: Flexible curriculum · Analytical approach
+Orientation: ~21 months · 2000 units · Flexible curriculum
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -49,6 +49,8 @@ Shared scholarship IDs: SCH-015, SCH-017, SCH-019, SCH-020, SCH-023, SCH-034, SC
 - [Full-Time MBA](https://www.chicagobooth.edu/mba/full-time)
 - [Official tuition / budget](https://www.chicagobooth.edu/mba/full-time/admissions/cost)
 - [Full-Time MBA Admissions (deadlines table)](https://www.chicagobooth.edu/mba/full-time/admissions)
+- [MBA curriculum](https://www.chicagobooth.edu/mba/academics/curriculum)
+- [Full-Time MBA FAQ](https://www.chicagobooth.edu/mba/full-time/faq)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

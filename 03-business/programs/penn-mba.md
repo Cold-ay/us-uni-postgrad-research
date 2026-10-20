@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Two-year MBA with a flexible core, majors, electives and individual career advising.
+Wharton MBA: ~20 months, 19 CU (9 core + major + electives). Fixed and flexible core; at least one of 22 majors.
 
-Orientation: Flexible core · Majors · Interdisciplinary options
+Orientation: ~20 months · 19 CU · Core + major
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -50,6 +50,8 @@ Shared scholarship IDs: SCH-015, SCH-017, SCH-019, SCH-020, SCH-022, SCH-034, SC
 - [Official tuition / budget](https://mba.wharton.upenn.edu/tuition-financial-aid/)
 - [Application timeline & deadlines 2026–27](https://mba.wharton.upenn.edu/application-timeline-deadlines/)
 - [Admissions process / application guide](https://mba.wharton.upenn.edu/admissions/admissions-process/)
+- [MBA curriculum](https://mba.wharton.upenn.edu/mba-curriculum/)
+- [Program details & duration](https://mba.wharton.upenn.edu/mba-program-details/)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

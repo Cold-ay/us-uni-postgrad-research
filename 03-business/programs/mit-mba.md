@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Full-time MBA; tuition and its mandatory MBA program fee are published together.
+MIT Sloan MBA: 2 years / 4 semesters, 144 units. Required Fall Core then customized electives across Sloan/MIT/Harvard.
 
-Orientation: Full-time MBA · Management
+Orientation: 2 years · 144 units · Fall Core → electives
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -50,6 +50,8 @@ Shared scholarship IDs: SCH-015, SCH-017, SCH-019, SCH-020, SCH-025, SCH-034, SC
 - [Official tuition / budget](https://mitsloan.mit.edu/mba/admissions/financing-your-education)
 - [MBA how to apply / deadlines](https://mitsloan.mit.edu/mba/admissions/how-to-apply)
 - [MBA admissions](https://mitsloan.mit.edu/mba/admissions)
+- [MBA curriculum](https://mitsloan.mit.edu/mba/explore-program/mba-curriculum)
+- [Degree requirements handbook](https://mbapolicyhandbook.mit.edu/degree-requirements/)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

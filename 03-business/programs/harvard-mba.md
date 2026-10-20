@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Two-year MBA with a shared first-year Required Curriculum and FIELD, followed by electives. The case method emphasizes decisions under incomplete information.
+HBS MBA: 2 years. Year 1 Required Curriculum; Year 2 Elective Curriculum (30 credits). Case-method RC core listed on HBS site.
 
-Orientation: Case method · General management · FIELD
+Orientation: 2 years · RC then EC · Case method
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -48,11 +48,12 @@ Shared scholarship IDs: SCH-004, SCH-015, SCH-017, SCH-019, SCH-020, SCH-034, SC
 
 - [MBA program](https://www.hbs.edu/mba)
 - [Tuition and attendance budget](https://www.hbs.edu/mba/financial-aid/tuition-assistance/cost-of-attendance)
-- [MBA curriculum](https://www.hbs.edu/mba/academic-experience/curriculum)
+- [Curriculum](https://www.hbs.edu/mba/academic-experience/curriculum)
 - [Case method](https://www.hbs.edu/mba/academic-experience/the-case-method)
 - [Need-based scholarships](https://www.hbs.edu/mba/financial-aid/tuition-assistance)
 - [MBA application dates (Class of 2029)](https://www.hbs.edu/mba/admissions/application-dates)
 - [MBA admissions](https://www.hbs.edu/mba/admissions)
+- [Degree requirements](https://www.hbs.edu/mba/handbook/academic-information-and-policies/degree-requirements)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence
