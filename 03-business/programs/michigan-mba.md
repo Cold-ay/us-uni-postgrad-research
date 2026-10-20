@@ -42,7 +42,7 @@ MAP is a required seven-week consulting project preparing students for internshi
 
 Automatic merit scholarship consideration on admission; $10,000 to full tuition. No separate application. Federal loans US-only; internationals use private loans. True Grit and several awards open to domestic and international students per affording page.
 
-Shared scholarship IDs: SCH-006, SCH-007, SCH-015, SCH-017, SCH-019, SCH-020, SCH-034, SCH-035, SCH-036, SCH-037, SCH-038, SCH-062, SCH-064. See the [scholarship library](../../04-scholarships/README.md).
+Shared scholarship IDs: SCH-006, SCH-007, SCH-015, SCH-017, SCH-019, SCH-020, SCH-034, SCH-035, SCH-036, SCH-037, SCH-038, SCH-062, SCH-064, SCH-072, SCH-074, SCH-077, SCH-084. See the [scholarship library](../../04-scholarships/README.md).
 
 ## Sources
 
