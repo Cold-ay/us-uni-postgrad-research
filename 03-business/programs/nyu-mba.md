@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Two-Year Full-time MBA; keep it separate from Stern’s specialized and part-time MBAs.
+Stern Full-Time MBA: 2 years, 60 credits. Required + menu core in Y1, electives/specializations in Y2, summer internship typical.
 
-Orientation: Full-time MBA · Management
+Orientation: 2 years · 60 credits · Menu core + specializations
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -50,6 +50,8 @@ Shared scholarship IDs: SCH-015, SCH-017, SCH-019, SCH-020, SCH-028, SCH-034, SC
 - [Official tuition / budget](https://www.stern.nyu.edu/programs-admissions/full-time-mba/financial-aid/tuition-cost-attendance)
 - [Full-time MBA admissions deadlines](https://www.stern.nyu.edu/programs-admissions/full-time-mba/admissions/deadlines)
 - [Full-time MBA admissions](https://www.stern.nyu.edu/programs-admissions/full-time-mba/admissions)
+- [Fall-start program outline](https://www.stern.nyu.edu/portal-partners/academic-affairs-advising/mba-programs/full-time-mba/full-time-mba-fall-start)
+- [Curriculum](https://www.stern.nyu.edu/programs-admissions/full-time-mba/academics/curriculum)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

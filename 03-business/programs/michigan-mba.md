@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-All first-year MBAs take MAP: a seven-week, real-company consulting project.
+Ross Full-Time MBA: 2 years, 57 credits. Prescribed Y1 core with MAP; Y2 electives; summer internship required.
 
-Orientation: Action learning · MAP consulting project
+Orientation: 2 years · 57 credits · MAP core
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -51,6 +51,8 @@ Shared scholarship IDs: SCH-006, SCH-007, SCH-015, SCH-017, SCH-019, SCH-020, SC
 - [Full-Time MBA](https://michiganross.umich.edu/graduate/full-time-mba)
 - [Affording Your MBA](https://michiganross.umich.edu/graduate/full-time-mba/admissions/tuition-financial-aid/affording-your-mba)
 - [Full-Time MBA Admissions (deadlines)](https://michiganross.umich.edu/graduate/full-time-mba/admissions)
+- [Full-time MBA curriculum](https://michiganross.umich.edu/graduate/full-time-mba/curriculum)
+- [Core course requirements](https://rossweb.bus.umich.edu/academics/curriculum/core-curriculum/full-time-mba/)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

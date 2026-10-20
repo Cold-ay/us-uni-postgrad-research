@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Analytics and decision-making combined with leadership coaching, consulting projects and experiential study.
+Tepper Full-Time MBA: ~21 months, 192 units, mini-semester format with early electives and final-mini capstone. Accelerated option separate.
 
-Orientation: Full-time MBA · Management
+Orientation: ~21 months · 192 units · Mini-semesters
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -50,8 +50,9 @@ Shared scholarship IDs: SCH-015, SCH-017, SCH-019, SCH-020, SCH-034, SCH-035, SC
 - [Official tuition / budget](https://www.cmu.edu/sfs/tuition/graduate/tepper/full-accel-mba.html)
 - [2026–2027 Graduate Tuition index](https://www.cmu.edu/sfs/tuition/graduate/index.html)
 - [Apply to Full-Time MBA (deadlines table)](https://www.cmu.edu/tepper/programs/mba/admissions/apply-full-time-mba)
-- [Full-Time MBA program](https://www.cmu.edu/tepper/programs/mba/full-time)
+- [Full-Time MBA](https://www.cmu.edu/tepper/programs/mba/full-time)
 - [MBA programs hub](https://www.cmu.edu/tepper/programs/mba/)
+- [Curriculum map PDF](https://www.cmu.edu/sites/default/files/cmu-tepper-site-files/documents/full-time-mba-curriculum-map-24-25.pdf)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

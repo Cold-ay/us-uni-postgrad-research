@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Daytime MBA with 13 required core classes and more than 100 electives; general management with room to customize.
+Fuqua Daytime MBA: ~22 months, ≥79 credits with ~13 core courses then heavy electives; 6-week terms.
 
-Orientation: Full-time MBA · Management
+Orientation: ~22 months · ≥79 credits · Flexible electives
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -46,10 +46,12 @@ Shared scholarship IDs: SCH-008, SCH-015, SCH-017, SCH-019, SCH-020, SCH-034, SC
 
 ## Sources
 
-- [Daytime MBA curriculum](https://www.fuqua.duke.edu/programs/daytime-mba/curriculum)
+- [Curriculum](https://www.fuqua.duke.edu/programs/daytime-mba/curriculum)
 - [Fuqua Daytime MBA Tuition + Costs](https://www.fuqua.duke.edu/programs/daytime-mba/tuition-costs)
 - [Daytime MBA Admissions Facts + Dates](https://www.fuqua.duke.edu/programs/daytime-mba/admissions-facts-dates)
 - [Daytime MBA program](https://www.fuqua.duke.edu/programs/daytime-mba/)
+- [Program format](https://www.fuqua.duke.edu/programs/daytime-mba/program-format)
+- [Graduation requirements](https://www.fuqua.duke.edu/graduation-requirements)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

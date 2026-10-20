@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Core business study and a second-semester immersion prepare students for a required summer internship. Second-year electives allow customization.
+Cornell Two-Year MBA: ~21 months, 60 credits with ~20.5-credit core, immersion, and required summer internship.
 
-Orientation: Immersion · Required summer internship
+Orientation: ~21 months · 60 credits · ~20.5 core
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -46,12 +46,13 @@ Shared scholarship IDs: SCH-015, SCH-017, SCH-019, SCH-020, SCH-033, SCH-034, SC
 
 ## Sources
 
-- [Program / academic source](https://business.cornell.edu/admissions/graduate/mba/curriculum/)
+- [MBA curriculum](https://business.cornell.edu/admissions/graduate/mba/curriculum/)
 - [Official tuition / budget](https://business.cornell.edu/admissions/graduate/mba/tuition-financing/)
 - [Two-Year MBA curriculum](https://www.johnson.cornell.edu/programs/full-time-mba/two-year-mba/curriculum/)
 - [Cornell MBA application deadlines & important dates](https://business.cornell.edu/admissions/graduate/mba/application-guide/important-dates/)
 - [Cornell MBA admissions](https://business.cornell.edu/admissions/graduate/mba/)
 - [Two-Year MBA](https://www.johnson.cornell.edu/programs/full-time-mba/two-year-mba/)
+- [Two-year residential MBA](https://courses.cornell.edu/programs/two-year-residential-mba/)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

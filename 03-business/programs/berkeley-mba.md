@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Full-time MBA; use this program’s requirements rather than the evening/weekend or executive formats.
+Haas Full-Time MBA: ~21 months, ≥51 units with 11-course (20-unit) core, experiential course, and required internship.
 
-Orientation: Full-time MBA · Management
+Orientation: ~21 months · ≥51 units · 11-course core
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -51,6 +51,8 @@ Shared scholarship IDs: SCH-015, SCH-017, SCH-019, SCH-020, SCH-027, SCH-034, SC
 - [UC Berkeley Registrar Fee Schedule](https://registrar.berkeley.edu/tuition-fees/fee-schedule/)
 - [Haas Full-time MBA Admissions (2026–2027 deadlines)](https://mba.haas.berkeley.edu/admissions)
 - [Application requirements](https://mba.haas.berkeley.edu/admissions/application)
+- [Curriculum outline](https://haas.berkeley.edu/mba/academics/course-planning/curriculum-outline/)
+- [Graduation requirements](https://haas.berkeley.edu/mba/academics/course-planning/graduation-requirements/)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence
