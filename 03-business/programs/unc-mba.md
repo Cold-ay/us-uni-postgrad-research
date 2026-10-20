@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Full-time MBA; verify curriculum and career outcomes for the residential format.
+Kenan-Flagler Full-Time MBA: ~21 months, 62 credits with ~14 core courses then concentrations/electives.
 
-Orientation: Full-time MBA · Management
+Orientation: ~21 months · 62 credits · Module calendar
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -51,6 +51,8 @@ Shared scholarship IDs: SCH-015, SCH-017, SCH-019, SCH-020, SCH-034, SCH-035, SC
 - [Full-Time MBA Requirements and Deadlines (2026-2027)](https://www.kenan-flagler.unc.edu/programs/mba/full-time-mba/admissions/requirements-deadlines/)
 - [Full-Time MBA Apply (Class of 2029 / Aug 2027)](https://www.kenan-flagler.unc.edu/programs/mba/full-time-mba/admissions/apply/)
 - [Full-Time MBA program](https://www.kenan-flagler.unc.edu/programs/mba/full-time-mba/)
+- [Curriculum & concentrations](https://www.kenan-flagler.unc.edu/programs/mba/full-time-mba/academics/curriculum/)
+- [Full-Time MBA FAQs](https://www.kenan-flagler.unc.edu/programs/mba/full-time-mba/admissions/faq/)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

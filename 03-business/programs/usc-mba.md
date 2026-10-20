@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Two-year in-person MBA with a Career Launchpad immersion featuring coaching, pitch training and networking preparation.
+Marshall Full-Time MBA: 2 years, 63 units (24 core + electives) with PRIME and summer internship option.
 
-Orientation: Two-year · Career Launchpad
+Orientation: 2 years · 63 units · PRIME
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -49,6 +49,8 @@ Shared scholarship IDs: SCH-015, SCH-017, SCH-019, SCH-020, SCH-034, SCH-035, SC
 - [Full-Time MBA program](https://www.marshall.usc.edu/programs/graduate-programs/mba-programs/full-time-mba)
 - [Official tuition / budget](https://www.marshall.usc.edu/programs/graduate-programs/mba-programs/full-time-mba/tuition-fees)
 - [Full-Time MBA Admissions (deadlines)](https://www.marshall.usc.edu/programs/graduate-programs/mba-programs/full-time-mba/admissions)
+- [Full-Time MBA curriculum](https://www.marshall.usc.edu/full-time-mba-curriculum)
+- [MBA programs](https://www.marshall.usc.edu/programs/graduate-programs/mba-programs/)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

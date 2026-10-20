@@ -1,0 +1,199 @@
+{
+  "batch": "duration-batch3-mba",
+  "as_of": "2026-10-20",
+  "field": "duration/core/tracks",
+  "items": [
+    {
+      "id": "virginia-mba",
+      "as_of": "2026-10-20",
+      "duration": "Full-Time MBA ~21 months.",
+      "credits": "57 credits: 25.5 core + 31.5 non-core. Y1 integrated core + some electives; Y2 primarily electives.",
+      "tracks": [
+        "Full-Time MBA",
+        "Case-method core",
+        "Elective year 2"
+      ],
+      "coreNotes": "Core covers accounting, global economies/markets, ethics, finance, leadership communication, marketing, operations, organizational leadership, decision analysis, strategy.",
+      "academic": "Darden Full-Time MBA: ~21 months, 57 credits (25.5 core). Integrated case-method Y1 core; Y2 electives.",
+      "orientation": "~21 months \u00b7 57 credits \u00b7 Case core",
+      "sources": [
+        [
+          "Core curriculum",
+          "https://www.darden.virginia.edu/mba/academics/core-curriculum"
+        ],
+        [
+          "Full-Time MBA",
+          "https://www.darden.virginia.edu/mba"
+        ]
+      ]
+    },
+    {
+      "id": "unc-mba",
+      "as_of": "2026-10-20",
+      "duration": "Full-Time MBA ~21 months; four seven-week modules per academic year.",
+      "credits": "62 credit hours including ~14 required core courses plus electives/independent study/concentrations.",
+      "tracks": [
+        "Full-Time MBA",
+        "Concentrations",
+        "Electives after core"
+      ],
+      "coreNotes": "Core spans finance, accounting, economics, data analytics, strategy, operations, marketing, leadership, communications, ethics \u2014 see Kenan-Flagler curriculum page.",
+      "academic": "Kenan-Flagler Full-Time MBA: ~21 months, 62 credits with ~14 core courses then concentrations/electives.",
+      "orientation": "~21 months \u00b7 62 credits \u00b7 Module calendar",
+      "sources": [
+        [
+          "Curriculum & concentrations",
+          "https://www.kenan-flagler.unc.edu/programs/mba/full-time-mba/academics/curriculum/"
+        ],
+        [
+          "Full-Time MBA FAQs",
+          "https://www.kenan-flagler.unc.edu/programs/mba/full-time-mba/admissions/faq/"
+        ]
+      ]
+    },
+    {
+      "id": "texas-mba",
+      "as_of": "2026-10-20",
+      "duration": "Full-Time MBA ~21 months / two years (four semesters, Aug start).",
+      "credits": "62 semester hours: 23 required core (incl. career-management) + 37 approved electives. Custom Core courses in Y1.",
+      "tracks": [
+        "Full-Time MBA",
+        "Cohort core + Custom Core",
+        "Concentrations in Y2"
+      ],
+      "coreNotes": "Y1 cohort core: accounting, finance, statistics, microeconomics, marketing, operations, strategic management + Custom Core; Y2 electives.",
+      "academic": "McCombs Full-Time MBA: ~21 months, 62 hours (23 core + 37 electives) with Custom Core flexibility in year 1.",
+      "orientation": "~21 months \u00b7 62 hours \u00b7 Custom Core",
+      "sources": [
+        [
+          "Curriculum & concentrations",
+          "https://www.mccombs.utexas.edu/graduate/mba/full-time-mba/academics/curriculum/"
+        ],
+        [
+          "Catalog degree requirements",
+          "https://catalog.utexas.edu/graduate/areas-of-study/business/business-administration/degree-requirements/"
+        ]
+      ]
+    },
+    {
+      "id": "usc-mba",
+      "as_of": "2026-10-20",
+      "duration": "Full-Time MBA two years in person; summer internship option; global PRIME experience.",
+      "credits": "63 total units: Y1 24 core + 9 elective; Y2 30 elective. Core delivered over five terms in first academic year.",
+      "tracks": [
+        "Full-Time MBA",
+        "PRIME global experience",
+        "Elective-heavy Y2"
+      ],
+      "coreNotes": "Core course list on Marshall Full-Time MBA curriculum page.",
+      "academic": "Marshall Full-Time MBA: 2 years, 63 units (24 core + electives) with PRIME and summer internship option.",
+      "orientation": "2 years \u00b7 63 units \u00b7 PRIME",
+      "sources": [
+        [
+          "Full-Time MBA curriculum",
+          "https://www.marshall.usc.edu/full-time-mba-curriculum"
+        ],
+        [
+          "MBA programs",
+          "https://www.marshall.usc.edu/programs/graduate-programs/mba-programs/"
+        ]
+      ]
+    },
+    {
+      "id": "washington-mba",
+      "as_of": "2026-10-20",
+      "duration": "Full-Time MBA two years; summer internship or project between years.",
+      "credits": "88 credits. Y1 integrated shared core; Y2 customized electives plus remaining core (e.g. ethics, global economic conditions).",
+      "tracks": [
+        "Full-Time MBA",
+        "Integrated Y1 core",
+        "Elective customization Y2"
+      ],
+      "coreNotes": "Required professional development, core case competition, international/practical experiences \u2014 see Foster curriculum page.",
+      "academic": "Foster Full-Time MBA: 2 years, 88 credits. Integrated Y1 core; customized Y2 electives; summer internship/project.",
+      "orientation": "2 years \u00b7 88 credits \u00b7 Integrated core",
+      "sources": [
+        [
+          "Full-time MBA curriculum",
+          "https://foster.uw.edu/academics/degree-programs/full-time-mba/curriculum/"
+        ],
+        [
+          "Course descriptions",
+          "https://foster.uw.edu/academics/degree-programs/full-time-mba/course-descriptions/"
+        ]
+      ]
+    },
+    {
+      "id": "washu-mba",
+      "as_of": "2026-10-20",
+      "duration": "Full-Time MBA two years, fall start.",
+      "credits": "67 credits: 25 required core (Y1) + 42 electives. Electives may begin in Y1; optional specializations typically 12 credits each.",
+      "tracks": [
+        "Full-Time MBA",
+        "Optional specializations / STEM pathways",
+        "Early electives"
+      ],
+      "coreNotes": "Core includes accounting, data analytics, finance, economics, strategy, marketing, operations, teamwork.",
+      "academic": "Olin Full-Time MBA: 2 years, 67 credits (25 core + 42 electives). Optional specializations; electives can start in year 1.",
+      "orientation": "2 years \u00b7 67 credits \u00b7 Optional specializations",
+      "sources": [
+        [
+          "Curriculum",
+          "https://olin.washu.edu/programs/mbas/full-time-mba/curriculum.php"
+        ],
+        [
+          "Full-Time MBA",
+          "https://olin.washu.edu/programs/mbas/full-time-mba/index.php"
+        ]
+      ]
+    },
+    {
+      "id": "emory-mba",
+      "as_of": "2026-10-20",
+      "duration": "Two-Year Full-Time MBA: four consecutive regular semesters; internship/practicum and global-content requirements.",
+      "credits": "69 total credits; \u226512 credits per semester.",
+      "tracks": [
+        "Two-Year MBA",
+        "Concentrations",
+        "Experiential / global opportunities"
+      ],
+      "coreNotes": "Y1 core-focused (finance, accounting, economics, marketing, strategy, analytics, leadership); Y2 electives/concentrations.",
+      "academic": "Goizueta Two-Year MBA: 4 semesters, 69 credits. Core-heavy Y1; electives/concentrations and experiential learning in Y2.",
+      "orientation": "2 years \u00b7 69 credits \u00b7 Concentrations",
+      "sources": [
+        [
+          "Two-Year MBA academics",
+          "https://goizueta.emory.edu/full-time-mba/two-year-mba/academics"
+        ],
+        [
+          "Catalog Full-Time MBA",
+          "https://goizueta.catalog.emory.edu/degreeprograms/graduate/fulltimemba"
+        ]
+      ]
+    },
+    {
+      "id": "rice-mba",
+      "as_of": "2026-10-20",
+      "duration": "Full-Time MBA ~22 months / two years.",
+      "credits": "54 credits. Y1 required core including Global Field Experience; Y2 electives (100+) for specialization.",
+      "tracks": [
+        "Full-Time STEM-designated MBA",
+        "Global Field Experience",
+        "Elective specializations"
+      ],
+      "coreNotes": "Core includes accounting, finance, economics, marketing, operations, strategy, OB, communications, data analysis, leadership, negotiations, Global Field Experience.",
+      "academic": "Rice Jones Full-Time MBA: ~22 months, 54 credits with required core + Global Field Experience, then elective specializations.",
+      "orientation": "~22 months \u00b7 54 credits \u00b7 Global Field Experience",
+      "sources": [
+        [
+          "Full-time MBA curriculum",
+          "https://business.rice.edu/rice-mba/full-time-mba/curriculum"
+        ],
+        [
+          "Full-Time MBA",
+          "https://business.rice.edu/rice-mba/full-time-mba"
+        ]
+      ]
+    }
+  ]
+}

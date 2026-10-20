@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-67-credit MBA with first-year core courses and 12 specializations; substantial elective choice.
+Olin Full-Time MBA: 2 years, 67 credits (25 core + 42 electives). Optional specializations; electives can start in year 1.
 
-Orientation: 67 credits · 12 specializations
+Orientation: 2 years · 67 credits · Optional specializations
 
 Faculty and supervision: The specialization page identifies Patrick Moreton as faculty advisor for Strategy and Consulting. This is an advising role, not confirmation of research supervision availability.
 
@@ -46,12 +46,13 @@ Shared scholarship IDs: SCH-015, SCH-017, SCH-019, SCH-020, SCH-034, SCH-035, SC
 
 ## Sources
 
-- [Full-Time MBA curriculum](https://olin.washu.edu/programs/mbas/full-time-mba/curriculum.php)
+- [Curriculum](https://olin.washu.edu/programs/mbas/full-time-mba/curriculum.php)
 - [Official tuition / budget](https://olin.washu.edu/programs/mbas/full-time-mba/cost-aid-scholarships.php)
 - [Bulletin 2026–27 master's financial (PDF)](https://bulletin.wustl.edu/grad/business/graduate-masters/financial/financial.pdf)
 - [Official tuition / budget](https://olin.washu.edu/programs/mbas/full-time-mba/specializations.php)
 - [Full-Time MBA How to Apply (Fall 2027 deadlines)](https://olin.washu.edu/programs/mbas/full-time-mba/apply.php)
 - [Full-Time MBA program](https://olin.washu.edu/programs/mbas/full-time-mba/)
+- [Full-Time MBA](https://olin.washu.edu/programs/mbas/full-time-mba/index.php)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

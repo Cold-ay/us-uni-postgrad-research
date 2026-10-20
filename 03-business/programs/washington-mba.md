@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Two-year, 88-credit full-time MBA with an integrated first-year core and second-year electives.
+Foster Full-Time MBA: 2 years, 88 credits. Integrated Y1 core; customized Y2 electives; summer internship/project.
 
-Orientation: Full-time MBA · Management
+Orientation: 2 years · 88 credits · Integrated core
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -46,10 +46,11 @@ Shared scholarship IDs: SCH-015, SCH-017, SCH-019, SCH-020, SCH-034, SCH-035, SC
 
 ## Sources
 
-- [Full-Time MBA curriculum](https://foster.uw.edu/academics/degree-programs/full-time-mba/curriculum/)
+- [Full-time MBA curriculum](https://foster.uw.edu/academics/degree-programs/full-time-mba/curriculum/)
 - [Official tuition / budget](https://foster.uw.edu/academics/degree-programs/full-time-mba/tuition-and-fees/)
 - [Full-time MBA Admissions (2026–2027 deadlines)](https://foster.uw.edu/academics/degree-programs/full-time-mba/admissions/)
 - [Full-time MBA](https://foster.uw.edu/academics/degree-programs/full-time-mba/)
+- [Course descriptions](https://foster.uw.edu/academics/degree-programs/full-time-mba/course-descriptions/)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

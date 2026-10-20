@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Full-time MBA academic route; curriculum and experiential-learning details are linked for deeper comparison.
+Darden Full-Time MBA: ~21 months, 57 credits (25.5 core). Integrated case-method Y1 core; Y2 electives.
 
-Orientation: Full-time MBA · Management
+Orientation: ~21 months · 57 credits · Case core
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -52,6 +52,8 @@ Shared scholarship IDs: SCH-015, SCH-017, SCH-019, SCH-020, SCH-029, SCH-034, SC
 - [MBA Apply Deadlines (2026–27 / Class of 2029)](https://www.darden.virginia.edu/mba/admissions/apply/deadlines)
 - [Darden 2026–27 Full-Time MBA Application Live](https://www.darden.virginia.edu/programs/blog/2026-27-full-time-mba-application-live)
 - [MBA program](https://www.darden.virginia.edu/mba/)
+- [Core curriculum](https://www.darden.virginia.edu/mba/academics/core-curriculum)
+- [Full-Time MBA](https://www.darden.virginia.edu/mba)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

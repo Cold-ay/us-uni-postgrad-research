@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-First-year core followed by more than 100 elective choices, spanning analytics, finance, strategy and other business disciplines. Application open: Class of 2029 applications open (as of page check 2026-10-20; calendar open day not posted) (deadline research 2026-10-20; see deadline field).
+Rice Jones Full-Time MBA: ~22 months, 54 credits with required core + Global Field Experience, then elective specializations.
 
-Orientation: Full-time MBA · Management
+Orientation: ~22 months · 54 credits · Global Field Experience
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -46,11 +46,12 @@ Shared scholarship IDs: SCH-015, SCH-017, SCH-019, SCH-020, SCH-034, SCH-035, SC
 
 ## Sources
 
-- [Full-Time MBA curriculum](https://business.rice.edu/rice-mba/full-time-mba/curriculum)
+- [Full-time MBA curriculum](https://business.rice.edu/rice-mba/full-time-mba/curriculum)
 - [Official tuition / budget](https://business.rice.edu/rice-mba/full-time-mba/tuition-and-financial-aid)
 - [Rice graduate tuition & fees 2026–27](https://ga.rice.edu/graduate-students/student-services-organizations/tuition-fees-expenses/)
 - [MBA Admissions Requirements / Guide (Class of 2029 deadlines)](https://business.rice.edu/mba-admissions/guide)
 - [Full-Time MBA program](https://business.rice.edu/rice-mba/full-time-mba/)
+- [Full-Time MBA](https://business.rice.edu/rice-mba/full-time-mba)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

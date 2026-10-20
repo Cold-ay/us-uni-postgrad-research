@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Two-Year MBA with early career preparation, performance coaching and quantitative/AI foundations.
+Goizueta Two-Year MBA: 4 semesters, 69 credits. Core-heavy Y1; electives/concentrations and experiential learning in Y2.
 
-Orientation: Full-time MBA · Management
+Orientation: 2 years · 69 credits · Concentrations
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -52,6 +52,8 @@ Shared scholarship IDs: SCH-015, SCH-017, SCH-019, SCH-020, SCH-030, SCH-034, SC
 - [Two-Year MBA Admissions (deadlines)](https://goizueta.emory.edu/full-time-mba/two-year-mba/admissions)
 - [Apply to Full-Time MBA (11:59PM ET; 26–27 cycle)](https://goizueta.emory.edu/full-time-mba/two-year-mba/admissions/application)
 - [Two-Year MBA program](https://goizueta.emory.edu/full-time-mba/two-year-mba/)
+- [Two-Year MBA academics](https://goizueta.emory.edu/full-time-mba/two-year-mba/academics)
+- [Catalog Full-Time MBA](https://goizueta.catalog.emory.edu/degreeprograms/graduate/fulltimemba)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence
