@@ -42,7 +42,7 @@ Program-specific internship structure, placement rates and international-student
 
 CS MS pages and Stanford Grad Aid: no guaranteed department funding for MS; international students generally ineligible for Stanford/federal loans. Course/Research Assistant roles exist but are limited; PhD priority. Knight-Hennessy (SCH-002) listed in catalog but 2027 application closed.
 
-Shared scholarship IDs: SCH-002, SCH-015, SCH-016, SCH-017, SCH-018, SCH-019, SCH-020, SCH-021, SCH-038, SCH-039, SCH-040, SCH-041, SCH-042, SCH-043, SCH-044, SCH-045. See the [scholarship library](../../04-scholarships/README.md).
+Shared scholarship IDs: SCH-002, SCH-015, SCH-016, SCH-017, SCH-018, SCH-019, SCH-020, SCH-021, SCH-038, SCH-039, SCH-040, SCH-041, SCH-042, SCH-043, SCH-044, SCH-045, SCH-059, SCH-062, SCH-064. See the [scholarship library](../../04-scholarships/README.md).
 
 ## Sources
 

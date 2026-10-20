@@ -240,15 +240,15 @@
    "tone": "green",
    "type": "Fellowship · College-Specific/Academic",
    "description": "Merit fellowships; all admitted MBA applicants automatically considered.",
-   "eligibility": "International students eligible for college-funded aid incl. Wharton Fellowship Program. HK/TW: no nationality restriction stated; personal eligibility unclear.",
+   "eligibility": "International students eligible for college-funded aid incl. Wharton Fellowship Program. HK/TW: yes — basis: \"Wharton FA FAQs: international students eligible for college-funded aid incl. Wharton Fellowship Program\" (https://mba-inside.wharton.upenn.edu/financial-aid/financial-aid-faqs/).",
    "amount": "unknown (amounts vary; not published on official page)",
    "deadline": "With admission decision",
    "note": "04-scholarships/opportunities/wharton-fellowships.md",
    "url": "https://mba-inside.wharton.upenn.edu/financial-aid/welcome/funding-opportunities/",
    "category": "College-Specific/Academic",
    "awardType": "fellowship",
-   "hkEligible": "unclear",
-   "twEligible": "unclear",
+   "hkEligible": "yes",
+   "twEligible": "yes",
    "intlEligible": "yes",
    "programIds": [
     "penn-mba"
@@ -260,6 +260,10 @@
     ],
     [
      "Wharton FA FAQs",
+     "https://mba-inside.wharton.upenn.edu/financial-aid/financial-aid-faqs/"
+    ],
+    [
+     "Rev2 nationality basis",
      "https://mba-inside.wharton.upenn.edu/financial-aid/financial-aid-faqs/"
     ]
    ],
@@ -273,15 +277,15 @@
    "tone": "green",
    "type": "Scholarship · College-Specific/Academic",
    "description": "Merit scholarships/fellowships; automatic consideration, no separate application.",
-   "eligibility": "Citizenship not a restriction; international students considered. HK/TW: no nationality restriction stated; personal eligibility unclear.",
+   "eligibility": "Citizenship not a restriction; international students considered. HK/TW: yes — basis: \"Booth: all full-time applicants considered; citizenship is not a restriction\" (https://www.chicagobooth.edu/mba/full-time/admissions/scholarships-and-aid).",
    "amount": "unknown",
    "deadline": "With admission / shortly after",
    "note": "04-scholarships/opportunities/booth-scholarships.md",
    "url": "https://www.chicagobooth.edu/mba/full-time/admissions/scholarships-and-aid",
    "category": "College-Specific/Academic",
    "awardType": "scholarship",
-   "hkEligible": "unclear",
-   "twEligible": "unclear",
+   "hkEligible": "yes",
+   "twEligible": "yes",
    "intlEligible": "yes",
    "programIds": [
     "chicago-mba"
@@ -289,6 +293,10 @@
    "sources": [
     [
      "Booth Scholarships and Aid",
+     "https://www.chicagobooth.edu/mba/full-time/admissions/scholarships-and-aid"
+    ],
+    [
+     "Rev2 nationality basis",
      "https://www.chicagobooth.edu/mba/full-time/admissions/scholarships-and-aid"
     ]
    ],
@@ -302,15 +310,15 @@
    "tone": "green",
    "type": "Fellowship · College-Specific/Academic",
    "description": "Merit fellowships via admission application; Feldberg is full tuition.",
-   "eligibility": "International applicants automatically considered for merit fellowships; need-based requires FA application after admission. HK/TW: no nationality restriction stated; personal eligibility unclear.",
+   "eligibility": "International applicants automatically considered for merit fellowships; need-based requires FA application after admission. HK/TW: yes — basis: \"CBS: international applicants automatically considered for merit fellowships\" (https://academics.business.columbia.edu/mba/tuition-financial-aid/mba-scholarships).",
    "amount": "Meyer Feldberg Distinguished Fellowship: full tuition; others unknown",
    "deadline": "With admission",
    "note": "04-scholarships/opportunities/cbs-fellowships.md",
    "url": "https://business.columbia.edu/financial-aid/types-aid/institutional-funding",
    "category": "College-Specific/Academic",
    "awardType": "fellowship",
-   "hkEligible": "unclear",
-   "twEligible": "unclear",
+   "hkEligible": "yes",
+   "twEligible": "yes",
    "intlEligible": "yes",
    "programIds": [
     "columbia-mba"
@@ -322,6 +330,10 @@
     ],
     [
      "CBS MBA Scholarships",
+     "https://academics.business.columbia.edu/mba/tuition-financial-aid/mba-scholarships"
+    ],
+    [
+     "Rev2 nationality basis",
      "https://academics.business.columbia.edu/mba/tuition-financial-aid/mba-scholarships"
     ]
    ],
@@ -335,15 +347,15 @@
    "tone": "green",
    "type": "Fellowship · College-Specific/Academic",
    "description": "Incoming students automatically considered for fellowships from MIT Sloan and other MIT departments; review independent of admission.",
-   "eligibility": "Admitted MBA students; FA requirements vary for international students. HK/TW: no nationality restriction stated; personal eligibility unclear.",
+   "eligibility": "Admitted MBA students; FA requirements vary for international students. HK/TW: yes — basis: \"MIT Sloan: 'Incoming students are automatically considered for fellowships…' with requirements that 'vary for international students'\" (https://mitsloan.mit.edu/mba/admissions/tuition-and-financial-aid).",
    "amount": "unknown",
    "deadline": "After admission",
    "note": "04-scholarships/opportunities/mit-sloan-fellowships.md",
    "url": "https://mitsloan.mit.edu/mba/admissions/tuition-and-financial-aid",
    "category": "College-Specific/Academic",
    "awardType": "fellowship",
-   "hkEligible": "unclear",
-   "twEligible": "unclear",
+   "hkEligible": "yes",
+   "twEligible": "yes",
    "intlEligible": "yes",
    "programIds": [
     "mit-mba"
@@ -351,6 +363,10 @@
    "sources": [
     [
      "MIT Sloan — Financing your MBA",
+     "https://mitsloan.mit.edu/mba/admissions/tuition-and-financial-aid"
+    ],
+    [
+     "Rev2 nationality basis",
      "https://mitsloan.mit.edu/mba/admissions/tuition-and-financial-aid"
     ]
    ],
@@ -364,15 +380,15 @@
    "tone": "green",
    "type": "Scholarship · Merit-Based",
    "description": "Discretionary merit+need scholarships; every admitted student incl. international automatically considered.",
-   "eligibility": "International students included; need-based not guaranteed. HK/TW: no nationality restriction stated; personal eligibility unclear.",
+   "eligibility": "International students included; need-based not guaranteed. HK/TW: yes — basis: \"Tuck: every admitted student, including international students, automatically considered\" (https://tuck.dartmouth.edu/mba/blog/financial-aid-faqs-international-students).",
    "amount": "$10,000 to full tuition (per Tuck FA FAQ for international students)",
    "deadline": "With admission",
    "note": "04-scholarships/opportunities/tuck-scholarships.md",
    "url": "https://tuck.dartmouth.edu/mba/blog/financial-aid-faqs-international-students",
    "category": "Merit-Based",
    "awardType": "scholarship",
-   "hkEligible": "unclear",
-   "twEligible": "unclear",
+   "hkEligible": "yes",
+   "twEligible": "yes",
    "intlEligible": "yes",
    "programIds": [
     "dartmouth-mba"
@@ -385,6 +401,10 @@
     [
      "Tuck Scholarships",
      "https://tuck.dartmouth.edu/admissions/finance-your-degree/scholarships-fellowships-sponsorships"
+    ],
+    [
+     "Rev2 nationality basis",
+     "https://tuck.dartmouth.edu/mba/blog/financial-aid-faqs-international-students"
     ]
    ],
    "asOf": "2026-10-20"
@@ -397,15 +417,15 @@
    "tone": "green",
    "type": "Fellowship · Merit-Based",
    "description": "All applicants automatically considered; some named funds prefer Asian undergraduates (Dr. Tahir) or China/Southeast Asia (Song Feiqing).",
-   "eligibility": "International students eligible regardless of citizenship. Whether HK/TW fall under 'China/Southeast Asia' preference: unclear. HK/TW: no nationality restriction stated; personal eligibility unclear.",
+   "eligibility": "International students eligible regardless of citizenship. Whether HK/TW fall under 'China/Southeast Asia' preference: unclear. HK/TW: yes — basis: \"Haas: international students eligible regardless of citizenship\" (https://haas.berkeley.edu/financial-aid/full-time-mba/haas-scholarships/merit-based-awards/).",
    "amount": "unknown",
    "deadline": "With admission",
    "note": "04-scholarships/opportunities/haas-fellowships.md",
    "url": "https://haas.berkeley.edu/financial-aid/full-time-mba/haas-scholarships/merit-based-awards/",
    "category": "Merit-Based",
    "awardType": "fellowship",
-   "hkEligible": "unclear",
-   "twEligible": "unclear",
+   "hkEligible": "yes",
+   "twEligible": "yes",
    "intlEligible": "yes",
    "programIds": [
     "berkeley-mba"
@@ -413,6 +433,10 @@
    "sources": [
     [
      "Haas Merit Based Awards",
+     "https://haas.berkeley.edu/financial-aid/full-time-mba/haas-scholarships/merit-based-awards/"
+    ],
+    [
+     "Rev2 nationality basis",
      "https://haas.berkeley.edu/financial-aid/full-time-mba/haas-scholarships/merit-based-awards/"
     ]
    ],
@@ -426,15 +450,15 @@
    "tone": "green",
    "type": "Scholarship · Merit-Based",
    "description": "Automatic merit consideration; ~20–25% of admitted receive awards.",
-   "eligibility": "International applicants automatically considered. HK/TW: no nationality restriction stated; personal eligibility unclear.",
-   "amount": "unknown (often full- or half-tuition per secondary summary; not verbatim)",
+   "eligibility": "International applicants automatically considered. HK/TW: yes — basis: \"Stern: international applicants automatically considered for merit scholarships\" (https://www.stern.nyu.edu/portal-partners/financial-aid/deadlines-timelines/prospectivestudents/international-applicants).",
+   "amount": "'About 20–25% of admitted full-time two-year MBA students receive merit-based scholarships; most are full- or half-tuition awards' (official Stern scholarships page); some awards cover one year or a fixed amount",
    "deadline": "With admission",
    "note": "04-scholarships/opportunities/stern-merit.md",
    "url": "https://www.stern.nyu.edu/portal-partners/financial-aid/scholarships-fellowships/merit-based",
    "category": "Merit-Based",
    "awardType": "scholarship",
-   "hkEligible": "unclear",
-   "twEligible": "unclear",
+   "hkEligible": "yes",
+   "twEligible": "yes",
    "intlEligible": "yes",
    "programIds": [
     "nyu-mba"
@@ -443,6 +467,14 @@
     [
      "NYU Stern Merit-Based Scholarships",
      "https://www.stern.nyu.edu/portal-partners/financial-aid/scholarships-fellowships/merit-based"
+    ],
+    [
+     "Rev2 nationality basis",
+     "https://www.stern.nyu.edu/portal-partners/financial-aid/deadlines-timelines/prospectivestudents/international-applicants"
+    ],
+    [
+     "Stern Scholarships (official)",
+     "https://www.stern.nyu.edu/programs-admissions/full-time-mba/financial-aid/scholarships"
     ]
    ],
    "asOf": "2026-10-20"
@@ -455,15 +487,15 @@
    "tone": "green",
    "type": "Fellowship · College-Specific/Academic",
    "description": "Automatic merit consideration; Oculus Fellowships via competition (EA/R1/R2).",
-   "eligibility": "International applicants eligible, incl. awards for international applicants. HK/TW: no nationality restriction stated; personal eligibility unclear.",
+   "eligibility": "International applicants eligible, incl. awards for international applicants. HK/TW: yes — basis: \"Darden FAQ: international applicants eligible for merit scholarships\" (https://www.darden.virginia.edu/mba/admissions/faq).",
    "amount": "'modest stipend to full tuition and fees'; Oculus up to full tuition and fees",
    "deadline": "Oculus: apply EA/R1/R2; others with admission",
    "note": "04-scholarships/opportunities/darden-merit.md",
    "url": "https://www.darden.virginia.edu/mba/tuition-financial-aid/scholarships",
    "category": "College-Specific/Academic",
    "awardType": "fellowship",
-   "hkEligible": "unclear",
-   "twEligible": "unclear",
+   "hkEligible": "yes",
+   "twEligible": "yes",
    "intlEligible": "yes",
    "programIds": [
     "virginia-mba"
@@ -476,6 +508,10 @@
     [
      "Oculus Fellowships",
      "https://www.darden.virginia.edu/mba/tuition-financial-aid/scholarships/competitive-scholarships/oculus-fellowships"
+    ],
+    [
+     "Rev2 nationality basis",
+     "https://www.darden.virginia.edu/mba/admissions/faq"
     ]
    ],
    "asOf": "2026-10-20"
@@ -488,15 +524,15 @@
    "tone": "green",
    "type": "Scholarship · Merit-Based",
    "description": "Top merit award; other Goizueta merit awards partial/full tuition.",
-   "eligibility": "International applicants eligible for Goizueta scholarships. HK/TW: no nationality restriction stated; personal eligibility unclear.",
+   "eligibility": "International applicants eligible for Goizueta scholarships. HK/TW: yes — basis: \"Goizueta: international applicants eligible for Goizueta scholarships (Woodruff criteria carry no nationality bar)\" (https://goizueta.emory.edu/full-time-mba/two-year-mba/life/international).",
    "amount": "Full tuition and fees plus $15,000 annual stipend",
    "deadline": "With admission",
    "note": "04-scholarships/opportunities/goizueta-woodruff.md",
    "url": "https://goizueta.emory.edu/full-time-mba/two-year-mba/admissions/tuition",
    "category": "Merit-Based",
    "awardType": "scholarship",
-   "hkEligible": "unclear",
-   "twEligible": "unclear",
+   "hkEligible": "yes",
+   "twEligible": "yes",
    "intlEligible": "yes",
    "programIds": [
     "emory-mba"
@@ -505,6 +541,10 @@
     [
      "Goizueta Cost of Full-Time MBA",
      "https://goizueta.emory.edu/full-time-mba/two-year-mba/admissions/tuition"
+    ],
+    [
+     "Rev2 nationality basis",
+     "https://goizueta.emory.edu/full-time-mba/two-year-mba/life/international"
     ]
    ],
    "asOf": "2026-10-20"
@@ -517,15 +557,15 @@
    "tone": "green",
    "type": "Scholarship · Merit-Based",
    "description": "Every admitted full-time MBA receives a scholarship; many receive 100% tuition.",
-   "eligibility": "Admitted full-time MBA; international tuition est. $130,000 before scholarship. HK/TW: no nationality restriction stated; personal eligibility unclear.",
+   "eligibility": "Admitted full-time MBA; international tuition est. $130,000 before scholarship. HK/TW: yes — basis: \"W. P. Carey: scholarship to every admitted full-time MBA; separate international tuition line published\" (https://wpcarey.asu.edu/mba-programs/full-time).",
    "amount": "Scholarship to every admitted student; amount individual (many 100% tuition)",
    "deadline": "With admission",
    "note": "04-scholarships/opportunities/asu-carey-all.md",
    "url": "https://wpcarey.asu.edu/mba-programs/full-time",
    "category": "Merit-Based",
    "awardType": "scholarship",
-   "hkEligible": "unclear",
-   "twEligible": "unclear",
+   "hkEligible": "yes",
+   "twEligible": "yes",
    "intlEligible": "yes",
    "programIds": [
     "asu-mba"
@@ -533,6 +573,10 @@
    "sources": [
     [
      "W. P. Carey Full-time MBA",
+     "https://wpcarey.asu.edu/mba-programs/full-time"
+    ],
+    [
+     "Rev2 nationality basis",
      "https://wpcarey.asu.edu/mba-programs/full-time"
     ]
    ],
@@ -546,7 +590,7 @@
    "tone": "amber",
    "type": "Scholarship · College-Specific/Academic",
    "description": "Kellogg offers merit- and need-based awards plus second-year scholarships.",
-   "eligibility": "Eligibility details on Kellogg scholarship page; international: unclear on fetched page. HK/TW: no nationality restriction stated; personal eligibility unclear.",
+   "eligibility": "Eligibility details on Kellogg scholarship page; international: unclear on fetched page. HK/TW: no nationality restriction stated; personal eligibility unclear. Rev2: no official international-eligibility wording found; remains unclear.",
    "amount": "unknown",
    "deadline": "unknown",
    "note": "04-scholarships/opportunities/kellogg-scholarships.md",
@@ -938,12 +982,12 @@
    "id": "SCH-045",
    "name": "Qualcomm Innovation Fellowship (North America)",
    "scope": "25 listed US/Canada universities",
-   "state": "2026 cycle; 2027 unknown",
+   "state": "2026 cycle; 2027 unknown · amount verified",
    "tone": "amber",
    "type": "Fellowship · Company-Sponsored",
    "description": "Team-based (2 PhD students) research fellowship.",
    "eligibility": "PhD students at listed universities (incl. MIT, Stanford, UCLA, UC Berkeley, Cornell, Georgia Tech per 2026 rules); nationality: unclear.",
-   "amount": "$50,000 per winning team member to department (per 2026 official rules summary — verify in PDF)",
+   "amount": "'Cash awards of $50,000 per Entrant will be awarded to the university academic departments of the winning students, not to the winning Entrants directly' (2026 Official Rules PDF, verbatim)",
    "deadline": "unknown for 2027",
    "note": "04-scholarships/opportunities/qualcomm-qif.md",
    "url": "https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/QIF-2026-official-rules-US-CANADA.pdf",
@@ -967,13 +1011,666 @@
     ]
    ],
    "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-046",
+   "name": "UCLA Anderson Full-Time MBA Merit & Donor Fellowships",
+   "scope": "ucla-mba",
+   "state": "Automatic with admission",
+   "tone": "green",
+   "type": "Fellowship · Merit-Based",
+   "description": "Merit fellowships at admission (2-year, final); second-year donor fellowships; ~40% of incoming class received fellowships.",
+   "eligibility": "FAQ: 'Does UCLA Anderson offer financial aid to international students? Yes … UCLA Anderson Fellowships: All admitted students are considered.' Fellowship applies to MBA fees only.",
+   "amount": "unknown",
+   "deadline": "With admission",
+   "note": "04-scholarships/opportunities/anderson-fellowships.md",
+   "url": "https://www.anderson.ucla.edu/degrees/full-time-mba/admissions/faq",
+   "category": "Merit-Based",
+   "awardType": "fellowship",
+   "hkEligible": "yes",
+   "twEligible": "yes",
+   "intlEligible": "yes",
+   "programIds": [
+    "ucla-mba"
+   ],
+   "sources": [
+    [
+     "Anderson FAQ",
+     "https://www.anderson.ucla.edu/degrees/full-time-mba/admissions/faq"
+    ],
+    [
+     "Financing Opportunities",
+     "https://www.anderson.ucla.edu/degrees/full-time-mba/financing/financing-opportunities"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-047",
+   "name": "Washington Foster Full-Time MBA Merit Scholarships",
+   "scope": "washington-mba",
+   "state": "Automatic with admission",
+   "tone": "green",
+   "type": "Scholarship · Merit-Based",
+   "description": "Merit scholarships at admission; possible out-of-state tuition waivers; need-based requires FAFSA (US only).",
+   "eligibility": "'Domestic and international candidates are eligible.' Priority Rounds 1–2.",
+   "amount": "unknown",
+   "deadline": "With admission (R1/R2 priority)",
+   "note": "04-scholarships/opportunities/foster-merit.md",
+   "url": "https://foster.uw.edu/academics/degree-programs/full-time-mba/tuition-and-fees/",
+   "category": "Merit-Based",
+   "awardType": "scholarship",
+   "hkEligible": "yes",
+   "twEligible": "yes",
+   "intlEligible": "yes",
+   "programIds": [
+    "washington-mba"
+   ],
+   "sources": [
+    [
+     "Foster Tuition and Financing",
+     "https://foster.uw.edu/academics/degree-programs/full-time-mba/tuition-and-fees/"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-048",
+   "name": "Indiana Kelley Full-Time MBA Merit Aid (incl. Dean's Fellowships)",
+   "scope": "indiana-mba",
+   "state": "Automatic with admission",
+   "tone": "amber",
+   "type": "Scholarship · Merit-Based",
+   "description": "All admitted automatically considered.",
+   "eligibility": "Official FAQ does not explicitly mention international students → HK/TW unclear.",
+   "amount": "'approximately $15,000 to full tuition' (FAQ)",
+   "deadline": "With admission",
+   "note": "04-scholarships/opportunities/kelley-merit.md",
+   "url": "https://kelley.iu.edu/programs/full-time-mba/admissions/faq.html",
+   "category": "Merit-Based",
+   "awardType": "scholarship",
+   "hkEligible": "unclear",
+   "twEligible": "unclear",
+   "intlEligible": "unclear",
+   "programIds": [
+    "indiana-mba"
+   ],
+   "sources": [
+    [
+     "Kelley FAQ",
+     "https://kelley.iu.edu/programs/full-time-mba/admissions/faq.html"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-049",
+   "name": "UNC Kenan-Flagler Full-Time MBA Merit Fellowships (incl. Full Tuition Fellowships)",
+   "scope": "unc-mba",
+   "state": "Automatic with admission",
+   "tone": "green",
+   "type": "Fellowship · Merit-Based",
+   "description": "Merit-only fellowships (no need-based); ~50% of students receive.",
+   "eligibility": "'Full Tuition Fellowships, which are open to students of all citizenships'; fellowships awarded 'to both international students and U.S. citizens'.",
+   "amount": "Partial to full tuition and fees; 2 years",
+   "deadline": "With admission",
+   "note": "04-scholarships/opportunities/kenan-flagler-fellowships.md",
+   "url": "https://www.kenan-flagler.unc.edu/programs/mba/full-time-mba/admissions/tuition-financial-aid/fellowships/",
+   "category": "Merit-Based",
+   "awardType": "fellowship",
+   "hkEligible": "yes",
+   "twEligible": "yes",
+   "intlEligible": "yes",
+   "programIds": [
+    "unc-mba"
+   ],
+   "sources": [
+    [
+     "KF Fellowships",
+     "https://www.kenan-flagler.unc.edu/programs/mba/full-time-mba/admissions/tuition-financial-aid/fellowships/"
+    ],
+    [
+     "KF International Applicants",
+     "https://www.kenan-flagler.unc.edu/programs/mba/full-time-mba/admissions/requirements-deadlines/international-applicants/"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-050",
+   "name": "CMU Tepper School MBA Scholarship",
+   "scope": "cmu-mba",
+   "state": "Automatic with admission",
+   "tone": "amber",
+   "type": "Scholarship · Merit-Based",
+   "description": "All MBA students considered at admission; named funds have own criteria.",
+   "eligibility": "'All full-time and part-time MBA students are considered' — no explicit international wording on official page → unclear.",
+   "amount": "Merit scholarships 'ranging from $10,000 to Full-Tuition' (stated in Consortium section)",
+   "deadline": "With admission",
+   "note": "04-scholarships/opportunities/tepper-scholarship.md",
+   "url": "https://www.cmu.edu/tepper/programs/graduate-services/tuition-and-scholarships",
+   "category": "Merit-Based",
+   "awardType": "scholarship",
+   "hkEligible": "unclear",
+   "twEligible": "unclear",
+   "intlEligible": "unclear",
+   "programIds": [
+    "cmu-mba"
+   ],
+   "sources": [
+    [
+     "Tepper Tuition and Scholarships",
+     "https://www.cmu.edu/tepper/programs/graduate-services/tuition-and-scholarships"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-051",
+   "name": "Vanderbilt Owen MBA Merit Scholarships & Dean's Scholars",
+   "scope": "vanderbilt-mba",
+   "state": "Automatic with admission",
+   "tone": "green",
+   "type": "Scholarship · Merit-Based",
+   "description": "Automatic merit consideration; Dean's Scholars full tuition.",
+   "eligibility": "Official page states international students considered (per indexed page).",
+   "amount": "$10,000 annually to full tuition",
+   "deadline": "With admission",
+   "note": "04-scholarships/opportunities/owen-merit.md",
+   "url": "https://business.vanderbilt.edu/mba/admissions/tuition-financing-scholarships/",
+   "category": "Merit-Based",
+   "awardType": "scholarship",
+   "hkEligible": "yes",
+   "twEligible": "yes",
+   "intlEligible": "yes",
+   "programIds": [
+    "vanderbilt-mba"
+   ],
+   "sources": [
+    [
+     "Owen Tuition & Scholarships",
+     "https://business.vanderbilt.edu/mba/admissions/tuition-financing-scholarships/"
+    ],
+    [
+     "Dean's Scholars",
+     "https://business.vanderbilt.edu/mba/admissions/tuition-financing-scholarships/deans-scholars-award-program/"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-052",
+   "name": "WashU Olin Full-Time MBA Merit & Signature Scholarships",
+   "scope": "washu-mba",
+   "state": "Automatic with admission",
+   "tone": "amber",
+   "type": "Scholarship · Merit-Based",
+   "description": "Automatic merit consideration; five signature scholarships (select in application).",
+   "eligibility": "International eligibility not explicit on fetched sources → unclear.",
+   "amount": "Signature: up to $100,000 (health leadership; St. Louis impact); up to $60,000 (entrepreneurship, private enterprise, finance) — Olin news Aug 2026",
+   "deadline": "With application",
+   "note": "04-scholarships/opportunities/olin-merit-signature.md",
+   "url": "https://olin.washu.edu/programs/mbas/full-time-mba/cost-aid-scholarships.php",
+   "category": "Merit-Based",
+   "awardType": "scholarship",
+   "hkEligible": "unclear",
+   "twEligible": "unclear",
+   "intlEligible": "unclear",
+   "programIds": [
+    "washu-mba"
+   ],
+   "sources": [
+    [
+     "Olin Cost, Aid and Scholarships",
+     "https://olin.washu.edu/programs/mbas/full-time-mba/cost-aid-scholarships.php"
+    ],
+    [
+     "Olin news 2026-08",
+     "https://olin.washu.edu/about/news-and-media/news/2026/08/olin-launches-mba-scholarships-next-gen-leaders.php"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-053",
+   "name": "Georgia Terry Full-Time MBA Merit Scholarships",
+   "scope": "georgia-mba",
+   "state": "Automatic with admission",
+   "tone": "green",
+   "type": "Scholarship · Merit-Based",
+   "description": "Merit scholarships at admission. NOTE: Terry's graduate assistantships (tuition reduced to $25/semester + stipend) are assistantships, not scholarships — labelled here only for context.",
+   "eligibility": "International applicants automatically considered (international applicants page); Round 3 is final international deadline.",
+   "amount": "Scholarships $2,000 to $20,000",
+   "deadline": "With admission; international by Round 3",
+   "note": "04-scholarships/opportunities/terry-scholarships.md",
+   "url": "https://www.terry.uga.edu/mba/fulltime/admissions/prospective-students/international/",
+   "category": "Merit-Based",
+   "awardType": "scholarship",
+   "hkEligible": "yes",
+   "twEligible": "yes",
+   "intlEligible": "yes",
+   "programIds": [
+    "georgia-mba"
+   ],
+   "sources": [
+    [
+     "Terry International Applicants",
+     "https://www.terry.uga.edu/mba/fulltime/admissions/prospective-students/international/"
+    ],
+    [
+     "Terry Tuition and Financing",
+     "https://www.terry.uga.edu/mba/fulltime/admissions/tuition/"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-054",
+   "name": "Georgia Tech Scheller Full-Time MBA Merit Fellowships",
+   "scope": "gatech-mba",
+   "state": "Automatic with admission",
+   "tone": "green",
+   "type": "Fellowship · Merit-Based",
+   "description": "Limited merit funding (fellowships; assistantships separate) mostly to R1/R2 applicants.",
+   "eligibility": "FAQ: international applicants considered for merit-based funding.",
+   "amount": "unknown",
+   "deadline": "With admission (R1/R2 priority)",
+   "note": "04-scholarships/opportunities/scheller-fellowships.md",
+   "url": "https://www.scheller.gatech.edu/explore-programs/mba-programs/full-time-mba/faqs/index.html",
+   "category": "Merit-Based",
+   "awardType": "fellowship",
+   "hkEligible": "yes",
+   "twEligible": "yes",
+   "intlEligible": "yes",
+   "programIds": [
+    "gatech-mba"
+   ],
+   "sources": [
+    [
+     "Scheller FT MBA FAQs",
+     "https://www.scheller.gatech.edu/explore-programs/mba-programs/full-time-mba/faqs/index.html"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-055",
+   "name": "Rice Jones Full-Time MBA Merit Scholarships",
+   "scope": "rice-mba",
+   "state": "Automatic with admission",
+   "tone": "green",
+   "type": "Scholarship · Merit-Based",
+   "description": "Automatic merit consideration for domestic and international applicants.",
+   "eligibility": "Domestic and international applicants considered (Rice admissions blog, official).",
+   "amount": "Class of 2025 offers: $5,000 to full program cost (Rice Business blog)",
+   "deadline": "With admission",
+   "note": "04-scholarships/opportunities/jones-merit.md",
+   "url": "https://business.rice.edu/admissions-blog/understand-mba-scholarship-options",
+   "category": "Merit-Based",
+   "awardType": "scholarship",
+   "hkEligible": "yes",
+   "twEligible": "yes",
+   "intlEligible": "yes",
+   "programIds": [
+    "rice-mba"
+   ],
+   "sources": [
+    [
+     "Rice scholarship options",
+     "https://business.rice.edu/admissions-blog/understand-mba-scholarship-options"
+    ],
+    [
+     "Guide to 2025 scholarships",
+     "https://business.rice.edu/admissions-blog/guide-to-2025-full-time-MBA-scholarships"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-056",
+   "name": "USC Marshall Full-Time MBA Merit Scholarships",
+   "scope": "usc-mba",
+   "state": "Automatic with admission",
+   "tone": "green",
+   "type": "Scholarship · Merit-Based",
+   "description": "All admitted automatically considered.",
+   "eligibility": "International students considered (official tuition page).",
+   "amount": "Partial to full tuition",
+   "deadline": "With admission",
+   "note": "04-scholarships/opportunities/marshall-merit.md",
+   "url": "https://www.marshall.usc.edu/programs/graduate-programs/mba-programs/full-time-mba/tuition-fees",
+   "category": "Merit-Based",
+   "awardType": "scholarship",
+   "hkEligible": "yes",
+   "twEligible": "yes",
+   "intlEligible": "yes",
+   "programIds": [
+    "usc-mba"
+   ],
+   "sources": [
+    [
+     "Marshall FTMBA Tuition and Fees",
+     "https://www.marshall.usc.edu/programs/graduate-programs/mba-programs/full-time-mba/tuition-fees"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-057",
+   "name": "UT Dallas Jindal Full-Time MBA Guaranteed Merit Scholarship",
+   "scope": "utd-mba",
+   "state": "Automatic with admission",
+   "tone": "green",
+   "type": "Scholarship · Merit-Based",
+   "description": "Every admitted FT MBA receives a merit scholarship; recipients pay Texas resident tuition.",
+   "eligibility": "International and out-of-state recipients receive resident tuition rates; GMAT/GRE required for scholarship.",
+   "amount": "At least $1,000 (guaranteed) plus resident-rate tuition; cohort distribution 41% $10k–20k, 52% $21k–35k, 7% $35k+/full",
+   "deadline": "With admission",
+   "note": "04-scholarships/opportunities/jindal-merit.md",
+   "url": "https://mba.utdallas.edu/tuition-aid/",
+   "category": "Merit-Based",
+   "awardType": "scholarship",
+   "hkEligible": "yes",
+   "twEligible": "yes",
+   "intlEligible": "yes",
+   "programIds": [
+    "utd-mba"
+   ],
+   "sources": [
+    [
+     "UTD MBA Cost & Tuition",
+     "https://mba.utdallas.edu/tuition-aid/"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-058",
+   "name": "Cornell Johnson MBA Merit Scholarships (general)",
+   "scope": "cornell-mba",
+   "state": "Automatic with admission",
+   "tone": "green",
+   "type": "Scholarship · Merit-Based",
+   "description": "All applicants automatically considered (separate from Park Fellowship SCH-033).",
+   "eligibility": "Available regardless of citizenship.",
+   "amount": "unknown",
+   "deadline": "With admission",
+   "note": "04-scholarships/opportunities/johnson-merit.md",
+   "url": "https://business.cornell.edu/admissions/graduate/mba/tuition-financing/scholarships-grants/",
+   "category": "Merit-Based",
+   "awardType": "scholarship",
+   "hkEligible": "yes",
+   "twEligible": "yes",
+   "intlEligible": "yes",
+   "programIds": [
+    "cornell-mba"
+   ],
+   "sources": [
+    [
+     "Johnson Scholarships & grants",
+     "https://business.cornell.edu/admissions/graduate/mba/tuition-financing/scholarships-grants/"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-059",
+   "name": "Microsoft Research Fellowship (successor to MSR PhD Fellowship)",
+   "scope": "PhD students/faculty/postdocs in listed regions incl. US, HK, TW",
+   "state": "2026 cycle closed (Dec 16, 2025)",
+   "tone": "red",
+   "type": "Fellowship · Company-Sponsored",
+   "description": "Unrestricted gift to institution for collaboration on MSR research challenges. PhD ONLY (students 'must be actively pursuing a PhD').",
+   "eligibility": "Enrollment-region based (US, Hong Kong, Taiwan listed); no nationality bar stated.",
+   "amount": "United States – $47,000 (USD); Hong Kong/Taiwan institutions – $17,000 (USD); one-time payment to institution",
+   "deadline": "2026: deadline Dec 16, 2025 11:59 PM ET (closed); 2027 unknown",
+   "note": "04-scholarships/opportunities/msr-fellowship.md",
+   "url": "https://www.microsoft.com/en-us/research/academic-program/2026-microsoft-research-fellowship/",
+   "category": "Company-Sponsored",
+   "awardType": "fellowship",
+   "hkEligible": "yes",
+   "twEligible": "yes",
+   "intlEligible": "yes",
+   "programIds": [
+    "mit-cs",
+    "multi (CS PhD)"
+   ],
+   "sources": [
+    [
+     "2026 Microsoft Research Fellowship",
+     "https://www.microsoft.com/en-us/research/academic-program/2026-microsoft-research-fellowship/"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-060",
+   "name": "Chiang Chen Overseas Fellowship (HK)",
+   "scope": "Top US universities (engineering)",
+   "state": "Annual; 2026 deadline unknown",
+   "tone": "amber",
+   "type": "Fellowship · Local",
+   "description": "HK foundation fellowship for engineering graduates to pursue further study at top US universities; master's-eligible.",
+   "eligibility": "Students from HK universities (scheme extended to HK 2014); max 3/yr. Whether CS counts as engineering: unclear. Taiwan: not stated (unclear).",
+   "amount": "'Each fellowship will carry US$ 50,000 to cover tuition fees'",
+   "deadline": "Latest seen: CityU internal deadline 22 Oct 2025 (2025/26); current cycle unknown",
+   "note": "04-scholarships/opportunities/chiang-chen-overseas.md",
+   "url": "https://www.ccicf.org.hk/en/scholarships/scholarships_intro/",
+   "category": "Local",
+   "awardType": "fellowship",
+   "hkEligible": "yes",
+   "twEligible": "unclear",
+   "intlEligible": "no",
+   "programIds": [
+    "multi (US engineering/CS)"
+   ],
+   "sources": [
+    [
+     "CCICF scholarships",
+     "https://www.ccicf.org.hk/en/scholarships/scholarships_intro/"
+    ],
+    [
+     "CityU EE scholarships list",
+     "https://www.ee.cityu.edu.hk/current_students/opportunities/scholarship"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-061",
+   "name": "Hong Kong Jockey Club Graduate Scholarship at MIT",
+   "scope": "MIT master's/doctoral",
+   "state": "Annual; deadline unknown",
+   "tone": "amber",
+   "type": "Scholarship · Local",
+   "description": "Up to three HK students per year for master's or doctoral programmes at MIT (Harvard no longer listed on official page).",
+   "eligibility": "Outstanding local (HK) young talents; Taiwan: no.",
+   "amount": "unknown (not stated on official overview)",
+   "deadline": "unknown",
+   "note": "04-scholarships/opportunities/hkjc-grad-mit.md",
+   "url": "https://www.jcscholarships.hk/en-US/Scholarship-Schemes/Graduate-Scholarship/",
+   "category": "Local",
+   "awardType": "scholarship",
+   "hkEligible": "yes",
+   "twEligible": "no",
+   "intlEligible": "no",
+   "programIds": [
+    "mit-mba",
+    "mit-cs"
+   ],
+   "sources": [
+    [
+     "JC Scholarships — Graduate Scholarship",
+     "https://www.jcscholarships.hk/en-US/Scholarship-Schemes/Graduate-Scholarship/"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-062",
+   "name": "Sir Robert Black Trust Fund Postgraduate Scholarships",
+   "scope": "Local or overseas postgraduate study",
+   "state": "Application period: contact secretariat",
+   "tone": "amber",
+   "type": "Scholarship · Local",
+   "description": "HKSAR-administered trust awarding postgraduate study/training funds.",
+   "eligibility": "Resided in HK ≥5 years; supported by a referee; must return and work in HK ≥3 years after study. Taiwan: no.",
+   "amount": "'Will vary … may not necessarily cover full expenses'",
+   "deadline": "unknown (contact Secretariat 3718 6888)",
+   "note": "04-scholarships/opportunities/sir-robert-black.md",
+   "url": "https://www.wfsfaa.gov.hk/en/other/scholarships/robert/9.1.5.htm",
+   "category": "Local",
+   "awardType": "scholarship",
+   "hkEligible": "yes",
+   "twEligible": "no",
+   "intlEligible": "no",
+   "programIds": [
+    "any US grad"
+   ],
+   "sources": [
+    [
+     "WFSFAA — Sir Robert Black",
+     "https://www.wfsfaa.gov.hk/en/other/scholarships/robert/9.1.5.htm"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-063",
+   "name": "Society of Women Engineers (SWE) Collegiate/Graduate Scholarships",
+   "scope": "Any ABET-accredited engineering/computing school",
+   "state": "2027–28 cycle: opens Dec 1",
+   "tone": "green",
+   "type": "Scholarship · Student-Specific",
+   "description": "School-agnostic scholarships for women in engineering/computing incl. CS; master's-eligible.",
+   "eligibility": "International graduate students may apply if enrolled/accepted at a school with ABET-accredited engineering, computing or technology programs; 3.0 GPA; full-time.",
+   "amount": "unknown (varies by named scholarship)",
+   "deadline": "Opens Dec 1, 2026; closes Feb 1, 2027 (Kaleidoscope interest page)",
+   "note": "04-scholarships/opportunities/swe-scholarship.md",
+   "url": "https://swe.org/apply-for-a-swe-scholarship/",
+   "category": "Student-Specific",
+   "awardType": "scholarship",
+   "hkEligible": "yes",
+   "twEligible": "yes",
+   "intlEligible": "yes",
+   "programIds": [
+    "multi (CS master's)"
+   ],
+   "sources": [
+    [
+     "SWE Apply",
+     "https://swe.org/apply-for-a-swe-scholarship/"
+    ],
+    [
+     "SWE 2027-28 interest form",
+     "https://apply.mykaleidoscope.com/program/SWEInterest2027"
+    ],
+    [
+     "SWE FAQs",
+     "https://help.mykaleidoscope.com/en/articles/12884418-society-of-women-engineers-faqs"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-064",
+   "name": "Taiwan MOE Subsidized Study-Abroad Loan (教育部補助留學生就學貸款) — LOAN",
+   "scope": "Recognised foreign master's/doctoral degrees",
+   "state": "Rolling (bank-administered)",
+   "tone": "amber",
+   "type": "Loan · Local",
+   "description": "LOAN, NOT A SCHOLARSHIP. Government-subsidised bank loan with grace-period interest subsidy.",
+   "eligibility": "ROC nationals; family annual income ≤NT$2,000,000 (or ≥2 siblings studying abroad); MOE-recognised foreign degree. Grace-period interest: MOE pays full if family income ≤NT$1,140,000; half if NT$1.14M–1.2M. Hong Kong: no.",
+   "amount": "Master's: total NT$1,200,000 (yr1 ≤NT$600,000); PhD NT$2,400,000. Master's term 12 years incl. 3-year grace",
+   "deadline": "Rolling via participating banks",
+   "note": "04-scholarships/opportunities/tw-moe-study-loan.md",
+   "url": "https://edu.law.moe.gov.tw/LawContent.aspx?id=FL028967",
+   "category": "Local",
+   "awardType": "loan",
+   "hkEligible": "no",
+   "twEligible": "yes",
+   "intlEligible": "no",
+   "programIds": [
+    "any US grad"
+   ],
+   "sources": [
+    [
+     "MOE Regulation (教育部補助留學生就學貸款辦法)",
+     "https://edu.law.moe.gov.tw/LawContent.aspx?id=FL028967"
+    ],
+    [
+     "MOE Loan FAQ PDF",
+     "https://ws.moe.edu.tw/001/Upload/7/relfile/6629/91840/567e02e1-900e-4d7f-b783-1001a761dc87.pdf"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-065",
+   "name": "Tepper Teach For America / AmeriCorps Scholarship",
+   "scope": "CMU Tepper FT MBA",
+   "state": "Automatic for corps alumni",
+   "tone": "amber",
+   "type": "Scholarship · Community Service",
+   "description": "Service-based scholarship for TFA/AmeriCorps alumni.",
+   "eligibility": "Admitted FT MBA who are TFA or AmeriCorps alumni. These are U.S. service programs; whether HK/TW nationals could hold that status: unclear.",
+   "amount": "'at least a $10,000' scholarship + $200 application fee waiver",
+   "deadline": "With admission",
+   "note": "04-scholarships/opportunities/tepper-tfa-americorps.md",
+   "url": "https://www.cmu.edu/tepper/programs/graduate-services/tuition-and-scholarships",
+   "category": "Community Service",
+   "awardType": "scholarship",
+   "hkEligible": "unclear",
+   "twEligible": "unclear",
+   "intlEligible": "unclear",
+   "programIds": [
+    "cmu-mba"
+   ],
+   "sources": [
+    [
+     "Tepper Tuition and Scholarships",
+     "https://www.cmu.edu/tepper/programs/graduate-services/tuition-and-scholarships"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-066",
+   "name": "Berkeley Haas Center for Responsible Business Fellowship (supplemental)",
+   "scope": "berkeley-mba",
+   "state": "Supplemental application via scholarship portal",
+   "tone": "amber",
+   "type": "Fellowship · Community Service",
+   "description": "Mission-based supplemental award for sustainability/responsible-business leadership.",
+   "eligibility": "Entering FT MBA; Haas considers international students for scholarships. Award-specific nationality rule: unclear.",
+   "amount": "$20,000 (per indexed official Haas supplemental-scholarships page; direct fetch failed — re-verify)",
+   "deadline": "Supplemental portal deadline unknown",
+   "note": "04-scholarships/opportunities/haas-crb-fellowship.md",
+   "url": "https://haas.berkeley.edu/financial-aid/full-time-mba/haas-scholarships/entering-students/",
+   "category": "Community Service",
+   "awardType": "fellowship",
+   "hkEligible": "unclear",
+   "twEligible": "unclear",
+   "intlEligible": "yes",
+   "programIds": [
+    "berkeley-mba"
+   ],
+   "sources": [
+    [
+     "Haas Supplemental Scholarships",
+     "https://haas.berkeley.edu/financial-aid/full-time-mba/haas-scholarships/entering-students/"
+    ]
+   ],
+   "asOf": "2026-10-20"
   }
  ],
  "researchDetailsLinkage": {
   "any": [
    "SCH-015",
    "SCH-019",
-   "SCH-038"
+   "SCH-038",
+   "SCH-062",
+   "SCH-064"
   ],
   "mit-cs": [
    "SCH-016",
@@ -982,7 +1679,9 @@
    "SCH-042",
    "SCH-043",
    "SCH-044",
-   "SCH-045"
+   "SCH-045",
+   "SCH-059",
+   "SCH-061"
   ],
   "multi": [
    "SCH-016",
@@ -999,7 +1698,10 @@
    "SCH-041",
    "SCH-042",
    "SCH-043",
-   "SCH-044"
+   "SCH-044",
+   "SCH-059",
+   "SCH-060",
+   "SCH-063"
   ],
   "penn-mba": [
    "SCH-022"
@@ -1011,13 +1713,15 @@
    "SCH-024"
   ],
   "mit-mba": [
-   "SCH-025"
+   "SCH-025",
+   "SCH-061"
   ],
   "dartmouth-mba": [
    "SCH-026"
   ],
   "berkeley-mba": [
-   "SCH-027"
+   "SCH-027",
+   "SCH-066"
   ],
   "nyu-mba": [
    "SCH-028"
@@ -1035,7 +1739,8 @@
    "SCH-032"
   ],
   "cornell-mba": [
-   "SCH-033"
+   "SCH-033",
+   "SCH-058"
   ],
   "stanford-cs": [
    "SCH-045"
@@ -1051,6 +1756,43 @@
   ],
   "gatech-cs": [
    "SCH-045"
+  ],
+  "ucla-mba": [
+   "SCH-046"
+  ],
+  "washington-mba": [
+   "SCH-047"
+  ],
+  "indiana-mba": [
+   "SCH-048"
+  ],
+  "unc-mba": [
+   "SCH-049"
+  ],
+  "cmu-mba": [
+   "SCH-050",
+   "SCH-065"
+  ],
+  "vanderbilt-mba": [
+   "SCH-051"
+  ],
+  "washu-mba": [
+   "SCH-052"
+  ],
+  "georgia-mba": [
+   "SCH-053"
+  ],
+  "gatech-mba": [
+   "SCH-054"
+  ],
+  "rice-mba": [
+   "SCH-055"
+  ],
+  "usc-mba": [
+   "SCH-056"
+  ],
+  "utd-mba": [
+   "SCH-057"
   ]
  },
  "existingReferenced": [

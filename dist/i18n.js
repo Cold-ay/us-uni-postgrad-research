@@ -7,6 +7,10 @@ export function resolveLocale(search, saved) {
  const requested = new URLSearchParams(search).get('lang');
  return locales.includes(requested) ? requested : locales.includes(saved) ? saved : 'en';
 }
+export function awardTypeBadgeLabel(awardType, locale = 'en') {
+  if (awardType === 'loan') return translate('Loan', locale);
+  return null;
+}
 export function translate(text, locale = 'en') {
  if(locale==='en' || !dictionaries[locale]) return String(text);
  const value=String(text);

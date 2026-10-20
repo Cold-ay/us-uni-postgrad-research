@@ -10,7 +10,7 @@
 Kellogg offers merit- and need-based awards plus second-year scholarships.
 
 ## Eligibility
-Eligibility details on Kellogg scholarship page; international: unclear on fetched page. HK/TW: no nationality restriction stated; personal eligibility unclear.
+Eligibility details on Kellogg scholarship page; international: unclear on fetched page. HK/TW: no nationality restriction stated; personal eligibility unclear. Rev2: no official international-eligibility wording found; remains unclear.
 
 ## Amount
 unknown
@@ -21,4 +21,4 @@ unknown
 ## Sources
 - [Kellogg Tuition + Aid](https://www.kellogg.northwestern.edu/programs/full-time-mba/tuition-financial-aid.aspx)
 
-_Do not treat amounts/deadlines as final; re-verify on the official page before applying._
+_Re-verify on the official page before applying._
