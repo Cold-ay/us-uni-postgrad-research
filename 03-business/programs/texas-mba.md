@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Core business foundations followed by substantial customization: more than 70% of coursework is self-selected.
+McCombs Full-Time MBA: ~21 months, 62 hours (23 core + 37 electives) with Custom Core flexibility in year 1.
 
-Orientation: Full-time MBA · Management
+Orientation: ~21 months · 62 hours · Custom Core
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -46,10 +46,11 @@ Shared scholarship IDs: SCH-009, SCH-015, SCH-017, SCH-019, SCH-020, SCH-034, SC
 
 ## Sources
 
-- [Full-Time MBA curriculum](https://www.mccombs.utexas.edu/graduate/mba/full-time-mba/academics/curriculum/)
+- [Curriculum & concentrations](https://www.mccombs.utexas.edu/graduate/mba/full-time-mba/academics/curriculum/)
 - [Official tuition / budget](https://www.mccombs.utexas.edu/graduate/mba/full-time-mba/tuition-financial-aid/)
 - [Full-Time MBA How to Apply (application deadlines)](https://www.mccombs.utexas.edu/graduate/mba/full-time-mba/admissions/application-process/)
 - [Full-Time MBA](https://www.mccombs.utexas.edu/graduate/mba/full-time-mba/)
+- [Catalog degree requirements](https://catalog.utexas.edu/graduate/areas-of-study/business/business-administration/degree-requirements/)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

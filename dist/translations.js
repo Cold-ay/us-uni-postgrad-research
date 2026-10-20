@@ -745,7 +745,15 @@ export const dictionaries = {
     "Tuck MBA: 2 years, 76.5 credits (14-course core + electives). Integrated Y1 required curriculum; Y2 electives.": "Tuck MBA：2 年、76.5 學分（14 門核心 + 選修）。第一年整合必修課程；第二年選修。",
     "Cornell Two-Year MBA: ~21 months, 60 credits with ~20.5-credit core, immersion, and required summer internship.": "Cornell 兩年 MBA：約 21 個月、60 學分，約 20.5 學分核心、immersion，並須完成暑期實習。",
     "UCLA Anderson Full-Time MBA: ~22 months with a ten-course core foundation, customizable electives, and a two-quarter Capstone Project.": "UCLA Anderson 全日制 MBA：約 22 個月，十門核心基礎課、可自訂選修，以及兩學季 Capstone 專案。",
-    "Tepper Full-Time MBA: ~21 months, 192 units, mini-semester format with early electives and final-mini capstone. Accelerated option separate.": "Tepper 全日制 MBA：約 21 個月、192 units，mini-semester 制，第一年即可選修，最後 mini 為 capstone。另有 Accelerated 路徑。"
+    "Tepper Full-Time MBA: ~21 months, 192 units, mini-semester format with early electives and final-mini capstone. Accelerated option separate.": "Tepper 全日制 MBA：約 21 個月、192 units，mini-semester 制，第一年即可選修，最後 mini 為 capstone。另有 Accelerated 路徑。",
+    "Darden Full-Time MBA: ~21 months, 57 credits (25.5 core). Integrated case-method Y1 core; Y2 electives.": "Darden 全日制 MBA：約 21 個月、57 學分（25.5 核心）。第一年整合案例法核心；第二年選修。",
+    "Kenan-Flagler Full-Time MBA: ~21 months, 62 credits with ~14 core courses then concentrations/electives.": "Kenan-Flagler 全日制 MBA：約 21 個月、62 學分，約 14 門核心課後可選專修／選修。",
+    "McCombs Full-Time MBA: ~21 months, 62 hours (23 core + 37 electives) with Custom Core flexibility in year 1.": "McCombs 全日制 MBA：約 21 個月、62 學時（23 核心 + 37 選修），第一年 Custom Core 具彈性。",
+    "Marshall Full-Time MBA: 2 years, 63 units (24 core + electives) with PRIME and summer internship option.": "Marshall 全日制 MBA：2 年、63 units（24 核心 + 選修），含 PRIME 與暑期實習選項。",
+    "Foster Full-Time MBA: 2 years, 88 credits. Integrated Y1 core; customized Y2 electives; summer internship/project.": "Foster 全日制 MBA：2 年、88 學分。第一年整合核心；第二年自訂選修；暑期實習或專案。",
+    "Olin Full-Time MBA: 2 years, 67 credits (25 core + 42 electives). Optional specializations; electives can start in year 1.": "Olin 全日制 MBA：2 年、67 學分（25 核心 + 42 選修）。可選專修；第一年即可開始選修。",
+    "Goizueta Two-Year MBA: 4 semesters, 69 credits. Core-heavy Y1; electives/concentrations and experiential learning in Y2.": "Goizueta 兩年 MBA：4 學期、69 學分。第一年核心為主；第二年選修／專修與體驗式學習。",
+    "Rice Jones Full-Time MBA: ~22 months, 54 credits with required core + Global Field Experience, then elective specializations.": "Rice Jones 全日制 MBA：約 22 個月、54 學分，必修核心與 Global Field Experience，之後選修專修。"
   },
   "zh-Hans": {
     "$31,100 per fall/spring semester. The SCS budget lists $37,374 in additional annual items, including $1,500 in federal loan fees applicable to borrowers. Not every item is mandatory for every student. Full-degree cost is not yet verified.": "秋季／春季每学期 $31,100。SCS 预算另列每年 $37,374 的其他项目，包括适用于借款人的 $1,500 联邦贷款费。并非每项费用都适用于所有学生。整个学位总费用尚未核实。",
@@ -1492,6 +1500,14 @@ export const dictionaries = {
     "Tuck MBA: 2 years, 76.5 credits (14-course core + electives). Integrated Y1 required curriculum; Y2 electives.": "Tuck MBA：2 年、76.5 学分（14 门核心 + 选修）。第一年整合必修课程；第二年选修。",
     "Cornell Two-Year MBA: ~21 months, 60 credits with ~20.5-credit core, immersion, and required summer internship.": "Cornell 两年 MBA：约 21 个月、60 学分，约 20.5 学分核心、immersion，並须完成暑期实习。",
     "UCLA Anderson Full-Time MBA: ~22 months with a ten-course core foundation, customizable electives, and a two-quarter Capstone Project.": "UCLA Anderson 全日制 MBA：约 22 个月，十门核心基礎课、可自订选修，以及两学季 Capstone 专案。",
-    "Tepper Full-Time MBA: ~21 months, 192 units, mini-semester format with early electives and final-mini capstone. Accelerated option separate.": "Tepper 全日制 MBA：约 21 个月、192 units，mini-semester 制，第一年即可选修，最后 mini 为 capstone。另有 Accelerated 路径。"
+    "Tepper Full-Time MBA: ~21 months, 192 units, mini-semester format with early electives and final-mini capstone. Accelerated option separate.": "Tepper 全日制 MBA：约 21 个月、192 units，mini-semester 制，第一年即可选修，最后 mini 为 capstone。另有 Accelerated 路径。",
+    "Darden Full-Time MBA: ~21 months, 57 credits (25.5 core). Integrated case-method Y1 core; Y2 electives.": "Darden 全日制 MBA：约 21 个月、57 学分（25.5 核心）。第一年整合案例法核心；第二年选修。",
+    "Kenan-Flagler Full-Time MBA: ~21 months, 62 credits with ~14 core courses then concentrations/electives.": "Kenan-Flagler 全日制 MBA：约 21 个月、62 学分，约 14 门核心课后可选专修／选修。",
+    "McCombs Full-Time MBA: ~21 months, 62 hours (23 core + 37 electives) with Custom Core flexibility in year 1.": "McCombs 全日制 MBA：约 21 个月、62 学时（23 核心 + 37 选修），第一年 Custom Core 具弹性。",
+    "Marshall Full-Time MBA: 2 years, 63 units (24 core + electives) with PRIME and summer internship option.": "Marshall 全日制 MBA：2 年、63 units（24 核心 + 选修），含 PRIME 与暑期实习选项。",
+    "Foster Full-Time MBA: 2 years, 88 credits. Integrated Y1 core; customized Y2 electives; summer internship/project.": "Foster 全日制 MBA：2 年、88 学分。第一年整合核心；第二年自订选修；暑期实习或专案。",
+    "Olin Full-Time MBA: 2 years, 67 credits (25 core + 42 electives). Optional specializations; electives can start in year 1.": "Olin 全日制 MBA：2 年、67 学分（25 核心 + 42 选修）。可选专修；第一年即可開始选修。",
+    "Goizueta Two-Year MBA: 4 semesters, 69 credits. Core-heavy Y1; electives/concentrations and experiential learning in Y2.": "Goizueta 两年 MBA：4 学期、69 学分。第一年核心为主；第二年选修／专修与体验式学习。",
+    "Rice Jones Full-Time MBA: ~22 months, 54 credits with required core + Global Field Experience, then elective specializations.": "Rice Jones 全日制 MBA：约 22 个月、54 学分，必修核心与 Global Field Experience，之后选修专修。"
   }
 };
