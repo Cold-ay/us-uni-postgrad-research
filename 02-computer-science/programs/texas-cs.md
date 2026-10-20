@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-The on-campus research degree includes a thesis route for in-depth work; separate from online master’s offerings. Application open: 15 Oct (month-day as posted; year not labeled) (deadline research 2026-10-20; see deadline field).
+On-campus research MSCS: breadth (3) + minor (2), then coursework (5 electives) or thesis (3 electives + 2 thesis courses); typically ~10 courses / ~2 years. Distinct from the online MSCS.
 
-Orientation: See degree route and academic overview
+Orientation: Research MSCS · Coursework or thesis · ~2 years
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -46,7 +46,7 @@ Shared scholarship IDs: SCH-015, SCH-016, SCH-017, SCH-018, SCH-019, SCH-020, SC
 
 ## Sources
 
-- [Research degrees (on-campus MS)](https://www.cs.utexas.edu/graduate/research-degrees)
+- [PhD and MS research degrees](https://www.cs.utexas.edu/graduate/research-degrees)
 - [Official tuition / budget](https://catalog.utexas.edu/general-information/registration-tuition-and-fees/tuition-and-fees/tables-tuition-for-fall-and-spring/)
 - [Tuition rates hub](https://onestop.utexas.edu/managing-costs/cost-tuition-rates/tuition-rates/)
 - [Cost & aid](https://www.cs.utexas.edu/graduate/cost-and-aid)

@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-An industry-oriented route with technical study, leadership and a capstone; distinguish it from research graduate degrees. Application open: Open as of page check (Fall 2027 Graduate Admission application for EECS now open) (deadline research 2026-10-20; see deadline field).
+Full-time EECS MEng completed in one academic year (Fall and Spring) with a technical concentration, engineering leadership coursework, and a team capstone. Concentrations include Data Science, Computer Systems, and Visual Computing among others.
 
-Orientation: Professional · Technical leadership · Capstone
+Orientation: Professional MEng · 1 year · Capstone · Leadership
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -46,7 +46,7 @@ Shared scholarship IDs: SCH-015, SCH-016, SCH-017, SCH-018, SCH-019, SCH-020, SC
 
 ## Sources
 
-- [MEng EECS program / apply](https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/)
+- [Master of Engineering (MEng) EECS](https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/)
 - [Official tuition / budget](https://registrar.berkeley.edu/tuition-fees/fee-schedule/)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 

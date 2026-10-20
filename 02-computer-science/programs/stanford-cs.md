@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-45-unit master’s with coursework or research options; MS admission does not guarantee entry to the PhD. Application open: 15 Sep 2026 (deadline research 2026-10-20; see deadline field).
+45-unit MS CS with Foundations, SSI, Breadth, Depth, and Electives on an approved program sheet. Nine predefined specializations (plus rare Individually Designed). Up to three years / nine non-summer quarters.
 
-Orientation: Coursework or research · 45 units
+Orientation: 45 units · 9 specializations · Coursework or research options
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -48,8 +48,8 @@ Shared scholarship IDs: SCH-002, SCH-015, SCH-016, SCH-017, SCH-018, SCH-019, SC
 
 - [Master's admissions](https://www.cs.stanford.edu/admissions/masters-admissions)
 - [Official tuition / budget](https://studentservices.stanford.edu/tuition-rates/2026-2027-graduate-and-professional-tuition-rates)
-- [MS requirements](https://www.cs.stanford.edu/masters-degree-requirements)
-- [Specializations](https://www.cs.stanford.edu/masters-specializations)
+- [MS degree requirements](https://www.cs.stanford.edu/masters-degree-requirements)
+- [MS specializations](https://www.cs.stanford.edu/masters-specializations)
 - [The Student Budget (graduate)](https://financialaid.stanford.edu/grad/budget/)
 - [Estimate Your Graduate Charges](https://studentservices.stanford.edu/my-finances/tuition-fees/estimate-your-graduate-charges-0)
 - [CS MS CA/RA overview](https://www.cs.stanford.edu/masters-course-assistant-and-research-assistant)

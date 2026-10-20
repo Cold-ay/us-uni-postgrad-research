@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Research MS and professional MEng are distinct programs. The MS is not a stepping stone to Cornell’s PhD.
+Research MS is a selective four-semester (≈2-year) degree: 34 credits with 6–12 thesis credits, an outside minor, and a written thesis + oral. Professional MEng is a separate ~1-year coursework + capstone route.
 
-Orientation: Separate research and professional routes
+Orientation: MS research thesis · or MEng professional · Distinct routes
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -48,7 +48,8 @@ Shared scholarship IDs: SCH-015, SCH-016, SCH-017, SCH-018, SCH-019, SCH-020, SC
 
 - [CS MS apply](https://www.cs.cornell.edu/master-science-computer-science/apply)
 - [Official tuition / budget](https://bursar.cornell.edu/students-parents/tuition-rates-and-fees)
-- [CS MEng apply](https://www.cs.cornell.edu/master-engineering-computer-science/apply)
+- [MEng apply](https://www.cs.cornell.edu/master-engineering-computer-science/apply)
+- [Master of Science in Computer Science](https://www.cs.cornell.edu/master-science-computer-science)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

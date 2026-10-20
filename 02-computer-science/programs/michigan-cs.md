@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-A master’s in CSE with an optional thesis. Research participation and advisor availability need individual confirmation. Application open: Reopens mid-September (Rackham closes in summer; late August/early September also stated) (deadline research 2026-10-20; see deadline field).
+CSE master’s requires 30 credits; thesis optional; normally finished in 1.5–2 years. MS vs MSE is primarily naming/eligibility by prior engineering bachelor’s.
 
-Orientation: See degree route and academic overview
+Orientation: 30 credits · Optional thesis · 1.5–2 years
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -46,7 +46,7 @@ Shared scholarship IDs: SCH-015, SCH-016, SCH-017, SCH-018, SCH-019, SCH-020, SC
 
 ## Sources
 
-- [Master's in CSE](https://cse.engin.umich.edu/academics/graduate/graduate-programs/masters-in-cse/)
+- [Master’s in CSE](https://cse.engin.umich.edu/academics/graduate/graduate-programs/masters-in-cse/)
 - [Official tuition / budget](https://ro.umich.edu/tuition-residency/tuition-fees/2026-2027/graduate/full-term/college-engineering-graduate-full-term)
 - [CSE graduate admissions](https://cse.engin.umich.edu/academics/graduate/admissions/)
 - [CSE how to apply](https://cse.engin.umich.edu/academics/graduate/admissions/apply/)
