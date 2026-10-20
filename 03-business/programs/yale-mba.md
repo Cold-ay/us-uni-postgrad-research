@@ -42,7 +42,7 @@ Program-specific internship structure, placement rates and international-student
 
 All full-time MBA students complete Scholarship Application after admission for Yale SOM scholarships; international students eligible for school scholarships (country-specific awards also exist). Median award figure is Class of 2027 statistic, not a guarantee.
 
-Shared scholarship IDs: SCH-005, SCH-015, SCH-017, SCH-019, SCH-020, SCH-034, SCH-035, SCH-036, SCH-037, SCH-038. See the [scholarship library](../../04-scholarships/README.md).
+Shared scholarship IDs: SCH-005, SCH-015, SCH-017, SCH-019, SCH-020, SCH-034, SCH-035, SCH-036, SCH-037, SCH-038, SCH-062, SCH-064. See the [scholarship library](../../04-scholarships/README.md).
 
 ## Sources
 

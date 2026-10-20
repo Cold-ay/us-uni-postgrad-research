@@ -4,6 +4,7 @@ import { readFile } from 'node:fs/promises';
 import { programs, scholarships, policy, filterPrograms } from '../dist/data.js';
 import { notes } from '../dist/notes.js';
 import { formatTuition, paginate } from '../dist/rankings.js';
+import { awardTypeBadgeLabel } from '../dist/i18n.js';
 test('top-30 cutoff retains all ties and separates ranking categories', () => {
   const mba = programs.filter(p=>p.area==='Business');
   const cs = programs.filter(p=>p.area==='Computer science');
@@ -92,13 +93,21 @@ test('shared scholarship records retain eligibility and expiry limits', () => {
   assert.ok(programs.find(p=>p.id==='stanford-cs').scholarships.includes('SCH-002'));
   assert.ok(!programs.find(p=>p.id==='harvard-cs').scholarships.includes('SCH-004'));
 });
-test('HK/TW scholarship batch upserts SCH-015..045 without altering batch-1 awards', () => {
-  assert.equal(scholarships.length, 45);
-  assert.ok(scholarships.some(s => s.id === 'SCH-015'));
-  assert.ok(scholarships.some(s => s.id === 'SCH-045'));
-  assert.equal(scholarships.find(s => s.id === 'SCH-035').hkEligible, 'unclear');
-  assert.equal(scholarships.find(s => s.id === 'SCH-035').twEligible, 'unclear');
-  assert.equal(scholarships.find(s => s.id === 'SCH-015').hkEligible, 'yes');
+test('HK/TW scholarship batch rev2: 66 awards, eligibility updates, loan badge', () => {
+  assert.equal(scholarships.length, 66);
+  assert.ok(scholarships.some(s => s.id === 'SCH-066'));
+  for (const id of ['SCH-022', 'SCH-023', 'SCH-024', 'SCH-025', 'SCH-026', 'SCH-027', 'SCH-028', 'SCH-029', 'SCH-030', 'SCH-031']) {
+    assert.equal(scholarships.find(s => s.id === id).hkEligible, 'yes');
+    assert.equal(scholarships.find(s => s.id === id).twEligible, 'yes');
+  }
+  assert.equal(scholarships.find(s => s.id === 'SCH-032').hkEligible, 'unclear');
+  assert.equal(scholarships.find(s => s.id === 'SCH-032').twEligible, 'unclear');
+  assert.equal(scholarships.find(s => s.id === 'SCH-001').state, 'Eligibility unverified');
+  assert.equal(scholarships.find(s => s.id === 'SCH-064').awardType, 'loan');
+  assert.equal(awardTypeBadgeLabel('loan'), 'Loan');
+  assert.equal(awardTypeBadgeLabel('loan', 'zh-Hant'), '貸款');
+  assert.equal(awardTypeBadgeLabel('loan', 'zh-Hans'), '贷款');
+  assert.equal(awardTypeBadgeLabel('scholarship'), null);
   assert.ok(programs.find(p => p.id === 'penn-mba').scholarships.includes('SCH-022'));
-  assert.ok(programs.find(p => p.id === 'stanford-mba').scholarships.includes('SCH-034'));
+  assert.ok(programs.find(p => p.id === 'ucla-mba').scholarships.includes('SCH-046'));
 });

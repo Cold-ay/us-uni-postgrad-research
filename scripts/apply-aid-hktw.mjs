@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-/** Upsert HK/TW scholarship batch (SCH-015..045) and merge researchDetailsLinkage. */
+/** Upsert HK/TW scholarship batch (SCH-015..066) and merge researchDetailsLinkage. */
 import { readFileSync, writeFileSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';

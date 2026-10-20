@@ -51,6 +51,27 @@ Audience: general master's applicants, with explicit Hong Kong and Taiwan eligib
 | SCH-043 | [NVIDIA Graduate Fellowship](opportunities/nvidia-grad.md) | Universities in US, Taiwan, etc. | Open · Oct 30 2026 (not for incoming students) |
 | SCH-044 | [Apple Scholars in AI/ML PhD Fellowship](opportunities/apple-aiml.md) | Nominating universities | Nomination-based |
 | SCH-045 | [Qualcomm Innovation Fellowship (North America)](opportunities/qualcomm-qif.md) | 25 listed US/Canada universities | 2026 cycle; 2027 unknown |
+| SCH-046 | [UCLA Anderson Full-Time MBA Merit & Donor Fellowships](opportunities/anderson-fellowships.md) | ucla-mba | Automatic with admission |
+| SCH-047 | [Washington Foster Full-Time MBA Merit Scholarships](opportunities/foster-merit.md) | washington-mba | Automatic with admission |
+| SCH-048 | [Indiana Kelley Full-Time MBA Merit Aid (incl. Dean's Fellowships)](opportunities/kelley-merit.md) | indiana-mba | Automatic with admission |
+| SCH-049 | [UNC Kenan-Flagler Full-Time MBA Merit Fellowships (incl. Full Tuition Fellowships)](opportunities/kenan-flagler-fellowships.md) | unc-mba | Automatic with admission |
+| SCH-050 | [CMU Tepper School MBA Scholarship](opportunities/tepper-scholarship.md) | cmu-mba | Automatic with admission |
+| SCH-051 | [Vanderbilt Owen MBA Merit Scholarships & Dean's Scholars](opportunities/owen-merit.md) | vanderbilt-mba | Automatic with admission |
+| SCH-052 | [WashU Olin Full-Time MBA Merit & Signature Scholarships](opportunities/olin-merit-signature.md) | washu-mba | Automatic with admission |
+| SCH-053 | [Georgia Terry Full-Time MBA Merit Scholarships](opportunities/terry-scholarships.md) | georgia-mba | Automatic with admission |
+| SCH-054 | [Georgia Tech Scheller Full-Time MBA Merit Fellowships](opportunities/scheller-fellowships.md) | gatech-mba | Automatic with admission |
+| SCH-055 | [Rice Jones Full-Time MBA Merit Scholarships](opportunities/jones-merit.md) | rice-mba | Automatic with admission |
+| SCH-056 | [USC Marshall Full-Time MBA Merit Scholarships](opportunities/marshall-merit.md) | usc-mba | Automatic with admission |
+| SCH-057 | [UT Dallas Jindal Full-Time MBA Guaranteed Merit Scholarship](opportunities/jindal-merit.md) | utd-mba | Automatic with admission |
+| SCH-058 | [Cornell Johnson MBA Merit Scholarships (general)](opportunities/johnson-merit.md) | cornell-mba | Automatic with admission |
+| SCH-059 | [Microsoft Research Fellowship (successor to MSR PhD Fellowship)](opportunities/msr-fellowship.md) | PhD students/faculty/postdocs in listed regions incl. US, HK, TW | 2026 cycle closed (Dec 16, 2025) |
+| SCH-060 | [Chiang Chen Overseas Fellowship (HK)](opportunities/chiang-chen-overseas.md) | Top US universities (engineering) | Annual; 2026 deadline unknown |
+| SCH-061 | [Hong Kong Jockey Club Graduate Scholarship at MIT](opportunities/hkjc-grad-mit.md) | MIT master's/doctoral | Annual; deadline unknown |
+| SCH-062 | [Sir Robert Black Trust Fund Postgraduate Scholarships](opportunities/sir-robert-black.md) | Local or overseas postgraduate study | Application period: contact secretariat |
+| SCH-063 | [Society of Women Engineers (SWE) Collegiate/Graduate Scholarships](opportunities/swe-scholarship.md) | Any ABET-accredited engineering/computing school | 2027–28 cycle: opens Dec 1 |
+| SCH-064 | [Taiwan MOE Subsidized Study-Abroad Loan (教育部補助留學生就學貸款) — LOAN](opportunities/tw-moe-study-loan.md) | Recognised foreign master's/doctoral degrees | Rolling (bank-administered) |
+| SCH-065 | [Tepper Teach For America / AmeriCorps Scholarship](opportunities/tepper-tfa-americorps.md) | cmu-mba | Automatic for corps alumni |
+| SCH-066 | [Berkeley Haas Center for Responsible Business Fellowship (supplemental)](opportunities/haas-crb-fellowship.md) | berkeley-mba | Supplemental application via scholarship portal |
 
 For each award, track: citizenship/residency; eligible degree/field/institution; degree-date restrictions; amount and coverage; duration/renewal; separate application; nomination; deadline/timezone; required documents; service/return obligations; other-award stacking; admission dependency; and applicable program IDs. Unknown conditions remain unknown.
 

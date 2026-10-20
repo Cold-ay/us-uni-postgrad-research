@@ -695,7 +695,8 @@ export const dictionaries = {
     "HK eligible: unclear": "香港適用：未明",
     "TW eligible: yes": "台灣適用：是",
     "TW eligible: no": "台灣適用：否",
-    "TW eligible: unclear": "台灣適用：未明"
+    "TW eligible: unclear": "台灣適用：未明",
+    "Loan": "貸款"
   },
   "zh-Hans": {
     "$31,100 per fall/spring semester. The SCS budget lists $37,374 in additional annual items, including $1,500 in federal loan fees applicable to borrowers. Not every item is mandatory for every student. Full-degree cost is not yet verified.": "秋季／春季每学期 $31,100。SCS 预算另列每年 $37,374 的其他项目，包括适用于借款人的 $1,500 联邦贷款费。并非每项费用都适用于所有学生。整个学位总费用尚未核实。",
@@ -1392,6 +1393,7 @@ export const dictionaries = {
     "HK eligible: unclear": "香港适用：未明",
     "TW eligible: yes": "台湾适用：是",
     "TW eligible: no": "台湾适用：否",
-    "TW eligible: unclear": "台湾适用：未明"
+    "TW eligible: unclear": "台湾适用：未明",
+    "Loan": "贷款"
   }
 };

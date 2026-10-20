@@ -42,7 +42,7 @@ The SCS comparison page provides general internship timing. Program-specific pla
 
 Master’s funding has not yet been verified. Do not apply doctoral funding policies to this degree.
 
-Shared scholarship IDs: SCH-015, SCH-016, SCH-017, SCH-018, SCH-019, SCH-020, SCH-021, SCH-038, SCH-039, SCH-040, SCH-041, SCH-042, SCH-043, SCH-044. See the [scholarship library](../../04-scholarships/README.md).
+Shared scholarship IDs: SCH-015, SCH-016, SCH-017, SCH-018, SCH-019, SCH-020, SCH-021, SCH-038, SCH-039, SCH-040, SCH-041, SCH-042, SCH-043, SCH-044, SCH-059, SCH-062, SCH-064. See the [scholarship library](../../04-scholarships/README.md).
 
 ## Sources
 
