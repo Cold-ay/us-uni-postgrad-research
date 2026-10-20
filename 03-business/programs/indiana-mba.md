@@ -18,9 +18,9 @@ Application status: +Flex delivery · confirm visa implications
 
 ## Academic direction
 
-Integrated core and Career Foundation Academies with company-based consulting projects. The +Flex pathway permits second-year completion on campus or online; international visa implications need checking.
+Kelley Full-Time +Flex MBA: 2 years with Integrated Core then majors/electives; Year 2 may be on campus or Flex online.
 
-Orientation: Integrated core · Career Academies · +Flex
+Orientation: 2 years · Integrated Core · +Flex Y2
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -51,6 +51,9 @@ Shared scholarship IDs: SCH-015, SCH-017, SCH-019, SCH-020, SCH-034, SCH-035, SC
 - [How to Apply (application deadlines table)](https://kelley.iu.edu/programs/full-time-mba/admissions/process-timeline.html)
 - [Full-Time MBA FAQ](https://kelley.iu.edu/programs/full-time-mba/admissions/faq.html)
 - [Full-Time MBA program](https://kelley.iu.edu/programs/full-time-mba/)
+- [Curriculum & experience](https://kelley.iu.edu/programs/full-time-mba/why-kelley/curriculum-experience.html)
+- [Full-Time MBA](https://kelley.iu.edu/programs/full-time-mba/index.html)
+- [Majors & minors](https://kelley.iu.edu/programs/full-time-mba/academics/majors-minors/index.html)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

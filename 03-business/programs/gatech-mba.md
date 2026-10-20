@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Full-time MBA core plus electives and 14 STEM-designated concentration options.
+Scheller Full-Time MBA: ~22 months, 54 hours (21 core + 33 electives incl. international elective); summer internship.
 
-Orientation: Core + electives · Concentrations
+Orientation: ~22 months · 54 hours · Intl elective
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -51,6 +51,7 @@ Shared scholarship IDs: SCH-015, SCH-017, SCH-019, SCH-020, SCH-034, SCH-035, SC
 - [Bursar Fall 2026 MBA tuition PDF](https://bursar.gatech.edu/student/tuition/fa26/fa26_mba.pdf)
 - [Full-time MBA Admissions (Fall 2027 deadlines)](https://www.scheller.gatech.edu/explore-programs/mba-programs/full-time-mba/admissions/index.html)
 - [Full-time MBA program](https://www.scheller.gatech.edu/explore-programs/mba-programs/full-time-mba/)
+- [Catalog MBA](https://catalog.gatech.edu/programs/mba/)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

@@ -753,7 +753,13 @@ export const dictionaries = {
     "Foster Full-Time MBA: 2 years, 88 credits. Integrated Y1 core; customized Y2 electives; summer internship/project.": "Foster 全日制 MBA：2 年、88 學分。第一年整合核心；第二年自訂選修；暑期實習或專案。",
     "Olin Full-Time MBA: 2 years, 67 credits (25 core + 42 electives). Optional specializations; electives can start in year 1.": "Olin 全日制 MBA：2 年、67 學分（25 核心 + 42 選修）。可選專修；第一年即可開始選修。",
     "Goizueta Two-Year MBA: 4 semesters, 69 credits. Core-heavy Y1; electives/concentrations and experiential learning in Y2.": "Goizueta 兩年 MBA：4 學期、69 學分。第一年核心為主；第二年選修／專修與體驗式學習。",
-    "Rice Jones Full-Time MBA: ~22 months, 54 credits with required core + Global Field Experience, then elective specializations.": "Rice Jones 全日制 MBA：約 22 個月、54 學分，必修核心與 Global Field Experience，之後選修專修。"
+    "Rice Jones Full-Time MBA: ~22 months, 54 credits with required core + Global Field Experience, then elective specializations.": "Rice Jones 全日制 MBA：約 22 個月、54 學分，必修核心與 Global Field Experience，之後選修專修。",
+    "ASU W. P. Carey Full-Time MBA: ~21 months, 60 credits, with summer internship between years and Strategic Management capstone.": "ASU W. P. Carey 全日制 MBA：約 21 個月、60 學分，兩年間須完成暑期實習，並含 Strategic Management 總整課程。",
+    "Scheller Full-Time MBA: ~22 months, 54 hours (21 core + 33 electives incl. international elective); summer internship.": "Scheller 全日制 MBA：約 22 個月、54 學時（21 核心 + 33 選修，含必修國際選修）；暑期實習。",
+    "UGA Terry Full-Time MBA: ~22 months, 61 credits with Y1 cores/analytics, Y2 legal + dual capstones + electives; summer internship.": "UGA Terry 全日制 MBA：約 22 個月、61 學分，第一年核心與分析課，第二年法律環境、雙總整課程與選修；暑期實習。",
+    "Kelley Full-Time +Flex MBA: 2 years with Integrated Core then majors/electives; Year 2 may be on campus or Flex online.": "Kelley 全日制 +Flex MBA：2 年，Integrated Core 後可選專修／選修；第二年可在校園或 Flex 線上完成。",
+    "Owen Full-Time MBA: 2 years, ≥62 credits across eight modules; required cores, ethics, and at least one 12-credit concentration.": "Owen 全日制 MBA：2 年、≥62 學分，八個模組；必修核心與倫理課，至少一個 12 學分專修。",
+    "UT Dallas Full-Time MBA Cohort: ~18–21 months, 53 hours (32 core + 21 electives), lock-step with pre-fall boot camp.": "UT Dallas 全日制 MBA 班級制：約 18–21 個月、53 學時（32 核心 + 21 選修），鎖步課程並含秋季開學前 boot camp。"
   },
   "zh-Hans": {
     "$31,100 per fall/spring semester. The SCS budget lists $37,374 in additional annual items, including $1,500 in federal loan fees applicable to borrowers. Not every item is mandatory for every student. Full-degree cost is not yet verified.": "秋季／春季每学期 $31,100。SCS 预算另列每年 $37,374 的其他项目，包括适用于借款人的 $1,500 联邦贷款费。并非每项费用都适用于所有学生。整个学位总费用尚未核实。",
@@ -1508,6 +1514,12 @@ export const dictionaries = {
     "Foster Full-Time MBA: 2 years, 88 credits. Integrated Y1 core; customized Y2 electives; summer internship/project.": "Foster 全日制 MBA：2 年、88 学分。第一年整合核心；第二年自订选修；暑期实习或专案。",
     "Olin Full-Time MBA: 2 years, 67 credits (25 core + 42 electives). Optional specializations; electives can start in year 1.": "Olin 全日制 MBA：2 年、67 学分（25 核心 + 42 选修）。可选专修；第一年即可開始选修。",
     "Goizueta Two-Year MBA: 4 semesters, 69 credits. Core-heavy Y1; electives/concentrations and experiential learning in Y2.": "Goizueta 两年 MBA：4 学期、69 学分。第一年核心为主；第二年选修／专修与体验式学习。",
-    "Rice Jones Full-Time MBA: ~22 months, 54 credits with required core + Global Field Experience, then elective specializations.": "Rice Jones 全日制 MBA：约 22 个月、54 学分，必修核心与 Global Field Experience，之后选修专修。"
+    "Rice Jones Full-Time MBA: ~22 months, 54 credits with required core + Global Field Experience, then elective specializations.": "Rice Jones 全日制 MBA：约 22 个月、54 学分，必修核心与 Global Field Experience，之后选修专修。",
+    "ASU W. P. Carey Full-Time MBA: ~21 months, 60 credits, with summer internship between years and Strategic Management capstone.": "ASU W. P. Carey 全日制 MBA：约 21 个月、60 学分，两年間须完成暑期实习，並含 Strategic Management 总整课程。",
+    "Scheller Full-Time MBA: ~22 months, 54 hours (21 core + 33 electives incl. international elective); summer internship.": "Scheller 全日制 MBA：约 22 个月、54 学时（21 核心 + 33 选修，含必修国际选修）；暑期实习。",
+    "UGA Terry Full-Time MBA: ~22 months, 61 credits with Y1 cores/analytics, Y2 legal + dual capstones + electives; summer internship.": "UGA Terry 全日制 MBA：约 22 个月、61 学分，第一年核心与分析课，第二年法律環境、雙总整课程与选修；暑期实习。",
+    "Kelley Full-Time +Flex MBA: 2 years with Integrated Core then majors/electives; Year 2 may be on campus or Flex online.": "Kelley 全日制 +Flex MBA：2 年，Integrated Core 后可选专修／选修；第二年可在校園或 Flex 线上完成。",
+    "Owen Full-Time MBA: 2 years, ≥62 credits across eight modules; required cores, ethics, and at least one 12-credit concentration.": "Owen 全日制 MBA：2 年、≥62 学分，八个模組；必修核心与伦理课，至少一个 12 学分专修。",
+    "UT Dallas Full-Time MBA Cohort: ~18–21 months, 53 hours (32 core + 21 electives), lock-step with pre-fall boot camp.": "UT Dallas 全日制 MBA 班級制：约 18–21 个月、53 学时（32 核心 + 21 选修），锁步课程並含秋季開学前 boot camp。"
   }
 };
