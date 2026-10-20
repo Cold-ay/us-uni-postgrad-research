@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Professional program combining computing foundations, programming and practical applications, with dedicated career services.
+UChicago MPCS: 9-course MS (≥~9 months) with five cores + four electives, or 12-course MS (≈15–24 months) adding a specialization and internship/practicum options.
 
-Orientation: See degree route and academic overview
+Orientation: 9- or 12-course MPCS · Specializations · 9–24 months
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 

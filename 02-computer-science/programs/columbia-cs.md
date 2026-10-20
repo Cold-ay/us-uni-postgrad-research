@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-30-point degree with pathways including machine learning, NLP, security and systems. Thesis pathway requires a faculty invitation.
+Columbia CS MS: ≥30 points, designed for ~3 semesters, with breadth, PDL, and ≥6 points at 6000-level. Eight faculty pathways plus Personalized/Thesis by invite.
 
-Orientation: Pathways · 30 points · Thesis by invitation
+Orientation: 30 points · Pathways · ~3 semesters
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -46,12 +46,13 @@ Shared scholarship IDs: SCH-015, SCH-016, SCH-017, SCH-018, SCH-019, SCH-020, SC
 
 ## Sources
 
-- [MS program home](https://www.cs.columbia.edu/education/ms/)
+- [MS overview](https://www.cs.columbia.edu/education/ms/)
 - [Official tuition / budget](https://sfs.columbia.edu/content/graduate-engineering-cost-attendance)
 - [SEAS graduate tuition bulletin](https://bulletin.columbia.edu/columbia-engineering/graduate-studies/graduate-tuition-fees-payments/)
 - [CS Admissions (MS deadlines table)](https://www.cs.columbia.edu/education/admissions8/)
 - [MS Program Application FAQ](https://www.cs.columbia.edu/education/ms/appfaq/)
 - [CVN Computer Science Master's (Fall 2027 / Spring 2027 year-labeled)](https://cvn.columbia.edu/content/computer-science-masters-degree)
+- [MS requirements FAQ](https://www.cs.columbia.edu/education/ms/regfaq/)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Master’s curriculum offers thesis study; consult the current plan-of-study rules when choosing the degree route.
+Purdue CS MS: typically 3–4 semesters. Non-thesis 10 courses or thesis 8 courses + CS 69800. Required cores in Systems I/II and Algorithms plus breadth across areas.
 
-Orientation: See degree route and academic overview
+Orientation: 10 courses or thesis · Systems + algorithms cores · 3–4 semesters
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -46,7 +46,7 @@ Shared scholarship IDs: SCH-015, SCH-016, SCH-017, SCH-018, SCH-019, SCH-020, SC
 
 ## Sources
 
-- [Master's curriculum](https://www.cs.purdue.edu/graduate/curriculum/masters.html)
+- [Master's program curriculum](https://www.cs.purdue.edu/graduate/curriculum/masters.html)
 - [Official tuition / budget](https://www.purdue.edu/treasurer/finance/bursar-office/tuition/fee-rates-2026-2027/graduate-tuition-and-fees-2026-2027/)
 - [Professional master’s fees (alternate schedule)](https://www.purdue.edu/treasurer/finance/bursar-office/tuition/fee-rates-2026-2027/professional-masters-program-fees-2026-2027/)
 - [Application Steps and Process (Fall 2027 / Spring 2027 dates)](https://cs.purdue.edu/graduate/admission/steps.html)

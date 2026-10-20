@@ -18,9 +18,9 @@ Application status: CSMS route · confirm catalog distinction
 
 ## Academic direction
 
-The current admissions page lists an MS application under code CSMS. The CMSC catalog describes a PhD-en-route MS; confirm the route and curriculum with the department.
+UMD CS MS is 30 credits with thesis (6 CMSC 799) or non-thesis scholarly paper. Four qualifying courses across four of eight areas; complete within five years.
 
-Orientation: See degree route and academic overview
+Orientation: 30 credits · Thesis or scholarly paper · 8 areas
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -52,6 +52,8 @@ Shared scholarship IDs: SCH-015, SCH-016, SCH-017, SCH-018, SCH-019, SCH-020, SC
 - [MS prospective / catalog](https://www.cs.umd.edu/grad/ms-catalog)
 - [CMSC catalog — different MS route](https://academiccatalog.umd.edu/graduate/programs/computer-science-cmsc/computer-science-ms/)
 - [Rank 12 cross-check · May 2026](https://science.umd.edu/newsletters/cs/2026-05.html)
+- [M.S. degree requirements](https://www.cs.umd.edu/grad/ms-policy-manual)
+- [Catalog CSMS](https://academiccatalog.umd.edu/graduate/programs/computer-science-csms/computer-science-ms/)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

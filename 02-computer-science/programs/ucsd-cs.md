@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Thesis, comprehensive standard and comprehensive interdisciplinary plans; breadth and depth requirements. Application open: 2 Sep 2026 (deadline research 2026-10-20; see deadline field).
+UCSD CSE MS offers Thesis, Comprehensive Standard, or Comprehensive Interdisciplinary plans with CS or Computer Engineering majors. Breadth (12 units) + Depth (12 units) plus electives/research; thesis needs 8–12 units CSE 298.
 
-Orientation: See degree route and academic overview
+Orientation: Thesis or comprehensive · Breadth + depth · ≥3 quarters
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
