@@ -68,8 +68,8 @@ test('program sources, funding and original notebook files resolve', async () =>
 test('policy radar brief merges baseline and delta items by id on Fall 2027 context', () => {
   assert.equal(policy.scanType, 'initial_baseline+delta');
   assert.equal(policy.asOf, '2026-10-20');
-  assert.equal(policy.items.length, 7);
-  assert.equal(new Set(policy.items.map(i => i.id)).size, 7);
+  assert.equal(policy.items.length, 10);
+  assert.equal(new Set(policy.items.map(i => i.id)).size, 10);
   for (const item of policy.items) {
     assert.ok(item.id && item.title && item.summary && item.slate_impact);
     assert.ok(['confirmed', 'developing'].includes(item.confidence));
@@ -81,6 +81,10 @@ test('policy radar brief merges baseline and delta items by id on Fall 2027 cont
     ['isss-opt-nprm-opposing-comments', 'isss-opt-nprm-wave-2026-10']
   );
   assert.equal(policy.items.filter(i => i.school_specific).length, 4);
+  const byId = new Map(policy.items.map(i => [i.id, i]));
+  assert.equal(byId.get('i-765-opt-paper-filing-location-2026-10-07')?.confidence, 'confirmed');
+  assert.equal(byId.get('ead-auto-ext-final-2026-10')?.confidence, 'confirmed');
+  assert.equal(byId.get('deference-nprm-2026-10')?.confidence, 'developing');
 });
 test('shared scholarship records retain eligibility and expiry limits', () => {
   assert.equal(scholarships.find(s=>s.id==='SCH-002').state,'2027 application closed');
