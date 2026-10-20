@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Full-time MBA; keep its management curriculum and fellowship eligibility separate from Stanford CS.
+Stanford GSB MBA: 2 years (6 quarters), 90 units. Year 1 Foundations (leadership, analytic, management); Year 2 electives. Global experience required.
 
-Orientation: MBA · Separate comparison category
+Orientation: 2 years · 90 units · Foundations → electives
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -50,6 +50,8 @@ Shared scholarship IDs: SCH-015, SCH-017, SCH-019, SCH-020, SCH-034, SCH-035, SC
 - [Tuition & attendance budget](https://www.gsb.stanford.edu/programs/mba/tuition-financial-aid/cost-attendance)
 - [Financial aid](https://www.gsb.stanford.edu/programs/mba/tuition-financial-aid)
 - [MBA application deadlines (2026–27)](https://www.gsb.stanford.edu/programs/mba/admission/deadlines)
+- [MBA curriculum](https://www.gsb.stanford.edu/programs/mba/academic-experience/curriculum)
+- [Bulletin GSB-MBA](https://bulletin.stanford.edu/programs/GSB-MBA)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

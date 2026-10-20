@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-MBA program; use the August-entry route for a Fall 2027 comparison and verify its internship calendar separately. Application open: August 2027 application now open (as of page check 2026-10-20; calendar open day not posted) (deadline research 2026-10-20; see deadline field).
+Columbia MBA: 4 terms, 60 credits (18 core + ≥42 electives). Cluster core with exemption options; Operations typically in term 2.
 
-Orientation: Full-time MBA · Management
+Orientation: 4 terms · 60 credits · 18 core
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -50,6 +50,8 @@ Shared scholarship IDs: SCH-015, SCH-017, SCH-019, SCH-020, SCH-024, SCH-034, SC
 - [Official tuition / budget](https://business.columbia.edu/financial-aid/costs/full-time)
 - [MBA options and deadlines (August 2027)](https://academics.business.columbia.edu/admissions/mba/options-deadlines)
 - [Full-Time MBA Admissions](https://academics.business.columbia.edu/admissions/mba)
+- [Degree requirements](https://academics.business.columbia.edu/mba/academics/degree-requirements)
+- [Core curriculum](https://academics.business.columbia.edu/mba/academics/core-curriculum)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

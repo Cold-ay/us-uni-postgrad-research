@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Compare the Two-Year MBA here; the One-Year, MBAi and MMM formats have different structures and costs.
+Kellogg Two-Year MBA: 6 quarters, ≥20.5 credits, summer work experience required. Optional majors; distinct One-Year MBA path.
 
-Orientation: Two-Year MBA · Format-specific costs
+Orientation: 2Y · 6 quarters · ≥20.5 credits · Optional majors
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -50,6 +50,9 @@ Shared scholarship IDs: SCH-015, SCH-017, SCH-019, SCH-020, SCH-032, SCH-034, SC
 - [Official tuition / budget](https://kellogg.northwestern.edu/admissions/financial-aid/ft-fin-aid/)
 - [Full-Time MBA Admissions (application dates table)](https://www.kellogg.northwestern.edu/programs/full-time-mba/admissions)
 - [How to apply (Full-Time)](https://www.kellogg.northwestern.edu/admissions/ft-admissions/ft-how-to-apply/)
+- [Two-Year MBA](https://www.kellogg.northwestern.edu/programs/full-time-mba/two-year-mba-program/)
+- [Majors & pathways](https://www.kellogg.northwestern.edu/programs/full-time-mba/academics/majors-pathways/)
+- [AY26-27 policy manual (PDF)](https://www.kellogg.northwestern.edu/-/media/ay26-27-mba-mbai-mim-policy-manual.pdf)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

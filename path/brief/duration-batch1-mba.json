@@ -1,0 +1,206 @@
+{
+  "batch": "duration-batch1-mba",
+  "as_of": "2026-10-20",
+  "field": "duration/core/tracks",
+  "items": [
+    {
+      "id": "stanford-mba",
+      "as_of": "2026-10-20",
+      "duration": "Two years / six quarters (excluding summer).",
+      "credits": "90 units total; \u226570 GSB letter-graded units and \u226580 GSB units (Stanford Bulletin).",
+      "tracks": [
+        "Full-time MBA",
+        "First-year Foundations then second-year electives",
+        "Joint/dual degrees and cross-school courses available"
+      ],
+      "coreNotes": "Y1: Leadership Foundations, Analytic Foundations, Management Foundations (\u226515 Management Foundations units across \u22653 of 5 categories). Y2: electives. Global experience requirement.",
+      "academic": "Stanford GSB MBA: 2 years (6 quarters), 90 units. Year 1 Foundations (leadership, analytic, management); Year 2 electives. Global experience required.",
+      "orientation": "2 years \u00b7 90 units \u00b7 Foundations \u2192 electives",
+      "sources": [
+        [
+          "MBA curriculum",
+          "https://www.gsb.stanford.edu/programs/mba/academic-experience/curriculum"
+        ],
+        [
+          "Bulletin GSB-MBA",
+          "https://bulletin.stanford.edu/programs/GSB-MBA"
+        ]
+      ]
+    },
+    {
+      "id": "harvard-mba",
+      "as_of": "2026-10-20",
+      "duration": "Two-year full-time MBA.",
+      "credits": "Y1 Required Curriculum (RC) fixed slate; Y2 Elective Curriculum (EC) 30 credits (\u226515 per term).",
+      "tracks": [
+        "Required Curriculum (Year 1)",
+        "Elective Curriculum (Year 2)",
+        "FIELD / experiential elements per HBS pages"
+      ],
+      "coreNotes": "RC includes Finance I/II, Financial Reporting & Control, LEAD, Marketing, TOM, Strategy, Data Science & AI for Leaders, BGIE, Entrepreneurial Manager, Leadership & Corporate Accountability, Purpose of the Firm (per HBS curriculum page).",
+      "academic": "HBS MBA: 2 years. Year 1 Required Curriculum; Year 2 Elective Curriculum (30 credits). Case-method RC core listed on HBS site.",
+      "orientation": "2 years \u00b7 RC then EC \u00b7 Case method",
+      "sources": [
+        [
+          "Curriculum",
+          "https://www.hbs.edu/mba/academic-experience/curriculum"
+        ],
+        [
+          "Degree requirements",
+          "https://www.hbs.edu/mba/handbook/academic-information-and-policies/degree-requirements"
+        ]
+      ]
+    },
+    {
+      "id": "penn-mba",
+      "as_of": "2026-10-20",
+      "duration": "~20 months full-time (Y1 Aug\u2013May, recommended summer internship, Y2 Sep\u2013May).",
+      "credits": "19 credit units: 9.0 CU core + typically 5.0 CU major + 5.0 CU electives.",
+      "tracks": [
+        "Fixed + flexible core",
+        "\u22651 of 22 majors (typically 5 CU)",
+        "Electives across Wharton and Penn schools"
+      ],
+      "coreNotes": "Fixed core includes Foundations of Teamwork & Leadership, Marketing Management, Microeconomics (2), Regression Analysis, Management Communication. Flexible core areas: OID, Marketing, Communication, Accounting, Corporate Finance, Macroeconomics, Management, Legal Studies & Business Ethics.",
+      "academic": "Wharton MBA: ~20 months, 19 CU (9 core + major + electives). Fixed and flexible core; at least one of 22 majors.",
+      "orientation": "~20 months \u00b7 19 CU \u00b7 Core + major",
+      "sources": [
+        [
+          "MBA curriculum",
+          "https://mba.wharton.upenn.edu/mba-curriculum/"
+        ],
+        [
+          "Program details & duration",
+          "https://mba.wharton.upenn.edu/mba-program-details/"
+        ]
+      ]
+    },
+    {
+      "id": "chicago-mba",
+      "as_of": "2026-10-20",
+      "duration": "Full-Time MBA ~21 months.",
+      "credits": "2,000 units total including \u22651,400 Booth units. Flexible Curriculum: LEAD required + foundations + function areas + electives.",
+      "tracks": [
+        "Flexible Curriculum (no fixed major required)",
+        "Optional concentrations / pathways per Booth academics pages"
+      ],
+      "coreNotes": "One required LEAD; three foundation areas (financial accounting, microeconomics, statistics); seven of eight business-function/management/environment areas; ~10 electives.",
+      "academic": "Chicago Booth Full-Time MBA: ~21 months, 2,000 units. Highly flexible curriculum with LEAD + foundations + function areas + electives.",
+      "orientation": "~21 months \u00b7 2000 units \u00b7 Flexible curriculum",
+      "sources": [
+        [
+          "MBA curriculum",
+          "https://www.chicagobooth.edu/mba/academics/curriculum"
+        ],
+        [
+          "Full-Time MBA FAQ",
+          "https://www.chicagobooth.edu/mba/full-time/faq"
+        ]
+      ]
+    },
+    {
+      "id": "northwestern-mba",
+      "as_of": "2026-10-20",
+      "duration": "Two-Year Full-Time MBA: 6 quarters of full-time study; required 6\u201312 week summer work experience between years. Separate One-Year MBA (June\u2013June, 15.5 credits) exists.",
+      "credits": "2Y: minimum 20.5 credits. Core (~9 units) includes Accounting, Leadership in Organizations, Business Strategy, Business Analytics I/II, Microeconomic Analysis, Finance I, Marketing Management, Operations, Leadership and Crisis Management.",
+      "tracks": [
+        "Two-Year MBA (catalog default)",
+        "One-Year MBA",
+        "Optional majors (Accounting, Economics, Finance, Managing Organizations, Marketing, Operations, Strategy; Management Analytics closed after Spring 2025)"
+      ],
+      "coreNotes": "Cite AY26-27 policy manual for exact core table. Majors optional (up to eight historically).",
+      "academic": "Kellogg Two-Year MBA: 6 quarters, \u226520.5 credits, summer work experience required. Optional majors; distinct One-Year MBA path.",
+      "orientation": "2Y \u00b7 6 quarters \u00b7 \u226520.5 credits \u00b7 Optional majors",
+      "sources": [
+        [
+          "Two-Year MBA",
+          "https://www.kellogg.northwestern.edu/programs/full-time-mba/two-year-mba-program/"
+        ],
+        [
+          "Majors & pathways",
+          "https://www.kellogg.northwestern.edu/programs/full-time-mba/academics/majors-pathways/"
+        ],
+        [
+          "AY26-27 policy manual (PDF)",
+          "https://www.kellogg.northwestern.edu/-/media/ay26-27-mba-mbai-mim-policy-manual.pdf"
+        ]
+      ]
+    },
+    {
+      "id": "mit-mba",
+      "as_of": "2026-10-20",
+      "duration": "Two-year, four-semester full-time MBA.",
+      "credits": "144 units. Fall Core required; remaining three semesters electives/customization.",
+      "tracks": [
+        "Fall Core then customized electives",
+        "Certificates / action learning / MIT+Harvard cross-reg options"
+      ],
+      "coreNotes": "Fall Core includes Leadership Challenges for an Inclusive World; Economic Analysis for Business Decisions; Data, Models, and Decisions; Communication for Leaders; Organizational Processes; Financial Accounting; plus one Core elective.",
+      "academic": "MIT Sloan MBA: 2 years / 4 semesters, 144 units. Required Fall Core then customized electives across Sloan/MIT/Harvard.",
+      "orientation": "2 years \u00b7 144 units \u00b7 Fall Core \u2192 electives",
+      "sources": [
+        [
+          "MBA curriculum",
+          "https://mitsloan.mit.edu/mba/explore-program/mba-curriculum"
+        ],
+        [
+          "Degree requirements handbook",
+          "https://mbapolicyhandbook.mit.edu/degree-requirements/"
+        ]
+      ]
+    },
+    {
+      "id": "columbia-mba",
+      "as_of": "2026-10-20",
+      "duration": "Four terms / two academic years (Fall or Spring entry formats).",
+      "credits": "60 graduate credits in residence: 18 core + \u226542 electives. Typical ~15 credits/term; min 12, max 18.",
+      "tracks": [
+        "Full-time MBA (clusters + learning teams)",
+        "Core exemptions replace with electives",
+        "Cross-registration / independent study \u22646 combined credits"
+      ],
+      "coreNotes": "Core: Lead (pre-term) + Financial Accounting + Foundations of Valuation + Corporate Finance + Managerial Statistics + Strategy Formulation + Managerial Economics + Global Economic Environment + Business Analytics + Marketing + Operations Management (per CBS academics).",
+      "academic": "Columbia MBA: 4 terms, 60 credits (18 core + \u226542 electives). Cluster core with exemption options; Operations typically in term 2.",
+      "orientation": "4 terms \u00b7 60 credits \u00b7 18 core",
+      "sources": [
+        [
+          "Degree requirements",
+          "https://academics.business.columbia.edu/mba/academics/degree-requirements"
+        ],
+        [
+          "Core curriculum",
+          "https://academics.business.columbia.edu/mba/academics/core-curriculum"
+        ]
+      ]
+    },
+    {
+      "id": "yale-mba",
+      "as_of": "2026-10-20",
+      "duration": "Two years / four consecutive full-time terms; summer internship requirement between years.",
+      "credits": "72 course units (30.5 typically in first-year core). \u226516 units in each of first three terms.",
+      "tracks": [
+        "Integrated core (Orientation to Management + Organizational Perspectives)",
+        "Year-2 electives",
+        "Silver Scholars / joint degrees (separate paths)"
+      ],
+      "coreNotes": "Orientation: Managing Groups & Teams, Basics of Accounting, Probability Modeling & Statistics, Basics of Economics, AI Foundations for Managers, Introduction to Negotiation. Organizational Perspectives: Competitor, Customer, Investor, State and Society, Workforce, Operations Engine, Sourcing and Managing Funds, Innovator, Global Macroeconomy, The Executive.",
+      "academic": "Yale SOM MBA: 2 years, 72 units. Integrated Year-1 core (Orientation + Organizational Perspectives) then Year-2 electives; summer internship required.",
+      "orientation": "2 years \u00b7 72 units \u00b7 Integrated core",
+      "sources": [
+        [
+          "MBA curriculum (catalog)",
+          "https://catalog.yale.edu/management/full-time-mba/mba-curriculum/"
+        ],
+        [
+          "Integrated curriculum",
+          "https://som.yale.edu/programs/mba/curriculum"
+        ],
+        [
+          "Core courses",
+          "https://catalog.yale.edu/management/courses/mba-core-courses/"
+        ]
+      ]
+    }
+  ],
+  "notes": "MBA duration/core/tracks batch1. Overlay academic+orientation+sources; preserve tuition/deadlines."
+}

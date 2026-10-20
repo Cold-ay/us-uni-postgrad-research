@@ -729,7 +729,15 @@ export const dictionaries = {
     "Caltech CMS: no direct terminal MS admissions. Applicants enter the PhD; MS may be awarded only in exceptional en-route cases.": "Caltech CMS：無直接終端 MS 招生。申請者進入 PhD；MS 僅在罕見的途中情況下授予。",
     "UW Allen School: no general full-time terminal MS for most external applicants. Options are part-time Professional Master's (PMP, local/working professionals) or PhD with possible en-route MS.": "UW Allen School：大多數外部申請者無一般全日制終端 MS。選項為兼職 Professional Master's（PMP，在地／在職）或 PhD（途中可能取得 MS）。",
     "Harvard SEAS has no open terminal CS master's for external applicants. CS SM is for current Harvard PhD/A.B. students; related terminal master's are CSE and Data Science.": "Harvard SEAS 不對外部申請者開放終端 CS 碩士。CS SM 限現有 Harvard PhD／A.B. 學生；相關終端碩士為 CSE 與 Data Science。",
-    "MIT EECS does not offer a terminal master’s for external applicants. MEng is for MIT EECS undergrads; SM is typically PhD-en-route (or special programs like LGO).": "MIT EECS 不對外部申請者提供終端碩士。MEng 限 MIT EECS 學士；SM 通常為 PhD 途中取得（或 LGO 等特殊計畫）。"
+    "MIT EECS does not offer a terminal master’s for external applicants. MEng is for MIT EECS undergrads; SM is typically PhD-en-route (or special programs like LGO).": "MIT EECS 不對外部申請者提供終端碩士。MEng 限 MIT EECS 學士；SM 通常為 PhD 途中取得（或 LGO 等特殊計畫）。",
+    "Stanford GSB MBA: 2 years (6 quarters), 90 units. Year 1 Foundations (leadership, analytic, management); Year 2 electives. Global experience required.": "Stanford GSB MBA：2 年（6 學季）、90 units。第一年 Foundations（領導力、分析、管理）；第二年選修。須完成全球體驗要求。",
+    "HBS MBA: 2 years. Year 1 Required Curriculum; Year 2 Elective Curriculum (30 credits). Case-method RC core listed on HBS site.": "HBS MBA：2 年。第一年 Required Curriculum；第二年 Elective Curriculum（30 學分）。RC 核心以 case method 為主，見 HBS 官網。",
+    "Wharton MBA: ~20 months, 19 CU (9 core + major + electives). Fixed and flexible core; at least one of 22 majors.": "Wharton MBA：約 20 個月、19 CU（9 核心 + major + 選修）。固定與彈性核心；至少選一個 22 個 majors 之一。",
+    "Chicago Booth Full-Time MBA: ~21 months, 2,000 units. Highly flexible curriculum with LEAD + foundations + function areas + electives.": "Chicago Booth 全日制 MBA：約 21 個月、2,000 units。高度彈性課程：LEAD + foundations + 功能領域 + 選修。",
+    "Kellogg Two-Year MBA: 6 quarters, ≥20.5 credits, summer work experience required. Optional majors; distinct One-Year MBA path.": "Kellogg 兩年 MBA：6 學季、≥20.5 學分，須有暑期工作經驗。可選 majors；另有獨立的 One-Year MBA 路徑。",
+    "MIT Sloan MBA: 2 years / 4 semesters, 144 units. Required Fall Core then customized electives across Sloan/MIT/Harvard.": "MIT Sloan MBA：2 年／4 學期、144 units。必修 Fall Core，之後在 Sloan／MIT／Harvard 自訂選修。",
+    "Columbia MBA: 4 terms, 60 credits (18 core + ≥42 electives). Cluster core with exemption options; Operations typically in term 2.": "Columbia MBA：4 學期、60 學分（18 核心 + ≥42 選修）。Cluster 核心可豁免；Operations 通常在第二學期。",
+    "Yale SOM MBA: 2 years, 72 units. Integrated Year-1 core (Orientation + Organizational Perspectives) then Year-2 electives; summer internship required.": "Yale SOM MBA：2 年、72 units。第一年整合核心（Orientation + Organizational Perspectives），第二年選修；須完成暑期實習。"
   },
   "zh-Hans": {
     "$31,100 per fall/spring semester. The SCS budget lists $37,374 in additional annual items, including $1,500 in federal loan fees applicable to borrowers. Not every item is mandatory for every student. Full-degree cost is not yet verified.": "秋季／春季每学期 $31,100。SCS 预算另列每年 $37,374 的其他项目，包括适用于借款人的 $1,500 联邦贷款费。并非每项费用都适用于所有学生。整个学位总费用尚未核实。",
@@ -1460,6 +1468,14 @@ export const dictionaries = {
     "Caltech CMS: no direct terminal MS admissions. Applicants enter the PhD; MS may be awarded only in exceptional en-route cases.": "Caltech CMS：无直接终端 MS 招生。申请者进入 PhD；MS 仅在罕见的途中情况下授予。",
     "UW Allen School: no general full-time terminal MS for most external applicants. Options are part-time Professional Master's (PMP, local/working professionals) or PhD with possible en-route MS.": "UW Allen School：大多数外部申请者无一般全日制终端 MS。选项为兼职 Professional Master's（PMP，在地／在职）或 PhD（途中可能取得 MS）。",
     "Harvard SEAS has no open terminal CS master's for external applicants. CS SM is for current Harvard PhD/A.B. students; related terminal master's are CSE and Data Science.": "Harvard SEAS 不对外部申请者开放终端 CS 硕士。CS SM 限现有 Harvard PhD／A.B. 学生；相关终端硕士为 CSE 与 Data Science。",
-    "MIT EECS does not offer a terminal master’s for external applicants. MEng is for MIT EECS undergrads; SM is typically PhD-en-route (or special programs like LGO).": "MIT EECS 不对外部申请者提供终端硕士。MEng 限 MIT EECS 学士；SM 通常为 PhD 途中取得（或 LGO 等特殊计畫）。"
+    "MIT EECS does not offer a terminal master’s for external applicants. MEng is for MIT EECS undergrads; SM is typically PhD-en-route (or special programs like LGO).": "MIT EECS 不对外部申请者提供终端硕士。MEng 限 MIT EECS 学士；SM 通常为 PhD 途中取得（或 LGO 等特殊计畫）。",
+    "Stanford GSB MBA: 2 years (6 quarters), 90 units. Year 1 Foundations (leadership, analytic, management); Year 2 electives. Global experience required.": "Stanford GSB MBA：2 年（6 学季）、90 units。第一年 Foundations（领導力、分析、管理）；第二年选修。须完成全球体验要求。",
+    "HBS MBA: 2 years. Year 1 Required Curriculum; Year 2 Elective Curriculum (30 credits). Case-method RC core listed on HBS site.": "HBS MBA：2 年。第一年 Required Curriculum；第二年 Elective Curriculum（30 学分）。RC 核心以 case method 为主，見 HBS 官網。",
+    "Wharton MBA: ~20 months, 19 CU (9 core + major + electives). Fixed and flexible core; at least one of 22 majors.": "Wharton MBA：约 20 个月、19 CU（9 核心 + major + 选修）。固定与弹性核心；至少选一个 22 个 majors 之一。",
+    "Chicago Booth Full-Time MBA: ~21 months, 2,000 units. Highly flexible curriculum with LEAD + foundations + function areas + electives.": "Chicago Booth 全日制 MBA：约 21 个月、2,000 units。高度弹性课程：LEAD + foundations + 功能领域 + 选修。",
+    "Kellogg Two-Year MBA: 6 quarters, ≥20.5 credits, summer work experience required. Optional majors; distinct One-Year MBA path.": "Kellogg 兩年 MBA：6 学季、≥20.5 学分，须有暑期工作经验。可选 majors；另有独立的 One-Year MBA 路径。",
+    "MIT Sloan MBA: 2 years / 4 semesters, 144 units. Required Fall Core then customized electives across Sloan/MIT/Harvard.": "MIT Sloan MBA：2 年／4 学期、144 units。必修 Fall Core，之後在 Sloan／MIT／Harvard 自订选修。",
+    "Columbia MBA: 4 terms, 60 credits (18 core + ≥42 electives). Cluster core with exemption options; Operations typically in term 2.": "Columbia MBA：4 学期、60 学分（18 核心 + ≥42 选修）。Cluster 核心可豁免；Operations 通常在第二学期。",
+    "Yale SOM MBA: 2 years, 72 units. Integrated Year-1 core (Orientation + Organizational Perspectives) then Year-2 electives; summer internship required.": "Yale SOM MBA：2 年、72 units。第一年整合核心（Orientation + Organizational Perspectives），第二年选修；须完成暑期实习。"
   }
 };

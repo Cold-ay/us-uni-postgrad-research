@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Integrated core organized around organizational stakeholders, with attention to business and society.
+Yale SOM MBA: 2 years, 72 units. Integrated Year-1 core (Orientation + Organizational Perspectives) then Year-2 electives; summer internship required.
 
-Orientation: Full-time MBA · Management
+Orientation: 2 years · 72 units · Integrated core
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -46,12 +46,14 @@ Shared scholarship IDs: SCH-005, SCH-015, SCH-017, SCH-019, SCH-020, SCH-034, SC
 
 ## Sources
 
-- [MBA curriculum](https://som.yale.edu/programs/mba/curriculum)
+- [Integrated curriculum](https://som.yale.edu/programs/mba/curriculum)
 - [Official tuition / budget](https://som.yale.edu/programs/mba/affording-your-mba/cost-information)
 - [Affording Your MBA](https://som.yale.edu/programs/mba/affording-your-mba)
 - [MBA Application Information (deadlines)](https://som.yale.edu/programs/mba/admissions/application-information)
 - [MBA Admissions](https://som.yale.edu/programs/mba/admissions)
 - [MBA program](https://som.yale.edu/programs/mba)
+- [MBA curriculum (catalog)](https://catalog.yale.edu/management/full-time-mba/mba-curriculum/)
+- [Core courses](https://catalog.yale.edu/management/courses/mba-core-courses/)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence
