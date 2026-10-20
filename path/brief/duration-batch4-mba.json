@@ -1,0 +1,160 @@
+{
+  "batch": "duration-batch4-mba",
+  "as_of": "2026-10-20",
+  "field": "duration/core/tracks",
+  "items": [
+    {
+      "id": "asu-mba",
+      "as_of": "2026-10-20",
+      "duration": "Full-Time MBA ~21 months / about two years with required summer internship between years.",
+      "credits": "60 credits (ASU Degree Search). Degree plan includes ethical issues course, strategic management capstone, and electives; core business subjects on W. P. Carey academics page.",
+      "tracks": [
+        "Full-Time MBA",
+        "Summer internship",
+        "Electives / concentrations per school pages"
+      ],
+      "coreNotes": "Formal plan lists LES 582 Ethical Issues (1.5), MGT 589 Strategic Management (3), plus large elective block \u2014 cite Degree Search PDF/plan; do not invent a full named core list beyond school academics page.",
+      "academic": "ASU W. P. Carey Full-Time MBA: ~21 months, 60 credits, with summer internship between years and Strategic Management capstone.",
+      "orientation": "~21 months \u00b7 60 credits \u00b7 Internship",
+      "sources": [
+        [
+          "Full-time MBA",
+          "https://wpcarey.asu.edu/mba-programs/full-time"
+        ],
+        [
+          "Academics",
+          "https://wpcarey.asu.edu/mba-programs/full-time/academics"
+        ],
+        [
+          "Degree Search major",
+          "https://degrees.asu.edu/masters-phd/major/ASU00/BAFULLMBA/w-p-carey-mba---full-time-program"
+        ]
+      ]
+    },
+    {
+      "id": "gatech-mba",
+      "as_of": "2026-10-20",
+      "duration": "Full-Time MBA ~22 months; summer internship between years.",
+      "credits": "54 credit hours: 12 core courses (21 hours) + 11 electives (33 hours) including a required international elective; Leadership Assessment Workshop in Y2.",
+      "tracks": [
+        "Full-Time MBA",
+        "Concentrations / specializations",
+        "Required international elective"
+      ],
+      "coreNotes": "12 core courses totaling 21 hours \u2014 titles on Scheller curriculum page.",
+      "academic": "Scheller Full-Time MBA: ~22 months, 54 hours (21 core + 33 electives incl. international elective); summer internship.",
+      "orientation": "~22 months \u00b7 54 hours \u00b7 Intl elective",
+      "sources": [
+        [
+          "Full-time MBA curriculum",
+          "https://www.scheller.gatech.edu/explore-programs/mba-programs/full-time-mba/curriculum/index.html"
+        ],
+        [
+          "Catalog MBA",
+          "https://catalog.gatech.edu/programs/mba/"
+        ]
+      ]
+    },
+    {
+      "id": "georgia-mba",
+      "as_of": "2026-10-20",
+      "duration": "Full-Time MBA ~22 months / two years; paid summer internship; online foundation modules before fall.",
+      "credits": "61 credit hours including one community-service credit. Y1 six cores + analytics; Y2 legal environment, analytics, two capstones (6 credits), electives.",
+      "tracks": [
+        "Full-Time MBA",
+        "Concentrations / areas of focus",
+        "Capstone pair in Y2"
+      ],
+      "coreNotes": "Six Y1 core courses + analytics requirement \u2014 see Terry curriculum page for titles.",
+      "academic": "UGA Terry Full-Time MBA: ~22 months, 61 credits with Y1 cores/analytics, Y2 legal + dual capstones + electives; summer internship.",
+      "orientation": "~22 months \u00b7 61 credits \u00b7 Dual capstones",
+      "sources": [
+        [
+          "Full-Time MBA curriculum",
+          "https://www.terry.uga.edu/mba/fulltime/curriculum/"
+        ],
+        [
+          "Full-Time MBA program",
+          "https://www.terry.uga.edu/mba/fulltime/"
+        ]
+      ]
+    },
+    {
+      "id": "indiana-mba",
+      "as_of": "2026-10-20",
+      "duration": "Full-Time +Flex MBA: two years \u2014 ~10 months in Bloomington then Y2 on campus or online Flex.",
+      "credits": "Curriculum includes Me, Inc. pre-MBA intensive, 12-week Integrated Core (three six-credit blocks), business fundamentals, majors (typically 12 credits) and electives. Historical bulletin plans cite ~54 credits \u2014 confirm current totals on Kelley pages.",
+      "tracks": [
+        "Full-Time +Flex MBA",
+        "Integrated Core",
+        "Majors / minors / certificates"
+      ],
+      "coreNotes": "Integrated Core delivered in three blocks; majors ~12 credits. Prefer Kelley curriculum-experience page over outdated term counts.",
+      "academic": "Kelley Full-Time +Flex MBA: 2 years with Integrated Core then majors/electives; Year 2 may be on campus or Flex online.",
+      "orientation": "2 years \u00b7 Integrated Core \u00b7 +Flex Y2",
+      "sources": [
+        [
+          "Curriculum & experience",
+          "https://kelley.iu.edu/programs/full-time-mba/why-kelley/curriculum-experience.html"
+        ],
+        [
+          "Full-Time MBA",
+          "https://kelley.iu.edu/programs/full-time-mba/index.html"
+        ],
+        [
+          "Majors & minors",
+          "https://kelley.iu.edu/programs/full-time-mba/academics/majors-minors/index.html"
+        ]
+      ]
+    },
+    {
+      "id": "vanderbilt-mba",
+      "as_of": "2026-10-20",
+      "duration": "Two-year full-time: enter early August, graduate ~May two years later; eight seven-week modules across four semesters.",
+      "credits": "\u226562 credit hours; \u226512 credits/semester and \u22656 per module (max 18/semester). All required cores + ethics + \u22651 concentration (12 credits). GPA \u22653.0.",
+      "tracks": [
+        "Full-Time MBA",
+        "Concentrations (\u226512 credits)",
+        "Module calendar"
+      ],
+      "coreNotes": "Required core list in Owen catalog / curriculum overview \u2014 cite rather than invent titles.",
+      "academic": "Owen Full-Time MBA: 2 years, \u226562 credits across eight modules; required cores, ethics, and at least one 12-credit concentration.",
+      "orientation": "2 years \u00b7 \u226562 credits \u00b7 Concentrations",
+      "sources": [
+        [
+          "MBA curriculum",
+          "https://business.vanderbilt.edu/mba/curriculum/"
+        ],
+        [
+          "Owen catalog 2025-26 PDF",
+          "https://registrar.vanderbilt.edu/documents/Owen-Graduate-School-of-Management-Catalog-2025-26.pdf"
+        ]
+      ]
+    },
+    {
+      "id": "utd-mba",
+      "as_of": "2026-10-20",
+      "duration": "Full-Time MBA Cohort typically ~18 months daytime lock-step; 21-month option also noted. Two-week boot camp before fall start.",
+      "credits": "53 credit hours: 32 core + 21 electives.",
+      "tracks": [
+        "Full-Time Cohort MBA",
+        "Lock-step daytime",
+        "Electives after core"
+      ],
+      "coreNotes": "Core spans accounting, finance, marketing, operations, statistics, OB, IT, business economics, strategic management, international business.",
+      "academic": "UT Dallas Full-Time MBA Cohort: ~18\u201321 months, 53 hours (32 core + 21 electives), lock-step with pre-fall boot camp.",
+      "orientation": "~18\u201321 months \u00b7 53 hours \u00b7 Cohort",
+      "sources": [
+        [
+          "Full-Time MBA curriculum",
+          "https://mba.utdallas.edu/academics/full-time-mba/curriculum/"
+        ],
+        [
+          "Catalog Business Administration",
+          "https://catalog.utdallas.edu/2026/graduate/programs/jsom/business-administration"
+        ]
+      ]
+    }
+  ],
+  "notes": "Final MBA duration batch \u2014 all 30 MBA dossiers should have duration section after this."
+}

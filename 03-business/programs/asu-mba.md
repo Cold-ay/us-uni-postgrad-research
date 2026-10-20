@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Data analytics, executive mentoring and team-based Experiential Learning Labs are built into the full-time MBA.
+ASU W. P. Carey Full-Time MBA: ~21 months, 60 credits, with summer internship between years and Strategic Management capstone.
 
-Orientation: Full-time MBA · Management
+Orientation: ~21 months · 60 credits · Internship
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -48,6 +48,9 @@ Shared scholarship IDs: SCH-015, SCH-017, SCH-019, SCH-020, SCH-031, SCH-034, SC
 
 - [Full-time MBA academics](https://www.wpcarey.asu.edu/mba-programs/full-time/academics)
 - [Full-time MBA (Fall 2027 how to apply / deadlines)](https://www.wpcarey.asu.edu/mba-programs/full-time)
+- [Full-time MBA](https://wpcarey.asu.edu/mba-programs/full-time)
+- [Academics](https://wpcarey.asu.edu/mba-programs/full-time/academics)
+- [Degree Search major](https://degrees.asu.edu/masters-phd/major/ASU00/BAFULLMBA/w-p-carey-mba---full-time-program)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

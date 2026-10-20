@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-53-credit cohort MBA over 18–21 months, beginning in July. Daytime core and evening electives; confirm the exact 2027 start rather than assuming a September intake.
+UT Dallas Full-Time MBA Cohort: ~18–21 months, 53 hours (32 core + 21 electives), lock-step with pre-fall boot camp.
 
-Orientation: Cohort · 18–21 months · July start
+Orientation: ~18–21 months · 53 hours · Cohort
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -46,12 +46,13 @@ Shared scholarship IDs: SCH-015, SCH-017, SCH-019, SCH-020, SCH-034, SCH-035, SC
 
 ## Sources
 
-- [Program / academic source](https://mba.utdallas.edu/academics/full-time-mba/curriculum/)
+- [Full-Time MBA curriculum](https://mba.utdallas.edu/academics/full-time-mba/curriculum/)
 - [Official tuition / budget](https://mba.utdallas.edu/tuition-value/)
 - [Bursar tuition rates 2026–27](https://bursar.utdallas.edu/tuition/tuition-rates/)
 - [Full-Time MBA academics](https://mba.utdallas.edu/academics/full-time-mba/)
 - [Full-Time MBA Admissions (deadlines table)](https://mba.utdallas.edu/admissions/full-time-mba/)
 - [MBA programs hub](https://mba.utdallas.edu/)
+- [Catalog Business Administration](https://catalog.utdallas.edu/2026/graduate/programs/jsom/business-administration)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Core and career-focused electives are completed before internships; concentrations and emphases customize the degree. Application open: 19 Aug 2026 (Fall 2027 enrollment; Owen news 14 Aug 2026) (deadline research 2026-10-20; see deadline field).
+Owen Full-Time MBA: 2 years, ≥62 credits across eight modules; required cores, ethics, and at least one 12-credit concentration.
 
-Orientation: Core before internships · Concentrations
+Orientation: 2 years · ≥62 credits · Concentrations
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -52,6 +52,8 @@ Shared scholarship IDs: SCH-015, SCH-017, SCH-019, SCH-020, SCH-034, SCH-035, SC
 - [MBA Admissions (Fall 2027 deadlines)](https://business.vanderbilt.edu/mba/admissions/)
 - [MBA Application Instructions (11:59 p.m. CT)](https://business.vanderbilt.edu/mba/admissions/application-instructions/)
 - [Applications for Fall 2027 Open August 19](https://business.vanderbilt.edu/news/2026/08/14/vanderbilt-business-applications-fall-2027-open-august-19/)
+- [MBA curriculum](https://business.vanderbilt.edu/mba/curriculum/)
+- [Owen catalog 2025-26 PDF](https://registrar.vanderbilt.edu/documents/Owen-Graduate-School-of-Management-Catalog-2025-26.pdf)
 - [U.S. News positions via Clear Admit](https://www.clearadmit.com/mba-rankings/usnews/)
 
 ## Outstanding evidence

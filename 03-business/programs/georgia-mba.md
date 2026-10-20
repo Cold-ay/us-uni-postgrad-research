@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-First-semester core followed by concentration electives and applied capstones; pre-arrival academic and career preparation.
+UGA Terry Full-Time MBA: ~22 months, 61 credits with Y1 cores/analytics, Y2 legal + dual capstones + electives; summer internship.
 
-Orientation: Full-time MBA · Management
+Orientation: ~22 months · 61 credits · Dual capstones
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
