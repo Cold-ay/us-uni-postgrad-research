@@ -1,0 +1,48 @@
+{
+  "as_of": "2026-10-20T09:08:00+08:00",
+  "quiet": false,
+  "scan_type": "delta",
+  "disclaimer": "Not legal advice. Policy tracker summary for research briefing only.",
+  "items": [
+    {
+      "id": "i-765-opt-paper-filing-location-2026-10-07",
+      "title": "USCIS changed Form I-765 paper filing locations (incl. F-1 OPT)",
+      "summary": "Effective 2026-10-07, USCIS changed lockbox filing addresses for mailed Form I-765. Standalone paper I-765 for F-1 OPT categories (c)(3)(A) pre-completion, (c)(3)(B) post-completion, and (c)(3)(C) STEM OPT goes to USCIS Chicago Lockbox (USPS Attn I-765 C03, P.O. Box 805373, Chicago, IL 60680-5374; courier Attn I-765 C03 (Box 805373), 131 S. Dearborn, 3rd Floor, Chicago, IL 60603-5517). 30-day grace: forms postmarked on or before 2026-11-09 to any prior location still accepted. Wrong post-grace address may delay or risk rejection. Online filing and fee amounts unchanged by this alert. Same-day changes also hit I-539 and other forms. In effect for new mailings.",
+      "sources": [
+        "https://www.uscis.gov/i-765-addresses",
+        "https://www.uscis.gov/forms/us-citizenship-and-immigration-services-filing-locations-and-online-filing-options-updates",
+        "https://www.uscis.gov/i-765"
+      ],
+      "affected": ["current F-1 filing paper OPT/STEM OPT I-765", "future OPT paper filers"],
+      "slate_impact": "Low for Fall 2027 applicants now (OPT years away); material process risk for anyone mailing OPT I-765 before/after the 2026-11-09 grace end.",
+      "school_specific": false,
+      "confidence": "confirmed"
+    },
+    {
+      "id": "ead-auto-ext-final-2026-10",
+      "title": "DHS finalizes removal of automatic EAD extensions (certain categories)",
+      "summary": "Final rule 2026-20955 (91 FR 65306), effective 2026-10-14, reaffirms the Oct 30, 2025 IFR: for covered categories, a timely I-765 renewal filed on/after 2025-10-30 does not automatically extend an expired/expiring EAD (limited statutory/TPS exceptions). USCIS OPT page still states that a timely STEM OPT I-765 yields a separate 180-day employment-authorization bridge while pending. Northeastern OGS note (IFR-day) says the change does not impact F-1 STEM OPT extension 180-day bridge. Not legal advice; student-category edge cases developing.",
+      "sources": [
+        "https://www.federalregister.gov/documents/2026/10/14/2026-20955/removal-of-automatic-extensions-for-certain-employment-authorization-documents",
+        "https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-opt-for-f-1-students",
+        "https://international.northeastern.edu/ogs/dhs-ends-automatic-ead-extensions-for-certain-applicants/"
+      ],
+      "affected": ["EAD renewal filers in covered 274a.12(c) categories", "F-1 OPT/STEM applicants (STEM bridge appears intact per USCIS OPT page)"],
+      "slate_impact": "Fall 2027 post-grad OPT/STEM path: do not assume general auto-EAD extension; STEM 180-day bridge still described by USCIS.",
+      "school_specific": false,
+      "confidence": "confirmed"
+    },
+    {
+      "id": "deference-nprm-2026-10",
+      "title": "USCIS proposes removing deference to prior eligibility determinations on extensions",
+      "summary": "NPRM 2026-20941 published 2026-10-14 would remove 8 CFR 214.1(c)(5) deference when adjudicating requests to extend a petition for employment/stay (same facts). Comments due 2026-11-13. Not in effect. Primary path is employment-based I-129 extensions (e.g. H-1B), i.e. post-OPT pipeline, not F-1 study admission.",
+      "sources": [
+        "https://www.federalregister.gov/documents/2026/10/14/2026-20941/removing-deference-to-prior-uscis-determinations-of-eligibility"
+      ],
+      "affected": ["Nonimmigrant workers seeking petition/stay extensions", "F-1 alumni later on H-1B/other worker categories"],
+      "slate_impact": "Adjacent watch for Fall 2027 → OPT → H-1B path; could raise extension RFEs/denials if finalized. Not a current F-1 study-rule change.",
+      "school_specific": false,
+      "confidence": "developing"
+    }
+  ]
+}
