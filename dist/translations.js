@@ -685,7 +685,17 @@ export const dictionaries = {
     "The professional master’s cannot accept applicants who require F-1 or J-1 student visas. Application open: In general, applications open one year in advance of the deadline (PMP how-to-apply) (deadline research 2026-10-20; see deadline field).": "專業碩士不接受需要 F-1 或 J-1 學生簽證的申請人。申請開放：一般於截止日前一年開放（PMP 申請說明）（期限研究截至 2026-10-20；詳見 deadline 欄位）。",
     "MBA program; use the August-entry route for a Fall 2027 comparison and verify its internship calendar separately. Application open: August 2027 application now open (as of page check 2026-10-20; calendar open day not posted) (deadline research 2026-10-20; see deadline field).": "MBA 課程；比較 2027 年秋季入學時應使用八月入學途徑，並另行核實實習時間表。申請開放：2027 年 8 月入學申請現已開放（截至 2026-10-20 頁面查核；具體開放日未公布）（期限研究截至 2026-10-20；詳見 deadline 欄位）。",
     "Core and career-focused electives are completed before internships; concentrations and emphases customize the degree. Application open: 19 Aug 2026 (Fall 2027 enrollment; Owen news 14 Aug 2026) (deadline research 2026-10-20; see deadline field).": "核心課與職涯導向選修在實習前完成；專攻與重點可客製化學位。申請開放：2026 年 8 月 19 日（2027 年秋季入學；Owen 新聞 2026-08-14）（期限研究截至 2026-10-20；詳見 deadline 欄位）。",
-    "First-year core followed by more than 100 elective choices, spanning analytics, finance, strategy and other business disciplines. Application open: Class of 2029 applications open (as of page check 2026-10-20; calendar open day not posted) (deadline research 2026-10-20; see deadline field).": "第一年核心課程後可選修逾 100 門選修課，涵蓋分析、財務、策略及其他商業領域。申請開放：2029 屆申請現已開放（截至 2026-10-20 頁面查核；具體開放日未公布）（期限研究截至 2026-10-20；詳見 deadline 欄位）。"
+    "First-year core followed by more than 100 elective choices, spanning analytics, finance, strategy and other business disciplines. Application open: Class of 2029 applications open (as of page check 2026-10-20; calendar open day not posted) (deadline research 2026-10-20; see deadline field).": "第一年核心課程後可選修逾 100 門選修課，涵蓋分析、財務、策略及其他商業領域。申請開放：2029 屆申請現已開放（截至 2026-10-20 頁面查核；具體開放日未公布）（期限研究截至 2026-10-20；詳見 deadline 欄位）。",
+    "HK eligible": "香港適用",
+    "TW eligible": "台灣適用",
+    "HK eligible (all)": "香港適用（全部）",
+    "TW eligible (all)": "台灣適用（全部）",
+    "HK eligible: yes": "香港適用：是",
+    "HK eligible: no": "香港適用：否",
+    "HK eligible: unclear": "香港適用：未明",
+    "TW eligible: yes": "台灣適用：是",
+    "TW eligible: no": "台灣適用：否",
+    "TW eligible: unclear": "台灣適用：未明"
   },
   "zh-Hans": {
     "$31,100 per fall/spring semester. The SCS budget lists $37,374 in additional annual items, including $1,500 in federal loan fees applicable to borrowers. Not every item is mandatory for every student. Full-degree cost is not yet verified.": "秋季／春季每学期 $31,100。SCS 预算另列每年 $37,374 的其他项目，包括适用于借款人的 $1,500 联邦贷款费。并非每项费用都适用于所有学生。整个学位总费用尚未核实。",
@@ -1372,6 +1382,16 @@ export const dictionaries = {
     "The professional master’s cannot accept applicants who require F-1 or J-1 student visas. Application open: In general, applications open one year in advance of the deadline (PMP how-to-apply) (deadline research 2026-10-20; see deadline field).": "专业硕士不接受需要 F-1 或 J-1 学生签证的申请人。申请开放：一般于截止日前一年开放（PMP 申请说明）（期限研究截至 2026-10-20；详见 deadline 栏位）。",
     "MBA program; use the August-entry route for a Fall 2027 comparison and verify its internship calendar separately. Application open: August 2027 application now open (as of page check 2026-10-20; calendar open day not posted) (deadline research 2026-10-20; see deadline field).": "MBA 课程；比较 2027 年秋季入学时应使用八月入学途径，并另行核实实习时间表。申請开放：2027 年 8 月入学申請现已开放（截至 2026-10-20 页面查核；具体开放日未公布）（期限研究截至 2026-10-20；详见 deadline 栏位）。",
     "Core and career-focused electives are completed before internships; concentrations and emphases customize the degree. Application open: 19 Aug 2026 (Fall 2027 enrollment; Owen news 14 Aug 2026) (deadline research 2026-10-20; see deadline field).": "核心课与职涯导向选修在实习前完成；专攻与重点可客制化学位。申请开放：2026 年 8 月 19 日（2027 年秋季入学；Owen 新闻 2026-08-14）（期限研究截至 2026-10-20；详见 deadline 栏位）。",
-    "First-year core followed by more than 100 elective choices, spanning analytics, finance, strategy and other business disciplines. Application open: Class of 2029 applications open (as of page check 2026-10-20; calendar open day not posted) (deadline research 2026-10-20; see deadline field).": "第一年核心课程后可选修逾 100 门选修课，涵盖分析、财务、策略及其他商业领域。申请开放：2029 届申请现已开放（截至 2026-10-20 页面查核；具体开放日未公布）（期限研究截至 2026-10-20；详见 deadline 栏位）。"
+    "First-year core followed by more than 100 elective choices, spanning analytics, finance, strategy and other business disciplines. Application open: Class of 2029 applications open (as of page check 2026-10-20; calendar open day not posted) (deadline research 2026-10-20; see deadline field).": "第一年核心课程后可选修逾 100 门选修课，涵盖分析、财务、策略及其他商业领域。申请开放：2029 届申请现已开放（截至 2026-10-20 页面查核；具体开放日未公布）（期限研究截至 2026-10-20；详见 deadline 栏位）。",
+    "HK eligible": "香港适用",
+    "TW eligible": "台湾适用",
+    "HK eligible (all)": "香港适用（全部）",
+    "TW eligible (all)": "台湾适用（全部）",
+    "HK eligible: yes": "香港适用：是",
+    "HK eligible: no": "香港适用：否",
+    "HK eligible: unclear": "香港适用：未明",
+    "TW eligible: yes": "台湾适用：是",
+    "TW eligible: no": "台湾适用：否",
+    "TW eligible: unclear": "台湾适用：未明"
   }
 };

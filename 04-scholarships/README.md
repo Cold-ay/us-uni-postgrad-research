@@ -20,6 +20,38 @@ Audience: general master's applicants, with explicit Hong Kong and Taiwan eligib
 | SCH-013 | [JJ/WBGSP](opportunities/jj-wbgsp.md) | Participating programs only | Usually not catalog CS/MBA |
 | SCH-014 | [Rotary Global Grant Scholarship](opportunities/rotary-global-grant.md) | Multiple institutions | Club-mediated · amount/deadline unverified |
 
+| SCH-015 | [Hong Kong Scholarship for Excellence Scheme (HKSES) — postgraduate](opportunities/hkses.md) | Any world-renowned university outside HK (US incl.) | Open · Fall 2027 cycle |
+| SCH-016 | [Croucher Scholarships for Doctoral Study](opportunities/croucher-doctoral.md) | Approved universities outside HK (PhD only) | Open · 2027 Study Awards |
+| SCH-017 | [Fulbright Taiwan (FSE) Graduate Study Award](opportunities/fulbright-taiwan-grad.md) | Any US institution (IIE placement, up to 5) + Rice PhD partner | Closed for Fall 2027 (deadline 1 Aug 2026) |
+| SCH-018 | [Taiwan MOE Government Scholarship to Study Abroad (GSSA 留學獎學金) — general](opportunities/moe-gssa-general.md) | Any foreign university (not mainland China/HK/Macau) | 2027 cycle not yet published |
+| SCH-019 | [Taiwan MOE GSSA — 勵學優秀生 (low-income category)](opportunities/moe-gssa-need.md) | Any foreign university | 2027 cycle not yet published |
+| SCH-020 | [Taiwan MOE Study Abroad Public Scholarship Exam (公費留學考試)](opportunities/moe-public-exam.md) | Field/country-specific quotas | 2027 quotas announced; brochure due H1 2027 |
+| SCH-021 | [Taiwan NSTC Graduate Students Study Abroad Program (千里馬計畫)](opportunities/nstc-dragon-gate.md) | Research visit abroad for Taiwan-enrolled PhD students | 2027-departure cycle closed (Jul 2026) |
+| SCH-022 | [Wharton MBA Fellowships (merit)](opportunities/wharton-fellowships.md) | penn-mba | Automatic with admission |
+| SCH-023 | [Chicago Booth Full-Time MBA Scholarships](opportunities/booth-scholarships.md) | chicago-mba | Automatic with admission |
+| SCH-024 | [Columbia Business School Fellowships (incl. Meyer Feldberg Distinguished Fellowship)](opportunities/cbs-fellowships.md) | columbia-mba | Automatic with admission |
+| SCH-025 | [MIT Sloan MBA Fellowships & Scholarships](opportunities/mit-sloan-fellowships.md) | mit-mba | Automatic with admission |
+| SCH-026 | [Tuck MBA Scholarships](opportunities/tuck-scholarships.md) | dartmouth-mba | Automatic with admission |
+| SCH-027 | [Berkeley Haas Full-Time MBA Merit Fellowships](opportunities/haas-fellowships.md) | berkeley-mba | Automatic with admission |
+| SCH-028 | [NYU Stern Full-Time MBA Merit Scholarships](opportunities/stern-merit.md) | nyu-mba | Automatic with admission |
+| SCH-029 | [UVA Darden MBA Merit Scholarships & Oculus Fellowships](opportunities/darden-merit.md) | virginia-mba | Automatic with admission |
+| SCH-030 | [Emory Goizueta Robert W. Woodruff Scholarship](opportunities/goizueta-woodruff.md) | emory-mba | Automatic with admission |
+| SCH-031 | [ASU W. P. Carey Full-Time MBA 'Scholarships for All'](opportunities/asu-carey-all.md) | asu-mba | Automatic with admission |
+| SCH-032 | [Kellogg Full-Time MBA Scholarships (merit/need)](opportunities/kellogg-scholarships.md) | northwestern-mba | Details to verify |
+| SCH-033 | [Cornell Johnson Park Leadership Fellows](opportunities/cornell-park.md) | cornell-mba | Not open to HK/TW nationals |
+| SCH-034 | [Forté MBA Fellowships](opportunities/forte-fellowship.md) | Forté member schools (many catalog MBAs) | School-awarded with admission |
+| SCH-035 | [Reaching Out MBA (ROMBA) Fellowship](opportunities/romba-fellowship.md) | ROMBA partner schools | School-selected |
+| SCH-036 | [The Consortium for Graduate Study in Management Fellowship](opportunities/consortium-cgsm.md) | Consortium member MBAs | Not open to HK/TW nationals |
+| SCH-037 | [Toigo Foundation LIFE (MBA) Program](opportunities/toigo-life.md) | Accredited MBA / finance grad programs | 2027 application open |
+| SCH-038 | [Paul & Daisy Soros Fellowships for New Americans](opportunities/pd-soros.md) | Any US graduate program | Open · deadline 29 Oct 2026 |
+| SCH-039 | [NSF Graduate Research Fellowship Program (GRFP)](opportunities/nsf-grfp.md) | US research grad (STEM) | Not open to HK/TW nationals |
+| SCH-040 | [Hertz Foundation Fellowship](opportunities/hertz.md) | US research grad (STEM) | Not open to HK/TW nationals |
+| SCH-041 | [NDSEG Fellowship](opportunities/ndseg.md) | US research grad (STEM) | Not open to HK/TW nationals |
+| SCH-042 | [Google PhD Fellowship (US/Canada)](opportunities/google-phd.md) | Nominating universities | 2026 cycle closed |
+| SCH-043 | [NVIDIA Graduate Fellowship](opportunities/nvidia-grad.md) | Universities in US, Taiwan, etc. | Open · Oct 30 2026 (not for incoming students) |
+| SCH-044 | [Apple Scholars in AI/ML PhD Fellowship](opportunities/apple-aiml.md) | Nominating universities | Nomination-based |
+| SCH-045 | [Qualcomm Innovation Fellowship (North America)](opportunities/qualcomm-qif.md) | 25 listed US/Canada universities | 2026 cycle; 2027 unknown |
+
 For each award, track: citizenship/residency; eligible degree/field/institution; degree-date restrictions; amount and coverage; duration/renewal; separate application; nomination; deadline/timezone; required documents; service/return obligations; other-award stacking; admission dependency; and applicable program IDs. Unknown conditions remain unknown.
 
 An award potentially applying to several programs does not mean it can be held repeatedly or simultaneously. Verify reuse, renewal and stacking separately. Keep assistantships and loans identified separately from scholarship awards.

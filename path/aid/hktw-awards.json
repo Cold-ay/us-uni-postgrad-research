@@ -1,0 +1,1065 @@
+{
+ "asOf": "2026-10-20",
+ "intake": "Fall 2027",
+ "awards": [
+  {
+   "id": "SCH-015",
+   "name": "Hong Kong Scholarship for Excellence Scheme (HKSES) — postgraduate",
+   "scope": "Any world-renowned university outside HK (US incl.)",
+   "state": "Open · Fall 2027 cycle",
+   "tone": "green",
+   "type": "Scholarship · Local",
+   "description": "HKSAR Government (EDB) scheme supporting outstanding local students to study outside Hong Kong; primarily undergraduate but postgraduate (master's/doctoral) applicants are eligible.",
+   "eligibility": "Right of abode / right to land in HK (or entered on One-way Permit) AND resided in HK continuously for 3 complete years before programme start. Postgraduate applicants may hold undergraduate degrees from inside or outside HK. Programme must start Aug 2027–Jul 2028. Scheme 'will primarily benefit students pursuing studies at undergraduate level'. Taiwan: not applicable.",
+   "amount": "Non-means-tested scholarship covering tuition 'subject to a ceiling of HK$300,000 per annum'; means-tested bursary 'subject to a ceiling of HK$200,000 per student per annum'. Master's: up to two years. Up to 100 offers per cohort.",
+   "deadline": "6 pm (HKT) 31 December 2026 (2027/28 cycle)",
+   "note": "04-scholarships/opportunities/hkses.md",
+   "url": "https://hkses.edb.gov.hk/en/notes-for-applicants.html",
+   "category": "Local",
+   "awardType": "scholarship",
+   "hkEligible": "yes",
+   "twEligible": "no",
+   "intlEligible": "no (HK residents only)",
+   "programIds": [
+    "any US grad"
+   ],
+   "sources": [
+    [
+     "HKSES Notes for Applicants",
+     "https://hkses.edb.gov.hk/en/notes-for-applicants.html"
+    ],
+    [
+     "HKSES About",
+     "https://hkses.edb.gov.hk/en/abouts.html"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-016",
+   "name": "Croucher Scholarships for Doctoral Study",
+   "scope": "Approved universities outside HK (PhD only)",
+   "state": "Open · 2027 Study Awards",
+   "tone": "green",
+   "type": "Scholarship · Local",
+   "description": "Croucher Foundation (HK private foundation) full PhD scholarships in natural sciences, technology and medicine. PhD only — not MS CS / MBA.",
+   "eligibility": "Hong Kong permanent residents; full-time doctoral study/research outside HK in natural sciences, medicine or technology. Taiwan: not applicable. Not for master's or MBA.",
+   "amount": "USD38,850 per annum maintenance; tuition and college fees; airfare; USD1,000 arrival; up to USD2,000/yr academic development; up to USD2,000/yr medical; USD9,700 commencement award (verbatim, 2027 Study Awards notice)",
+   "deadline": "5:00 PM (HKT) 15 November 2026",
+   "note": "04-scholarships/opportunities/croucher-doctoral.md",
+   "url": "https://apply.croucher.org.hk/",
+   "category": "Local",
+   "awardType": "scholarship",
+   "hkEligible": "yes",
+   "twEligible": "no",
+   "intlEligible": "no",
+   "programIds": [
+    "mit-cs",
+    "multi (CS PhD routes)"
+   ],
+   "sources": [
+    [
+     "Croucher apply portal",
+     "https://apply.croucher.org.hk/"
+    ],
+    [
+     "Croucher scholarships page",
+     "https://croucher.org.hk/en/funding/study-awards/scholarships"
+    ],
+    [
+     "CityU copy of 2027 Croucher notice",
+     "https://www.cityu.edu.hk/sds/-/media/project/cityuhk/admin-department/sds/files/slr/external-awards/croucher_2027.pdf"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-017",
+   "name": "Fulbright Taiwan (FSE) Graduate Study Award",
+   "scope": "Any US institution (IIE placement, up to 5) + Rice PhD partner",
+   "state": "Closed for Fall 2027 (deadline 1 Aug 2026)",
+   "tone": "red",
+   "type": "Grant · Local",
+   "description": "Taiwan Fulbright commission award for Taiwanese to pursue US master's or doctoral degrees; this is the Taiwan route of SCH-001.",
+   "eligibility": "Physically present in Taiwan Aug 2026–Jul 2027; bachelor's by June 2027 and ready to enroll Fall 2027; iBT ≥80 / IELTS ≥6.5 (master's), iBT ≥100 / IELTS ≥7.0 (doctoral); GRE/GMAT. Fields incl. STEM and Business. Hong Kong: not applicable. Citizenship wording beyond residency: see page (unclear here).",
+   "amount": "Monthly stipend of US$2,831 to US$4,300 for 12 months (renewable for 2nd year); one-time settling allowance US$3,000; up to 9 awards (All Institutions)",
+   "deadline": "August 1, 2026 (Fall 2027 cycle — closed); next cycle unknown",
+   "note": "04-scholarships/opportunities/fulbright-taiwan-grad.md",
+   "url": "https://www.fulbright.org.tw/graduate-study-grants/",
+   "category": "Local",
+   "awardType": "grant",
+   "hkEligible": "no",
+   "twEligible": "yes",
+   "intlEligible": "no",
+   "programIds": [
+    "multi"
+   ],
+   "sources": [
+    [
+     "Fulbright Taiwan Graduate Study Award",
+     "https://www.fulbright.org.tw/graduate-study-grants/"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-018",
+   "name": "Taiwan MOE Government Scholarship to Study Abroad (GSSA 留學獎學金) — general",
+   "scope": "Any foreign university (not mainland China/HK/Macau)",
+   "state": "2027 cycle not yet published",
+   "tone": "amber",
+   "type": "Scholarship · Local",
+   "description": "Taiwan Ministry of Education merit scholarship selected by document review; applicants must already hold an admission letter.",
+   "eligibility": "ROC nationals with household registration in Taiwan; ≤45; admission from a recognised foreign university. General students: doctoral degree only (except arts/architecture/New Southbound countries). Hong Kong: not applicable. So MS CS / MBA NOT eligible under general category.",
+   "amount": "General students: US$16,000 per year, max 2 years (115/2026 brochure)",
+   "deadline": "2026 (115) cycle: 16 Jan–13 Feb 2026 (latest published); 2027 cycle unknown",
+   "note": "04-scholarships/opportunities/moe-gssa-general.md",
+   "url": "https://www.scholarship.moe.gov.tw/scholarship",
+   "category": "Local",
+   "awardType": "scholarship",
+   "hkEligible": "no",
+   "twEligible": "yes",
+   "intlEligible": "no",
+   "programIds": [
+    "mit-cs",
+    "multi (PhD only)"
+   ],
+   "sources": [
+    [
+     "MOE GSSA portal",
+     "https://www.scholarship.moe.gov.tw/scholarship"
+    ],
+    [
+     "115 GSSA brochure PDF",
+     "https://ws.moe.edu.tw/001/Upload/7/relfile/9909/103401/7332fb46-00f7-4ed4-9af7-6fc63a301b13.pdf"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-019",
+   "name": "Taiwan MOE GSSA — 勵學優秀生 (low-income category)",
+   "scope": "Any foreign university",
+   "state": "2027 cycle not yet published",
+   "tone": "amber",
+   "type": "Scholarship · Need-Based",
+   "description": "Need-based category of the MOE study-abroad scholarship; master's OR doctoral allowed.",
+   "eligibility": "Same base eligibility as GSSA plus valid municipal low-income or middle-low-income household certificate. Master's or PhD in any field (so MS CS / MBA eligible). 10 places (2026). Hong Kong: not applicable.",
+   "amount": "US$30,000 per year, max 3 years (115/2026 brochure; same rate for indigenous and disability categories)",
+   "deadline": "2026 cycle: 16 Jan–13 Feb 2026 (latest published); 2027 unknown",
+   "note": "04-scholarships/opportunities/moe-gssa-need.md",
+   "url": "https://ws.moe.edu.tw/001/Upload/7/relfile/9909/103401/7332fb46-00f7-4ed4-9af7-6fc63a301b13.pdf",
+   "category": "Need-Based",
+   "awardType": "scholarship",
+   "hkEligible": "no",
+   "twEligible": "yes",
+   "intlEligible": "no",
+   "programIds": [
+    "any US grad"
+   ],
+   "sources": [
+    [
+     "115 GSSA brochure PDF",
+     "https://ws.moe.edu.tw/001/Upload/7/relfile/9909/103401/7332fb46-00f7-4ed4-9af7-6fc63a301b13.pdf"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-020",
+   "name": "Taiwan MOE Study Abroad Public Scholarship Exam (公費留學考試)",
+   "scope": "Field/country-specific quotas",
+   "state": "2027 quotas announced; brochure due H1 2027",
+   "tone": "amber",
+   "type": "Scholarship · National",
+   "description": "Taiwan national government-funded study-abroad exam; 2027 exam: 83 fields, 201 places, 25 fields AI-related; switching to document review + interview.",
+   "eligibility": "Taiwan nationals (details in 2027 brochure, due first half of 2027). 2026 trusted-industry fields (AI, ICT, cybersecurity, semiconductors etc.) were doctoral. Degree level for 2027 fields: unclear until brochure. Hong Kong: not applicable.",
+   "amount": "2026 (115) cycle: tuition total cap US$120,000 over 3 years (trusted-industry fields); living allowance up to US$28,000/yr (e.g. NYC, Cambridge MA, SF, Stanford, Berkeley)",
+   "deadline": "2026 cycle registration 15–31 Jul 2026; 2027 cycle dates unknown (brochure H1 2027)",
+   "note": "04-scholarships/opportunities/moe-public-exam.md",
+   "url": "https://www.edu.tw/News_Content.aspx?n=9E7AC85F1954DDA8&s=83B9913B5BFBFDA4",
+   "category": "National",
+   "awardType": "scholarship",
+   "hkEligible": "no",
+   "twEligible": "yes",
+   "intlEligible": "no",
+   "programIds": [
+    "mit-cs",
+    "multi"
+   ],
+   "sources": [
+    [
+     "MOE 115 announcement",
+     "https://www.edu.tw/News_Content.aspx?n=9E7AC85F1954DDA8&s=83B9913B5BFBFDA4"
+    ],
+    [
+     "115 brochure (trusted industries)",
+     "https://www.scholarship.moe.gov.tw/exam-v2/student/brochure/trusted"
+    ],
+    [
+     "LTN on 2027 quotas",
+     "https://news.ltn.com.tw/news/life/breakingnews/5592156"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-021",
+   "name": "Taiwan NSTC Graduate Students Study Abroad Program (千里馬計畫)",
+   "scope": "Research visit abroad for Taiwan-enrolled PhD students",
+   "state": "2027-departure cycle closed (Jul 2026)",
+   "tone": "red",
+   "type": "Grant · National",
+   "description": "NSTC partial grant for PhD students enrolled in Taiwan to do 7–12 months research abroad. NOT degree funding for US master's/MBA — included for completeness.",
+   "eligibility": "Doctoral students in Taiwan universities. Hong Kong: not applicable.",
+   "amount": "Partial support calculated at NT$900,000 per year, pro-rated by days abroad (7–12 months)",
+   "deadline": "116 (2027) cycle: 1 Jun–31 Jul 2026 (closed)",
+   "note": "04-scholarships/opportunities/nstc-dragon-gate.md",
+   "url": "https://www.nstc.gov.tw/folksonomy/rfpDetail/fb285d89-02c6-4a01-a256-580b4c434822",
+   "category": "National",
+   "awardType": "grant",
+   "hkEligible": "no",
+   "twEligible": "yes",
+   "intlEligible": "no",
+   "programIds": [
+    "multi (research visit only)"
+   ],
+   "sources": [
+    [
+     "NSTC 116 call",
+     "https://www.nstc.gov.tw/folksonomy/rfpDetail/fb285d89-02c6-4a01-a256-580b4c434822"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-022",
+   "name": "Wharton MBA Fellowships (merit)",
+   "scope": "penn-mba",
+   "state": "Automatic with admission",
+   "tone": "green",
+   "type": "Fellowship · College-Specific/Academic",
+   "description": "Merit fellowships; all admitted MBA applicants automatically considered.",
+   "eligibility": "International students eligible for college-funded aid incl. Wharton Fellowship Program. HK/TW: no nationality restriction stated; personal eligibility unclear.",
+   "amount": "unknown (amounts vary; not published on official page)",
+   "deadline": "With admission decision",
+   "note": "04-scholarships/opportunities/wharton-fellowships.md",
+   "url": "https://mba-inside.wharton.upenn.edu/financial-aid/welcome/funding-opportunities/",
+   "category": "College-Specific/Academic",
+   "awardType": "fellowship",
+   "hkEligible": "unclear",
+   "twEligible": "unclear",
+   "intlEligible": "yes",
+   "programIds": [
+    "penn-mba"
+   ],
+   "sources": [
+    [
+     "Wharton MBA Inside — Funding",
+     "https://mba-inside.wharton.upenn.edu/financial-aid/welcome/funding-opportunities/"
+    ],
+    [
+     "Wharton FA FAQs",
+     "https://mba-inside.wharton.upenn.edu/financial-aid/financial-aid-faqs/"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-023",
+   "name": "Chicago Booth Full-Time MBA Scholarships",
+   "scope": "chicago-mba",
+   "state": "Automatic with admission",
+   "tone": "green",
+   "type": "Scholarship · College-Specific/Academic",
+   "description": "Merit scholarships/fellowships; automatic consideration, no separate application.",
+   "eligibility": "Citizenship not a restriction; international students considered. HK/TW: no nationality restriction stated; personal eligibility unclear.",
+   "amount": "unknown",
+   "deadline": "With admission / shortly after",
+   "note": "04-scholarships/opportunities/booth-scholarships.md",
+   "url": "https://www.chicagobooth.edu/mba/full-time/admissions/scholarships-and-aid",
+   "category": "College-Specific/Academic",
+   "awardType": "scholarship",
+   "hkEligible": "unclear",
+   "twEligible": "unclear",
+   "intlEligible": "yes",
+   "programIds": [
+    "chicago-mba"
+   ],
+   "sources": [
+    [
+     "Booth Scholarships and Aid",
+     "https://www.chicagobooth.edu/mba/full-time/admissions/scholarships-and-aid"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-024",
+   "name": "Columbia Business School Fellowships (incl. Meyer Feldberg Distinguished Fellowship)",
+   "scope": "columbia-mba",
+   "state": "Automatic with admission",
+   "tone": "green",
+   "type": "Fellowship · College-Specific/Academic",
+   "description": "Merit fellowships via admission application; Feldberg is full tuition.",
+   "eligibility": "International applicants automatically considered for merit fellowships; need-based requires FA application after admission. HK/TW: no nationality restriction stated; personal eligibility unclear.",
+   "amount": "Meyer Feldberg Distinguished Fellowship: full tuition; others unknown",
+   "deadline": "With admission",
+   "note": "04-scholarships/opportunities/cbs-fellowships.md",
+   "url": "https://business.columbia.edu/financial-aid/types-aid/institutional-funding",
+   "category": "College-Specific/Academic",
+   "awardType": "fellowship",
+   "hkEligible": "unclear",
+   "twEligible": "unclear",
+   "intlEligible": "yes",
+   "programIds": [
+    "columbia-mba"
+   ],
+   "sources": [
+    [
+     "CBS Institutional Funding",
+     "https://business.columbia.edu/financial-aid/types-aid/institutional-funding"
+    ],
+    [
+     "CBS MBA Scholarships",
+     "https://academics.business.columbia.edu/mba/tuition-financial-aid/mba-scholarships"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-025",
+   "name": "MIT Sloan MBA Fellowships & Scholarships",
+   "scope": "mit-mba",
+   "state": "Automatic with admission",
+   "tone": "green",
+   "type": "Fellowship · College-Specific/Academic",
+   "description": "Incoming students automatically considered for fellowships from MIT Sloan and other MIT departments; review independent of admission.",
+   "eligibility": "Admitted MBA students; FA requirements vary for international students. HK/TW: no nationality restriction stated; personal eligibility unclear.",
+   "amount": "unknown",
+   "deadline": "After admission",
+   "note": "04-scholarships/opportunities/mit-sloan-fellowships.md",
+   "url": "https://mitsloan.mit.edu/mba/admissions/tuition-and-financial-aid",
+   "category": "College-Specific/Academic",
+   "awardType": "fellowship",
+   "hkEligible": "unclear",
+   "twEligible": "unclear",
+   "intlEligible": "yes",
+   "programIds": [
+    "mit-mba"
+   ],
+   "sources": [
+    [
+     "MIT Sloan — Financing your MBA",
+     "https://mitsloan.mit.edu/mba/admissions/tuition-and-financial-aid"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-026",
+   "name": "Tuck MBA Scholarships",
+   "scope": "dartmouth-mba",
+   "state": "Automatic with admission",
+   "tone": "green",
+   "type": "Scholarship · Merit-Based",
+   "description": "Discretionary merit+need scholarships; every admitted student incl. international automatically considered.",
+   "eligibility": "International students included; need-based not guaranteed. HK/TW: no nationality restriction stated; personal eligibility unclear.",
+   "amount": "$10,000 to full tuition (per Tuck FA FAQ for international students)",
+   "deadline": "With admission",
+   "note": "04-scholarships/opportunities/tuck-scholarships.md",
+   "url": "https://tuck.dartmouth.edu/mba/blog/financial-aid-faqs-international-students",
+   "category": "Merit-Based",
+   "awardType": "scholarship",
+   "hkEligible": "unclear",
+   "twEligible": "unclear",
+   "intlEligible": "yes",
+   "programIds": [
+    "dartmouth-mba"
+   ],
+   "sources": [
+    [
+     "Tuck FA FAQs: International",
+     "https://tuck.dartmouth.edu/mba/blog/financial-aid-faqs-international-students"
+    ],
+    [
+     "Tuck Scholarships",
+     "https://tuck.dartmouth.edu/admissions/finance-your-degree/scholarships-fellowships-sponsorships"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-027",
+   "name": "Berkeley Haas Full-Time MBA Merit Fellowships",
+   "scope": "berkeley-mba",
+   "state": "Automatic with admission",
+   "tone": "green",
+   "type": "Fellowship · Merit-Based",
+   "description": "All applicants automatically considered; some named funds prefer Asian undergraduates (Dr. Tahir) or China/Southeast Asia (Song Feiqing).",
+   "eligibility": "International students eligible regardless of citizenship. Whether HK/TW fall under 'China/Southeast Asia' preference: unclear. HK/TW: no nationality restriction stated; personal eligibility unclear.",
+   "amount": "unknown",
+   "deadline": "With admission",
+   "note": "04-scholarships/opportunities/haas-fellowships.md",
+   "url": "https://haas.berkeley.edu/financial-aid/full-time-mba/haas-scholarships/merit-based-awards/",
+   "category": "Merit-Based",
+   "awardType": "fellowship",
+   "hkEligible": "unclear",
+   "twEligible": "unclear",
+   "intlEligible": "yes",
+   "programIds": [
+    "berkeley-mba"
+   ],
+   "sources": [
+    [
+     "Haas Merit Based Awards",
+     "https://haas.berkeley.edu/financial-aid/full-time-mba/haas-scholarships/merit-based-awards/"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-028",
+   "name": "NYU Stern Full-Time MBA Merit Scholarships",
+   "scope": "nyu-mba",
+   "state": "Automatic with admission",
+   "tone": "green",
+   "type": "Scholarship · Merit-Based",
+   "description": "Automatic merit consideration; ~20–25% of admitted receive awards.",
+   "eligibility": "International applicants automatically considered. HK/TW: no nationality restriction stated; personal eligibility unclear.",
+   "amount": "unknown (often full- or half-tuition per secondary summary; not verbatim)",
+   "deadline": "With admission",
+   "note": "04-scholarships/opportunities/stern-merit.md",
+   "url": "https://www.stern.nyu.edu/portal-partners/financial-aid/scholarships-fellowships/merit-based",
+   "category": "Merit-Based",
+   "awardType": "scholarship",
+   "hkEligible": "unclear",
+   "twEligible": "unclear",
+   "intlEligible": "yes",
+   "programIds": [
+    "nyu-mba"
+   ],
+   "sources": [
+    [
+     "NYU Stern Merit-Based Scholarships",
+     "https://www.stern.nyu.edu/portal-partners/financial-aid/scholarships-fellowships/merit-based"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-029",
+   "name": "UVA Darden MBA Merit Scholarships & Oculus Fellowships",
+   "scope": "virginia-mba",
+   "state": "Automatic with admission",
+   "tone": "green",
+   "type": "Fellowship · College-Specific/Academic",
+   "description": "Automatic merit consideration; Oculus Fellowships via competition (EA/R1/R2).",
+   "eligibility": "International applicants eligible, incl. awards for international applicants. HK/TW: no nationality restriction stated; personal eligibility unclear.",
+   "amount": "'modest stipend to full tuition and fees'; Oculus up to full tuition and fees",
+   "deadline": "Oculus: apply EA/R1/R2; others with admission",
+   "note": "04-scholarships/opportunities/darden-merit.md",
+   "url": "https://www.darden.virginia.edu/mba/tuition-financial-aid/scholarships",
+   "category": "College-Specific/Academic",
+   "awardType": "fellowship",
+   "hkEligible": "unclear",
+   "twEligible": "unclear",
+   "intlEligible": "yes",
+   "programIds": [
+    "virginia-mba"
+   ],
+   "sources": [
+    [
+     "Darden Scholarships",
+     "https://www.darden.virginia.edu/mba/tuition-financial-aid/scholarships"
+    ],
+    [
+     "Oculus Fellowships",
+     "https://www.darden.virginia.edu/mba/tuition-financial-aid/scholarships/competitive-scholarships/oculus-fellowships"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-030",
+   "name": "Emory Goizueta Robert W. Woodruff Scholarship",
+   "scope": "emory-mba",
+   "state": "Automatic with admission",
+   "tone": "green",
+   "type": "Scholarship · Merit-Based",
+   "description": "Top merit award; other Goizueta merit awards partial/full tuition.",
+   "eligibility": "International applicants eligible for Goizueta scholarships. HK/TW: no nationality restriction stated; personal eligibility unclear.",
+   "amount": "Full tuition and fees plus $15,000 annual stipend",
+   "deadline": "With admission",
+   "note": "04-scholarships/opportunities/goizueta-woodruff.md",
+   "url": "https://goizueta.emory.edu/full-time-mba/two-year-mba/admissions/tuition",
+   "category": "Merit-Based",
+   "awardType": "scholarship",
+   "hkEligible": "unclear",
+   "twEligible": "unclear",
+   "intlEligible": "yes",
+   "programIds": [
+    "emory-mba"
+   ],
+   "sources": [
+    [
+     "Goizueta Cost of Full-Time MBA",
+     "https://goizueta.emory.edu/full-time-mba/two-year-mba/admissions/tuition"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-031",
+   "name": "ASU W. P. Carey Full-Time MBA 'Scholarships for All'",
+   "scope": "asu-mba",
+   "state": "Automatic with admission",
+   "tone": "green",
+   "type": "Scholarship · Merit-Based",
+   "description": "Every admitted full-time MBA receives a scholarship; many receive 100% tuition.",
+   "eligibility": "Admitted full-time MBA; international tuition est. $130,000 before scholarship. HK/TW: no nationality restriction stated; personal eligibility unclear.",
+   "amount": "Scholarship to every admitted student; amount individual (many 100% tuition)",
+   "deadline": "With admission",
+   "note": "04-scholarships/opportunities/asu-carey-all.md",
+   "url": "https://wpcarey.asu.edu/mba-programs/full-time",
+   "category": "Merit-Based",
+   "awardType": "scholarship",
+   "hkEligible": "unclear",
+   "twEligible": "unclear",
+   "intlEligible": "yes",
+   "programIds": [
+    "asu-mba"
+   ],
+   "sources": [
+    [
+     "W. P. Carey Full-time MBA",
+     "https://wpcarey.asu.edu/mba-programs/full-time"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-032",
+   "name": "Kellogg Full-Time MBA Scholarships (merit/need)",
+   "scope": "northwestern-mba",
+   "state": "Details to verify",
+   "tone": "amber",
+   "type": "Scholarship · College-Specific/Academic",
+   "description": "Kellogg offers merit- and need-based awards plus second-year scholarships.",
+   "eligibility": "Eligibility details on Kellogg scholarship page; international: unclear on fetched page. HK/TW: no nationality restriction stated; personal eligibility unclear.",
+   "amount": "unknown",
+   "deadline": "unknown",
+   "note": "04-scholarships/opportunities/kellogg-scholarships.md",
+   "url": "https://www.kellogg.northwestern.edu/programs/full-time-mba/tuition-financial-aid.aspx",
+   "category": "College-Specific/Academic",
+   "awardType": "scholarship",
+   "hkEligible": "unclear",
+   "twEligible": "unclear",
+   "intlEligible": "unclear",
+   "programIds": [
+    "northwestern-mba"
+   ],
+   "sources": [
+    [
+     "Kellogg Tuition + Aid",
+     "https://www.kellogg.northwestern.edu/programs/full-time-mba/tuition-financial-aid.aspx"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-033",
+   "name": "Cornell Johnson Park Leadership Fellows",
+   "scope": "cornell-mba",
+   "state": "Not open to HK/TW nationals",
+   "tone": "red",
+   "type": "Fellowship · Merit-Based",
+   "description": "Full-tuition two-year fellowship for up to 25 incoming students.",
+   "eligibility": "U.S. citizens and permanent residents only.",
+   "amount": "Full tuition, two years",
+   "deadline": "After admissions interview (invited)",
+   "note": "04-scholarships/opportunities/cornell-park.md",
+   "url": "https://business.cornell.edu/admissions/graduate/mba/leadership/park-fellows/",
+   "category": "Merit-Based",
+   "awardType": "fellowship",
+   "hkEligible": "no",
+   "twEligible": "no",
+   "intlEligible": "no",
+   "programIds": [
+    "cornell-mba"
+   ],
+   "sources": [
+    [
+     "Park Leadership Fellows",
+     "https://business.cornell.edu/admissions/graduate/mba/leadership/park-fellows/"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-034",
+   "name": "Forté MBA Fellowships",
+   "scope": "Forté member schools (many catalog MBAs)",
+   "state": "School-awarded with admission",
+   "tone": "green",
+   "type": "Fellowship · Student-Specific",
+   "description": "Fellowships awarded by participating schools to candidates advancing women in business; no separate application at most schools.",
+   "eligibility": "Open to candidates of all nationalities, genders and gender identities; must be admitted to a participating school. HK/TW: nationality not a bar (school-specific).",
+   "amount": "School-dependent; unknown for US schools",
+   "deadline": "With admission (school-specific)",
+   "note": "04-scholarships/opportunities/forte-fellowship.md",
+   "url": "https://www.fortefoundation.org/mba/fellows/",
+   "category": "Student-Specific",
+   "awardType": "fellowship",
+   "hkEligible": "yes",
+   "twEligible": "yes",
+   "intlEligible": "yes",
+   "programIds": [
+    "multi (MBA)"
+   ],
+   "sources": [
+    [
+     "Forté MBA Fellowships",
+     "https://www.fortefoundation.org/mba/fellows/"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-035",
+   "name": "Reaching Out MBA (ROMBA) Fellowship",
+   "scope": "ROMBA partner schools",
+   "state": "School-selected",
+   "tone": "amber",
+   "type": "Fellowship · Minority",
+   "description": "LGBTQ+ leadership fellowship; each participating school selects fellows; no ROMBA application form.",
+   "eligibility": "School selects; nationality rules not stated on ROMBA page → HK/TW unclear.",
+   "amount": "'Monetary Scholarship (school dependent)'",
+   "deadline": "School-dependent",
+   "note": "04-scholarships/opportunities/romba-fellowship.md",
+   "url": "https://reachingoutmba.org/fellowship/",
+   "category": "Minority",
+   "awardType": "fellowship",
+   "hkEligible": "unclear",
+   "twEligible": "unclear",
+   "intlEligible": "unclear",
+   "programIds": [
+    "multi (MBA)"
+   ],
+   "sources": [
+    [
+     "ROMBA Fellowship",
+     "https://reachingoutmba.org/fellowship/"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-036",
+   "name": "The Consortium for Graduate Study in Management Fellowship",
+   "scope": "Consortium member MBAs",
+   "state": "Not open to HK/TW nationals",
+   "tone": "red",
+   "type": "Fellowship · Minority",
+   "description": "Diversity-mission MBA fellowship via common application.",
+   "eligibility": "Must be U.S. citizen, U.S. permanent resident or DACA recipient.",
+   "amount": "unknown (school-awarded)",
+   "deadline": "unknown",
+   "note": "04-scholarships/opportunities/consortium-cgsm.md",
+   "url": "https://cgsm.org/faqs/",
+   "category": "Minority",
+   "awardType": "fellowship",
+   "hkEligible": "no",
+   "twEligible": "no",
+   "intlEligible": "no",
+   "programIds": [
+    "multi (MBA)"
+   ],
+   "sources": [
+    [
+     "Consortium FAQs",
+     "https://cgsm.org/faqs/"
+    ],
+    [
+     "Application Instructions",
+     "https://cgsm.org/application-instructions/"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-037",
+   "name": "Toigo Foundation LIFE (MBA) Program",
+   "scope": "Accredited MBA / finance grad programs",
+   "state": "2027 application open",
+   "tone": "amber",
+   "type": "Fellowship · Career-Specific",
+   "description": "Finance-career program for underrepresented talent.",
+   "eligibility": "International students may apply but must be eligible to work in the U.S.; finance/finance-adjacent career intent. F-1 work eligibility interpretation: unclear.",
+   "amount": "unknown",
+   "deadline": "Opens 15 Oct 2026; closes 15 Mar 2027",
+   "note": "04-scholarships/opportunities/toigo-life.md",
+   "url": "https://toigofoundation.org/our-progams-and-services/life/faqs/",
+   "category": "Career-Specific",
+   "awardType": "fellowship",
+   "hkEligible": "unclear",
+   "twEligible": "unclear",
+   "intlEligible": "conditional",
+   "programIds": [
+    "multi (MBA)"
+   ],
+   "sources": [
+    [
+     "Toigo FAQs",
+     "https://toigofoundation.org/our-progams-and-services/life/faqs/"
+    ],
+    [
+     "Toigo Apply",
+     "https://toigofoundation.org/our-progams-and-services/life/apply-now/"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-038",
+   "name": "Paul & Daisy Soros Fellowships for New Americans",
+   "scope": "Any US graduate program",
+   "state": "Open · deadline 29 Oct 2026",
+   "tone": "amber",
+   "type": "Fellowship · Minority",
+   "description": "For immigrants and children of immigrants.",
+   "eligibility": "Age ≤30; foreign-born applicants need green card (or qualifying DACA). HK/TW nationals on F-1: no; HK/TW-born US green-card holders: yes.",
+   "amount": "Up to $90,000 over two years",
+   "deadline": "Oct 29, 2026, 2:00 p.m. ET (2027 cycle)",
+   "note": "04-scholarships/opportunities/pd-soros.md",
+   "url": "https://pdsoros.org/eligibility/",
+   "category": "Minority",
+   "awardType": "fellowship",
+   "hkEligible": "no",
+   "twEligible": "no",
+   "intlEligible": "no (green card required)",
+   "programIds": [
+    "any US grad"
+   ],
+   "sources": [
+    [
+     "PD Soros Eligibility",
+     "https://pdsoros.org/eligibility/"
+    ],
+    [
+     "Application Process",
+     "https://pdsoros.org/application-process/"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-039",
+   "name": "NSF Graduate Research Fellowship Program (GRFP)",
+   "scope": "US research grad (STEM)",
+   "state": "Not open to HK/TW nationals",
+   "tone": "red",
+   "type": "Fellowship · National",
+   "description": "US national STEM fellowship (research degrees). Listed to document ineligibility.",
+   "eligibility": "U.S. citizens, nationals or permanent residents only.",
+   "amount": "unknown (not verified this pass)",
+   "deadline": "unknown",
+   "note": "04-scholarships/opportunities/nsf-grfp.md",
+   "url": "https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program/nsf26-526/solicitation",
+   "category": "National",
+   "awardType": "fellowship",
+   "hkEligible": "no",
+   "twEligible": "no",
+   "intlEligible": "no",
+   "programIds": [
+    "multi (CS research)"
+   ],
+   "sources": [
+    [
+     "NSF 26-526 solicitation",
+     "https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program/nsf26-526/solicitation"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-040",
+   "name": "Hertz Foundation Fellowship",
+   "scope": "US research grad (STEM)",
+   "state": "Not open to HK/TW nationals",
+   "tone": "red",
+   "type": "Fellowship · National",
+   "description": "US national STEM fellowship (research degrees). Listed to document ineligibility.",
+   "eligibility": "U.S. citizens or permanent residents.",
+   "amount": "unknown (not verified this pass)",
+   "deadline": "unknown",
+   "note": "04-scholarships/opportunities/hertz.md",
+   "url": "https://www.hertzfoundation.org/hertz-fellowship/who-can-apply/",
+   "category": "National",
+   "awardType": "fellowship",
+   "hkEligible": "no",
+   "twEligible": "no",
+   "intlEligible": "no",
+   "programIds": [
+    "multi (CS research)"
+   ],
+   "sources": [
+    [
+     "Hertz Who Can Apply",
+     "https://www.hertzfoundation.org/hertz-fellowship/who-can-apply/"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-041",
+   "name": "NDSEG Fellowship",
+   "scope": "US research grad (STEM)",
+   "state": "Not open to HK/TW nationals",
+   "tone": "red",
+   "type": "Fellowship · National",
+   "description": "US national STEM fellowship (research degrees). Listed to document ineligibility.",
+   "eligibility": "U.S. citizens/dual citizens/nationals; permanent residents NOT eligible.",
+   "amount": "unknown (not verified this pass)",
+   "deadline": "unknown",
+   "note": "04-scholarships/opportunities/ndseg.md",
+   "url": "https://ndseg.org/eligibility",
+   "category": "National",
+   "awardType": "fellowship",
+   "hkEligible": "no",
+   "twEligible": "no",
+   "intlEligible": "no",
+   "programIds": [
+    "multi (CS research)"
+   ],
+   "sources": [
+    [
+     "NDSEG Eligibility",
+     "https://ndseg.org/eligibility"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-042",
+   "name": "Google PhD Fellowship (US/Canada)",
+   "scope": "Nominating universities",
+   "state": "2026 cycle closed",
+   "tone": "red",
+   "type": "Fellowship · Company-Sponsored",
+   "description": "Company PhD fellowship; university nomination required. PhD ONLY — not MS/MBA; not for incoming students.",
+   "eligibility": "Full-time PhD students in CS/related, nominated by university; applications open worldwide. HK/TW international PhD students at US schools: yes (if nominated).",
+   "amount": "US$85,000 per year for up to two years (US/Canada, per Google FAQ summary)",
+   "deadline": "2026: Mar 5–Apr 30, 2026 (closed); 2027 unknown",
+   "note": "04-scholarships/opportunities/google-phd.md",
+   "url": "https://research.google/programs-and-events/phd-fellowship/",
+   "category": "Company-Sponsored",
+   "awardType": "fellowship",
+   "hkEligible": "yes",
+   "twEligible": "yes",
+   "intlEligible": "yes",
+   "programIds": [
+    "mit-cs",
+    "multi (CS PhD)"
+   ],
+   "sources": [
+    [
+     "Google PhD Fellowship",
+     "https://research.google/programs-and-events/phd-fellowship/"
+    ],
+    [
+     "Google Research FAQ",
+     "https://research.google/programs-and-events/frequently-asked-questions/"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-043",
+   "name": "NVIDIA Graduate Fellowship",
+   "scope": "Universities in US, Taiwan, etc.",
+   "state": "Open · Oct 30 2026 (not for incoming students)",
+   "tone": "amber",
+   "type": "Fellowship · Company-Sponsored",
+   "description": "PhD research fellowship in accelerated computing with required summer internship.",
+   "eligibility": "Must have completed first year of PhD; international PhD students eligible. Fall 2027 entrants cannot apply until after year 1.",
+   "amount": "Up to $60,000 per award",
+   "deadline": "2027–28: Sep 30–Oct 30, 2026",
+   "note": "04-scholarships/opportunities/nvidia-grad.md",
+   "url": "https://research.nvidia.com/graduate-fellowships",
+   "category": "Company-Sponsored",
+   "awardType": "fellowship",
+   "hkEligible": "yes",
+   "twEligible": "yes",
+   "intlEligible": "yes",
+   "programIds": [
+    "mit-cs",
+    "multi (CS PhD)"
+   ],
+   "sources": [
+    [
+     "NVIDIA Graduate Fellowship",
+     "https://research.nvidia.com/graduate-fellowships"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-044",
+   "name": "Apple Scholars in AI/ML PhD Fellowship",
+   "scope": "Nominating universities",
+   "state": "Nomination-based",
+   "tone": "amber",
+   "type": "Fellowship · Company-Sponsored",
+   "description": "PhD fellowship with funding, mentorship and internship; nominated by universities.",
+   "eligibility": "PhD students nominated by university; nationality not stated → unclear.",
+   "amount": "unknown",
+   "deadline": "unknown (nomination)",
+   "note": "04-scholarships/opportunities/apple-aiml.md",
+   "url": "https://machinelearning.apple.com/updates/apple-scholars-aiml-2026",
+   "category": "Company-Sponsored",
+   "awardType": "fellowship",
+   "hkEligible": "unclear",
+   "twEligible": "unclear",
+   "intlEligible": "unclear",
+   "programIds": [
+    "mit-cs",
+    "multi (CS PhD)"
+   ],
+   "sources": [
+    [
+     "Apple Scholars 2026 announcement",
+     "https://machinelearning.apple.com/updates/apple-scholars-aiml-2026"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  },
+  {
+   "id": "SCH-045",
+   "name": "Qualcomm Innovation Fellowship (North America)",
+   "scope": "25 listed US/Canada universities",
+   "state": "2026 cycle; 2027 unknown",
+   "tone": "amber",
+   "type": "Fellowship · Company-Sponsored",
+   "description": "Team-based (2 PhD students) research fellowship.",
+   "eligibility": "PhD students at listed universities (incl. MIT, Stanford, UCLA, UC Berkeley, Cornell, Georgia Tech per 2026 rules); nationality: unclear.",
+   "amount": "$50,000 per winning team member to department (per 2026 official rules summary — verify in PDF)",
+   "deadline": "unknown for 2027",
+   "note": "04-scholarships/opportunities/qualcomm-qif.md",
+   "url": "https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/QIF-2026-official-rules-US-CANADA.pdf",
+   "category": "Company-Sponsored",
+   "awardType": "fellowship",
+   "hkEligible": "unclear",
+   "twEligible": "unclear",
+   "intlEligible": "unclear",
+   "programIds": [
+    "mit-cs",
+    "stanford-cs",
+    "ucla-cs",
+    "berkeley-cs",
+    "cornell-cs",
+    "gatech-cs"
+   ],
+   "sources": [
+    [
+     "QIF 2026 Official Rules (PDF)",
+     "https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/QIF-2026-official-rules-US-CANADA.pdf"
+    ]
+   ],
+   "asOf": "2026-10-20"
+  }
+ ],
+ "researchDetailsLinkage": {
+  "any": [
+   "SCH-015",
+   "SCH-019",
+   "SCH-038"
+  ],
+  "mit-cs": [
+   "SCH-016",
+   "SCH-018",
+   "SCH-020",
+   "SCH-042",
+   "SCH-043",
+   "SCH-044",
+   "SCH-045"
+  ],
+  "multi": [
+   "SCH-016",
+   "SCH-017",
+   "SCH-018",
+   "SCH-020",
+   "SCH-021",
+   "SCH-034",
+   "SCH-035",
+   "SCH-036",
+   "SCH-037",
+   "SCH-039",
+   "SCH-040",
+   "SCH-041",
+   "SCH-042",
+   "SCH-043",
+   "SCH-044"
+  ],
+  "penn-mba": [
+   "SCH-022"
+  ],
+  "chicago-mba": [
+   "SCH-023"
+  ],
+  "columbia-mba": [
+   "SCH-024"
+  ],
+  "mit-mba": [
+   "SCH-025"
+  ],
+  "dartmouth-mba": [
+   "SCH-026"
+  ],
+  "berkeley-mba": [
+   "SCH-027"
+  ],
+  "nyu-mba": [
+   "SCH-028"
+  ],
+  "virginia-mba": [
+   "SCH-029"
+  ],
+  "emory-mba": [
+   "SCH-030"
+  ],
+  "asu-mba": [
+   "SCH-031"
+  ],
+  "northwestern-mba": [
+   "SCH-032"
+  ],
+  "cornell-mba": [
+   "SCH-033"
+  ],
+  "stanford-cs": [
+   "SCH-045"
+  ],
+  "ucla-cs": [
+   "SCH-045"
+  ],
+  "berkeley-cs": [
+   "SCH-045"
+  ],
+  "cornell-cs": [
+   "SCH-045"
+  ],
+  "gatech-cs": [
+   "SCH-045"
+  ]
+ },
+ "existingReferenced": [
+  "SCH-001",
+  "SCH-004",
+  "SCH-010",
+  "SCH-011",
+  "SCH-012",
+  "SCH-014"
+ ],
+ "crimsonFinding": "see summary"
+}

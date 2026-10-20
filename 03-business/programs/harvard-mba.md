@@ -42,7 +42,7 @@ Program-specific internship structure, placement rates and international-student
 
 HBS need-based scholarships are open to admitted domestic and international students. Aid applications follow admission; personal eligibility and amount are assessed individually.
 
-Shared scholarship IDs: SCH-004. See the [scholarship library](../../04-scholarships/README.md).
+Shared scholarship IDs: SCH-004, SCH-015, SCH-017, SCH-019, SCH-020, SCH-034, SCH-035, SCH-036, SCH-037, SCH-038. See the [scholarship library](../../04-scholarships/README.md).
 
 ## Sources
 

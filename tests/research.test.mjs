@@ -92,3 +92,13 @@ test('shared scholarship records retain eligibility and expiry limits', () => {
   assert.ok(programs.find(p=>p.id==='stanford-cs').scholarships.includes('SCH-002'));
   assert.ok(!programs.find(p=>p.id==='harvard-cs').scholarships.includes('SCH-004'));
 });
+test('HK/TW scholarship batch upserts SCH-015..045 without altering batch-1 awards', () => {
+  assert.equal(scholarships.length, 45);
+  assert.ok(scholarships.some(s => s.id === 'SCH-015'));
+  assert.ok(scholarships.some(s => s.id === 'SCH-045'));
+  assert.equal(scholarships.find(s => s.id === 'SCH-035').hkEligible, 'unclear');
+  assert.equal(scholarships.find(s => s.id === 'SCH-035').twEligible, 'unclear');
+  assert.equal(scholarships.find(s => s.id === 'SCH-015').hkEligible, 'yes');
+  assert.ok(programs.find(p => p.id === 'penn-mba').scholarships.includes('SCH-022'));
+  assert.ok(programs.find(p => p.id === 'stanford-mba').scholarships.includes('SCH-034'));
+});

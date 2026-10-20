@@ -42,7 +42,7 @@ The Two-Year MBA curriculum explicitly requires an internship in the summer betw
 
 Master’s scholarship eligibility, award coverage and deadlines are not yet verified. Doctoral funding must not be assumed to cover this degree.
 
-Shared scholarship IDs: No verified award links yet. See the [scholarship library](../../04-scholarships/README.md).
+Shared scholarship IDs: SCH-015, SCH-017, SCH-019, SCH-020, SCH-033, SCH-034, SCH-035, SCH-036, SCH-037, SCH-038. See the [scholarship library](../../04-scholarships/README.md).
 
 ## Sources
 
