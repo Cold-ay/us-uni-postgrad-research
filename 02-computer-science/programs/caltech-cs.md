@@ -18,9 +18,9 @@ Application status: No standard terminal master’s
 
 ## Academic direction
 
-Caltech states that it traditionally does not offer a terminal CS master’s degree.
+Caltech CMS: no direct terminal MS admissions. Applicants enter the PhD; MS may be awarded only in exceptional en-route cases.
 
-Orientation: Doctoral program
+Orientation: Restricted · PhD-only admissions
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -46,9 +46,11 @@ Shared scholarship IDs: SCH-015, SCH-016, SCH-017, SCH-018, SCH-019, SCH-020, SC
 
 ## Sources
 
-- [CMS Graduate Programs (no terminal Master's)](https://www.cms.caltech.edu/academics/grad)
+- [CMS graduate programs](https://www.cms.caltech.edu/academics/grad)
 - [Official tuition / budget](https://www.gradoffice.caltech.edu/financialsupport/budget)
 - [CMS catalog special regulations (MS by petition)](https://catalog.caltech.edu/current/information-for-graduate-students/special-regulations-for-graduate-options/computing-and-mathematical-science-cms/)
+- [CMS catalog regulations](https://www.catalog.caltech.edu/current/information-for-graduate-students/special-regulations-for-graduate-options/computing-and-mathematical-science-cms/)
+- [Graduate admissions FAQ](https://gradoffice.caltech.edu/admissions/faq-applicants)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

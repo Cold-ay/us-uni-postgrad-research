@@ -18,9 +18,9 @@ Application status: PMP: no F-1 / J-1 applicants
 
 ## Academic direction
 
-The professional master’s cannot accept applicants who require F-1 or J-1 student visas. Application open: In general, applications open one year in advance of the deadline (PMP how-to-apply) (deadline research 2026-10-20; see deadline field).
+UW Allen School: no general full-time terminal MS for most external applicants. Options are part-time Professional Master's (PMP, local/working professionals) or PhD with possible en-route MS.
 
-Orientation: Professional master’s · Visa restriction
+Orientation: Restricted · PMP part-time or PhD
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -50,6 +50,9 @@ Shared scholarship IDs: SCH-015, SCH-016, SCH-017, SCH-018, SCH-019, SCH-020, SC
 - [Official tuition / budget (PMP costs)](https://www.cs.washington.edu/academics/graduate/pmp/program-overview/pmp-costs-fees/)
 - [PMP eligibility (no F-1/J-1)](https://www.cs.washington.edu/academics/graduate/pmp/admissions/requirements/)
 - [UW fee-based program rates PDF](https://finance.uw.edu/tuition-fees/files/docs/fee-programs/2026-27-fee-based-program-rates-5.7.2026.pdf)
+- [PMP admissions](https://www.cs.washington.edu/academics/graduate/pmp/admissions/)
+- [PMP overview](https://www.cs.washington.edu/academics/graduate/pmp/)
+- [PhD FAQ](https://www.cs.washington.edu/academics/graduate/phd-program/phd-admissions/faq/)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

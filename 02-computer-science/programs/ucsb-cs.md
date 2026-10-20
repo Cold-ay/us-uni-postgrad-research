@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-Thesis, comprehensive examination or project plans support advanced study and industry preparation.
+UCSB CS MS: 42 units with major+breadth across Theory/Systems/Applications; finish via thesis, project, or comprehensive exam.
 
-Orientation: See degree route and academic overview
+Orientation: 42 units · Thesis/project/exam · ~2 years
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -49,10 +49,11 @@ Shared scholarship IDs: SCH-015, SCH-016, SCH-017, SCH-018, SCH-019, SCH-020, SC
 - [CS Master's degree overview](https://cs.ucsb.edu/education/graduate/masters-degree)
 - [Official tuition / budget](https://www.graddiv.ucsb.edu/fees-costs/26-27-quarterly)
 - [Fees & costs hub](https://www.graddiv.ucsb.edu/fees-costs)
-- [MS CMPSC catalog](https://catalog.ucsb.edu/programs/MSCMPSC)
+- [Catalog MS CMPSC](https://catalog.ucsb.edu/programs/MSCMPSC)
 - [Grad Division MS Computer Science program (Fall 2027 final Dec 16, 2026)](https://www.graddiv.ucsb.edu/graduate-programs/departments/computer-science)
 - [Grad Division portal MS CMPSC-MS-0](https://engage.graddiv.ucsb.edu/portal/programs?cmd=prog&code=CMPSC-MS-0)
 - [CS How to Apply (points to Grad Division deadline)](https://cs.ucsb.edu/education/graduate/how-to-apply)
+- [Master's degree](https://www.cs.ucsb.edu/education/graduate/masters-degree)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

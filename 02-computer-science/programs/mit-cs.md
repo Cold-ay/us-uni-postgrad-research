@@ -18,9 +18,9 @@ Application status: No external terminal master’s
 
 ## Academic direction
 
-EECS admits to the PhD; it does not offer a terminal master’s for external applicants.
+MIT EECS does not offer a terminal master’s for external applicants. MEng is for MIT EECS undergrads; SM is typically PhD-en-route (or special programs like LGO).
 
-Orientation: Doctoral admissions only
+Orientation: Restricted · No external terminal MS
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -48,9 +48,10 @@ Shared scholarship IDs: SCH-015, SCH-016, SCH-017, SCH-018, SCH-019, SCH-020, SC
 
 - [Program / academic source](https://www.eecs.mit.edu/graduate-admissions-information-letter/)
 - [Official tuition / budget](https://registrar.mit.edu/registration-academics/tuition-fees/graduate)
-- [EECS MEng (MIT undergraduates only)](https://www.eecs.mit.edu/academics/undergraduate-programs/meng-program/)
+- [MEng program](https://www.eecs.mit.edu/academics/undergraduate-programs/meng-program/)
 - [EECS Admission Process](https://www.eecs.mit.edu/academics/graduate-programs/admission-process/)
-- [EECS Graduate Admissions FAQs (single PhD admissions process; MS en route)](https://www.eecs.mit.edu/academics/graduate-programs/admission-process/graduate-admissions-faqs/)
+- [EECS graduate admissions FAQs](https://www.eecs.mit.edu/academics/graduate-programs/admission-process/graduate-admissions-faqs/)
+- [OGE EECS programs](https://oge.mit.edu/programs/electrical-engineering-and-computer-science/)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence

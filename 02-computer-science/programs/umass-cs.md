@@ -18,9 +18,9 @@ Application status: Route identified · 2027 eligibility to verify
 
 ## Academic direction
 
-On-campus master’s with optional concentrations; distinguish the campus, online and hybrid formats.
+UMass Amherst CICS MS: 30 credits over ~2 years with four cores (Theory, Systems, ML + one) and ≥12 credits at 600+. Non-thesis; optional concentrations and Master's Project.
 
-Orientation: See degree route and academic overview
+Orientation: 30 credits · 4 cores · ~2 years · Concentrations
 
 Faculty and supervision: Individual faculty specialties and master’s supervision access have not yet been verified.
 
@@ -52,6 +52,8 @@ Shared scholarship IDs: SCH-015, SCH-016, SCH-017, SCH-018, SCH-019, SCH-020, SC
 - [CICS MS campus tuition page](https://www.cics.umass.edu/academics/ms-computer-science-campus/ms-campus-tuition-and-fees)
 - [UMass Grad School MS Computer Science (application deadlines)](https://www.umass.edu/graduate/academics/master-science-computer-science)
 - [CICS How to Apply — MS on campus](https://www.cics.umass.edu/academics/ms-computer-science-campus/how-apply-ms-program-campus)
+- [MS degree requirements](https://www.cics.umass.edu/academics/academic-policies/graduate-programs-policies/ms-degree-requirements)
+- [MS course requirements](https://www.cics.umass.edu/academics/academic-policies/graduate-programs-policies/ms-degree-requirements/ms-course-requirements)
 - [U.S. News positions via IvyPath Advisory](https://www.ivypath-advisory.com/ranking/major-cs-us/)
 
 ## Outstanding evidence
