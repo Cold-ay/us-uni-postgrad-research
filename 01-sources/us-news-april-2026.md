@@ -10,10 +10,12 @@ The CS list does not certify that every department offers an external standalone
 
 ## Ranking sources
 
-- [U.S. News: Best Business Schools · full-time MBA](https://www.usnews.com/best-graduate-schools/top-business-schools/mba-rankings) — inaccessible directly
+- [U.S. News: Best Business Schools · full-time MBA](https://www.usnews.com/best-graduate-schools/top-business-schools/mba-rankings)
 - [Clear Admit reproduction](https://www.clearadmit.com/mba-rankings/usnews/)
-- [U.S. News: Best Computer Science Schools · graduate departments](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings) — inaccessible directly
+- [U.S. News: Best Computer Science Schools · graduate departments](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings)
 - [IvyPath Advisory reproduction](https://www.ivypath-advisory.com/ranking/major-cs-us/)
+- [U.S. News: Finance master’s programs · MSF slate](https://www.usnews.com/best-graduate-schools/top-business-schools/finance-rankings)
+- Finance: reproduction pending brief (No MSF catalog rows yet. Rank positions and reproduction links will be added only when the authorized brief delivers the top-~30 list. Not an MBA or general business ranking.)
 - [U.S. News April 2026 release announcement](https://www.prnewswire.com/news-releases/us-news-unveils-2026-best-graduate-schools-302735056.html)
 
 ## Selected university cross-checks
@@ -98,3 +100,8 @@ These checks corroborate selected rows, not the entire reproduced lists. Tuition
 | #27 (tie) | UC Irvine | [MS in CS / Master of Computer Science](../02-computer-science/programs/uci-cs.md) |
 | #27 (tie) | UC Santa Barbara | [MS in Computer Science](../02-computer-science/programs/ucsb-cs.md) |
 | #27 (tie) | UNC Chapel Hill | [MS in Computer Science](../02-computer-science/programs/unc-cs.md) |
+
+## Master's in finance (MSF)
+
+No catalog rows yet. See [06-finance/README.md](../06-finance/README.md).
+

@@ -34,7 +34,8 @@ Two preliminary program profiles and three scholarship records, checked 16 Octob
 
 Current coverage supersedes the initial seed counts above: 63 ranked-school entries (30 MBA, 33 CS including ties), eight prior-year tuition references and four shared funding records.
 
-- `dist/catalog.js`: school, degree route, category, numeric rank and primary academic URL.
+- `dist/catalog.js` / `dist/catalog-finance.js`: school, degree route, category, numeric rank and primary academic URL (MSF slate starts empty in `catalog-finance.js`).
+- `dist/areas.js`: Finance / MSF filter metadata shared by the UI and CSV export.
 - `dist/research-details.js`: sourced program findings and exceptions; absent fields use explicit unknown states.
 - `dist/rankings.js`: category-specific provenance, edition, format and pagination helpers.
 - `scripts/generate-research.mjs`: regenerates one Markdown dossier per entry, ranking record and CSV before the notebook build. Edit data files rather than generated dossiers.

@@ -58,7 +58,7 @@ test('program sources, funding and original notebook files resolve', async () =>
     assert.ok(notes.some(n=>n.path===p.note));
     for(const id of p.scholarships) assert.ok(scholarships.some(s=>s.id===id));
     for(const [,url] of p.sources) assert.equal(new URL(url).protocol,'https:');
-    assert.ok(p.sources.some(([,url])=>url===p.ranking.reproduction));
+    assert.ok(p.sources.some(([,url])=>url===p.ranking.reproduction || (p.ranking.reproduction == null && url === p.ranking.original)));
   }
   for(const s of scholarships) assert.ok(notes.some(n=>n.path===s.note));
   assert.equal(notes.filter(n=>n.path.includes('/programs/')).length,63);

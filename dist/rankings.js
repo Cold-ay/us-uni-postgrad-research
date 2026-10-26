@@ -13,6 +13,13 @@ export const rankingSources = {
     reproduction: 'https://www.ivypath-advisory.com/ranking/major-cs-us/',
     reproductionName: 'IvyPath Advisory',
     note: '33 departments occupy ranks 1–27. All seven schools tied at 27 are included. This is a graduate department ranking, not a ranking of the specific master’s routes listed here.'
+  },
+  Finance: {
+    category: 'Finance master’s programs · MSF slate',
+    original: 'https://www.usnews.com/best-graduate-schools/top-business-schools/finance-rankings',
+    reproduction: null,
+    reproductionName: null,
+    note: 'No MSF catalog rows yet. Rank positions and reproduction links will be added only when the authorized brief delivers the top-~30 list. Not an MBA or general business ranking.'
   }
 };
 export const rankingCaveat = 'U.S. News’s direct tables were inaccessible during research. Positions are transcribed from the linked reproductions, with selected university announcements used as cross-checks; not every position is independently verified. “April 2026 release” avoids inconsistent 2026/2027 edition labels across sources. Rankings are discovery aids, not admission or internship probabilities.';
