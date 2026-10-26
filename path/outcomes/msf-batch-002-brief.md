@@ -35,19 +35,19 @@
 | 16 | utd-msf | MSF | **low** | Employer examples only (GS/JPM/BofA/Amazon…); **placement % / salary unknown** |
 | 17 | bc-msf | MSF | medium | Avg base **~$82k**; **90%** of FT accepts in US; classic seeker @6mo **% unknown**; intl caution on page |
 | + | chicago-booth-mif | MiF | medium | Internship **100%** seeker accept (83 cos); FS **74.5%**; **FT % unknown** (inaugural Dec 2025 grads) |
-| + | columbia-msfe | MSFE | **high** | IEOR MSFE: **97.6%** placement (Fall 2023 start); US avg **$138k** + bonus **$29.5k**; elite HF/IB |
+| + | columbia-msfe | MSFE | **medium** | CBS MSFE Class of 2024 (n=24): FT offer 12; internship 1; PhD 5; return employer 1; other 1; no info 4. FS 47% / PhD 29% / Higher Ed, Fintech, Mgmt consulting, Econ consulting 6% each. Summer 2025: 25 internships. **Salary unknown** |
 
 ---
 
 ## Top findings (intl / Fall 2027)
 
-1. **Elite IB signal persists mid-TFE:** Vanderbilt (46% IB) and Florida combo lists (Evercore/Centerview/Blackstone/GS…) punch above many higher-ranked aggregate SMP schools; Columbia MSFE remains the quant/markets wage ceiling in this batch ($138k mean).
+1. **Elite IB signal persists mid-TFE:** Vanderbilt (46% IB) and Florida combo lists (Evercore/Centerview/Blackstone/GS…) punch above many higher-ranked aggregate SMP schools. Columbia MSFE (CBS) salary is **unknown** — Class of 2024 is a small cohort with a large PhD share.
 2. **Start-term / format traps:** `notredame-msf` = **June start**; `chicago-booth-mif` = ~15-mo with Dec finish + summer internship; `florida-msf` = **UF undergrad combination only** (not a classic open MSF); `asu-msf` August start with 9–16 mo tracks; UCI MFin ~12-mo including summer session.
 3. **Intl intensity varies sharply:** UCI MFin ~**71%** non-permanent work auth; Vanderbilt **20%** intl; Villanova ~**13%**; Florida combo **domestically skewed by design**; BC page explicitly warns intl students on US permanent employment difficulty.
 4. **Salary floor vs brand:** ASU MS-FIN avg base **$67.5k** and UCI mean **~$65k** are far below Vanderbilt/Florida/Columbia — path messaging must separate placement % from compensation geography.
 5. **Booth MiF FT gap:** Inaugural internship report is excellent; **no public FT % yet** — flag for refresh when Booth publishes FT employment report.
 6. **UTD gap:** Only employer marketing lists — lowest confidence card; needs a first-destination PDF or dashboard breakout.
-7. **columbia-msfe vs quant bucket:** On **primary+adds** slate per gm lock; do **not** merge into quant-bucket UI spine; distinct from staging id `columbia-ieor-mfe`.
+7. **columbia-msfe vs quant bucket:** On **primary+adds** slate per gm lock; do **not** merge into quant-bucket UI spine; distinct from staging id `columbia-ieor-mfe` (IEOR MS Financial Engineering). CBS MSFE outcomes only; salary unknown.
 
 ---
 
@@ -61,7 +61,7 @@
 | uci-msf | high | Official Merage 2025 CSEA employment PDF |
 | villanova-msf | high | Official VSB Issuu Class of 2025 outcomes |
 | notredame-msf | high | Official Mendoza 2025 MSF Employment Report PDF |
-| columbia-msfe | high | Official IEOR 2023–24 MSFE placement page |
+| columbia-msfe | medium | Official CBS MSFE Employment Report 2024; salary not published |
 | rochester-msf | medium | MSF salary yes; MSF-only placement % missing |
 | bc-msf | medium | Official salary/US-accept share; no classic seeker % |
 | chicago-booth-mif | medium | Official internship 100%; FT % unpublished |
@@ -101,3 +101,11 @@ Quant-bucket research (berkeley-mfe, cmu-mscf, baruch-mfe, columbia-ieor-mfe, et
 
 - **`florida-msf`**: KEEP classic + **restricted** annotation (UF undergrad combo only; external/intl N/A).
 - **ADD** separate UF MS Finance & Technology (Fall 2027) — `program_id` TBD by **brief**; path will research outcomes when id lands.
+
+---
+
+## Correction 2026-10-26 (columbia-msfe)
+
+- Live card replaced from the CBS MS Financial Economics Employment Report 2024. This is not the IEOR MS Financial Engineering placement page.
+- Class of 2024 (n=24): FT offer 12; internship 1; PhD 5; return employer 1; other 1; no info 4. Confidence **medium**. Salary **unknown**.
+- `related_program_id`: `columbia-ieor-mfe` (Quant track only).
