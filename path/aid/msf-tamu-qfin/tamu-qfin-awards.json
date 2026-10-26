@@ -1,0 +1,71 @@
+{
+  "asOf": "2026-10-26",
+  "timezone": "Asia/Hong_Kong",
+  "intake": "Fall 2027",
+  "idScheme": "No SCH ids issued. Batch3 ended SCH-115; Batch4 in flight may use SCH-116+. No batch4-awards.json on disk \u2014 this singleton reserved SCH-130+ headroom if future tamu-qfin awards appear. Parent may renumber.",
+  "batch": "msf-tamu-qfin-singleton",
+  "programIds": [
+    "tamu-qfin"
+  ],
+  "awards": [],
+  "overlapsWithExisting": [
+    {
+      "existingId": "SCH-015",
+      "name": "HKSES",
+      "note": "External HK \u2014 may fund US MSF/QFIN; do not recreate."
+    },
+    {
+      "existingId": "SCH-017",
+      "name": "Fulbright Taiwan Graduate Study Award",
+      "note": "External TW \u2014 may apply; do not recreate."
+    },
+    {
+      "existingId": "SCH-018",
+      "name": "Taiwan MOE GSSA",
+      "note": "External TW outbound \u2014 may apply; do not recreate."
+    },
+    {
+      "existingId": "SCH-038",
+      "name": "Paul & Daisy Soros Fellowships for New Americans",
+      "note": "Already live; flag only."
+    },
+    {
+      "existingId": "SCH-068",
+      "name": "CSC rare master's path",
+      "note": "PRC Batch1 thin master's path; flag for PRC QFIN applicants."
+    }
+  ],
+  "externalNewSkipped": [
+    {
+      "name": "Math Department Graduate Teaching Assistantships / Fellowships",
+      "reason": "Math Financial Support page: 'Currently, we are unable to offer support to MS students.' GTA/fellowships described for Ph.D. \u2192 not an open MS-QFIN award."
+    },
+    {
+      "name": "Department of Finance CFA Institute Exam scholarships (Levels I\u2013III)",
+      "reason": "For current enrolled Mays College Station students (MSF, MFM, MSQF, etc. included). Applicant-facing open award for Fall 2027 admits not verified; pathway/enrolled-only \u2192 ingest:false / skip."
+    },
+    {
+      "name": "Mays MBA / Graduate Merit or Diversity Fellowships",
+      "reason": "Published MBA-centric or U.S.-citizen-limited fellowships; not verified as open MS-QFIN program-tied awards for intl traditional admits."
+    },
+    {
+      "name": "Classic 4+1 MSF / STEM to Stocks Club perks",
+      "reason": "TAMU-undergrad pathway and club \u2014 not traditional external tamu-qfin funding."
+    }
+  ],
+  "gaps": [
+    "tamu-qfin: NO verified open program-tied scholarship/fellowship with published amounts/process for traditional Fall 2027 intl admits \u2014 awards array intentionally empty.",
+    "Math dept explicitly unable to support MS students (GA/tuition).",
+    "Flat full-degree tuition sticker not published; only program fee + per-SCH schedule.",
+    "Fall 2027 / AY 2027\u201328 rates not locked.",
+    "Calendar duration and living band not program-published.",
+    "STEM CIP / DHS STEM designation not stated on official QFIN pages.",
+    "Keep tamu-msf restricted and separate \u2014 no award card for tamu-msf either."
+  ],
+  "counts": {
+    "awardsTotal": 0,
+    "ingestTrue": 0,
+    "ingestFalse": 0,
+    "schIdsUsed": []
+  }
+}

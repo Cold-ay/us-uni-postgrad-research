@@ -18,11 +18,13 @@ test('outcome card keys map only to known catalog program ids', () => {
   for (const id of Object.keys(outcomeCards)) {
     assert.ok(catalogIds.has(id), `unknown catalog id: ${id}`);
   }
-  assert.equal(Object.keys(outcomeCards).length, 96);
+  assert.equal(Object.keys(outcomeCards).length, 97);
 });
 
 test('batch meta includes batch-002 through batch-005 schema v2', () => {
-  assert.equal(outcomeBatchMeta.length, 11);
+  assert.equal(outcomeBatchMeta.length, 12);
+  assert.equal(outcomeBatchMeta[11].batch_id, 'msf-tamu-qfin');
+  assert.equal(outcomeBatchMeta[11].card_count, 1);
   assert.equal(outcomeBatchMeta[10].batch_id, 'msf-batch4');
   assert.equal(outcomeBatchMeta[10].card_count, 8);
   assert.equal(outcomeBatchMeta[10].id_alias_map['illinois-tech-msf'], 'iit-msf');
@@ -174,7 +176,7 @@ test('batch-005 final gap-fill links all remaining catalog ids with display cave
 
 test('programs merge outcome by catalog id with route caveats where mapped', () => {
   const withOutcome = programs.filter(p => p.outcome);
-  assert.equal(withOutcome.length, 96);
+  assert.equal(withOutcome.length, 97);
   assert.equal(outcomeCards['ohio-msf'].pathProgramId, 'ohiostate-msf');
   assert.equal(outcomeCards['ucsd-msf'].pathProgramId, 'ucsd-rady-msf');
   assert.match(outcomeCards['ucsd-msf'].program, /Quantitative Finance|MQF/i);
@@ -194,6 +196,19 @@ test('programs merge outcome by catalog id with route caveats where mapped', () 
     assert.deepEqual(got.notable_employers, card.notable_employers, id);
     assert.equal(got.pathProgramId, card.program_id, id);
   }
+  const qfinCard = JSON.parse(readFileSync(new URL('../path/outcomes/msf-tamu-qfin.json', import.meta.url), 'utf8')).cards[0];
+  const qfinOutcome = outcomeCards['tamu-qfin'];
+  assert.equal(qfinOutcome.confidence, qfinCard.confidence);
+  assert.equal(qfinOutcome.confidence, 'low');
+  assert.equal(qfinOutcome.internship_rate, qfinCard.internship_rate);
+  assert.equal(qfinOutcome.full_time_placement, qfinCard.full_time_placement);
+  assert.equal(qfinOutcome.full_time_placement, 'unknown');
+  assert.deepEqual(qfinOutcome.notable_employers, qfinCard.notable_employers);
+  assert.deepEqual(qfinOutcome.notable_employers, []);
+  assert.equal(qfinOutcome.pathProgramId, qfinCard.program_id);
+  assert.doesNotMatch(qfinOutcome.full_time_placement, /100%|\$80|121,625/);
+  assert.match(outcomeCards['tamu-msf'].full_time_placement, /100%/);
+  assert.notEqual(qfinOutcome.full_time_placement, outcomeCards['tamu-msf'].full_time_placement);
   const fintech = programs.find(p => p.id === 'florida-msft');
   assert.equal(fintech.outcome.confidence, 'low');
   assert.equal(fintech.outcome.internship_rate, 'unknown');

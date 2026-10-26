@@ -1,0 +1,104 @@
+{
+  "_meta": {
+    "asOf": "2026-10-26",
+    "timezone": "Asia/Hong_Kong",
+    "intake": "Fall 2027",
+    "scope": "Singleton handoff: tamu-qfin (Texas A&M Mays / Math MS Quantitative Finance, MS-QFIN). DISTINCT from tamu-msf (classic MS Finance = TAMU undergrad 4+1 only; batch3 tuition null + accessRestricted).",
+    "rule": "Never invent; missing \u2260 0. Figures from primary TAMU catalog / SBS / Math Grad pages as of asOf.",
+    "programIds": [
+      "tamu-qfin"
+    ],
+    "idsSource": "/workspace/brief-handoffs/msf-tamu-qfin.json + Collinn lock 2026-10-26",
+    "schIdNote": "No batch4-awards.json under /workspace/aid-msf/ as of write. Batch3 ended SCH-115. This singleton uses no SCH ids (zero verified awards). Future tamu-qfin awards \u2192 SCH-130+ (headroom after Batch3; Batch4 in flight may claim SCH-116\u2013129).",
+    "crossCheck": {
+      "briefDossier": "/workspace/brief-handoffs/msf-tamu-qfin.json",
+      "briefTuition": null,
+      "briefTuitionAltProgramFeePerFallSpring": 15000,
+      "primaryPageMatch": true,
+      "note": "Brief and aid agree: flat program tuition null; SBS Quantitative Finance Prog Fee $15,000/Sem Fall/Spring only. Aid adds published 2026\u201327 nonresident per-SCH rate as tuitionEstimate components only."
+    }
+  },
+  "tamu-qfin": {
+    "tuition": null,
+    "tuitionLabel": null,
+    "tuitionEstimate": 30110,
+    "tuitionEstimateLabel": "Nonresident graduate base tuition only \u2014 36 SCH \u00d7 $836.40 (SBS Graduate & Certificate Non-Resident Fall 2026 / Spring 2027 schedule). NOT a published flat MS-QFIN sticker; excludes program fee, college fees, insurance, living. Fall 2027 / AY 2027\u201328 rates not published as of asOf.",
+    "fees": null,
+    "feesNote": "SBS Billing & Fee Explanations: Quantitative Finance Prog Fee $15,000 per semester (Fall/Spring only) for MS Quantitative Finance students. Same dollar amount listed on 2026\u201327 Non-Resident and Resident GR DoD PDFs under 'MS in Quantitative Finance' $15,000. MAYS Masters Program Fee ($244.45/SCH or flat $2,200 at 9+ SCH) and Business college fees also appear on SBS schedules \u2014 whether stacked with QFIN fee for every enrollee is not itemized as a full-degree total on program pages. Term count for traditional external path not published \u2192 cannot sum program fees into verified full-degree fees integer (missing \u2260 invent).",
+    "period": "Rate components from Fall 2026 / Spring 2027 SBS schedules (proxy). Fall 2027 billing rates not locked.",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://catalog.tamu.edu/graduate/colleges-schools-interdisciplinary/business/finance/quantitative-finance-ms/",
+    "notes": "OPEN external/intl per official catalog: admission available to current Texas A&M sophomore/junior/senior students OR non-Texas A&M graduates meeting prerequisites (ACCT/ECON/MATH with B or higher). External/intl pathway via Department of Mathematics GraduateCAS (artsci Math master's appinfo). DISTINCT from tamu-msf (classic MS Finance = TAMU undergrad 4+1 only; accessRestricted). 36 credit hours, non-thesis, joint Finance + Mathematics ('STEM to Stocks'). No flat program tuition on Mays/catalog \u2014 use SBS rates + calculator. Program fee $15,000/Fall&Spring sem (SBS). STEM/CIP designation not stated on official QFIN catalog/Math pages \u2192 stem null. Living band not program-published \u2192 livingCostBand null. Calendar length (1 vs 2 years) not stated on catalog.",
+    "startTerm": "Fall 2027 (Math Grad Master's table also lists Spring; QFIN-specific start month not labeled on catalog)",
+    "stem": null,
+    "credits": 36,
+    "duration": "36 semester credit hours, non-thesis (catalog). Calendar length not stated on official catalog page.",
+    "livingCostBand": null,
+    "accessRestricted": false,
+    "accessNote": "Catalog + Math GradCAS: open to non-Texas A&M graduates (and current TAMU UG). Math Master's departmental deadlines (take precedence over GradCAS site): Fall intl May 15 / domestic July 1; Spring intl Sept 15 / domestic Dec 1. Do NOT reuse classic tamu-msf 4+1 Lightning/Round dates (TAMU undergrads only). Mays 4+1 MSF marketing is separate.",
+    "altTuition": {
+      "programFeePerFallSpringSemester": 15000,
+      "programFeeSource": "https://sbs.tamu.edu/billing-payments/billing-fee-explanations/",
+      "nonResidentPerSch_2026_27": 836.4,
+      "residentPerSch_2026_27": 286.89,
+      "nonResidentBaseTuition_36sch": 30110,
+      "residentBaseTuition_36sch": 10328,
+      "creditBasis": 36,
+      "note": "Program fee is per Fall/Spring semester, not a one-time total. Base tuition arithmetic uses published 2026\u201327 SBS per-SCH rates \u00d7 36; does not include college fees or insurance."
+    },
+    "deadlines": {
+      "fallInternational": "May 15 (Math Master's departmental \u2014 year of intended Fall entry; for Fall 2027 \u2192 2027-05-15)",
+      "fallDomestic": "July 1 (Math Master's departmental)",
+      "springInternational": "Sept 15 (Math Master's departmental)",
+      "springDomestic": "Dec 1 (Math Master's departmental)",
+      "note": "From Artsci Math Application Information for Master's Program (GraduateCAS). Late apps may be accepted only after contacting gstudies@math.tamu.edu. QFIN-specific Mays deadline board not posted as of asOf \u2014 do not conflate with 4+1 MSF rounds."
+    },
+    "separateFrom": {
+      "id": "tamu-msf",
+      "note": "Classic Mays MS Finance \u2014 TAMU undergraduate 4+1 only; tuition null + accessRestricted in batch3. Do NOT merge costs or awards."
+    },
+    "sources": [
+      [
+        "MS Quantitative Finance catalog (eligibility + 36 hours)",
+        "https://catalog.tamu.edu/graduate/colleges-schools-interdisciplinary/business/finance/quantitative-finance-ms/"
+      ],
+      [
+        "College of Arts & Sciences \u2014 Quantitative Finance M.S.",
+        "https://artsci.tamu.edu/mathematics/academics/graduate/quantitative-finance-ms.html"
+      ],
+      [
+        "Math Master's Application Information (GraduateCAS + deadlines)",
+        "https://artsci.tamu.edu/mathematics/academics/graduate/masters/appinfo-ms.html"
+      ],
+      [
+        "Math Graduate Financial Support (no MS support)",
+        "https://artsci.tamu.edu/mathematics/academics/graduate/support.html"
+      ],
+      [
+        "SBS Billing & Fee Explanations (QFIN Prog Fee $15,000/Sem F/S)",
+        "https://sbs.tamu.edu/billing-payments/billing-fee-explanations/"
+      ],
+      [
+        "SBS 2026\u201327 Non-Resident GR DoD (tuition $836.40/SCH; MS QFIN $15,000)",
+        "https://sbs.tamu.edu/documents/2026-2027-NonResident-GR-DoD.pdf"
+      ],
+      [
+        "SBS 2026\u201327 Resident GR DoD (tuition $286.89/SCH; MS QFIN $15,000)",
+        "https://sbs.tamu.edu/documents/2026-2027-Resident-GR-DoD.pdf"
+      ],
+      [
+        "TAMU tuition calculator",
+        "https://tuition.tamu.edu"
+      ],
+      [
+        "Classic 4+1 MS Finance \u2014 DISTINCT / do not conflate",
+        "https://mays.tamu.edu/graduate/masters/4plus1/ms-finance/"
+      ],
+      [
+        "Adam C. Sinn '00 Department of Finance (CFA exam scholarships for enrolled)",
+        "https://mays.tamu.edu/departments/finance/"
+      ]
+    ]
+  }
+}

@@ -18,8 +18,8 @@ test('both Chinese versions cover every program narrative and preserve numbers',
 test('English and both Chinese school names find the same restricted degree',()=>{
  assert.deepEqual(filterPrograms('Princeton','Computer science').map(p=>p.id),['princeton-cs']);
  assert.deepEqual(localizedSearch(programs,'Princeton').filter(p=>p.area==='Computer science').map(p=>p.id),['princeton-cs']);
- assert.equal(translate('1 of 96 entries','zh-Hant'),'1 / 96 項資料');
- assert.equal(translate('1 of 96 entries','zh-Hans'),'1 / 96 项资料');
+ assert.equal(translate('1 of 97 entries','zh-Hant'),'1 / 97 項資料');
+ assert.equal(translate('1 of 97 entries','zh-Hans'),'1 / 97 项资料');
  assert.equal(translate('https://example.edu/2027','zh-Hant'),'https://example.edu/2027');
  assert.equal(translate('Tuition not yet verified','en'),'Tuition not yet verified');
 });

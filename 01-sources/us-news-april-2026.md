@@ -138,5 +138,6 @@ These checks corroborate selected rows, not the entire reproduced lists. Tuition
 | Unranked | Chicago Booth | [Asness and Liew Master in Finance (MiF)](../05-finance/programs/chicago-booth-mif.md) |
 | Unranked | Columbia Business School | [MS in Financial Economics (MSFE)](../05-finance/programs/columbia-msfe.md) |
 | Unranked | Florida Warrington | [MS in Finance and Technology](../05-finance/programs/florida-msft.md) |
+| Unranked | Texas A&M Mays | [MS Quantitative Finance (MS-QFIN / STEM to Stocks)](../05-finance/programs/tamu-qfin.md) |
 
 _Quant/MFE programs are not listed here; see [05-finance/README.md](../05-finance/README.md)._
