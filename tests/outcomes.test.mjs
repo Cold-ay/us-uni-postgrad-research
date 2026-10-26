@@ -230,3 +230,29 @@ test('programs merge outcome by catalog id with route caveats where mapped', () 
   assert.ok(cmu.outcomeSpecialty.some(c => c.pathProgramId === 'cmu-msaii'));
   assert.equal(programs.filter(p => !p.outcome).length, 0);
 });
+
+test('columbia-msfe outcomes are CBS MS Financial Economics, not IEOR placement', () => {
+  const card = outcomeCards['columbia-msfe'];
+  const blob = JSON.stringify(card);
+  assert.equal(card.confidence, 'medium');
+  assert.equal(card.related_program_id, 'columbia-ieor-mfe');
+  assert.match(card.program, /Financial Economics/);
+  assert.match(card.full_time_placement, /n=24/);
+  assert.match(card.full_time_placement, /full-time offer 12/i);
+  assert.match(card.full_time_placement, /PhD 5/);
+  assert.match(card.internship_rate, /25 accepted internship/);
+  assert.match(card.full_time_placement, /salary/i);
+  assert.match(card.full_time_placement_notes, /salary unknown/i);
+  assert.equal(card.notable_employers.includes('PIMCO'), true);
+  assert.equal(card.notable_employers.includes('Citadel'), false);
+  assert.equal(card.notable_employers.includes('AQR Capital Management'), false);
+  assert.doesNotMatch(blob, /97\.6/);
+  assert.doesNotMatch(blob, /\$138/);
+  assert.doesNotMatch(blob, /138k/i);
+  assert.doesNotMatch(blob, /138,000/);
+  const source = JSON.parse(readFileSync(new URL('../path/outcomes/path-batch4-from-batch002-003.json', import.meta.url), 'utf8'));
+  const raw = JSON.stringify(source.cards.find(c => c.catalog_id === 'columbia-msfe'));
+  assert.doesNotMatch(raw, /97\.6/);
+  assert.doesNotMatch(raw, /\$138/);
+  assert.doesNotMatch(raw, /138k/i);
+});
