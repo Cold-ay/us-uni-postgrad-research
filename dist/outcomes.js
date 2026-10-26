@@ -1,4 +1,4 @@
-// Generated from path/outcomes/batch-001.json through batch-005.json, msf-batch-001.json, msf-batch-002.json, msf-florida-msft.json, msf-batch-003.json (batch3 catalog ids only; ohiostate-msf→ohio-msf, ucsd-rady-msf→ucsd-msf), path-bc-msf-from-batch002.json, and id-map.json. Do not edit by hand.
+// Generated from path/outcomes/batch-001.json through batch-005.json, msf-batch-001.json, msf-batch-002.json, msf-florida-msft.json, msf-batch-003.json (batch3 catalog ids only; ohiostate-msf→ohio-msf, ucsd-rady-msf→ucsd-msf), path-bc-msf-from-batch002.json, path-batch4-from-batch002-003.json (illinois-tech-msf→iit-msf), and id-map.json. Do not edit by hand.
 export const outcomeBatchMeta = [
   {
     "batch_id": "batch-001",
@@ -369,6 +369,17 @@ export const outcomeBatchMeta = [
   {
     "source": "msf-batch-002 extract",
     "note": "bc-msf deferred from batch2 PR; ingest with batch3"
+  },
+  {
+    "batch_id": "msf-batch4",
+    "card_count": 8,
+    "schema_version": "outcome-card-v2-catalog",
+    "purpose": "path outcomes extract for MSF batch4",
+    "as_of": "2026-10-26",
+    "id_alias_map": {
+      "illinois-tech-msf": "iit-msf"
+    },
+    "note": "Extracted leftover cards from path msf-batch-002/003; map illinois-tech-msf→iit-msf (brief canonical)."
   }
 ];
 export const outcomeMeta = {
@@ -4566,6 +4577,455 @@ export const outcomeCards = {
     "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
     "last_updated": "2026-10-26",
     "pathProgramId": "ucsd-rady-msf",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "chicago-booth-mif": {
+    "school": "University of Chicago",
+    "program": "Booth Asness and Liew Master in Finance",
+    "degree": "MiF",
+    "degree_family": "MiF",
+    "schedule_note": "Inaugural ~15-month MiF; BoothCamp/autumn start with summer internship then return; inaugural class graduated December 2025 (not a single autumn-only finish).",
+    "internship_rate": "100% accepted internships among students seeking employment (official Class of 2025 Internship Report on Booth MiF employment-report page). 83 unique internship companies. Financial Services 74.5% of internships (IM/Research 26.5%, Diversified FS 17.6%, IB/Brokerage 13.7%, PE 5.9%, VC 5.9%, HF 1%). >75% interned outside Chicago (Northeast 27.5%, Midwest 26.5%, International 38.2%).",
+    "full_time_placement": "unknown (no public Class of 2025 full-time offer/accept % CSEA PDF located this run). Booth story (May 2026): within months of December graduation a significant number landed FT finance roles; individual examples include Bank of America trading strategies / mortgage securities and Canaccord Genuity/CRC-IB.",
+    "full_time_placement_notes": "Treat internship report as primary audited signal for inaugural cohort; FT report still limited/pending relative to MBA employment report standards.",
+    "notable_employers": [
+      "Bank of America (FT examples + internship)",
+      "Morgan Stanley (internship)",
+      "Evercore (internship)",
+      "McKinsey (internship)",
+      "Moody's (internship)",
+      "Morningstar (internship)",
+      "Amazon (internship)",
+      "Google (internship)",
+      "NERA (internship)",
+      "Lincoln Financial (internship)",
+      "Tencent (internship)",
+      "Canaccord Genuity / CRC-IB (FT example)"
+    ],
+    "notable_employers_notes": "Internship employer highlights from official MiF employment-report page; FT names from official Booth MiF careers story (not a full FT census).",
+    "top_finance_firm_signal": "Very high brand/internship signal for inaugural MiF (Evercore, MS, BofA, McKinsey, HF/PE/VC mix). FT multi-hire density still unknown without FT report.",
+    "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
+    "sample_alumni_paths": [
+      "Sales & trading / trading strategies",
+      "Investment banking (bulge and boutique)",
+      "Investment management / research",
+      "Private equity / venture capital",
+      "Hedge fund / markets roles"
+    ],
+    "referral_network_notes": "Booth Career Services + Booth alumni density; MiF recruiting calendar published for employers. Formal referral ease: unknown.",
+    "difficulty_notes": "Elite Booth brand; inaugural cohort >100 students from around the world per careers story. Highly selective specialized MiF (non-MBA).",
+    "intl_student_notes": "Inaugural class described as global; International 38.2% of internship locations. Exact cohort intl %: unknown. Confirm STEM/OPT status with Booth for Fall 2027.",
+    "sources": [
+      {
+        "title": "Chicago Booth MiF – Employment Report (Class of 2025 Internship Report)",
+        "url": "https://www.chicagobooth.edu/master-in-finance/career-development/employment-report",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "Booth – MiF grads make a strong start in finance (FT examples, May 2026)",
+        "url": "https://www.chicagobooth.edu/why-booth/stories/mif-grads-make-a-strong-start-in-finance",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "Booth MiF Career Development hub",
+        "url": "https://www.chicagobooth.edu/master-in-finance/career-development",
+        "access_date": "2026-10-26"
+      }
+    ],
+    "confidence": "medium",
+    "confidence_reason": "Official internship report with 100% seeker accept and industry/geography breakouts; full-time Class of 2025 placement % still unpublished — FT signal from narrative examples only.",
+    "last_updated": "2026-10-26",
+    "pathProgramId": "chicago-booth-mif",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "columbia-msfe": {
+    "school": "Columbia University",
+    "program": "IEOR MS in Financial Engineering",
+    "degree": "MSFE",
+    "degree_family": "MSFE",
+    "schedule_note": "IEOR MSFE Fall start (Fall 2023 cohort stats below). Distinct catalog_id from quant-bucket columbia-ieor-mfe staging label — same school/program family but this card uses locked primary+adds id columbia-msfe.",
+    "internship_rate": "unknown (FT placement page located; MSFE-specific internship % not on 2023–2024 FT stats page this run)",
+    "full_time_placement": "97.6% placement rate for Fall 2023 start cohort (n=98 started; 83 received employment offers; 3 continuing education) — official Columbia IEOR 2023–2024 MSFE Full-Time Job Placement Stats. Average US-based salary $138,000 (range $85,000–$310,000); average bonus $29,500.",
+    "full_time_placement_notes": "Industry mix on page: Investment Banking 74%, Asset Management 23%, Consulting & Rating 2%, Energy/Gov/Transport 1%. Class of 2025 MSFE FT PDF not located this run — use 2023–2024 official IEOR stats as latest published. Do not confuse with Columbia Business School MS Financial Economics employment report.",
+    "notable_employers": [
+      "Goldman Sachs",
+      "JPMorgan Chase",
+      "Morgan Stanley",
+      "Bank of America",
+      "Barclays",
+      "Citi",
+      "Deutsche Bank",
+      "UBS",
+      "BNP Paribas",
+      "BlackRock",
+      "Citadel",
+      "AQR Capital Management",
+      "Balyasny Asset Management",
+      "Squarepoint Capital",
+      "The Voleon Group",
+      "Engineers Gate",
+      "Belvedere Trading",
+      "Transmarket Group",
+      "Fidelity Investments",
+      "Neuberger Berman"
+    ],
+    "notable_employers_notes": "Companies listed under IB/AM sections of official IEOR 2023–2024 MSFE placement page.",
+    "top_finance_firm_signal": "Extremely high. Dense bulge markets/IB + elite HF/quant AM (Citadel, AQR, Balyasny, Squarepoint, Voleon) with quant trader/researcher/strats role titles; US mean base $138k.",
+    "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
+    "sample_alumni_paths": [
+      "Quantitative Analyst / Quantitative Researcher",
+      "Quantitative Strategist / Desk Strategist",
+      "Trading Desk Analyst / Program Trader / Exotic Trader",
+      "Investment Banking Analyst",
+      "Model Risk / Systematic Portfolio Engineer"
+    ],
+    "referral_network_notes": "Columbia IEOR career resources + NYC finance proximity. Formal referral ease: unknown.",
+    "difficulty_notes": "Quant/FE-rigorous IEOR MSFE; ultra-competitive NYC recruiting. On primary+adds slate per gm lock — not the separate quant-bucket research wave, though content is FE/quant-heavy.",
+    "intl_student_notes": "Historically international-heavy FE program; exact Fall 2023 cohort intl % not stated on placement page. Confirm STEM CIP and OPT for Fall 2027.",
+    "sources": [
+      {
+        "title": "Columbia IEOR – 2023–2024 MSFE Full-Time Job Placement Stats",
+        "url": "https://ieor.columbia.edu/content/2024-msfe-placement-statistics",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "Columbia IEOR – Careers: Master of Science Programs",
+        "url": "https://ieor.columbia.edu/careers-masters-programs",
+        "access_date": "2026-10-26"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Official IEOR MSFE placement page with cohort n, offer count, 97.6% placement, US salary/bonus, sector mix, and named employers. Latest published cohort is Fall 2023 start (not yet Class of 2025 PDF).",
+    "last_updated": "2026-10-26",
+    "pathProgramId": "columbia-msfe",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "iit-msf": {
+    "school": "Illinois Institute of Technology",
+    "program": "Stuart MS Finance",
+    "degree": "MSF",
+    "degree_family": "MSF",
+    "schedule_note": "On-campus downtown Chicago; weekday evenings + Saturdays; full-time ~12–15 months or part-time ~2 years. Concentrations include FinTech, Portfolio Mgmt, Risk, Corporate Finance & Valuation, Quant Modeling & Trading, Mathematical Finance.",
+    "internship_rate": "unknown (Elevate guarantees access to hands-on experiences including internships; MSF-specific internship % unknown)",
+    "full_time_placement": "unknown (MSF-specific). Illinois Tech Quick Facts: 85.6% of 2025 graduate-degree recipients employed full-time within 6 months (90% survey coverage) — aggregate, not Stuart MSF-only. Elevate page noted Stuart 2025 breakout expected near end of April (not retrieved as MSF-specific table this run).",
+    "full_time_placement_notes": "Do not substitute university-wide graduate % for Stuart MSF. Program page lists sample hiring companies and alumni titles without Class of 2025 rates/salaries.",
+    "notable_employers": [
+      "Chicago Board Options Exchange",
+      "CME Group",
+      "Ernst & Young",
+      "Eurex",
+      "Federal Reserve Bank",
+      "J.P. Morgan",
+      "Morningstar",
+      "Northern Trust Corporation",
+      "Nuveen Investments",
+      "Societe Generale",
+      "HSBC",
+      "Calamos Investments"
+    ],
+    "notable_employers_notes": "Companies that have hired Stuart finance graduates + named alumni employers on program page (not a Class of 2025 multi-hire census).",
+    "top_finance_firm_signal": "Moderate Chicago markets signal (CME/CBOE/Eurex/Fed/Northern Trust/JPM/Morningstar/Nuveen). Quant/trading concentrations available; placement rate unknown.",
+    "sample_alumni_paths": [
+      "Financial / equity analyst",
+      "Financial risk manager",
+      "Derivative trader / originator",
+      "Portfolio / hedge fund roles",
+      "Quantitative analyst (alumni: Morningstar)",
+      "CME Group systems / markets roles"
+    ],
+    "referral_network_notes": "Stuart Career Management Center; Elevate; Stuart Investments student fund (>$1M AUM marketed); Bridge alumni network. Formal referral metrics unknown.",
+    "difficulty_notes": "Tech-university business school in Chicago derivatives hub; evening/Saturday delivery suits working students. GMAT/GRE not required.",
+    "intl_student_notes": "STEM-designated; F-1 eligible. Intl % of MSF cohort unknown.",
+    "sources": [
+      {
+        "title": "Illinois Tech Stuart MS Finance program page",
+        "url": "https://www.iit.edu/academics/programs/finance-ms",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "Illinois Tech Elevate Graduate Career Outcomes hub",
+        "url": "https://elevate.iit.edu/graduates-outcomes/",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "Illinois Tech Quick Facts (aggregate graduate employment)",
+        "url": "https://www.iit.edu/about/rankings-and-recognition/quick-facts",
+        "access_date": "2026-10-26"
+      }
+    ],
+    "confidence": "low",
+    "confidence_reason": "Named Chicago finance employers on program page, but no MSF-specific placement % or salary; only university-wide graduate aggregate available.",
+    "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
+    "last_updated": "2026-10-26",
+    "id_alias_legacy": [
+      "illinois-tech-msf"
+    ],
+    "pathProgramId": "iit-msf",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "temple-msf": {
+    "school": "Temple University",
+    "program": "Fox MS Financial Analysis",
+    "degree": "MSF",
+    "degree_family": "MSF",
+    "schedule_note": "Official degree title: Master of Science in Financial Analysis (not 'MS Finance'). Full-time 10- or 22-month paths or part-time ~2 years; Main Campus Philadelphia. Starts with two-week Finance Academy.",
+    "internship_rate": "unknown (CSPD + Handshake support marketed; MSFA-specific internship % not published this run)",
+    "full_time_placement": "unknown (MS Financial Analysis–specific offer/accept % and salary not located this run). Fox undergraduate CSPD outcomes exist but must not be substituted.",
+    "full_time_placement_notes": "Careers page lists target functions and alumni employers without Class of 2025 rates. CFA University Affiliated Program (Levels I–III CBOK coverage marketed).",
+    "notable_employers": [
+      "Bank of America",
+      "BNY Mellon",
+      "Freedom Mortgage",
+      "Hamilton Lane",
+      "Johnson & Johnson",
+      "JPMorgan Chase & Co.",
+      "KPMG",
+      "PNC Financial Services Group",
+      "Prudential Financial",
+      "SEI",
+      "TD Bank",
+      "Vanguard"
+    ],
+    "notable_employers_notes": "Department of Finance alumni employers on Fox MS Financial Analysis careers page (not a multi-hire census).",
+    "top_finance_firm_signal": "Moderate Philly–Northeast corridor signal (JPM, BofA, Vanguard, BNY, Hamilton Lane, PNC). Placement intensity unknown.",
+    "sample_alumni_paths": [
+      "Investment analysis / equity research",
+      "Investment banking",
+      "Asset / portfolio management",
+      "Hedge funds / alternatives",
+      "Risk management",
+      "Corporate finance",
+      "Fintech / digital finance"
+    ],
+    "referral_network_notes": "Fox Center for Student Professional Development; Bloomberg Experiential Learning Partner; Wall Street / Philly firm visits. Formal referral metrics unknown.",
+    "difficulty_notes": "STEM + CFA-aligned quantitative curriculum with data science/ML/AI coursework. Confirm naming vs classic 'MSF' in applications.",
+    "intl_student_notes": "STEM-designated. Intl % unknown.",
+    "sources": [
+      {
+        "title": "Temple Fox Financial Analysis MS program page",
+        "url": "https://www.temple.edu/academics/degree-programs/financial-analysis-ms-bu-fian-ms",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "Fox Financial Analysis MS Careers & Opportunities",
+        "url": "https://www.temple.edu/academics/degree-programs/financial-analysis-ms-bu-fian-ms/careers-opportunities",
+        "access_date": "2026-10-26"
+      }
+    ],
+    "confidence": "low",
+    "confidence_reason": "Alumni employer list and career pathways published; no program-specific placement % or salary located.",
+    "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
+    "last_updated": "2026-10-26",
+    "pathProgramId": "temple-msf",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "lsu-msf": {
+    "school": "Louisiana State University",
+    "program": "Ourso MS Finance",
+    "degree": "MSF",
+    "degree_family": "MSF",
+    "schedule_note": "36-hour full-time three-semester MS Finance; Fall and Spring admission. Small census (~25 total; typically 5–10 admits/semester). Accelerated BS/MS and JD/MS paths also exist.",
+    "internship_rate": "unknown (FIN 7930 Finance Internship elective available; % unknown)",
+    "full_time_placement": "unknown (MS Finance–specific). Ourso college-wide Bottom Line cites strong positive outcomes college-wide — not used as MSF %.",
+    "full_time_placement_notes": "Program page lists career areas (financial services, corporate finance, investments, real estate, risk) and example titles without rates/salaries. No Class of 2025 MSF employment PDF located.",
+    "notable_employers": [],
+    "notable_employers_notes": "No official MSF employer census published on the department page this run.",
+    "top_finance_firm_signal": "Unknown from official sources this run. Small regional program with SMART Lab + Student Managed Investment Fund experiential hooks.",
+    "sample_alumni_paths": [
+      "Financial analyst",
+      "M&A analyst",
+      "REIT manager",
+      "Financial consultant",
+      "Credit analyst",
+      "Portfolio manager",
+      "Mortgage administrator"
+    ],
+    "referral_network_notes": "Department of Finance; SMART Lab; Student Managed Investment Fund; Bloomberg/CFA/CFP prep marketed. Formal referral metrics unknown.",
+    "difficulty_notes": "Very small cohort (~25). Business-core prerequisites expected. GMAT historically targeted ~600 with waivers for strong GPA.",
+    "intl_student_notes": "Intl applicants need TOEFL (min 79 iBT historically on page). STEM status and intl %: confirm with department. Domestic/regional skew likely given size/location.",
+    "sources": [
+      {
+        "title": "LSU Ourso Master of Finance department page",
+        "url": "https://www.lsu.edu/business/finance/master-finance.php",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "LSU Ourso Bottom Line (college context)",
+        "url": "https://www.lsu.edu/business/about/ourso-bottom-line/index.php",
+        "access_date": "2026-10-26"
+      }
+    ],
+    "confidence": "low",
+    "confidence_reason": "Program structure and career paths documented; no MSF-specific placement %, salary, or employer list found.",
+    "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
+    "last_updated": "2026-10-26",
+    "pathProgramId": "lsu-msf",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "santaclara-msf": {
+    "school": "Santa Clara University",
+    "program": "Leavey MS Finance & Analytics (MSFA)",
+    "degree": "MSF",
+    "degree_family": "MSF",
+    "schedule_note": "Official title MS in Finance & Analytics (MSFA). On-campus (evenings/weekends, F-1 + STEM eligible) or Online (not F-1). As little as ~9 months full-time or ~16 months part-time. Fall and Spring starts.",
+    "internship_rate": "unknown (practicum with Silicon Valley partners marketed; F-1 students need 3 consecutive full-time quarters before internship CPT per FAQ)",
+    "full_time_placement": "86% of MSFA students report being employed within 6 months of graduation (following the 2021 academic year) — Leavey program page. Newer Class of 2024/2025 MSFA % not published on page this run.",
+    "full_time_placement_notes": "Stale official figure (2021 AY). Common roles listed: Data Analyst, Investment Strategy Analyst, Investment Operations, Senior Associate, Finance Manager, Founder & CEO, Audit and Assurance, Assistant Treasurer. 2024 practicum sponsors included Armanino, Cisco, EY, Franklin Templeton, Pluto7 (secondary coverage).",
+    "notable_employers": [
+      "EY",
+      "Franklin Templeton Investments",
+      "Cisco",
+      "Armanino",
+      "Pluto7"
+    ],
+    "notable_employers_notes": "Practicum/partner examples and role list from Leavey materials; not a Class of 2025 multi-hire census.",
+    "top_finance_firm_signal": "Moderate Silicon Valley / Bay Area analytics+finance signal (Franklin Templeton, EY, Cisco practicum). Bulge multi-hire density unknown; figure is dated.",
+    "sample_alumni_paths": [
+      "Data analyst",
+      "Investment strategy / operations analyst",
+      "Corporate finance / FP&A",
+      "Fintech / analytics roles",
+      "Audit & assurance"
+    ],
+    "referral_network_notes": "Leavey Graduate Business Career Services; 25k Leavey / 100k SCU alumni; SV practicum network. Formal referral metrics unknown.",
+    "difficulty_notes": "Avg profile on page: GPA 3.18; ~40 months work experience; 64% male / 36% female. On-campus format required for F-1.",
+    "intl_student_notes": "On-campus MSFA is STEM-designated and F-1 eligible; Online MSFA is NOT F-1/STEM-OPT eligible. Intl % unknown.",
+    "sources": [
+      {
+        "title": "SCU Leavey MS Finance & Analytics program page",
+        "url": "https://www.scu.edu/business/ms/ms-finance-and-analytics/",
+        "access_date": "2026-10-26"
+      }
+    ],
+    "confidence": "medium",
+    "confidence_reason": "Official 86% @6mo figure on program page, but explicitly tied to 2021 academic year; no fresh Class of 2025 PDF.",
+    "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
+    "last_updated": "2026-10-26",
+    "pathProgramId": "santaclara-msf",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "rit-msf": {
+    "school": "Rochester Institute of Technology",
+    "program": "Saunders MS Finance",
+    "degree": "MSF",
+    "degree_family": "MSF",
+    "schedule_note": "On-campus full-time or part-time; Fall or Spring rolling admission. STEM-OPT eligible for full-time on-campus internationals. Optional graduate co-op strongly encouraged.",
+    "internship_rate": "unknown (co-op/internship optional but strongly encouraged; MSF-specific co-op % not on program page)",
+    "full_time_placement": "Program page states 100% Outcomes Rate of RIT Graduates from this Finance MS degree; average first-year salary $70.6K. Methodology/denominator not detailed as a CSEA PDF on the program page.",
+    "full_time_placement_notes": "Treat 100% outcomes rate as school marketing metric (may include continuing education / other positive outcomes). RIT Career Services 2024–25 annual report is university-wide (graduate outcomes ~90.9% in report text) — not Finance MS–specific breakout located in extract. Secondary Apr 2025 coverage cited Class of 2023 83.3% within 6 months / ~$74.2k — not used as primary over school page.",
+    "notable_employers": [
+      "AMG Technology",
+      "T3 Trading Group, LLC",
+      "TD Securities",
+      "MAI Capital Management",
+      "Citi Group",
+      "Fannie Mae",
+      "Fidelity Investments",
+      "Goldman Sachs",
+      "KPMG",
+      "Paychex"
+    ],
+    "notable_employers_notes": "Alumni employers named on RIT Finance MS program page (not multi-hire census).",
+    "top_finance_firm_signal": "Moderate names on alumni list (GS, Citi, Fidelity, TD Securities, T3 Trading) mixed with regional/tech. Placement transparency medium.",
+    "sample_alumni_paths": [
+      "Quantitative / data analyst",
+      "Financial / credit risk analyst",
+      "Portfolio / investment analyst",
+      "FinTech / algorithmic trading roles",
+      "Corporate FP&A",
+      "Investment banking / trading"
+    ],
+    "referral_network_notes": "Saunders Career Services + Finance Industry Advisory Board; student-managed portfolio ($400k+ FMA). Formal referral metrics unknown.",
+    "difficulty_notes": "FinTech/AI/algorithmic trading electives differentiate vs classic MSF. GRE/GMAT optional (recommended for some internationals).",
+    "intl_student_notes": "STEM-OPT eligible (full-time on-campus). Intl % unknown.",
+    "sources": [
+      {
+        "title": "RIT Finance MS program page (outcomes rate + employers)",
+        "url": "https://www.rit.edu/study/finance-ms",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "RIT Career Services Annual Report 2024–25 (university context)",
+        "url": "https://www.rit.edu/careerservices/sites/rit.edu.careerservices/files/docs/CareerServicesAnnualReport202425.pdf",
+        "access_date": "2026-10-26"
+      }
+    ],
+    "confidence": "medium",
+    "confidence_reason": "Official program page publishes 100% outcomes rate and $70.6k salary plus alumni employers, but lacks CSEA-style seeker tables.",
+    "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
+    "last_updated": "2026-10-26",
+    "pathProgramId": "rit-msf",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "arizona-msf": {
+    "school": "University of Arizona",
+    "program": "Eller MS Finance",
+    "degree": "MSF",
+    "degree_family": "MSF",
+    "schedule_note": "Main-campus and online platforms; as few as ~9 months or 12–16 month tracks (internship-encouraged longer track). Fall admission; FINPREP summer module for some admits. Internships encouraged, not required.",
+    "internship_rate": "unknown (internships encouraged not required; MSF-specific internship % not published)",
+    "full_time_placement": "97% of main-campus MSF students with legal right to work in the U.S. accept employment within 90 days of graduation; 74% of all main-campus MSF students (domestic + international) accept within 90 days (Eller news Nov 2024 + ROI page).",
+    "full_time_placement_notes": "ROI page: graduates report average salary $78,000 with high earners up to $115,000; FT ranking callout #8 US employment rates (page). Distinguish work-authorized 97% vs all-students 74% — material intl gap.",
+    "notable_employers": [
+      "Goldman Sachs",
+      "J.P. Morgan",
+      "Morgan Stanley",
+      "Citi",
+      "Google",
+      "Oracle",
+      "Honeywell",
+      "Boeing",
+      "Allstate",
+      "Banner Health",
+      "Intel",
+      "Walton Global",
+      "Raytheon",
+      "Vantage West"
+    ],
+    "notable_employers_notes": "Top employers from Eller ROI page and Nov 2024 finance-vs-accounting article (not multi-hire ranked).",
+    "top_finance_firm_signal": "Moderate–high name recognition (GS, JPM, MS, Citi) plus AZ corporate/tech (Intel, Raytheon, Honeywell, Google). Work-auth outcomes strong; all-student rate lower.",
+    "sample_alumni_paths": [
+      "Senior financial analyst",
+      "Investment / portfolio management analyst",
+      "Equity research analyst",
+      "Credit risk analyst",
+      "FP&A / finance leadership development",
+      "Private banking investment analyst",
+      "IPO advisory associate"
+    ],
+    "referral_network_notes": "Eller finance department; student-run portfolios (~$1.8M–$3M marketed); CFA Institute University Recognition. Formal referral metrics unknown.",
+    "difficulty_notes": "GMAT/GRE required with waivers (Finance/Accounting/STEM 3.3+ GPA or CFA L1). Competitive value narrative (resident tuition relatively low).",
+    "intl_student_notes": "STEM-designated. Preferred intl apply-by Dec 1; May 15 intl fall deadline on program page. All-student 74% @90 days vs 97% work-authorized — plan for domestic skew in US placement odds.",
+    "sources": [
+      {
+        "title": "Eller MSF Cost and ROI (97% work-auth; employers; salary)",
+        "url": "https://eller.arizona.edu/programs/masters/finance/ms-finance/roi",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "Eller Finance vs Accounting article (97% / 74% split)",
+        "url": "https://eller.arizona.edu/news/finance-vs-accounting-choosing-your-path-eller-college-management",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "Eller Master of Science in Finance program page",
+        "url": "https://eller.arizona.edu/programs/masters/finance/ms-finance",
+        "access_date": "2026-10-26"
+      }
+    ],
+    "confidence": "medium",
+    "confidence_reason": "Official Eller pages publish 97%/74% @90-day figures, avg salary, and employers, but not a full CSEA multi-page seeker PDF.",
+    "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
+    "last_updated": "2026-10-26",
+    "pathProgramId": "arizona-msf",
     "routeMismatch": false,
     "match": "same-route"
   }

@@ -1,6 +1,6 @@
 /**
  * Program area registry — CS, MBA, and MSF (Finance) families share one catalog pipeline.
- * MSF batches 1–3 (TFE Times 2026 ranks 1–24) plus florida-msft ingested 2026-10-26.
+ * MSF batches 1–4 (TFE Times 2026 ranks 1–30) plus unranked florida-msft, chicago-booth-mif, and columbia-msfe.
  */
 
 export const PROGRAM_AREAS = [
@@ -40,7 +40,7 @@ export const PROGRAM_AREAS = [
     catalogIdSuffix: '-msf',
     tabShort: 'MSF',
     statTitle: 'MSF programs',
-    statSubtitle: 'TFE Times 2026 · ranks 1–24',
+    statSubtitle: 'TFE Times 2026 · ranks 1–30',
     tableSectionTitle: 'Master of Finance (MSF) programs',
     detailEyebrow: 'MSF',
     csvCategory: 'Master of Finance (MSF)',
@@ -79,14 +79,18 @@ export function rankingSourceShortLabel(area) {
 
 export function isCatalogProgramId(id) {
   if (!id || typeof id !== 'string') return false;
-  return PROGRAM_AREAS.some(a => id.endsWith(a.catalogIdSuffix)) || id.endsWith('-mscs') || id.endsWith('-msft');
+  return PROGRAM_AREAS.some(a => id.endsWith(a.catalogIdSuffix))
+    || id.endsWith('-mscs')
+    || id.endsWith('-msft')
+    || id.endsWith('-mif')
+    || id.endsWith('-msfe');
 }
 
 export function catalogIdArea(id) {
   if (!id) return null;
   if (id.endsWith('-mscs')) return 'Computer science';
-  // FinTech MS id (florida-msft) does not use the classic -msf suffix.
-  if (id.endsWith('-msft')) return 'Finance';
+  // Locked Finance ids that do not use the classic -msf suffix.
+  if (id.endsWith('-msft') || id.endsWith('-mif') || id.endsWith('-msfe')) return 'Finance';
   for (const a of PROGRAM_AREAS) {
     if (id.endsWith(a.catalogIdSuffix)) return a.area;
   }

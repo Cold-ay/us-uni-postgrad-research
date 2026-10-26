@@ -129,6 +129,14 @@ These checks corroborate selected rows, not the entire reproduced lists. Tuition
 | #22 | Michigan State Broad | [MS in Finance](../05-finance/programs/msu-msf.md) |
 | #23 | Auburn Harbert | [MS in Finance](../05-finance/programs/auburn-msf.md) |
 | #24 | UC San Diego Rady | [Master of Quantitative Finance (MQF)](../05-finance/programs/ucsd-msf.md) |
+| #25 | Illinois Tech Stuart | [Illinois Tech Stuart MS Finance](../05-finance/programs/iit-msf.md) |
+| #26 | Temple Fox | [MS in Financial Analysis (Fox)](../05-finance/programs/temple-msf.md) |
+| #27 | LSU Ourso | [MS in Finance](../05-finance/programs/lsu-msf.md) |
+| #28 | Santa Clara Leavey | [MS in Finance & Analytics (MSFA)](../05-finance/programs/santaclara-msf.md) |
+| #29 | RIT Saunders | [MS in Finance](../05-finance/programs/rit-msf.md) |
+| #30 | Arizona Eller | [MS in Finance](../05-finance/programs/arizona-msf.md) |
+| Unranked | Chicago Booth | [Asness and Liew Master in Finance (MiF)](../05-finance/programs/chicago-booth-mif.md) |
+| Unranked | Columbia Business School | [MS in Financial Economics (MSFE)](../05-finance/programs/columbia-msfe.md) |
 | Unranked | Florida Warrington | [MS in Finance and Technology](../05-finance/programs/florida-msft.md) |
 
 _Quant/MFE programs are not listed here; see [05-finance/README.md](../05-finance/README.md)._

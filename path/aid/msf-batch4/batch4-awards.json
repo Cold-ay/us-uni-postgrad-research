@@ -1,0 +1,521 @@
+{
+  "asOf": "2026-10-26",
+  "timezone": "Asia/Hong_Kong",
+  "intake": "Fall 2027",
+  "idScheme": "SCH-116+ (next free after MSF Batch3 SCH-115)",
+  "batch": "msf-batch4-tfe-25-30-plus-adds",
+  "awards": [
+    {
+      "asOf": "2026-10-26",
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "intlEligible": "yes",
+      "ingest": true,
+      "id": "SCH-116",
+      "name": "Illinois Tech Stuart Graduate Merit Scholarships (MS Finance)",
+      "scope": "iit-msf",
+      "programIds": [
+        "iit-msf"
+      ],
+      "state": "Automatic with admission",
+      "tone": "green",
+      "type": "Scholarship · Merit-Based",
+      "awardType": "scholarship",
+      "category": "Merit-Based",
+      "description": "All Stuart School of Business graduate students are automatically reviewed for merit-based scholarship awards at the time of admission. Award availability and amounts vary by program; amounts are tiered based on academic credentials. Awards prorated evenly across courses needed for the degree; deferrable up to one year. International students may also be awarded need-based aid during admission. University graduate scholarships page: ~30–40% of graduate students receive scholarships annually. Citizenship not restricted on Stuart merit language.",
+      "eligibility": "Admitted Stuart graduate students including MS Finance. Beacon Education / Coursera enrollees not eligible.",
+      "amount": "Varies / tiered; amounts not published on Stuart page",
+      "deadline": "With admission (no separate application)",
+      "note": "Open external MSF (AMP Plus One is optional undergrad path, not required).",
+      "url": "https://www.iit.edu/stuart/admission-aid/scholarships-and-aid",
+      "sources": [
+        {
+          "label": "Stuart Scholarships and Aid",
+          "url": "https://www.iit.edu/stuart/admission-aid/scholarships-and-aid"
+        },
+        {
+          "label": "Finance M.S. — Scholarships and Aid",
+          "url": "https://www.iit.edu/academics/programs/finance-ms"
+        },
+        {
+          "label": "Graduate Student Scholarships",
+          "url": "https://www.iit.edu/admissions-aid/tuition-and-aid/scholarships/graduate-student-scholarships"
+        }
+      ]
+    },
+    {
+      "asOf": "2026-10-26",
+      "hkEligible": "no",
+      "twEligible": "no",
+      "prcEligible": "no",
+      "intlEligible": "no",
+      "ingest": false,
+      "id": "SCH-117",
+      "name": "Illinois Tech Chicago Talent Pipeline Scholarship (Stuart MS)",
+      "scope": "iit-msf",
+      "programIds": [
+        "iit-msf"
+      ],
+      "state": "Pathway — domestic Chicago-area",
+      "tone": "gray",
+      "type": "Scholarship · Pathway",
+      "awardType": "scholarship",
+      "category": "Pathway / Restricted",
+      "description": "Partial-tuition scholarship for master’s-level study at Stuart for domestic Chicago-area students seeking MS degrees including finance, per Illinois Tech Graduate Tuition and Scholarships PDF language.",
+      "eligibility": "Domestic Chicago-area students advancing careers in Chicago-area market — not a general HK/TW/PRC award.",
+      "amount": "Partial tuition; amount not published on recovered PDF excerpt",
+      "deadline": "With admission",
+      "note": "ingest:false — domestic/local pathway.",
+      "url": "https://www.iit.edu/sites/default/files/2025-03/ILTech-GA-Tuition-Scholarship-2025-26.pdf",
+      "sources": [
+        {
+          "label": "ILTech GA Tuition Scholarship PDF 2025–26",
+          "url": "https://www.iit.edu/sites/default/files/2025-03/ILTech-GA-Tuition-Scholarship-2025-26.pdf"
+        }
+      ]
+    },
+    {
+      "asOf": "2026-10-26",
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "intlEligible": "yes",
+      "ingest": true,
+      "id": "SCH-118",
+      "name": "Temple Fox Merit-Based Scholarships (Financial Analysis MS)",
+      "scope": "temple-msf",
+      "programIds": [
+        "temple-msf"
+      ],
+      "state": "Automatic with admission (rolling)",
+      "tone": "green",
+      "type": "Scholarship · Merit-Based",
+      "awardType": "scholarship",
+      "category": "Merit-Based",
+      "description": "Fox students are automatically considered for merit-based scholarships based on information in the application; no separate application; decisions on a rolling basis. Admissions calendar: March 1 Scholarship Deadline and International Deadline for Fall. Fox financial-aid page states international students are eligible for other merit-based scholarships (alongside private loan pointers).",
+      "eligibility": "Admitted Fox specialized master’s students including Financial Analysis MS. Apply by Mar 1 scholarship/intl deadline for best consideration.",
+      "amount": "Not published",
+      "deadline": "With admission; scholarship/intl deadline March 1 (Fall 2027 cycle year assigned)",
+      "note": "Official program = MS Financial Analysis.",
+      "url": "https://www.temple.edu/academics/schools-and-colleges/fox-school-of-business-and-management/fox-grad-scholarships-financial-aid",
+      "sources": [
+        {
+          "label": "Fox Grad Scholarships & Financial Aid",
+          "url": "https://www.temple.edu/academics/schools-and-colleges/fox-school-of-business-and-management/fox-grad-scholarships-financial-aid"
+        },
+        {
+          "label": "Bulletin Financial Analysis MS — Financing",
+          "url": "https://bulletin.temple.edu/graduate/scd/fox/financial-analysis-ms/"
+        },
+        {
+          "label": "Fox FA MS Admissions deadlines",
+          "url": "https://www.temple.edu/academics/degree-programs/financial-analysis-ms-bu-fian-ms/admissions"
+        }
+      ]
+    },
+    {
+      "asOf": "2026-10-26",
+      "hkEligible": "unclear",
+      "twEligible": "unclear",
+      "prcEligible": "unclear",
+      "intlEligible": "unclear",
+      "ingest": false,
+      "id": "SCH-119",
+      "name": "Temple Fox Alumni Rewards (5% tuition scholarship)",
+      "scope": "temple-msf",
+      "programIds": [
+        "temple-msf"
+      ],
+      "state": "Pathway — Temple alumni",
+      "tone": "gray",
+      "type": "Scholarship · Pathway",
+      "awardType": "scholarship",
+      "category": "Pathway / Restricted",
+      "description": "Bulletin: Fox School grants 5% tuition scholarships to alumni who are admitted to the program; scholarships limited and available based on merit. Fox page: application benefits and tuition assistance for Temple University alumni.",
+      "eligibility": "Temple University alumni only — not a general intl open pool.",
+      "amount": "5% tuition (limited; merit)",
+      "deadline": "With admission",
+      "note": "ingest:false — alumni pathway.",
+      "url": "https://bulletin.temple.edu/graduate/scd/fox/financial-analysis-ms/",
+      "sources": [
+        {
+          "label": "Bulletin Financial Analysis MS — Financing Opportunities",
+          "url": "https://bulletin.temple.edu/graduate/scd/fox/financial-analysis-ms/"
+        },
+        {
+          "label": "Fox Grad Scholarships — Alumni Rewards",
+          "url": "https://www.temple.edu/academics/schools-and-colleges/fox-school-of-business-and-management/fox-grad-scholarships-financial-aid"
+        }
+      ]
+    },
+    {
+      "asOf": "2026-10-26",
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "intlEligible": "yes",
+      "ingest": true,
+      "id": "SCH-120",
+      "name": "Santa Clara Leavey MSFA Merit-Based Scholarships",
+      "scope": "santaclara-msf",
+      "programIds": [
+        "santaclara-msf"
+      ],
+      "state": "Automatic with admission (priority Apr 1)",
+      "tone": "green",
+      "type": "Scholarship · Merit-Based",
+      "awardType": "scholarship",
+      "category": "Merit-Based",
+      "description": "Merit scholarships automatically considered at application. For on-campus MSBA/MSFA/MSIS beginning Fall 2026 awards page: awarded to applicants with GMAT/GRE at or above average (650 GMAT / 315 GRE); priority to April 1 Priority Deadline submitters. Scholarship range $2,000–$8,000. Majority of merit awards go to students who officially submit GRE/GMAT and apply by priority deadlines; test-waiver students risk reduced eligibility. Citizenship not restricted on MS scholarship section.",
+      "eligibility": "Admitted on-campus MSFA students. Priority deadline April 1. Online MSFA awards not covered by this on-campus table.",
+      "amount": "$2,000–$8,000",
+      "deadline": "With admission; priority April 1 for Fall",
+      "note": "Page labels awards for students beginning Fall 2026 — confirm Fall 2027 cycle ranges when updated.",
+      "url": "https://www.scu.edu/business/scholarships/",
+      "sources": [
+        {
+          "label": "Leavey Graduate Business Scholarships — MS",
+          "url": "https://www.scu.edu/business/scholarships/"
+        },
+        {
+          "label": "MSFA Cost & Financing",
+          "url": "https://www.scu.edu/business/ms/ms-finance-and-analytics/"
+        }
+      ]
+    },
+    {
+      "asOf": "2026-10-26",
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "intlEligible": "yes",
+      "ingest": true,
+      "id": "SCH-121",
+      "name": "Santa Clara Leavey Dean’s Merit Scholarships (MSFA)",
+      "scope": "santaclara-msf",
+      "programIds": [
+        "santaclara-msf"
+      ],
+      "state": "With admission (must meet Apr 1 priority)",
+      "tone": "green",
+      "type": "Scholarship · Merit-Based",
+      "awardType": "scholarship",
+      "category": "Merit-Based",
+      "description": "Dean’s Merit Scholarships for exceptional academic and/or professional achievements for on-campus MSBA/MSFA/MSIS. Award range $1,000–$3,000. Applicants must apply by April 1 Priority Deadline.",
+      "eligibility": "Admitted on-campus MSFA (and MSBA/MSIS) applicants meeting April 1 priority deadline.",
+      "amount": "$1,000–$3,000",
+      "deadline": "April 1 Priority Deadline",
+      "note": "Distinct from general merit SCH-120 range.",
+      "url": "https://www.scu.edu/business/scholarships/",
+      "sources": [
+        {
+          "label": "Leavey Graduate Business Scholarships — Dean’s Merit",
+          "url": "https://www.scu.edu/business/scholarships/"
+        }
+      ]
+    },
+    {
+      "asOf": "2026-10-26",
+      "hkEligible": "no",
+      "twEligible": "no",
+      "prcEligible": "no",
+      "intlEligible": "unclear",
+      "ingest": false,
+      "id": "SCH-122",
+      "name": "Santa Clara Leavey SCU Alumni Scholarship ($1,000)",
+      "scope": "santaclara-msf",
+      "programIds": [
+        "santaclara-msf"
+      ],
+      "state": "Pathway — SCU alumni",
+      "tone": "gray",
+      "type": "Scholarship · Pathway",
+      "awardType": "scholarship",
+      "category": "Pathway / Restricted",
+      "description": "All SCU alumni from undergraduate or graduate programs admitted to a Graduate Business program receive a guaranteed $1,000 scholarship, stackable with other merit awards.",
+      "eligibility": "SCU alumni only.",
+      "amount": "$1,000 guaranteed",
+      "deadline": "With admission",
+      "note": "ingest:false — alumni pathway.",
+      "url": "https://www.scu.edu/business/scholarships/",
+      "sources": [
+        {
+          "label": "Leavey Scholarships — SCU Alumni",
+          "url": "https://www.scu.edu/business/scholarships/"
+        }
+      ]
+    },
+    {
+      "asOf": "2026-10-26",
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "intlEligible": "yes",
+      "ingest": true,
+      "id": "SCH-123",
+      "name": "RIT Graduate Tuition Scholarships (Finance MS)",
+      "scope": "rit-msf",
+      "programIds": [
+        "rit-msf"
+      ],
+      "state": "Automatic with admission",
+      "tone": "green",
+      "type": "Scholarship · Merit-Based",
+      "awardType": "scholarship",
+      "category": "Merit-Based",
+      "description": "Considered for RIT graduate scholarships just by applying; no separate application. Typically 10–40% tuition scholarship range; amount varies by student and department. Offered to top candidates for academic excellence. Scholarship letter in admissions portal at acceptance. Not stackable with other RIT scholarships. Online tuition-rate programs excluded. International applicants not living in the U.S. may qualify for these (distinct from Master Up residency rule).",
+      "eligibility": "Admitted on-campus Finance MS students (qualifying graduate programs). Scholarships cannot be combined with Master Up / Master Plan / Combined Accelerated.",
+      "amount": "Typically 10–40% of tuition",
+      "deadline": "With admission (rolling)",
+      "note": "Master Up (30%) is separate restricted card SCH-124.",
+      "url": "https://www.rit.edu/admissions/financial-aid/graduate-funding-sources",
+      "sources": [
+        {
+          "label": "RIT Graduate Funding Sources",
+          "url": "https://www.rit.edu/admissions/financial-aid/graduate-funding-sources"
+        },
+        {
+          "label": "Estimate Graduate Education Costs",
+          "url": "https://www.rit.edu/admissions/graduate/estimate-education-costs"
+        },
+        {
+          "label": "Finance MS",
+          "url": "https://www.rit.edu/study/finance-ms"
+        }
+      ]
+    },
+    {
+      "asOf": "2026-10-26",
+      "hkEligible": "unclear",
+      "twEligible": "unclear",
+      "prcEligible": "unclear",
+      "intlEligible": "partial",
+      "ingest": false,
+      "id": "SCH-124",
+      "name": "RIT Master Up 30% Tuition Scholarship",
+      "scope": "rit-msf",
+      "programIds": [
+        "rit-msf"
+      ],
+      "state": "Pathway — US-resident applicants",
+      "tone": "gray",
+      "type": "Scholarship · Pathway",
+      "awardType": "scholarship",
+      "category": "Pathway / Restricted",
+      "description": "30% graduate tuition scholarship for admitted qualifying on-campus master’s students who are U.S. citizens, permanent residents, or international applicants who currently reside in a U.S. state or territory. Available for students who begin master’s degrees by August 2027. International applicants not living in the U.S. directed to other scholarships. Not stackable.",
+      "eligibility": "Must already reside in U.S./territory (or be US citizen/PR) — typical HK/TW/PRC applicants applying from abroad do not qualify.",
+      "amount": "30% of tuition",
+      "deadline": "With admission; begin by August 2027",
+      "note": "ingest:false — residency pathway, not open abroad intl pool.",
+      "url": "https://www.rit.edu/admissions/masterup",
+      "sources": [
+        {
+          "label": "RIT Master Up",
+          "url": "https://www.rit.edu/admissions/masterup"
+        },
+        {
+          "label": "Graduate Funding Sources — Master Up",
+          "url": "https://www.rit.edu/admissions/financial-aid/graduate-funding-sources"
+        }
+      ]
+    },
+    {
+      "asOf": "2026-10-26",
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "intlEligible": "yes",
+      "ingest": true,
+      "id": "SCH-125",
+      "name": "Arizona Eller MSF Competitive Merit Scholarships",
+      "scope": "arizona-msf",
+      "programIds": [
+        "arizona-msf"
+      ],
+      "state": "Early applicants / with admission",
+      "tone": "amber",
+      "type": "Scholarship · Merit-Based",
+      "awardType": "scholarship",
+      "category": "Merit-Based",
+      "description": "Competitive, merit-based scholarships available for early applicants. Awards based on date of application and strength of incoming metrics (GPA, work experience, personal statement, resume). Finance Department notes very little resources for giving scholarships; admitted students may also apply via Scholarship Universe for internal/external matches. Citizenship not restricted on merit paragraph.",
+      "eligibility": "Admitted Eller MSF students; early application improves odds. Dollar amounts unpublished.",
+      "amount": "Limited; amounts not published",
+      "deadline": "Early application preferred (Early Admission Oct 15 for Fall cycle)",
+      "note": "Department flags limited scholarship resources — amber tone.",
+      "url": "https://eller.arizona.edu/programs/masters/finance/ms-finance/roi",
+      "sources": [
+        {
+          "label": "Eller MSF Cost / Scholarships",
+          "url": "https://eller.arizona.edu/programs/masters/finance/ms-finance/roi"
+        },
+        {
+          "label": "Eller MSF Admissions",
+          "url": "https://eller.arizona.edu/programs/masters/finance/ms-finance/admissions"
+        }
+      ]
+    },
+    {
+      "asOf": "2026-10-26",
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "intlEligible": "yes",
+      "ingest": true,
+      "id": "SCH-126",
+      "name": "Chicago Booth MiF Merit Scholarships",
+      "scope": "chicago-booth-mif",
+      "programIds": [
+        "chicago-booth-mif"
+      ],
+      "state": "Automatic with application",
+      "tone": "green",
+      "type": "Scholarship · Merit-Based",
+      "awardType": "scholarship",
+      "category": "Merit-Based",
+      "description": "Merit scholarships available for eligible applicants. Once you apply to the MiF program, you are automatically considered; early applications highly encouraged. Amounts not published. After admission, students work with Booth Financial Aid Office; international student funding options page linked. Do not confuse with Part-Time MBA published ranges.",
+      "eligibility": "MiF applicants; citizenship not restricted on merit sentence. Distinct from MBA-only Forté/ROMBA/etc.",
+      "amount": "Not published",
+      "deadline": "With application (Early Review from Oct 1, 2026; Round One Jan 7, 2027)",
+      "note": "Do not recreate MBA SCH-034–037 for Booth MBA.",
+      "url": "https://www.chicagobooth.edu/master-in-finance/admissions/cost-financial-aid",
+      "sources": [
+        {
+          "label": "Booth MiF Cost & Financial Aid — Scholarships",
+          "url": "https://www.chicagobooth.edu/master-in-finance/admissions/cost-financial-aid"
+        }
+      ]
+    },
+    {
+      "asOf": "2026-10-26",
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "intlEligible": "yes",
+      "ingest": true,
+      "id": "SCH-127",
+      "name": "Columbia Business School MS Partial-Tuition Fellowships (incl. MSFE)",
+      "scope": "columbia-msfe",
+      "programIds": [
+        "columbia-msfe"
+      ],
+      "state": "Indicate interest on MS application",
+      "tone": "amber",
+      "type": "Fellowship · Merit-Based",
+      "awardType": "scholarship",
+      "category": "Merit-Based",
+      "description": "CBS Academics Tuition and Financial Aid: limited number of partial-tuition fellowships to exceptional MS students based on academic excellence, personal background, and professional experience. No separate fellowship application; School identifies outstanding MS applicants. Must complete MS admission application by deadline and indicate desire to be considered for fellowships. Award notice via Admissions status-change email; renewability depends on program length. Only August-entry MS students are considered for merit-based fellowships in the first year. Student loans available to domestic and international MS students per same page.",
+      "eligibility": "August-entry CBS MS applicants including MSFE who opt into fellowship consideration by the application deadline. Limited / highly selective.",
+      "amount": "Partial tuition; amounts not published",
+      "deadline": "MS application deadline (dossier cites ~Jan 28, 2027 — verify live); indicate fellowship interest on application",
+      "note": "Institutional Funding page language is largely MBA-framed — this card uses MS-specific Academics tuition/aid fellowship text. Assistantships generally awarded to doctoral students per MS costs page.",
+      "url": "https://academics.business.columbia.edu/tuition-and-financial-aid",
+      "sources": [
+        {
+          "label": "CBS Academics Tuition and Financial Aid",
+          "url": "https://academics.business.columbia.edu/tuition-and-financial-aid"
+        },
+        {
+          "label": "CBS MS Programs costs",
+          "url": "https://business.columbia.edu/financial-aid/costs/ms-programs"
+        }
+      ]
+    }
+  ],
+  "overlapsFlagOnly": [
+    {
+      "existingId": "SCH-034",
+      "name": "Forté MBA Fellowships",
+      "note": "MBA only — do not attach to Booth MiF / Columbia MSFE."
+    },
+    {
+      "existingId": "SCH-035",
+      "name": "ROMBA Fellowship",
+      "note": "MBA path — not MiF/MSFE."
+    },
+    {
+      "existingId": "SCH-036",
+      "name": "Consortium",
+      "note": "MBA — flag only."
+    },
+    {
+      "existingId": "SCH-037",
+      "name": "Toigo",
+      "note": "MBA — flag only."
+    },
+    {
+      "existingId": "SCH-015",
+      "name": "HKSES",
+      "note": "External HK — may fund US MSF; do not recreate."
+    },
+    {
+      "existingId": "SCH-017",
+      "name": "Fulbright Taiwan",
+      "note": "External TW — flag only."
+    },
+    {
+      "existingId": "SCH-018",
+      "name": "Taiwan MOE GSSA",
+      "note": "External TW — flag only."
+    },
+    {
+      "existingId": "SCH-038",
+      "name": "Soros",
+      "note": "Already live; flag only."
+    },
+    {
+      "existingId": "SCH-068",
+      "name": "CSC rare master's",
+      "note": "PRC thin master’s path; flag for PRC MSF applicants."
+    }
+  ],
+  "externalNewSkipped": [
+    {
+      "name": "LSU MS Finance assistantships / departmental merit",
+      "reason": "Department page: currently do not offer any assistantships for the masters program for the coming academic year; no verified open applicant-facing merit amounts."
+    },
+    {
+      "name": "RIT Master Plan 40%",
+      "reason": "RIT bachelor’s alumni pathway — not carded (see Master Up SCH-124 pattern)."
+    },
+    {
+      "name": "SCU Inclusive Excellence Diversity Scholarship",
+      "reason": "Separate post-June-1 application; criteria DEI/overcome-challenges — research note only this pass."
+    },
+    {
+      "name": "Arizona Scholarship Universe generic matches",
+      "reason": "Matching tool / external pool — not a program-tied named award card."
+    },
+    {
+      "name": "Temple Fox veterans scholarships",
+      "reason": "Military/veteran pathway — not general intl."
+    },
+    {
+      "name": "Columbia MBA institutional named awards / McGowan",
+      "reason": "MBA-framed Institutional Funding page — do not merge into MSFE."
+    },
+    {
+      "name": "LSU Online MS Finance $970/cr marketing",
+      "reason": "Different modality from on-campus lsu-msf id."
+    },
+    {
+      "name": "CFA exam fee / affiliation discounts",
+      "reason": "Exam-fee discounts — not degree tuition SCH cards."
+    }
+  ],
+  "gaps": [
+    "lsu-msf: no flat sticker — Tier 2 schedule estimate only; no SCH (no assistantships this year)",
+    "rit-msf: no flat sticker; official total credits null on program page",
+    "chicago-booth-mif: Autumn 2027 tuition may change — used Aut 2026 matriculant $123,470 proxy",
+    "columbia-msfe: live costs page CF-blocked to curl; 2026–27 figures from jina fetch of official URL — browser re-verify recommended",
+    "columbia-msfe: MS fellowship amounts unpublished; indicate-interest required",
+    "iit-msf / temple-msf / santaclara-msf / arizona-msf: living bands not published for this degree (null)",
+    "santaclara-msf: scholarship page still labeled Fall 2026 cohort awards — confirm F27 ranges",
+    "No new finance-specific EXTERNAL degree awards beyond SCH-015–115 verified this batch"
+  ],
+  "counts": {
+    "awardsTotal": 12,
+    "ingestTrue": 8,
+    "ingestFalse": 4
+  }
+}

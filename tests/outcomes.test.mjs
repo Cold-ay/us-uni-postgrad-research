@@ -1,5 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
+import { readFileSync } from 'node:fs';
 import { programs } from '../dist/data.js';
 import {
   outcomeCards,
@@ -17,11 +18,14 @@ test('outcome card keys map only to known catalog program ids', () => {
   for (const id of Object.keys(outcomeCards)) {
     assert.ok(catalogIds.has(id), `unknown catalog id: ${id}`);
   }
-  assert.equal(Object.keys(outcomeCards).length, 88);
+  assert.equal(Object.keys(outcomeCards).length, 96);
 });
 
 test('batch meta includes batch-002 through batch-005 schema v2', () => {
-  assert.equal(outcomeBatchMeta.length, 10);
+  assert.equal(outcomeBatchMeta.length, 11);
+  assert.equal(outcomeBatchMeta[10].batch_id, 'msf-batch4');
+  assert.equal(outcomeBatchMeta[10].card_count, 8);
+  assert.equal(outcomeBatchMeta[10].id_alias_map['illinois-tech-msf'], 'iit-msf');
   assert.equal(outcomeBatchMeta[5].batch_id, 'msf-batch-001');
   assert.equal(outcomeBatchMeta[5].card_count, 8);
   assert.equal(outcomeBatchMeta[6].batch_id, 'msf-batch-002');
@@ -170,16 +174,25 @@ test('batch-005 final gap-fill links all remaining catalog ids with display cave
 
 test('programs merge outcome by catalog id with route caveats where mapped', () => {
   const withOutcome = programs.filter(p => p.outcome);
-  assert.equal(withOutcome.length, 88);
+  assert.equal(withOutcome.length, 96);
   assert.equal(outcomeCards['ohio-msf'].pathProgramId, 'ohiostate-msf');
   assert.equal(outcomeCards['ucsd-msf'].pathProgramId, 'ucsd-rady-msf');
   assert.match(outcomeCards['ucsd-msf'].program, /Quantitative Finance|MQF/i);
   assert.equal(outcomeCards['bc-msf'].pathProgramId, 'bc-msf');
   assert.equal(outcomeCards['ohiostate-msf'], undefined);
   assert.equal(outcomeCards['ucsd-rady-msf'], undefined);
-  for (const id of ['temple-msf', 'lsu-msf', 'illinois-tech-msf', 'santaclara-msf', 'rit-msf', 'arizona-msf']) {
-    assert.equal(outcomeCards[id], undefined, id);
-    assert.equal(unlinkedOutcomeCards[id], undefined, id);
+  assert.equal(outcomeCards['illinois-tech-msf'], undefined);
+  assert.equal(unlinkedOutcomeCards['illinois-tech-msf'], undefined);
+  const batch4Cards = JSON.parse(readFileSync(new URL('../path/outcomes/path-batch4-from-batch002-003.json', import.meta.url), 'utf8'));
+  for (const card of batch4Cards.cards) {
+    const id = card.catalog_id === 'illinois-tech-msf' ? 'iit-msf' : card.catalog_id;
+    const got = outcomeCards[id];
+    assert.ok(got, id);
+    assert.equal(got.confidence, card.confidence, id);
+    assert.equal(got.internship_rate, card.internship_rate, id);
+    assert.equal(got.full_time_placement, card.full_time_placement, id);
+    assert.deepEqual(got.notable_employers, card.notable_employers, id);
+    assert.equal(got.pathProgramId, card.program_id, id);
   }
   const fintech = programs.find(p => p.id === 'florida-msft');
   assert.equal(fintech.outcome.confidence, 'low');
