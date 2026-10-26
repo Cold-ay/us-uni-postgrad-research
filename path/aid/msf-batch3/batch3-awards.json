@@ -1,0 +1,391 @@
+{
+  "asOf": "2026-10-26",
+  "timezone": "Asia/Hong_Kong",
+  "intake": "Fall 2027",
+  "idScheme": "SCH-107+ (next free after MSF Batch2 SCH-106)",
+  "batch": "msf-batch3-tfe-17-24",
+  "awards": [
+    {
+      "asOf": "2026-10-26",
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "intlEligible": "yes",
+      "ingest": true,
+      "id": "SCH-107",
+      "name": "Boston College Carroll Full-Time MSF Merit Scholarships / Fellowships",
+      "scope": "bc-msf",
+      "programIds": [
+        "bc-msf"
+      ],
+      "state": "Automatic with admission",
+      "tone": "green",
+      "type": "Scholarship · Merit-Based",
+      "awardType": "scholarship",
+      "category": "Merit-Based",
+      "description": "All domestic and international applicants to the full-time MSF (and MSA/MBA) are considered for merit-based scholarships or fellowships. Award decisions communicated with admission. Scholarship amounts range from $7,500 to full tuition for exceptional candidates. For Full-Time MSF and MSA entering Fall 2026 class stats: more than 95% of class received merit scholarships/fellowships; awards disbursed once a semester for two semesters (Fall and Spring). Graduate Assistantships may be offered in combination with scholarships (stipend for research/admin). Includes Dean's Scholarships for exceptionally strong MSF candidates. Page does not restrict merit by Regular vs Quantitative Finance track.",
+      "eligibility": "Admitted Carroll full-time MSF students (Regular or Quant/STEM track). Explicitly open to domestic and international applicants. Distinct from MBA-only named fellowships (GWIB, ROMBA, Weiss MBA/MSW preference).",
+      "amount": "$7,500 to full tuition (class: >95% of FT MSF receive some merit; exact offer unpublished until admission)",
+      "deadline": "With admission (no separate application)",
+      "note": "STEM designation is Quant track only — funding language is not track-limited. Do not merge with MBA ROMBA/GWIB. overlapsWithExisting: none BC-MSF-specific in SCH-015–106.",
+      "url": "https://www.bc.edu/bc-web/schools/carroll-school/graduate/admission/tuition-and-aid.html",
+      "sources": [
+        {
+          "label": "Carroll Tuition & Aid — Scholarships",
+          "url": "https://www.bc.edu/bc-web/schools/carroll-school/graduate/admission/tuition-and-aid.html"
+        }
+      ]
+    },
+    {
+      "asOf": "2026-10-26",
+      "hkEligible": "unclear",
+      "twEligible": "unclear",
+      "prcEligible": "unclear",
+      "intlEligible": "unclear",
+      "ingest": false,
+      "id": "SCH-108",
+      "name": "Boston College John J. McMullen Fellowship (US Naval Academy)",
+      "scope": "bc-msf",
+      "programIds": [
+        "bc-msf"
+      ],
+      "state": "Pathway — USNA graduates only",
+      "tone": "gray",
+      "type": "Scholarship · Pathway",
+      "awardType": "scholarship",
+      "category": "Pathway / Restricted",
+      "description": "Recognizes exceptional full-time MBA, MSF, or dual MBA/MSF candidates who graduated from the United States Naval Academy. May grant full tuition remission for up to two years (20 months). Considered through Admission Committee review.",
+      "eligibility": "US Naval Academy graduates only — not a general intl HK/TW/PRC award.",
+      "amount": "Up to full tuition remission (≤2 years / 20 months)",
+      "deadline": "With admission",
+      "note": "ingest:false — alumni/service-academy pathway, not open intl merit pool.",
+      "url": "https://www.bc.edu/bc-web/schools/carroll-school/graduate/admission/tuition-and-aid.html",
+      "sources": [
+        {
+          "label": "Carroll Tuition & Aid — McMullen",
+          "url": "https://www.bc.edu/bc-web/schools/carroll-school/graduate/admission/tuition-and-aid.html"
+        }
+      ]
+    },
+    {
+      "asOf": "2026-10-26",
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "intlEligible": "yes",
+      "ingest": true,
+      "id": "SCH-109",
+      "name": "Claremont Graduate / Drucker School Fellowships (incl. MS Finance)",
+      "scope": "cgu-msf",
+      "programIds": [
+        "cgu-msf"
+      ],
+      "state": "With admission (department recommendation)",
+      "tone": "green",
+      "type": "Fellowship · Merit-Based",
+      "awardType": "scholarship",
+      "category": "Merit-Based",
+      "description": "CGU merit-based fellowships awarded on academic department recommendation. Offered based on enrollment in 12–16 units each semester; adjusted if enrollment changes; honored through required coursework if SAP maintained. Drucker School FAQ: disperses $500,000 annually in fellowships; 85% of Drucker students receive some level of fellowship. Priority application deadlines maximize fellowship consideration. Citizenship not restricted on fellowship pages.",
+      "eligibility": "Admitted CGU / Drucker students including MS in Finance. Apply by priority deadlines for max fellowship consideration. FAFSA is for US federal aid (domestic).",
+      "amount": "Not published per student (pool $500k/year school-wide; 85% of Drucker students receive some fellowship)",
+      "deadline": "Priority deadlines with admission (Fall 2027 priority Feb 1, 2027)",
+      "note": "General CGU/Drucker fellowship — not an MBA-only card. Amounts unpublished.",
+      "url": "https://www.cgu.edu/admissions/cost-aid/financial-aid-fellowships/",
+      "sources": [
+        {
+          "label": "CGU Financial Aid & Fellowships",
+          "url": "https://www.cgu.edu/admissions/cost-aid/financial-aid-fellowships/"
+        },
+        {
+          "label": "Drucker School FAQ — financial support",
+          "url": "https://www.cgu.edu/school/drucker-school-of-management/faq/"
+        },
+        {
+          "label": "CGU MS Finance — cost & aid",
+          "url": "https://www.cgu.edu/academics/program/ms-finance/"
+        }
+      ]
+    },
+    {
+      "asOf": "2026-10-26",
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "intlEligible": "yes",
+      "ingest": true,
+      "id": "SCH-110",
+      "name": "Illinois Gies MSF Merit Scholarships",
+      "scope": "illinois-msf",
+      "programIds": [
+        "illinois-msf"
+      ],
+      "state": "Automatic with admission",
+      "tone": "green",
+      "type": "Scholarship · Merit-Based",
+      "awardType": "scholarship",
+      "category": "Merit-Based",
+      "description": "MSF program offers a limited number of scholarships to program participants, with emphasis on recruiting high-caliber students from diverse backgrounds. All students are considered for Merit Scholarships. Decisions shortly after admission decisions; recipients notified via email. No separate scholarship application described. Citizenship not restricted on page.",
+      "eligibility": "Admitted Gies MSF students. Limited awards; competitive.",
+      "amount": "Limited; amounts not published",
+      "deadline": "With admission (notified after admit decision)",
+      "note": "Open external MSF (not combination-restricted).",
+      "url": "https://giesbusiness.illinois.edu/msf/tuition",
+      "sources": [
+        {
+          "label": "Gies MSF Tuition and Scholarships",
+          "url": "https://giesbusiness.illinois.edu/msf/tuition"
+        }
+      ]
+    },
+    {
+      "asOf": "2026-10-26",
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "intlEligible": "yes",
+      "ingest": true,
+      "id": "SCH-111",
+      "name": "Ohio State Fisher SMF Merit-Based Cash Awards",
+      "scope": "ohio-msf",
+      "programIds": [
+        "ohio-msf"
+      ],
+      "state": "Automatic with admission",
+      "tone": "green",
+      "type": "Scholarship · Merit-Based",
+      "awardType": "scholarship",
+      "category": "Merit-Based",
+      "description": "All admitted SMF applicants are automatically considered for merit-based scholarships; no separate application. Limited merit-based cash awards to select incoming students may range from $6,000 to $18,000. Recipients notified prior to admissions response deadlines. Apply early — Priority 1 (Dec 11, 2026) and Priority 2 (Feb 19, 2027) for merit consideration; funds limited.",
+      "eligibility": "Admitted Fisher Specialized Master in Finance students. Page does not restrict by citizenship.",
+      "amount": "$6,000–$18,000 (limited; select students)",
+      "deadline": "With admission; priority deadlines Dec 11, 2026 and Feb 19, 2027 for aid consideration",
+      "note": "Published cash range — rare among Batch3 auto merits.",
+      "url": "https://fisher.osu.edu/graduate/smf/admissions/tuition-funding",
+      "sources": [
+        {
+          "label": "Fisher SMF Tuition & Funding",
+          "url": "https://fisher.osu.edu/graduate/smf/admissions/tuition-funding"
+        },
+        {
+          "label": "Fisher SMF Deadlines",
+          "url": "https://fisher.osu.edu/graduate/smf/admissions/applying-fisher"
+        }
+      ]
+    },
+    {
+      "asOf": "2026-10-26",
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "intlEligible": "yes",
+      "ingest": true,
+      "id": "SCH-112",
+      "name": "Ohio State Fisher SMF Graduate Assistantship",
+      "scope": "ohio-msf",
+      "programIds": [
+        "ohio-msf"
+      ],
+      "state": "Automatic consideration (1 appointment/year)",
+      "tone": "amber",
+      "type": "Assistantship · Merit",
+      "awardType": "assistantship",
+      "category": "Assistantship",
+      "description": "SMF awards up to one Graduate Assistant appointment each year. GA is 10 hours/week and provides a 50% tuition waiver plus a monthly stipend. All admitted applicants automatically considered; no separate application. Subject to annual financial-aid budget.",
+      "eligibility": "Admitted Fisher SMF students; extremely limited (≤1/year).",
+      "amount": "50% tuition waiver + monthly stipend (stipend $ not published on page)",
+      "deadline": "With admission (auto consideration)",
+      "note": "Distinct from cash merit SCH-111.",
+      "url": "https://fisher.osu.edu/graduate/smf/admissions/tuition-funding",
+      "sources": [
+        {
+          "label": "Fisher SMF Tuition & Funding — GA",
+          "url": "https://fisher.osu.edu/graduate/smf/admissions/tuition-funding"
+        }
+      ]
+    },
+    {
+      "asOf": "2026-10-26",
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "intlEligible": "yes",
+      "ingest": true,
+      "id": "SCH-113",
+      "name": "Michigan State Broad MSF Financial Support",
+      "scope": "msu-msf",
+      "programIds": [
+        "msu-msf"
+      ],
+      "state": "During admission / application process",
+      "tone": "amber",
+      "type": "Scholarship · Merit-Based",
+      "awardType": "scholarship",
+      "category": "Merit-Based",
+      "description": "Broad states that 40% of non-sponsored M.S. in Finance students receive financial support. Questions about financial aid addressed during the application process. Dollar amounts, separate application steps, and citizenship limits are not detailed on the recoverable tuition-page text (live tuition URL Incapsula-blocked; language confirmed via Wayback). Undergraduate Finance department endowed scholarships are UG-only — not this card.",
+      "eligibility": "Non-sponsored admitted Broad MSF students (40% receive some support per program tuition messaging). Citizenship not stated as restricted in recovered text.",
+      "amount": "Not published (40% of non-sponsored students receive support)",
+      "deadline": "With / during application (contact program)",
+      "note": "Source recovery: Wayback + program overview. Re-verify live tuition page when Incapsula clears.",
+      "url": "https://broad.msu.edu/masters/finance/tuition/",
+      "sources": [
+        {
+          "label": "Broad MSF Tuition & Financial Aid",
+          "url": "https://broad.msu.edu/masters/finance/tuition/"
+        },
+        {
+          "label": "Wayback snapshot (support %)",
+          "url": "https://web.archive.org/web/20260518190554/https://broad.msu.edu/masters/finance/tuition/"
+        },
+        {
+          "label": "Broad MSF overview",
+          "url": "https://broad.msu.edu/masters/finance/"
+        }
+      ]
+    },
+    {
+      "asOf": "2026-10-26",
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "intlEligible": "yes",
+      "ingest": true,
+      "id": "SCH-114",
+      "name": "UC San Diego Rady MQF Merit Scholarships",
+      "scope": "ucsd-msf",
+      "programIds": [
+        "ucsd-msf"
+      ],
+      "state": "Automatic with admission",
+      "tone": "green",
+      "type": "Scholarship · Merit-Based",
+      "awardType": "scholarship",
+      "category": "Merit-Based",
+      "description": "Rady provides limited scholarship support to exceptional individuals. All domestic and international admitted students are considered for merit-based scholarship upon admission; no additional application required. Donor-supported named fellowships (e.g., Brandes, Anklesaria, Fellows for the Future, Silberman, Alicia and Erwin Milan Family) may require completing the Financial Assistance section / short answer by the program Fellowship Deadline — several are framed for outstanding graduate students (some MBA-named awards are MBA-only; do not merge those).",
+      "eligibility": "Admitted Rady MQF (ucsd-msf) students. Explicitly domestic and international. UC undergraduate pathway award is separate (SCH-115).",
+      "amount": "Limited; amounts not published (except UC Scholarship pathway $10,000 — separate card)",
+      "deadline": "With admission (named fellowships: Fellowship Deadline on application)",
+      "note": "Program renamed MFin → MQF; card attaches to catalog id ucsd-msf.",
+      "url": "https://rady.ucsd.edu/programs/master-quantitative-finance/tuition-aid.html",
+      "sources": [
+        {
+          "label": "Rady MQF Tuition & Aid — Scholarships",
+          "url": "https://rady.ucsd.edu/programs/master-quantitative-finance/tuition-aid.html"
+        },
+        {
+          "label": "Rady Fellowships",
+          "url": "https://rady.ucsd.edu/programs/fellowships/"
+        }
+      ]
+    },
+    {
+      "asOf": "2026-10-26",
+      "hkEligible": "no",
+      "twEligible": "no",
+      "prcEligible": "no",
+      "intlEligible": "unclear",
+      "ingest": false,
+      "id": "SCH-115",
+      "name": "Rady UC Scholarship ($10,000 — UC campus graduates)",
+      "scope": "ucsd-msf",
+      "programIds": [
+        "ucsd-msf"
+      ],
+      "state": "UC undergraduate pathway",
+      "tone": "gray",
+      "type": "Scholarship · Pathway",
+      "awardType": "scholarship",
+      "category": "Pathway / Restricted",
+      "description": "All graduates of any University of California campus are eligible for the Rady-funded UC Scholarship in the amount of $10,000.",
+      "eligibility": "Graduates of any UC campus only — not open to typical HK/TW/PRC applicants without a UC bachelor's.",
+      "amount": "$10,000",
+      "deadline": "With admission (UC pathway)",
+      "note": "ingest:false — UG-path / partner-campus pathway.",
+      "url": "https://rady.ucsd.edu/programs/master-quantitative-finance/tuition-aid.html",
+      "sources": [
+        {
+          "label": "Rady MQF Tuition & Aid — UC Scholarship",
+          "url": "https://rady.ucsd.edu/programs/master-quantitative-finance/tuition-aid.html"
+        }
+      ]
+    }
+  ],
+  "overlapsFlagOnly": [
+    {
+      "existingId": "SCH-034",
+      "name": "Forté MBA Fellowships",
+      "note": "MBA only — BC/others may host Forté for MBA; not MSF."
+    },
+    {
+      "existingId": "SCH-035",
+      "name": "ROMBA Fellowship",
+      "note": "BC lists ROMBA for full-time MBA applicants — MBA only."
+    },
+    {
+      "existingId": "SCH-015",
+      "name": "HKSES",
+      "note": "External HK — may fund US MSF; do not recreate."
+    },
+    {
+      "existingId": "SCH-017",
+      "name": "Fulbright Taiwan",
+      "note": "External TW — flag only."
+    },
+    {
+      "existingId": "SCH-018",
+      "name": "Taiwan MOE GSSA",
+      "note": "External TW — flag only."
+    },
+    {
+      "existingId": "SCH-038",
+      "name": "Soros",
+      "note": "Already live; flag only."
+    },
+    {
+      "existingId": "SCH-068",
+      "name": "CSC rare master's",
+      "note": "PRC thin master's path; flag for PRC MSF applicants."
+    }
+  ],
+  "externalNewSkipped": [
+    {
+      "name": "TAMU MSF / 4+1 any Aggie-only aid",
+      "reason": "tamu-msf access-restricted to current TAMU undergraduates — no open external Fall 2027 SCH."
+    },
+    {
+      "name": "Auburn MSF loans / general Grad School assistantships",
+      "reason": "Program tuition page only points to Office of Financial Aid loans; no verified open applicant-facing MSF merit amounts or auto-consider process."
+    },
+    {
+      "name": "MSU undergraduate Finance endowed scholarships",
+      "reason": "UG Finance majors only — not MSF."
+    },
+    {
+      "name": "Rady Foster MBA Fellowship / Michael Kriegler MBA biotech fellowship",
+      "reason": "Explicitly MBA-framed named fellowships — not MQF cards."
+    },
+    {
+      "name": "BC Graduate Women in Business / Diane H. Weiss fellowships",
+      "reason": "MBA or MBA/MSW preference — not MSF merit pool."
+    },
+    {
+      "name": "CFA exam fee / Program Partner exam awards",
+      "reason": "Exam-fee discounts — not degree tuition SCH cards."
+    }
+  ],
+  "gaps": [
+    "tamu-msf: Aggie 4+1 only — accessRestricted; no open SCH; no full-degree sticker for external admits",
+    "auburn-msf: no flat sticker — per-credit estimate only; no verified open merit SCH",
+    "ucsd-msf: Fall 2027 MQF cohort unit rate not published — used Fall 2025 cohort $1,613/unit proxy; living band not freshly published for MQF (2023 MoF COA stale — omitted)",
+    "cgu-msf: Fall 2027 unit rate not published — used 2025–26 $2,070/unit",
+    "bc-msf: Fall 2027 will likely bill 2027–28 rates (announced ~April 2027) — used 2026–27 $2,398/credit",
+    "msu-msf: live tuition URL Incapsula-blocked — dollars from program overview; 40% support from Wayback",
+    "Merit dollar amounts unpublished for CGU / Illinois / MSU / Rady general merit (Ohio $6k–$18k cash range is the clear exception)",
+    "Living bands missing: msu-msf, auburn-msf, tamu-msf, ucsd-msf (current)",
+    "No new finance-specific EXTERNAL degree awards beyond SCH-015–106 verified this batch"
+  ],
+  "counts": {
+    "awardsTotal": 9,
+    "ingestTrue": 7,
+    "ingestFalse": 2
+  }
+}

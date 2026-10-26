@@ -1,0 +1,312 @@
+{
+  "_meta": {
+    "asOf": "2026-10-26",
+    "timezone": "Asia/Hong_Kong",
+    "intake": "Fall 2027 (BC Quant track also Spring Jan 2027; CGU Spring/Summer/Fall; TAMU access-restricted Aggie 4+1; others Fall/August)",
+    "rankingSource": {
+      "name": "TFE Times 2026 Best Master's of Finance ranks 17–24",
+      "url": "https://tfetimes.com/best-finance-program-rankings/",
+      "as_of": "2026-03-01"
+    },
+    "rule": "Never invent; missing ≠ 0. Tuition figures from primary school pages/PDFs as of asOf.",
+    "programIds": [
+      "bc-msf",
+      "cgu-msf",
+      "illinois-msf",
+      "tamu-msf",
+      "ohio-msf",
+      "msu-msf",
+      "auburn-msf",
+      "ucsd-msf"
+    ],
+    "idsSource": "/workspace/brief-handoffs/msf-candidate-list-2026-10-26.md (exact ids used)"
+  },
+  "bc-msf": {
+    "tuition": 71940,
+    "tuitionLabel": "Carroll MSF program total — 30 credits × $2,398/credit (2026–27 AY)",
+    "fees": 196,
+    "feesNote": "Graduate Student Activity Fee $73/semester × 2 (Fall+Spring, 7+ credits) + Initial BC ID Card $50 = $196. Summer term with <7 credits may add $42 activity fee (not assumed). Medical Insurance $4,723 (Fall $2,083 + Spring $2,604) separate / waivable with comparable coverage.",
+    "period": "2026–27 (rates typically announced in April; effective summer start of AY)",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://www.bc.edu/bc-web/schools/carroll-school/graduate/admission/tuition-and-aid.html",
+    "notes": "Full-time MSF: 10 courses / 30 credits / ~12 months. Regular Finance track Fall (Aug) entry only; Quantitative Finance track is STEM-designated and offers Fall Aug 2027 and Spring Jan 2027 entry. Same published per-credit tuition applies to both tracks; merit funding page does not limit awards to STEM/Quant track. Fall 2027 students will be billed on the AY rate in force when enrolled (2027–28 rates typically announced April 2027 — not published as of asOf; 2026–27 used as current published schedule).",
+    "startTerm": "Fall (August) 2027; Quant track also Spring (January) 2027",
+    "summerStart": false,
+    "stem": "Quant Finance track only (Regular track not STEM per program page)",
+    "accessRestricted": false,
+    "livingCostBand": {
+      "low": 28928,
+      "high": null,
+      "basis": "Carroll Tuition & Aid 2026–27 nine-month estimates: Housing $17,204 + Food $5,973 + Transportation $1,800 + Personal $2,651 + Books and Supplies $1,300 = $28,928 (excludes medical insurance)."
+    },
+    "sources": [
+      [
+        "Carroll Tuition & Aid 2026–27",
+        "https://www.bc.edu/bc-web/schools/carroll-school/graduate/admission/tuition-and-aid.html"
+      ],
+      [
+        "BC Student Services Tuition & Fees",
+        "https://www.bc.edu/offices/student-services/billing-student-accounts/tuition-fees.html"
+      ],
+      [
+        "Carroll MS in Finance program",
+        "https://www.bc.edu/bc-web/schools/carroll-school/graduate/ms-programs/ms-in-finance.html"
+      ]
+    ]
+  },
+  "cgu-msf": {
+    "tuition": 66240,
+    "tuitionLabel": "Estimated program tuition — 32 units × $2,070/unit (2025–26 published rate; 2026–27 rate not posted as of asOf)",
+    "fees": 2490,
+    "feesNote": "Student Fee $245 + Technology Fee $150 = $395/semester × 2 semesters = $790. International Student Services Fee (F-1): $802 fall + $898 spring = $1,700 (2025–26; covers annual accident/sickness plan + admin). Total fees shown $2,490 for two-semester full-time path. 2026–27 fees not separately published as of asOf.",
+    "period": "2025–26 unit rate on program page (covers Summer 2025–Spring 2026). Fall 2027 intake will use later AY rates — not locked.",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://www.cgu.edu/academics/program/ms-finance/",
+    "notes": "Drucker School MS in Finance; STEM; 32 units; ~1 year full-time; starts Spring, Summer, or Fall (Fall 2027 classes begin Aug 30, 2027). Same per-unit rate for CA resident / nonresident / international. Tuition figure is 32×$2,070 using 2025–26 published rate marked on program page — do not treat as locked Fall 2027 sticker.",
+    "startTerm": "Fall 2027 (also Spring 2027 / Summer 2027 starts available)",
+    "summerStart": true,
+    "stem": true,
+    "accessRestricted": false,
+    "livingCostBand": {
+      "low": 25000,
+      "high": null,
+      "basis": "CGU International Students Estimated Annual Cost of Attendance (affidavit PDF, revised 2/2026): Living Expenses $25,000 for CGU Programs. Financial Aid COA 2025–26 also budgets Housing $12,500 + Personal $2,500 + Transportation $2,500 per semester for full unit loads."
+    },
+    "sources": [
+      [
+        "CGU MS in Finance",
+        "https://www.cgu.edu/academics/program/ms-finance/"
+      ],
+      [
+        "CGU Tuition & Fees",
+        "https://www.cgu.edu/admissions/cost-aid/tuition-fees/"
+      ],
+      [
+        "CGU Financial Aid & Fellowships",
+        "https://www.cgu.edu/admissions/cost-aid/financial-aid-fellowships/"
+      ],
+      [
+        "CGU Intl Cost of Attendance / Affidavit (rev 2/2026)",
+        "https://my.cgu.edu/international-services/wp-content/uploads/sites/6/2026/02/CGU-International-Students-Cost-of-Attendance_2026.pdf"
+      ]
+    ]
+  },
+  "illinois-msf": {
+    "tuition": 67800,
+    "tuitionLabel": "Gies MSF international tuition total — 3 semesters × $22,600 (2026–27 estimates)",
+    "fees": 8643,
+    "feesNote": "Campus fees international $2,881 × 3 semesters = $8,643 (2026–27 estimates on Gies MSF tuition page). Non-refundable deposit $1,750 credited to tuition after 10th day of first semester.",
+    "period": "2026–27 estimates (table shows Fall '26 / Spring '27 / Fall '27 sequence for Fall 2026 cohort). Fall 2027 entrants: analogous 3-semester sequence; later-term rates may change — tuition guarantee locks entering-cohort rate once enrolled.",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://giesbusiness.illinois.edu/msf/tuition",
+    "notes": "MSF assessed per semester (not per credit), up to 20 credits/semester. US resident 3-semester total tuition+fees $57,846 (tuition $49,437 + fees $8,409). International total tuition+fees $76,443. Open external admits (not a UF/TAMU-style combination).",
+    "startTerm": "Fall 2027 (3-semester sequence typically Fall–Spring–Fall)",
+    "summerStart": false,
+    "stem": null,
+    "accessRestricted": false,
+    "altTuition": {
+      "usResidentTuition3sem": 49437,
+      "usResidentFees3sem": 8409,
+      "usResidentTotal3sem": 57846,
+      "internationalTuition3sem": 67800,
+      "internationalFees3sem": 8643,
+      "internationalTotal3sem": 76443,
+      "perSemesterInternationalTuition": 22600
+    },
+    "livingCostBand": {
+      "low": 21402,
+      "high": 29705,
+      "basis": "Registrar 2026–27 Grad additional expenses (intl): Food & Housing $16,512 + Books & Supplies $1,800 + Other $3,090 = $21,402 per academic year. Gies MSF domestic COA PDF lists Additional Expenses $9,935/semester (Food & Housing $7,490 + Books $900 + Other $1,545) → ×3 semesters = $29,705 (lifestyle-dependent)."
+    },
+    "sources": [
+      [
+        "Gies MSF Tuition and Scholarships",
+        "https://giesbusiness.illinois.edu/msf/tuition"
+      ],
+      [
+        "Gies MSF Estimated COA PDF (domestic 26–27)",
+        "https://giesbusiness.illinois.edu/docs/default-source/default-document-library/estimated-cost-of-attendance---gies-msf-domestic-26-27-(1).pdf?sfvrsn=787204dc_2"
+      ],
+      [
+        "Illinois Registrar 26/27 Grad Additional Expenses",
+        "https://www.registrar.illinois.edu/tuition-fees/tuition-fee-rates/tf-rates-academic-year/g-additional-expenses-2627/"
+      ]
+    ]
+  },
+  "tamu-msf": {
+    "tuition": null,
+    "tuitionEstimate": null,
+    "tuitionLabel": null,
+    "tuitionEstimateLabel": null,
+    "fees": null,
+    "feesNote": "No flat MSF program sticker published for external admits. ISSS 2025 one Fall-or-Spring estimate lists MS Finance student total $38,188 including tuition/fees/insurance and living for one major term only — not a full-degree sticker; not used as Fall 2027 program total (missing ≠ invent multi-term sum).",
+    "period": "No open external Fall 2027 sticker",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://mays.tamu.edu/graduate/masters/4plus1/ms-finance/",
+    "notes": "CRITICAL ACCESS FLAG: Mays MS Finance is a 4+1 / combination pathway. Official page and catalog: All applicants must currently be enrolled as undergraduates at Texas A&M University (sophomore-start and senior-start tracks). Not an open external Fall 2027 MSF for HK/TW/PRC applicants. 36 credit hours, College Station in-person. External applicants seeking finance master's are pointed by Mays marketing to other programs (e.g., Master of Financial Management) — out of this MSF id scope.",
+    "startTerm": "Aggie 4+1 timeline only (not open external Fall MSF)",
+    "summerStart": false,
+    "stem": null,
+    "livingCostBand": null,
+    "accessRestricted": true,
+    "accessNote": "Current Texas A&M undergraduates only (sophomores/seniors) per Mays 4+1 MS Finance and TAMU catalog.",
+    "sources": [
+      [
+        "Mays 4+1 MS Finance",
+        "https://mays.tamu.edu/graduate/masters/4plus1/ms-finance/"
+      ],
+      [
+        "TAMU Catalog MS in Finance",
+        "https://catalog.tamu.edu/graduate/colleges-schools-interdisciplinary/business/finance/ms/"
+      ]
+    ]
+  },
+  "ohio-msf": {
+    "tuition": 68093,
+    "tuitionLabel": "Fisher SMF non-resident and international estimated tuition and fees — 36 credit hours / 3 semesters (2026–27)",
+    "fees": null,
+    "feesNote": "Published $68,093 already includes General Fee, Tuition & Instruction Fee, Student Activity Fee, Student Union Fee, Recreation Fee, Learning-Technology Fee, COTA Bus Fee. Student Health Insurance $4,108 (9 months) separate; international students cannot waive.",
+    "period": "2026–27 academic year estimates (subject to change for future terms)",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://fisher.osu.edu/graduate/smf/admissions/tuition-funding",
+    "notes": "Specialized Master in Finance (SMF); STEM; 16 months / 3 semesters; Autumn entry only (Autumn 2027 classes begin Aug 24, 2027). Ohio resident tuition and fees $47,093. Forever Buckeye / residency pathways may change classification for some students — not assumed for intl.",
+    "startTerm": "Fall (Autumn) 2027",
+    "summerStart": false,
+    "stem": true,
+    "accessRestricted": false,
+    "altTuition": {
+      "ohioResidentTuitionAndFees3sem": 47093,
+      "nonResidentInternationalTuitionAndFees3sem": 68093
+    },
+    "livingCostBand": {
+      "low": 21502,
+      "high": null,
+      "basis": "Fisher SMF page Estimated Other Expenses (9 months): Housing, food & misc. $19,986 + Books and Supplies $1,516 = $21,502 (excludes Student Health Insurance $4,108). Program spans 16 months — summer/living beyond 9 months not itemized on page."
+    },
+    "sources": [
+      [
+        "Fisher SMF Tuition & Funding",
+        "https://fisher.osu.edu/graduate/smf/admissions/tuition-funding"
+      ],
+      [
+        "Fisher SMF Applying and Deadlines",
+        "https://fisher.osu.edu/graduate/smf/admissions/applying-fisher"
+      ]
+    ]
+  },
+  "msu-msf": {
+    "tuition": 51000,
+    "tuitionLabel": "Broad MSF out-of-state / international block tuition and departmental fees total (2026–27 AY)",
+    "fees": null,
+    "feesNote": "Published $51,000 (OOS) / $46,500 (in-state) covers tuition charges for credits and departmental fees. Does not cover additional university fees, textbooks, course materials, or laptop (per tuition-page language mirrored on program overview and Wayback snapshot). Billed in three equal installments at start of each semester.",
+    "period": "2026–27 academic year (as stated on Broad MSF program page)",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://broad.msu.edu/masters/finance/",
+    "notes": "STEM; 30 credits; 12 months full-time on-campus only. Tuition page (broad.msu.edu/masters/finance/tuition/) was Incapsula-blocked to WebFetch/curl during research; dollar figures taken from live program overview page which publishes the same 2026–27 block amounts. 40% non-sponsored financial-support claim sourced from Wayback snapshot of the tuition page (archive 2026-05-18 still showed prior-year stickers $49,500/$45,000 but same 40% language). Open external admits.",
+    "startTerm": "Fall 2027",
+    "summerStart": false,
+    "stem": true,
+    "accessRestricted": false,
+    "altTuition": {
+      "inStateBlock": 46500,
+      "outOfStateBlock": 51000
+    },
+    "livingCostBand": null,
+    "sources": [
+      [
+        "Broad MS in Finance (tuition figures on overview)",
+        "https://broad.msu.edu/masters/finance/"
+      ],
+      [
+        "Broad MSF Tuition & Financial Aid (Incapsula-blocked; Wayback used for support %)",
+        "https://broad.msu.edu/masters/finance/tuition/"
+      ],
+      [
+        "Wayback Broad MSF Tuition page",
+        "https://web.archive.org/web/20260518190554/https://broad.msu.edu/masters/finance/tuition/"
+      ]
+    ]
+  },
+  "auburn-msf": {
+    "tuition": null,
+    "tuitionEstimate": 35550,
+    "tuitionLabel": null,
+    "tuitionEstimateLabel": "Estimate only: non-resident graduate tuition for 30-credit non-thesis MSF assuming two semesters at ≥9 credits each — 2 × ($1,975 × 9) = $35,550. NOT a published flat program sticker.",
+    "fees": null,
+    "feesEstimate": 9724,
+    "feesNote": "Estimate components (2026–27): College of Business Graduate professional fee $241/credit × 30 = $7,230; Student Services Fee $1,002 × 2 semesters = $2,004; Confirmation Fee $450 one-time; Graduation Fee $40 one-time → ≈ $9,724. Actual semester count / credit load changes fees. Alabama resident credit tuition $643/cr (capped at 9 hrs).",
+    "period": "2026–27 per-credit / fee schedule (no flat MSF sticker)",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://harbert.auburn.edu/degrees-programs/graduate/ms-finance/tuition-financial-assistance.html",
+    "notes": "Open Fall-only on-campus admits (also online modality). Bulletin non-thesis = 30 hours (admissions page text said 31 — use bulletin/curriculum 30). No published flat program tuition. Resident estimate 2 × ($643 × 9) = $11,574 tuition + same professional/services structure. Financial assistance page points to loans via Office of Financial Aid — no verified open applicant-facing merit SCH amounts.",
+    "startTerm": "Fall 2027 only (on-campus)",
+    "summerStart": false,
+    "stem": null,
+    "accessRestricted": false,
+    "altTuition": {
+      "nonResidentPerCreditTo9": 1975,
+      "residentPerCreditTo9": 643,
+      "professionalFeePerCredit": 241,
+      "studentServicesFeePerSemester": 1002,
+      "nonResidentTuitionEstimate2sem30cr": 35550,
+      "residentTuitionEstimate2sem30cr": 11574,
+      "creditsBulletinNonThesis": 30
+    },
+    "livingCostBand": null,
+    "sources": [
+      [
+        "Harbert MSF Tuition & Financial Assistance",
+        "https://harbert.auburn.edu/degrees-programs/graduate/ms-finance/tuition-financial-assistance.html"
+      ],
+      [
+        "Auburn Bulletin Basic Charges (eff. Fall 2026)",
+        "https://bulletin.auburn.edu/generalinformation/financialinformation/basicchargesrevisedmay/"
+      ],
+      [
+        "Auburn Bulletin MS Finance",
+        "https://bulletin.auburn.edu/thegraduateschool/graduatedegreesoffered/finance_ms/"
+      ],
+      [
+        "Harbert MSF Admissions",
+        "https://harbert.auburn.edu/degrees-programs/graduate/ms-finance/admissions.html"
+      ]
+    ]
+  },
+  "ucsd-msf": {
+    "tuition": 83876,
+    "tuitionLabel": "Rady Master of Quantitative Finance (MQF; formerly Master of Finance) Fall 2025 cohort tuition — 52 units × $1,613/unit. PROXY for Fall 2027 — Fall 2026/2027 cohort rates not published as of asOf.",
+    "fees": 8483,
+    "feesNote": "TritonLink 2025–26 Rady MQF campus/registration fees for Fall+Winter+Spring (excl. per-unit tuition) ≈ $8,483.44 including Student Services Fee, campus fees, SHIP $5,820, Rady Activity Fee, Document Fee $100. Program is 12 or 15 months — Summer quarter fees additional and not fully itemized in the F/W/S annual table. Intl Student Visa Fee $150 one-time separate.",
+    "period": "Fall 2025 cohort schedule on TritonLink (updated Mar 2026). Fall 2027 entering cohort rates NOT published — labeled proxy only.",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://students.ucsd.edu/finances/fees/registration/previous/2025-26/rady.html",
+    "notes": "Catalog id ucsd-msf maps to Rady finance master's now branded Master of Quantitative Finance (MQF); prior Master of Finance (MFin) name superseded. Self-supported; STEM-oriented quant curriculum; 52 units; billed quarterly. Deposit $1,500. QuantNet-adjacent but kept on TFE MSF slate per brief. Exclude deeper MFE/MSCF-style programs — this is the TFE #24 Rady entry.",
+    "startTerm": "Fall 2027 (MQF; confirm cohort start on Rady page)",
+    "summerStart": false,
+    "stem": true,
+    "accessRestricted": false,
+    "livingCostBand": null,
+    "sources": [
+      [
+        "UCSD TritonLink Rady Registration Fees 2025–26",
+        "https://students.ucsd.edu/finances/fees/registration/previous/2025-26/rady.html"
+      ],
+      [
+        "Rady MQF Tuition & Aid",
+        "https://rady.ucsd.edu/programs/master-quantitative-finance/tuition-aid.html"
+      ],
+      [
+        "Rady Fellowships",
+        "https://rady.ucsd.edu/programs/fellowships/"
+      ]
+    ]
+  }
+}

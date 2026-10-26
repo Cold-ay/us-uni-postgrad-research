@@ -798,5 +798,91 @@ export const rankedSchools = [
     "rank": null,
     "academic": "UF Warrington MS in Finance and Technology (florida-msft): DISTINCT from classic florida-msf combo MSF. Traditional 1-year / 30 credits / Fall-only / 8-week modules; first traditional class Fall 2027. Deadlines Mar 1 (early) / May 1 (final) 2027. Tuition on program page: OOS $43,478 / in-state $15,976. Open to traditional external applicants (business bachelor’s preferred). STEM null. Not on TFE MSF spine.",
     "programUrl": "https://warrington.ufl.edu/graduate/masters-finance-technology/"
+  },
+  {
+    "id": "bc-msf",
+    "university": "Boston College",
+    "short": "Boston College Carroll",
+    "degree": "MS in Finance",
+    "area": "Finance",
+    "rank": 17,
+    "academic": "BC Carroll MSF: 10 courses/~12 mo FT. Quant STEM (Fall Aug or Spring Jan); Regular Fall only. Fall 2027 rounds Oct 13’26–Jun 8’27; Spring Quant final Dec 15’26. Tuition 2026–27 $71,940 ($2,398/cr × 30).",
+    "programUrl": "https://www.bc.edu/bc-web/schools/carroll-school/graduate/ms-programs/ms-in-finance.html"
+  },
+  {
+    "id": "cgu-msf",
+    "university": "Claremont Graduate University",
+    "short": "Claremont Graduate (Drucker)",
+    "degree": "MS in Finance",
+    "area": "Finance",
+    "rank": 18,
+    "academic": "CGU Drucker MSF: STEM, 32 units/~1 yr. Spring/Fall primary starts. Fall 2027 priority Feb 1 / intl final Jun 1 / dom Aug 1. Est. tuition 32×$2,070=$66,240 (2025–26 rates).",
+    "programUrl": "https://www.cgu.edu/academics/program/ms-finance/"
+  },
+  {
+    "id": "illinois-msf",
+    "university": "University of Illinois Urbana-Champaign",
+    "short": "Illinois Gies",
+    "degree": "MS in Finance",
+    "area": "Finance",
+    "rank": 19,
+    "academic": "Illinois Gies MSF: STEM, ~3 semesters / 40 cr. Fall 2027 rounds Oct 28’26–Jun 9’27 (intl final May 5). Est. intl tuition+fees $76,443 / resident $57,846 (2026–27 3-sem).",
+    "programUrl": "https://giesbusiness.illinois.edu/msf"
+  },
+  {
+    "id": "tamu-msf",
+    "university": "Texas A&M University",
+    "short": "Texas A&M Mays",
+    "degree": "MS in Finance (TAMU 4+1)",
+    "area": "Finance",
+    "rank": 20,
+    "academic": "TAMU Mays MSF: TAMU-undergrad 4+1 only; May boot camps then FT year; 36 cr. Tuition via calculator (null flat). External Fall 2027 gap — related MS-QFIN may accept non-TAMU grads (verify deadlines).",
+    "programUrl": "https://mays.tamu.edu/graduate/masters/4plus1/ms-finance/"
+  },
+  {
+    "id": "ohio-msf",
+    "university": "The Ohio State University",
+    "short": "Ohio State Fisher",
+    "degree": "Specialized Master in Finance",
+    "area": "Finance",
+    "rank": 21,
+    "academic": "OSU Fisher SMF: STEM, 36 cr/~16 mo, Autumn only (Aug 24 2027). Deadlines Dec 11’26 / Feb 19 / May 28 intl / Jul 19 dom. Est. NR/intl $68,093 / OH $47,093 (2026–27).",
+    "programUrl": "https://fisher.osu.edu/graduate/smf",
+    "id_alias_legacy": [
+      "ohiostate-msf"
+    ]
+  },
+  {
+    "id": "msu-msf",
+    "university": "Michigan State University",
+    "short": "Michigan State Broad",
+    "degree": "MS in Finance",
+    "area": "Finance",
+    "rank": 22,
+    "academic": "MSU Broad MS Finance: STEM (news), ~30 cr/~12 mo. Indexed deadlines Feb 1 / Mar 1 (years for 2027 entry). Indexed tuition 2026–27 $51k OOS / $46.5k in-state. VERIFY — Incapsula blocked live scrape.",
+    "programUrl": "https://broad.msu.edu/masters/finance/"
+  },
+  {
+    "id": "auburn-msf",
+    "university": "Auburn University",
+    "short": "Auburn Harbert",
+    "degree": "MS in Finance",
+    "area": "Finance",
+    "rank": 23,
+    "academic": "Auburn Harbert MSF: fall only; 30–31 cr; STEM not stated. Deadlines Apr 1 intl / Jun 1 dom (years for entry year). Tuition per-credit 2026–27 $643 AL / $1,975 NR + $241/cr professional — no flat total.",
+    "programUrl": "https://harbert.auburn.edu/degrees-programs/graduate/ms-finance/"
+  },
+  {
+    "id": "ucsd-msf",
+    "university": "University of California, San Diego",
+    "short": "UC San Diego Rady",
+    "degree": "Master of Quantitative Finance (MQF)",
+    "area": "Finance",
+    "rank": 24,
+    "academic": "UCSD Rady MQF (ex-MFin): STEM, 52 units, 12–15 mo. Fall 2027 rounds Oct 15’26–Jul 15’27 (intl Round 4 Jun 1). Program tuition Fall 2026 cohort $88,036 (+ ~$9.4k/yr campus fees); Fall 2027 rate TBD.",
+    "programUrl": "https://rady.ucsd.edu/programs/master-quantitative-finance/",
+    "id_alias_legacy": [
+      "ucsd-rady-msf"
+    ]
   }
 ];

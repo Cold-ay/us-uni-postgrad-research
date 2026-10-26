@@ -1,4 +1,4 @@
-// Generated from path/outcomes/batch-001.json through batch-005.json, msf-batch-001.json, msf-batch-002.json, msf-florida-msft.json, and id-map.json. Do not edit by hand.
+// Generated from path/outcomes/batch-001.json through batch-005.json, msf-batch-001.json, msf-batch-002.json, msf-florida-msft.json, msf-batch-003.json (batch3 catalog ids only; ohiostate-msf→ohio-msf, ucsd-rady-msf→ucsd-msf), path-bc-msf-from-batch002.json, and id-map.json. Do not edit by hand.
 export const outcomeBatchMeta = [
   {
     "batch_id": "batch-001",
@@ -313,6 +313,62 @@ export const outcomeBatchMeta = [
     "methodology": "Open public sources only. No fabricated numbers; gaps=unknown. Inaugural program — do not copy classic MSF placement onto FinTech id.",
     "lock_note": "Collinn 2026-10-26: ADD florida-msft to primary slate; keep florida-msf restricted.",
     "last_updated": "2026-10-26"
+  },
+  {
+    "batch_id": "msf-batch-003",
+    "agent": "path",
+    "created": "2026-10-26",
+    "access_date": "2026-10-26",
+    "card_count": 13,
+    "schema_version": "outcome-card-v2-msf",
+    "schema_notes": [
+      "catalog_id currently equals program_id for MSF site scaffolding (not yet in rankedSchools catalog)",
+      "degree_family: MSF | MFin | MSFE | MiF | MSCF | MFE | other",
+      "top_finance_firm_signal replaces big_tech_or_top_firm_signal conceptually; big_tech field retained as alias pointing to finance signal",
+      "Aligned to Collinn/gm LOCKED 2026-10-26: TFE Times 2026 #18–30 remainder",
+      "Name confirmations: temple-msf=Fox MS Financial Analysis; santaclara-msf=Leavey MSFA; ucsd-rady-msf=Rady MQF (renamed from Master of Finance); tamu-msf=Mays 4+1 TAMU-undergrad-only RESTRICTED (aligned brief/gm; was texasam-msf)"
+    ],
+    "methodology": "Open public sources only (official career PDFs/pages). No fabricated numbers; gaps=unknown. Never messaged alumni/recruiters. No unauthorized login scraping.",
+    "program_ids": [
+      "cgu-msf",
+      "illinois-msf",
+      "tamu-msf",
+      "ohiostate-msf",
+      "msu-msf",
+      "auburn-msf",
+      "ucsd-rady-msf",
+      "illinois-tech-msf",
+      "temple-msf",
+      "lsu-msf",
+      "santaclara-msf",
+      "rit-msf",
+      "arizona-msf"
+    ],
+    "catalog_ids": [
+      "cgu-msf",
+      "illinois-msf",
+      "tamu-msf",
+      "ohiostate-msf",
+      "msu-msf",
+      "auburn-msf",
+      "ucsd-rady-msf",
+      "illinois-tech-msf",
+      "temple-msf",
+      "lsu-msf",
+      "santaclara-msf",
+      "rit-msf",
+      "arizona-msf"
+    ],
+    "excluded_this_batch": [
+      "Quant/MFE/MSCF bucket — separate track (do not mix)",
+      "TFE 1–8 already in msf-batch-001",
+      "TFE 9–17 + chicago-booth-mif + columbia-msfe already in msf-batch-002"
+    ],
+    "last_updated": "2026-10-26"
+  },
+  {
+    "source": "msf-batch-002 extract",
+    "note": "bc-msf deferred from batch2 PR; ingest with batch3"
   }
 ];
 export const outcomeMeta = {
@@ -4049,6 +4105,467 @@ export const outcomeCards = {
     "confidence_reason": "Inaugural Fall 2027 traditional cohort — zero program-specific placement/internship/salary data. Adjacent classic MSF stats explicitly not attributed. Career-page claims are aspirational.",
     "last_updated": "2026-10-26",
     "pathProgramId": "florida-msft",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "bc-msf": {
+    "school": "Boston College",
+    "program": "Carroll MS in Finance",
+    "degree": "MSF",
+    "degree_family": "MSF",
+    "internship_rate": "unknown (MSF-specific internship % not published on Carroll career-development page this run)",
+    "full_time_placement": "90% of students who accepted full-time offers accepted those offers in the U.S. (Class of 2025 FT MSF; data through April 2, 2026 for Dec 2024 / May 2025 / Aug 2025 graduates). Classic seeker-based offer/accept % at 6 months: unknown on the same page. Average base $82,333 (permanent US work-authorized); $81,800 average base for US accepts including non-permanent work-authorized.",
+    "full_time_placement_notes": "Carroll page markets typical MSF destinations: corporate finance, asset management, investment banking. Page includes explicit international-student caution that US permanent employment has become challenging and recommends dual US + home-country search.",
+    "notable_employers": [
+      "Alvarez & Marsal",
+      "Andersen",
+      "BCG",
+      "Kohlberg Kravis Roberts & Co",
+      "Bank of China",
+      "Bracebridge Capital, LLC",
+      "Ballentine Partners",
+      "Berkshire Residential Investments",
+      "Craig-Hallum Capital Group LLC",
+      "Dark Alpha Capital LLC",
+      "Alter Domus",
+      "Rockland Trust Bank",
+      "Simon Kucher & Partners",
+      "Riparian Partners, LLC"
+    ],
+    "notable_employers_notes": "2023–2025 employer examples listed under MSF section of Carroll Career Development page — not a ranked Class of 2025 multi-hire census.",
+    "top_finance_firm_signal": "Moderate-high Boston corridor signal (KKR example, AM/PE boutiques, A&M, BCG). Bulge multi-hire density not quantified on page.",
+    "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
+    "sample_alumni_paths": [
+      "Corporate finance",
+      "Asset management",
+      "Investment banking",
+      "Advisory / consulting (A&M, BCG examples)"
+    ],
+    "referral_network_notes": "Carroll Graduate Career Development; Eagle Exchange alumni mentoring; BC alumni network. Formal referral ease: unknown.",
+    "difficulty_notes": "Multiple graduation terms (Dec/May/Aug) in reporting window. Boston finance market competitive.",
+    "intl_student_notes": "Official career page warns intl students that US permanent employment has become challenging and recommends global search. Exact Class of 2025 intl %: unknown. Confirm STEM status with Carroll for Fall 2027 OPT.",
+    "sources": [
+      {
+        "title": "Boston College Carroll – Graduate Career Development (MSF Class of 2025 outcomes)",
+        "url": "https://www.bc.edu/bc-web/schools/carroll-school/graduate/career-development.html",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "Boston College Carroll – M.S. in Finance program page",
+        "url": "https://www.bc.edu/bc-web/schools/carroll-school/graduate/ms-programs/ms-in-finance.html",
+        "access_date": "2026-10-26"
+      }
+    ],
+    "confidence": "medium",
+    "confidence_reason": "Official Carroll page publishes MSF Class of 2025 US salary and 90% US-accept share among FT accepts, plus employer examples; does not publish classic CSEA seeker offer/accept @6mo %.",
+    "last_updated": "2026-10-26",
+    "pathProgramId": "bc-msf",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "cgu-msf": {
+    "school": "Claremont Graduate University",
+    "program": "Drucker MS in Finance",
+    "degree": "MSF",
+    "degree_family": "MSF",
+    "schedule_note": "In-person ~1 year (32 units); Fall, Spring, and Summer starts available (Fall 2027 classes begin ~Aug 30, 2027 per CGU deadlines page).",
+    "internship_rate": "unknown (Asset Management Practicum marketed; internship % not published this run)",
+    "full_time_placement": "80% of Class of 2025 graduates seeking employment secured full-time roles within six months of graduation (Drucker School news release, Mar 2026).",
+    "full_time_placement_notes": "Figure from official CGU news page summarizing Class of 2025; no separate CSEA-style multi-page employment PDF with seeker denominator, salaries, or function mix located this run. Sample roles cited: Quantitative Analyst, Staff Auditor, Finance & Accounting Specialist.",
+    "notable_employers": [
+      "MUFG Bank",
+      "Esco Technology",
+      "Haas & Dawe",
+      "Residents Medical"
+    ],
+    "notable_employers_notes": "Recent employers named on official Class of 2025 outcomes blurb; not a multi-hire census.",
+    "top_finance_firm_signal": "Low–moderate. One named bank (MUFG) plus regional/tech/medical employers on the Class of 2025 blurb; bulge/elite multi-hire density unknown.",
+    "sample_alumni_paths": [
+      "Quantitative analyst",
+      "Staff auditor",
+      "Finance & accounting specialist",
+      "Investment / CFA-aligned analyst path (curriculum marketed)"
+    ],
+    "referral_network_notes": "Small graduate-only Drucker cohort + Asset Management Practicum; Claremont Colleges ecosystem. Formal referral metrics unknown.",
+    "difficulty_notes": "Graduate-only institution; small class sizes; CFA Affiliated University; GRE/GMAT required with waivers. Selectivity metrics unknown this run.",
+    "intl_student_notes": "STEM-designated (CGU program page: eligible F-1 OPT + STEM extension up to 36 months). Intl % of Class of 2025 unknown.",
+    "sources": [
+      {
+        "title": "Drucker School MSF Class of 2025 outcomes + TFE #18 (CGU News)",
+        "url": "https://www.cgu.edu/news/2026/03/drucker-schools-ms-in-finance-ranks-18-nationally-and-3-in-the-west-in-tfe-times-2026-rankings/",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "CGU Drucker MS in Finance program page (STEM, CFA, schedule)",
+        "url": "https://www.cgu.edu/academics/program/ms-finance/",
+        "access_date": "2026-10-26"
+      }
+    ],
+    "confidence": "medium",
+    "confidence_reason": "Official school news states Class of 2025 80% within 6 months and names employers, but no CSEA PDF with salaries, seeker n, or function mix.",
+    "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
+    "last_updated": "2026-10-26",
+    "pathProgramId": "cgu-msf",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "illinois-msf": {
+    "school": "University of Illinois Urbana-Champaign",
+    "program": "Gies MS Finance",
+    "degree": "MSF",
+    "degree_family": "MSF",
+    "schedule_note": "Three standard semesters; Fall and Spring entry. Distinct from UIUC MSFE quant track.",
+    "internship_rate": "unknown (MSF Practicum + Investment Challenge marketed; MSF-specific internship % not in 2024–25 outcomes PDF)",
+    "full_time_placement": "83.0% successful career outcomes within 6 months for MSF seekers 2024–2025 (44 hired / 53 seeking). Domestic 100%; International 82%.",
+    "full_time_placement_notes": "Official Gies on-campus graduate CSEA-conformant PDF (Aug 2024 / Dec 2024 / May 2025 grads). Total MSF graduates 177; known employment status among seekers n=53. Average US salary $89,000 (8 reporting; salary knowledge rate 25%); abroad avg $42,381 (3). US offer geography: Midwest 59%, West 11%, Northeast/Mid-Atlantic/South/Southwest 7% each. Featured employers on careers page also list GS/JPM/MS/Wells Fargo (broader highlight list).",
+    "notable_employers": [
+      "Amazon",
+      "CIBC",
+      "EY",
+      "PwC",
+      "Fifth Third Bank",
+      "FHL Bank of Atlanta",
+      "Zacks Investment Management",
+      "TSMC",
+      "Equity Methods",
+      "Crowe",
+      "Dayforce",
+      "Hewlett Packard",
+      "Busey",
+      "Ravinia Capital",
+      "Goldman Sachs",
+      "JP Morgan",
+      "Morgan Stanley",
+      "Wells Fargo"
+    ],
+    "notable_employers_notes": "PDF sample employers for 2024–25 MSF + featured employers on MSF career-outcomes page (GS/JPM/MS/Wells Fargo appear on page feature list; PDF sample does not show multi-hire counts).",
+    "top_finance_firm_signal": "Moderate. Official sample leans Midwest banks/advisory/Big 4 plus Amazon/TSMC; careers page features bulge names without Class of 2025 multi-hire counts. Functions span IB analyst, equity research, risk, valuation, advisory.",
+    "sample_alumni_paths": [
+      "Investment banking analyst",
+      "Equity research analyst",
+      "Financial / credit risk analyst",
+      "Valuation associate",
+      "Wealth management associate (alumni story: Goldman Sachs)",
+      "Advisory / Big 4 consulting"
+    ],
+    "referral_network_notes": "Gies Office of Career and Professional Development; MSF Academy; Illinois Business Consulting; MSF Practicum. Formal cold-outreach ease: unknown.",
+    "difficulty_notes": "Large graduating class (177 in 2024–25 report) with only 53 known seekers in outcomes module — interpret placement carefully. STEM. Distinct from MSFE.",
+    "intl_student_notes": "STEM-designated (up to 36 months OPT). International seekers 82% successful vs domestic 100% in 2024–25 PDF — clear domestic skew in outcomes. Cohort nationality mix on report not broken out beyond that split.",
+    "sources": [
+      {
+        "title": "Gies Career Outcomes for On-Campus Graduate Programs PDF (MSF 2024–2025)",
+        "url": "https://giesbusiness.illinois.edu/docs/default-source/default-document-library/programs/bgp/grad-allprograms---career-outcomes---final.pdf?sfvrsn=bc5be3d0_11",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "Gies MSF Career Outcomes page",
+        "url": "https://giesbusiness.illinois.edu/msf/career-outcomes",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "Gies MSF program page",
+        "url": "https://giesbusiness.illinois.edu/msf",
+        "access_date": "2026-10-26"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Official CSEA-conformant Gies PDF with MSF-specific seeker rates, domestic/intl split, US salary, geography, and sample employers.",
+    "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
+    "last_updated": "2026-10-26",
+    "pathProgramId": "illinois-msf",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "tamu-msf": {
+    "school": "Texas A&M University",
+    "program": "Mays MS Finance (4+1)",
+    "degree": "MSF",
+    "degree_family": "MSF",
+    "schedule_note": "RESTRICTED PATHWAY: 4+1 MS Finance for current Texas A&M undergraduates only (sophomores/seniors). Not an open external/standalone MSF. In-person College Station; 36 credits; Fall entry. Placement figures below are combo-cohort only.",
+    "internship_rate": "unknown as a published %; AY2024 ~50% of students accepted an internship or full-time role with an Advisory Board company (program advisory-board page).",
+    "full_time_placement": "100% job success among active seekers at graduation (Mays MSF careers module / FT 2026 ranking news) — combo-cohort (TAMU 4+1) only. Average first-year salary range $80,000–$100,000; some first-year total compensation $180,000+ including bonuses (program page).",
+    "full_time_placement_notes": "Figures apply to TAMU undergraduate 4+1 cohort only — not an open external MSF class. No separate CSEA multi-page MSF employment PDF located this run. FT Masters in Finance ranking news (Jun 2026) cites alumni average salary $121,625 (FT methodology) alongside the 100% at-graduation claim. Treat seeker definition and denom as school-stated, not independently audited here.",
+    "notable_employers": [
+      "Goldman Sachs",
+      "Bank of America",
+      "Citi",
+      "Wells Fargo",
+      "RBC Capital Markets",
+      "Houlihan Lokey",
+      "Macquarie Group",
+      "Mizuho",
+      "JPMorgan (via advisory ecosystem)",
+      "Deloitte",
+      "EY",
+      "KPMG",
+      "PwC",
+      "McKinsey & Co.",
+      "ExxonMobil",
+      "BP",
+      "ConocoPhillips",
+      "Baker Hughes",
+      "Dell",
+      "Texas Instruments",
+      "Teacher Retirement System of Texas",
+      "UTIMCO"
+    ],
+    "notable_employers_notes": "Advisory Board member firms (35+); ~50% of AY2024 students placed internship/FT with an advisory-board company. Not a Class of 2025 hire census.",
+    "top_finance_firm_signal": "High for a public 4+1. Dense IB/markets/energy/consulting advisory board (GS, BofA, Citi, HL, RBC, Macquarie, McKinsey, Big 4, majors energy). Outcomes gated to TAMU undergrad pipeline.",
+    "sample_alumni_paths": [
+      "Investment banking / markets analyst",
+      "Energy finance / corporate finance",
+      "Consulting / transaction advisory",
+      "Asset management / TRS / UTIMCO-adjacent investing"
+    ],
+    "referral_network_notes": "MSF Advisory Board (35+ firms) + STEM to Stocks Club + student directory for employers. Formal referral ease: unknown.",
+    "difficulty_notes": "Pathway gate: external/intl N/A — outcomes reflect TAMU combo cohort only. GPA floors (min 3.25; 3.5 for FINC majors). Strong Aggie recruiting network for enrolled TAMU undergrads.",
+    "intl_student_notes": "RESTRICTED for external/intl: TAMU-undergrad 4+1 MSF only — external and international applicants N/A unless already enrolled as Texas A&M undergraduates (Collinn/gm lock 2026-10-26 keep+annotate). Domestically skewed by design. STEM designation for the credential: confirm with Mays if already TAMU UG; do not invent an open external MSF path.",
+    "sources": [
+      {
+        "title": "Mays 4+1 MS Finance program page (eligibility + 100% claim)",
+        "url": "https://mays.tamu.edu/graduate/masters/4plus1/ms-finance/",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "Mays MSF Advisory Board (employers + 50% board placement)",
+        "url": "https://mays.tamu.edu/graduate/masters/4plus1/ms-finance/advisory-board/",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "Mays MS Finance FT ranking news (salary context)",
+        "url": "https://mays.tamu.edu/news/2026/06/22/mays-ms-finance-ft-2026-ranking/",
+        "access_date": "2026-10-26"
+      }
+    ],
+    "confidence": "medium",
+    "confidence_reason": "Official 100% at-graduation claim and salary bands on program/FT news pages plus named advisory board, but no CSEA PDF; pathway is RESTRICTED 4+1 (combo-cohort only).",
+    "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
+    "last_updated": "2026-10-26",
+    "restricted": true,
+    "restricted_note": "TAMU undergrad 4+1 combination pathway only; external/international applicants N/A (Collinn/gm lock 2026-10-26). Keep on slate annotated — same pattern as florida-msf. Id aligned to brief/gm: tamu-msf (not texasam-msf).",
+    "pathProgramId": "tamu-msf",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "ohio-msf": {
+    "school": "Ohio State University",
+    "program": "Fisher Specialized Master in Finance (SMF)",
+    "degree": "MSF",
+    "degree_family": "MSF",
+    "schedule_note": "Full-time on-campus STEM SMF; 36 credits / ~16 months with summer internship; Autumn start only (e.g., Autumn 2027). Domestic students entering autumn 2026+ may complete final semester online.",
+    "internship_rate": "unknown as published % (program designed around summer internship; Career FAQ: majority of internships offered Mar–May)",
+    "full_time_placement": "87% of job-seeking graduates with offers six months post-graduation (SMF Outcomes 2025; CSEA Specialty Master’s standards). Average starting salary $80,055.",
+    "full_time_placement_notes": "Official Fisher SMF career-outcomes page. Functions 2025: Corporate Finance/IB/Consulting 50%; Investment/Wealth Management 42%; Real Estate 8%. Grads across 30 US states + many international cities (heavy China/Asia destinations on list).",
+    "notable_employers": [
+      "JPMorgan Chase & Co.",
+      "Goldman Sachs & Co.",
+      "Morgan Stanley",
+      "Bank of America",
+      "Citibank",
+      "Deloitte",
+      "EY",
+      "KPMG",
+      "PwC",
+      "McKinsey Company",
+      "Amazon",
+      "Charles Schwab",
+      "Raymond James Financial",
+      "Huntington National Bank",
+      "Nationwide",
+      "Fifth Third Bank",
+      "ExxonMobil",
+      "P&G",
+      "China Merchants Bank",
+      "China Construction Bank",
+      "Industrial & Commercial Bank of China"
+    ],
+    "notable_employers_notes": "Companies making offers list on official 2025 SMF outcomes page (not multi-hire ranked).",
+    "top_finance_firm_signal": "Moderate–high. Named bulge (JPM, GS, MS, BofA, Citi) + Big 4/McKinsey + Midwest banks/insurers. Function mix corporate/IB/consulting and IM/wealth heavy.",
+    "sample_alumni_paths": [
+      "Corporate finance / investment banking",
+      "Investment / wealth management",
+      "Real estate finance",
+      "Risk management pathway (curriculum)",
+      "Consulting"
+    ],
+    "referral_network_notes": "Dedicated OCM career coach; Career Core; alumni mentor program; Fisher Futures adjacent undergrad IB pipeline. Formal referral metrics unknown.",
+    "difficulty_notes": "Incoming Class of 2026: n=44; 27% international / 73% domestic; avg GPA 3.5; 68% <1 year work experience. Small cohort.",
+    "intl_student_notes": "STEM-designated. Class of 2026 incoming 27% international (10 countries) — domestically skewed vs many coastal MSFs. Outcomes page lists numerous China/HK/Taiwan/other international placements alongside US offers.",
+    "sources": [
+      {
+        "title": "Fisher SMF Career Coaching & Outcomes (2025 CSEA)",
+        "url": "https://fisher.osu.edu/graduate/smf/smf-career-outcomes",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "Fisher SMF program page",
+        "url": "https://fisher.osu.edu/graduate/smf",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "Fisher SMF 2026 Incoming Class Profile",
+        "url": "https://fisher.osu.edu/graduate/smf/admissions/class-profile",
+        "access_date": "2026-10-26"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Official CSEA-conformant SMF outcomes page with offer %, salary, function mix, and named offer companies.",
+    "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
+    "last_updated": "2026-10-26",
+    "pathProgramId": "ohiostate-msf",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "msu-msf": {
+    "school": "Michigan State University",
+    "program": "Broad MS Finance",
+    "degree": "MSF",
+    "degree_family": "MSF",
+    "schedule_note": "Full-time in-person master’s (Broad); typical autumn-aligned specialized master’s timing — confirm exact months with Broad for Fall 2027.",
+    "internship_rate": "unknown (MSF-specific internship % not on AACSB outcomes page this run)",
+    "full_time_placement": "92% placed within 6 months of graduation (employed or continuing education) for Finance master’s Class of 2024 (Broad AACSB student-outcomes page). Completion rate 100%.",
+    "full_time_placement_notes": "Program-level row labeled 'Finance' under master’s Class of 2024 on broad.msu.edu/about/outcomes/. No MSF-specific salary, function mix, or employer multi-hire table on that page. Palmer undergrad finance salaries are separate and must not be substituted.",
+    "notable_employers": [],
+    "notable_employers_notes": "MSF-specific employer census not published on the AACSB outcomes page this run. Secondary Financial Markets Institute coverage mentions bulge names for FMI participants — not used as MSF Class of 2024 hire list.",
+    "top_finance_firm_signal": "Unknown from official MSF Class of 2024 outcomes module (placement % only). Broad brand + Midwest corporate/finance recruiting historically; verify with future employment report.",
+    "sample_alumni_paths": [
+      "Financial analyst",
+      "Investment banking analyst (marketed path)",
+      "Risk manager",
+      "Corporate finance associate",
+      "Asset management"
+    ],
+    "referral_network_notes": "Russell Palmer Career Management Center; Broad alumni. Formal MSF referral metrics unknown.",
+    "difficulty_notes": "Official Class of 2024 finance master’s placement published; class size / intl mix for MSF unknown this run.",
+    "intl_student_notes": "STEM designation historically reported for selected Broad master’s (confirm current CIP for MS Finance before Fall 2027 OPT planning). Intl % unknown.",
+    "sources": [
+      {
+        "title": "MSU Broad Student Outcomes (Finance master’s Class of 2024)",
+        "url": "https://broad.msu.edu/about/outcomes/",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "MSU Broad Master’s in Finance program page",
+        "url": "https://broad.msu.edu/masters/finance/",
+        "access_date": "2026-10-26"
+      }
+    ],
+    "confidence": "medium",
+    "confidence_reason": "Official AACSB outcomes table gives Finance master’s 92% @6mo for Class of 2024, but no salary/employer/function PDF breakout.",
+    "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
+    "last_updated": "2026-10-26",
+    "pathProgramId": "msu-msf",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "auburn-msf": {
+    "school": "Auburn University",
+    "program": "Harbert MS Finance",
+    "degree": "MSF",
+    "degree_family": "MSF",
+    "schedule_note": "Full-time on-campus and online modalities; dual MBA option marketed. Confirm Fall 2027 start term with Harbert.",
+    "internship_rate": "unknown (MSF-specific internship % not published this run)",
+    "full_time_placement": "unknown (MSF-specific). Harbert College Quick Facts cite 86% placement within 6 months and ~$61k+ average starting salary at college level — not MSF-only.",
+    "full_time_placement_notes": "Do not treat Harbert college-wide 86% / $61k as MSF rates. Program page emphasizes risk management, trading, investments curriculum + global immersion; no Class of 2025 MSF CSEA PDF located.",
+    "notable_employers": [
+      "Deloitte",
+      "PwC",
+      "Regions",
+      "KPMG",
+      "Ernst & Young"
+    ],
+    "notable_employers_notes": "Top employers listed on Harbert Quick Facts (college-wide), not an MSF multi-hire census.",
+    "top_finance_firm_signal": "Low–moderate / unknown at MSF level. College-wide Big 4 + Regions Bank presence; MSF-specific bulge density unknown.",
+    "sample_alumni_paths": [
+      "Risk management",
+      "Trading",
+      "Investments / portfolio analysis",
+      "Corporate finance"
+    ],
+    "referral_network_notes": "Harbert Graduate Career Services; Investment Center; global business immersion. Formal MSF referral metrics unknown.",
+    "difficulty_notes": "On-campus vs online choice; ROI marketing strong but outcome transparency for MSF is thin.",
+    "intl_student_notes": "Intl % and STEM status for Harbert MSF: confirm with school. College Quick Facts note 33 countries represented college-wide (not MSF-specific).",
+    "sources": [
+      {
+        "title": "Harbert MS Finance program page",
+        "url": "https://harbert.auburn.edu/degrees-programs/graduate/ms-finance/",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "Harbert College Quick Facts (college-wide placement)",
+        "url": "https://harbert.auburn.edu/about/quick-facts.html",
+        "access_date": "2026-10-26"
+      }
+    ],
+    "confidence": "low",
+    "confidence_reason": "No MSF-specific placement %, salary, or employer census found; only college-wide Quick Facts proxies.",
+    "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
+    "last_updated": "2026-10-26",
+    "pathProgramId": "auburn-msf",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "ucsd-msf": {
+    "school": "University of California, San Diego",
+    "program": "Rady Master of Quantitative Finance (MQF; formerly Master of Finance)",
+    "degree": "MQF",
+    "degree_family": "MSF",
+    "schedule_note": "Official rename Master of Finance → Master of Quantitative Finance (MQF) effective ~Fall 2024 (same TFE-tracked program). On-site; ~12-month length in 2025 employment report. Remains on primary TFE spine (not quant-bucket id).",
+    "internship_rate": "unknown (2025 CSEA report shows 0% school-facilitated internship conversion among acceptances; MSF/MQF internship rate not separately headline)",
+    "full_time_placement": "56.4% of seekers accepted employment within 6 months (44/78) per 2025 CSEA job-acceptance table; 43.6% had not reported accepting by 6 months. Outcome information confirmed for 61.1% of graduating class (n=144).",
+    "full_time_placement_notes": "Official Rady 2025 Employment Report (MQF section). Mean base salary $53,680 (39 reporting of 43 FT accepts); North America mean $68,441 (26); Asia mean $22,808 (12) with 35.7% of located accepts in Asia. Average signing bonus $10,382 among the 12.8% of salary reporters with a bonus. YoY: report notes +28.8% increase in average salary vs prior year but acceptance rate is sharply weaker than 2024 MQF/MFin cycle (~81.6% accepted within 6 months in 2024 report). Functions: 68.3% Finance/Accounting roles; 55.8% Finance & Accounting Services industries.",
+    "notable_employers": [
+      "Goldman Sachs",
+      "Fidelity Investments",
+      "Raymond James",
+      "KeyBank",
+      "PricewaterhouseCoopers",
+      "Deloitte China",
+      "KPMG",
+      "Bank of China",
+      "HSBC China",
+      "CITIC Futures",
+      "China Life Insurance Asset Management",
+      "Bernstein Private Wealth Management",
+      "Equity Methods LLC (2)",
+      "Futures First",
+      "TripleTree",
+      "ZS"
+    ],
+    "notable_employers_notes": "Employers of Rady MQF graduates list from official 2025 report (not multi-hire ranked except Equity Methods noted 2).",
+    "top_finance_firm_signal": "Moderate names present (GS, Fidelity, Raymond James, KeyBank, Big 4 China/US) but 2025 acceptance rate and mean pay are soft vs elite MSF peers; heavy return-to-Asia pattern.",
+    "sample_alumni_paths": [
+      "Finance / accounting analyst roles",
+      "Wealth / asset management",
+      "Futures / markets roles (China desks)",
+      "Consulting (ZS, TripleTree)",
+      "Risk / quantitative finance (program emphasis)"
+    ],
+    "referral_network_notes": "Rady Career Management Center; CFA/GARP/CAIA/CQF affiliate benefits. 2025 report: school-facilitated sources were a minority of accepts. Formal referral ease: unknown.",
+    "difficulty_notes": "Large intl-heavy cohort (144 grads; 97.2% non-permanent work auth). Quant/data emphasis after rename — still catalogued as primary MSF spine id ucsd-rady-msf per gm lock.",
+    "intl_student_notes": "STEM-designated. Class of 2025: 140/144 (97.2%) non-permanent work authorization — extreme intl skew. ~36% of located accepts in Asia; school narrative notes many China students return home.",
+    "sources": [
+      {
+        "title": "Rady 2025 Employment Report (MQF section PDF)",
+        "url": "https://cdn.uconnectlabs.com/wp-content/uploads/sites/176/2026/04/Rady-2025-Employment-Report.pdf",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "Rady 2024 Employment Report (prior-year MQF/MFin context)",
+        "url": "https://cdn.uconnectlabs.com/wp-content/uploads/sites/176/2025/05/Rady-2024-Employment-Report.pdf",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "Rady Master of Quantitative Finance program page",
+        "url": "https://rady.ucsd.edu/programs/master-quantitative-finance/",
+        "access_date": "2026-10-26"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Official CSEA employment PDF with MQF Class of 2025 offers/accepts, salaries, regions, and employer list; rename documented on report.",
+    "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
+    "last_updated": "2026-10-26",
+    "pathProgramId": "ucsd-rady-msf",
     "routeMismatch": false,
     "match": "same-route"
   }
