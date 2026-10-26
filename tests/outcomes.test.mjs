@@ -17,11 +17,13 @@ test('outcome card keys map only to known catalog program ids', () => {
   for (const id of Object.keys(outcomeCards)) {
     assert.ok(catalogIds.has(id), `unknown catalog id: ${id}`);
   }
-  assert.equal(Object.keys(outcomeCards).length, 63);
+  assert.equal(Object.keys(outcomeCards).length, 71);
 });
 
 test('batch meta includes batch-002 through batch-005 schema v2', () => {
-  assert.equal(outcomeBatchMeta.length, 5);
+  assert.equal(outcomeBatchMeta.length, 6);
+  assert.equal(outcomeBatchMeta[5].batch_id, 'msf-batch-001');
+  assert.equal(outcomeBatchMeta[5].card_count, 8);
   assert.equal(outcomeBatchMeta[1].batch_id, 'batch-002');
   assert.equal(outcomeBatchMeta[1].schema_version, 'outcome-card-v2-catalog');
   assert.equal(outcomeBatchMeta[2].batch_id, 'batch-003');
@@ -161,7 +163,7 @@ test('batch-005 final gap-fill links all remaining catalog ids with display cave
 
 test('programs merge outcome by catalog id with route caveats where mapped', () => {
   const withOutcome = programs.filter(p => p.outcome);
-  assert.equal(withOutcome.length, 63);
+  assert.equal(withOutcome.length, 71);
   for (const p of withOutcome) assert.equal(p.outcome, outcomeCards[p.id]);
   assert.ok(programs.find(p => p.id === 'mit-cs').outcome.matchCaveat?.includes('MEng'));
   assert.ok(programs.find(p => p.id === 'cornell-cs').outcome.matchCaveat?.includes('Cornell Tech'));

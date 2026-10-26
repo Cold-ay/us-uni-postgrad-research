@@ -1,0 +1,503 @@
+{
+  "batch": "msf-batch1",
+  "as_of": "2026-10-26",
+  "degree": "msf",
+  "field": "dossier-core",
+  "notes": [
+    "Fall 2027 MSF project batch1 (TFE Times 2026 ranks 1–8).",
+    "MIT MFin and Texas MSF matriculate in summer (not autumn Fall) for this cycle — flagged per program.",
+    "GSU MSF is evening weekday (Buckhead) STEM — still included as TFE #4 MSF.",
+    "WashU has three MSF concentrations with different length/tuition.",
+    "Professor reputation signals: deferred (not researched this pass).",
+    "US News Finance specialty not used as MSF program rank."
+  ],
+  "ranking_source_primary": {
+    "name": "TFE Times 2026 Best Master's of Finance",
+    "url": "https://tfetimes.com/best-finance-program-rankings/",
+    "as_of": "2026-03-01"
+  },
+  "items": [
+    {
+      "id": "mit-msf",
+      "school": "MIT Sloan",
+      "program": "Master of Finance (MFin)",
+      "as_of": "2026-10-26",
+      "tfeRank2026": 1,
+      "startTerm": "Summer (July) — not autumn Fall; apps for 2027 entry",
+      "openDate": null,
+      "openDateNote": "Applications open for 2027 entry (deadline posted); exact open date not labeled on how-to-apply page as of scrape.",
+      "deadlines": [
+        {
+          "label": "Application deadline (2027 entry)",
+          "date": "2027-01-05",
+          "timeNote": "3:00 p.m. ET"
+        },
+        {
+          "label": "Decision",
+          "date": null,
+          "dateNote": "March 2027"
+        }
+      ],
+      "tuition": 96884,
+      "tuitionAlt": 133007,
+      "tuitionLabel": "Program tuition 12-month format (2026–27 AY)",
+      "tuitionAltLabel": "Program tuition 18-month format (2026–27 AY)",
+      "period": "2026–27",
+      "costNote": "Official MFin tuition page; course packs included; textbooks/living separate. Not a Fall-2027-only quote.",
+      "duration": "12-month (summer+fall+spring) or 18-month (adds second fall).",
+      "credits": null,
+      "tracks": [
+        "12-month MFin",
+        "18-month MFin",
+        "Low-residency summer option if 15.401+15.402 completed pre-entry"
+      ],
+      "coreNotes": "Quantitative finance curriculum; Python proficiency expected by matriculation; interview by invitation.",
+      "academic": "MIT Sloan MFin: 12- or 18-month formats starting summer. Tuition 2026–27: $96,884 (12-mo) / $133,007 (18-mo). Single app deadline Jan 5, 2027 (3pm ET); decisions March 2027.",
+      "orientation": "Summer start · 12 or 18 months · TFE #1 (2026)",
+      "stem": null,
+      "sources": [
+        [
+          "How to apply / deadline",
+          "https://mitsloan.mit.edu/mfin/admissions/how-to-apply"
+        ],
+        [
+          "Tuition & aid",
+          "https://mitsloan.mit.edu/mfin/admissions/tuition-and-financial-aid"
+        ],
+        [
+          "Admissions hub",
+          "https://mitsloan.mit.edu/mfin/admissions"
+        ],
+        [
+          "TFE Times 2026",
+          "https://tfetimes.com/best-finance-program-rankings/"
+        ]
+      ]
+    },
+    {
+      "id": "princeton-msf",
+      "school": "Princeton Bendheim Center for Finance",
+      "program": "Master in Finance (M.Fin.)",
+      "as_of": "2026-10-26",
+      "tfeRank2026": 2,
+      "startTerm": "Fall 2027",
+      "openDate": "2026-09-29",
+      "openDateNote": "BCF news: Fall 2027 applications announced open as of Sep 29, 2026.",
+      "deadlines": [
+        {
+          "label": "Fall 2027 application deadline",
+          "date": "2026-12-15",
+          "timeNote": "11:59 p.m. Eastern"
+        },
+        {
+          "label": "Decisions expected",
+          "date": null,
+          "dateNote": "by March 15 (per apply page / prior cycle language — verify on apply page)"
+        },
+        {
+          "label": "Reply deadline (admitted)",
+          "date": null,
+          "dateNote": "April 15 (per apply page / prior cycle language — verify)"
+        }
+      ],
+      "tuition": 65210,
+      "tuitionLabel": "Academic-year regular graduate tuition (2026–27)",
+      "feesNote": "SHP fee $4,220 → tuition+SHP $69,430 for 2026–27 (Graduate School rates).",
+      "period": "2026–27",
+      "costNote": "University regular tuition rate; M.Fin. is typically 2 academic years (4 semesters). Living costs separate.",
+      "duration": "Four semesters (2 years) designed length; some admits may be specified for compressed track in admission letter.",
+      "credits": "5 core + 11 electives (at least 5 electives at 500+; 5 from List 1).",
+      "tracks": [
+        "Quantitative Asset Management",
+        "Data Science & Financial Technologies",
+        "Valuation & Macroeconomic Analysis",
+        "Optional CSML Graduate Certificate (2-year students)"
+      ],
+      "coreNotes": "Required summer internship between Y1–Y2; Quant Camp (June) and Math & Career Camp before fall; strong econ/quant emphasis.",
+      "academic": "Princeton M.Fin.: Fall 2027 apps open; deadline Dec 15, 2026 11:59pm ET. Four-semester curriculum + summer internship. AY 2026–27 tuition $65,210 (+ SHP $4,220).",
+      "orientation": "Fall start · ~2 years · TFE #2 (2026)",
+      "stem": null,
+      "sources": [
+        [
+          "Fall 2027 apps open",
+          "https://bcf.princeton.edu/news/apply-for-the-fall-2027-master-in-finance-program/"
+        ],
+        [
+          "Graduate School Finance field",
+          "https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/finance"
+        ],
+        [
+          "Apply page",
+          "https://bcf.princeton.edu/academic-programs/master-in-finance/apply-for-the-master-in-finance-program/"
+        ],
+        [
+          "University rates 2026–27",
+          "https://gradschool.princeton.edu/financial-support/financial-support-model/funding-calendar-university-rates-costs"
+        ],
+        [
+          "TFE Times 2026",
+          "https://tfetimes.com/best-finance-program-rankings/"
+        ]
+      ]
+    },
+    {
+      "id": "washu-msf",
+      "school": "WashU Olin",
+      "program": "MS in Finance (Corporate / Quantitative / Wealth & Asset Management)",
+      "as_of": "2026-10-26",
+      "tfeRank2026": 3,
+      "startTerm": "Fall (flexible/October starts also marketed — verify per concentration)",
+      "openDate": null,
+      "deadlines": [],
+      "deadlinesNote": "Concentration-specific deadlines not fully captured this pass — site/brief to fill on next scrape of apply pages.",
+      "tuition": 81500,
+      "tuitionAlt": 102900,
+      "tuitionLabel": "Corporate Finance concentration total tuition (Fall 2026 starters, 2 semesters)",
+      "tuitionAltLabel": "Quantitative OR Wealth & Asset Management total tuition (Fall 2026 starters, 3 semesters)",
+      "feesNote": "Per semester: program fee $900, student government $100, health/wellness $350 (posted Spring 2026).",
+      "period": "2026–27 starters",
+      "costNote": "Flat program tuition for Fall 2026 start candidates; living/health insurance separate.",
+      "duration": "Corporate: 2 semesters (~10 months). Quantitative / Wealth & Asset Management: 3 semesters.",
+      "credits": "Corporate example: 30.5 credits (23 required + 7.5 electives) per curriculum page.",
+      "tracks": [
+        "Corporate Finance",
+        "Quantitative Finance",
+        "Wealth & Asset Management"
+      ],
+      "coreNotes": "Three distinct MSF concentrations; tuition and length differ.",
+      "academic": "WashU Olin MSF: three concentrations. Fall 2026-start tuition $81,500 (Corporate, 2 sem) or $102,900 (Quant / WAM, 3 sem) + per-semester fees.",
+      "orientation": "2–3 semesters · 3 concentrations · TFE #3 (2026)",
+      "stem": null,
+      "sources": [
+        [
+          "Cost / aid",
+          "https://olin.washu.edu/programs/specialized-masters/ms-in-finance/cost-aid-scholarships.php"
+        ],
+        [
+          "Corporate curriculum",
+          "https://olin.washu.edu/programs/specialized-masters/ms-in-corporate-finance/curriculum.php"
+        ],
+        [
+          "TFE Times 2026",
+          "https://tfetimes.com/best-finance-program-rankings/"
+        ]
+      ]
+    },
+    {
+      "id": "gsu-msf",
+      "school": "Georgia State Robinson",
+      "program": "MS in Finance",
+      "as_of": "2026-10-26",
+      "tfeRank2026": 4,
+      "startTerm": "Fall 2027",
+      "openDate": null,
+      "formatNote": "Evening weekday classes (5:30–9:45 p.m.) at Buckhead Center — working-professional friendly; STEM-designated.",
+      "deadlines": [
+        {
+          "label": "Round 1",
+          "date": "2026-10-26"
+        },
+        {
+          "label": "Round 2",
+          "date": "2027-01-25"
+        },
+        {
+          "label": "Round 3 (intl F-1 hard deadline)",
+          "date": "2027-03-15"
+        },
+        {
+          "label": "Round 4",
+          "date": "2027-05-10"
+        },
+        {
+          "label": "Round 5",
+          "date": "2027-07-12"
+        },
+        {
+          "label": "Rolling thereafter",
+          "date": null,
+          "dateNote": "until ~1 week before class; deposit deadline listed Jul 30, 2027 on page"
+        }
+      ],
+      "tuition": 49379,
+      "tuitionResident": 38822,
+      "tuitionNonGa": 47987,
+      "tuitionLabel": "Out-of-country residents program cost (as published)",
+      "tuitionResidentLabel": "Georgia residents",
+      "tuitionNonGaLabel": "Non-Georgia residents",
+      "period": "as published on program page (subject to change)",
+      "costNote": "Published program costs; seat deposit $250 nonrefundable. GA / living separate.",
+      "duration": "12-month (3 semesters) or 16-month (4 semesters).",
+      "credits": "Three-semester path ~30 credit hours across listed FI/MBA courses.",
+      "tracks": [
+        "12-month path",
+        "16-month path",
+        "Fintech certificate option / FinTech Lab"
+      ],
+      "coreNotes": "Focus corporate finance, valuation, financial data analytics, fintech; STEM.",
+      "academic": "GSU Robinson MSF: STEM; evening Buckhead. Fall 2027 rounds Oct 26 2026 → rolling. Costs: GA $38,822 / non-GA $47,987 / out-of-country $49,379.",
+      "orientation": "Fall · 12 or 16 months · evening · TFE #4 (2026)",
+      "stem": true,
+      "sources": [
+        [
+          "Program page",
+          "https://www.gsu.edu/program/finance-ms/"
+        ],
+        [
+          "Application process",
+          "https://robinson.gsu.edu/masters-programs/ms-finance-application-process/"
+        ],
+        [
+          "TFE Times 2026",
+          "https://tfetimes.com/best-finance-program-rankings/"
+        ]
+      ]
+    },
+    {
+      "id": "usc-msf",
+      "school": "USC Marshall",
+      "program": "MS in Finance (MSF)",
+      "as_of": "2026-10-26",
+      "tfeRank2026": 5,
+      "startTerm": "Fall only",
+      "openDate": null,
+      "deadlines": [
+        {
+          "label": "Round 1",
+          "date": "2026-11-01",
+          "decisionBy": "2027-01-15"
+        },
+        {
+          "label": "Round 2",
+          "date": "2027-01-15",
+          "decisionBy": "2027-03-30"
+        },
+        {
+          "label": "Round 3",
+          "date": "2027-04-15",
+          "decisionBy": "2027-06-15"
+        }
+      ],
+      "deadlinesNote": "Intl applicants strongly encouraged Round 1–2; Round 3 decision not guaranteed for visa timing.",
+      "tuition": 91476,
+      "feesTotal": 3396,
+      "tuitionLabel": "Tuition for 36-unit / 3-semester program at 2025–26 per-unit rate ($2,541/unit)",
+      "period": "estimate using 2025–26 rates (page notes typical 3–5% annual increases)",
+      "costNote": "Page total estimated COA tuition+mandatory fees $94,872 excluding housing/health/transport/food. Not a locked Fall 2027 quote.",
+      "duration": "16 months / three terms (Fall–Spring–Fall); summer internship opportunity.",
+      "credits": "36 units (19.5 core + 16.5 electives).",
+      "tracks": [
+        "Full-time MSF",
+        "Progressive Degree (USC undergrads)"
+      ],
+      "coreNotes": "STEM-eligible; core includes quantitative methods, accounting, microeconomics, corporate finance, valuation, investments.",
+      "academic": "USC Marshall MSF: Fall start, 16 months, 36 units, STEM. Deadlines Nov 1 2026 / Jan 15 2027 / Apr 15 2027. Est. tuition+fees ~$94,872 at 2025–26 rates.",
+      "orientation": "Fall · 16 months · 36 units · TFE #5 (2026)",
+      "stem": true,
+      "sources": [
+        [
+          "Admissions / deadlines",
+          "https://www.marshall.usc.edu/programs/graduate-programs/specialized-masters/ms-finance/admissions"
+        ],
+        [
+          "Tuition + fees",
+          "https://www.marshall.usc.edu/programs/graduate-programs/specialized-masters/ms-finance/tuition-fees"
+        ],
+        [
+          "Program hub",
+          "https://www.marshall.usc.edu/programs/graduate-programs/specialized-masters/ms-finance/"
+        ],
+        [
+          "TFE Times 2026",
+          "https://tfetimes.com/best-finance-program-rankings/"
+        ]
+      ]
+    },
+    {
+      "id": "brandeis-msf",
+      "school": "Brandeis International Business School",
+      "program": "Master of Science in Finance (MSF)",
+      "as_of": "2026-10-26",
+      "tfeRank2026": 6,
+      "startTerm": "Fall 2027 (also Spring 2027 available)",
+      "openDate": null,
+      "openDateNote": "Graduate admissions: apps available for spring 2027 or fall 2027.",
+      "deadlines": [
+        {
+          "label": "Fall Priority Deadline 1 (Business & Economics)",
+          "date": "2026-11-01"
+        },
+        {
+          "label": "Fall Round 1",
+          "date": "2027-01-15"
+        },
+        {
+          "label": "Fall Round 2",
+          "date": "2027-03-01"
+        },
+        {
+          "label": "Fall Round 3",
+          "date": "2027-04-15"
+        }
+      ],
+      "tuition": 44200,
+      "tuitionAlt": 57100,
+      "tuitionLabel": "MSF 9-month tuition (2026–27; Fall+Spring)",
+      "tuitionAltLabel": "MSF 16-month tuition total (Y1 $40,040 + Y2 fall $17,160 = $57,200)",
+      "feesNote": "Fees $220 (9-mo / Y1); $60 final fall (16-mo).",
+      "period": "2026–27",
+      "costNote": "Official graduate tuition calculator; living/health separate.",
+      "duration": "9 months (34 credits) or 16 months (44 credits); part-time 2–3 years also offered.",
+      "credits": "34 (9-mo) or 44 (16-mo).",
+      "tracks": [
+        "9-month",
+        "16-month with concentrations: Corporate Finance & Valuation, Asset Management, Risk Management, FinTech",
+        "Part-time",
+        "Dual degrees"
+      ],
+      "coreNotes": "STEM-designated; CFA Institute / GARP partner notes on program page.",
+      "academic": "Brandeis MSF: 9-mo ($44,200) or 16-mo ($57,200 tuition across terms) for 2026–27. Fall rounds Nov 1 / Jan 15 / Mar 1 / Apr 15.",
+      "orientation": "Fall (or Spring) · 9 or 16 months · STEM · TFE #6 (2026)",
+      "stem": true,
+      "sources": [
+        [
+          "Program page",
+          "https://www.brandeis.edu/global/business/msf.html"
+        ],
+        [
+          "Graduate admissions deadlines",
+          "https://www.brandeis.edu/global/admissions/"
+        ],
+        [
+          "Graduate tuition 2026–27",
+          "https://www.brandeis.edu/student-financial-services/tuition-calculator/graduate-tuition.html"
+        ],
+        [
+          "TFE Times 2026",
+          "https://tfetimes.com/best-finance-program-rankings/"
+        ]
+      ]
+    },
+    {
+      "id": "utah-msf",
+      "school": "Utah Eccles",
+      "program": "Master of Science in Finance",
+      "as_of": "2026-10-26",
+      "tfeRank2026": 7,
+      "startTerm": "Fall 2027 (also Spring 2027)",
+      "openDate": null,
+      "deadlines": [
+        {
+          "label": "Fall 2027 Priority",
+          "date": "2027-02-01"
+        },
+        {
+          "label": "Fall 2027 International",
+          "date": "2027-04-01"
+        },
+        {
+          "label": "Fall 2027 Scholarship",
+          "date": "2027-06-01"
+        },
+        {
+          "label": "Fall 2027 Final",
+          "date": "2027-08-01"
+        }
+      ],
+      "tuition": 39000,
+      "tuitionLabel": "Full 30-credit program tuition at $1,300/credit (resident = nonresident)",
+      "period": "as published (fixed rate includes standard fees)",
+      "costNote": "Program page: $39,000 for 30 credits; living separate.",
+      "duration": "30 credits; typical completion timing per academics page (verify).",
+      "credits": "30",
+      "tracks": [
+        "MSF full program",
+        "Express Admit / Fast Track options for qualifying applicants"
+      ],
+      "coreNotes": "Prerequisites: intro accounting + financial management (B or better) before decision.",
+      "academic": "Utah Eccles MSF: $39,000 flat (30 cr @ $1,300). Fall 2027: priority Feb 1 / intl Apr 1 / scholarship Jun 1 / final Aug 1.",
+      "orientation": "Fall · 30 credits · $39k · TFE #7 (2026)",
+      "stem": null,
+      "sources": [
+        [
+          "Admissions / deadlines",
+          "https://eccles.utah.edu/programs/master-of-science-in-finance/admissions/"
+        ],
+        [
+          "Tuition & aid",
+          "https://eccles.utah.edu/programs/master-of-science-in-finance/tuition-scholarships-financial-aid/"
+        ],
+        [
+          "TFE Times 2026",
+          "https://tfetimes.com/best-finance-program-rankings/"
+        ]
+      ]
+    },
+    {
+      "id": "texas-msf",
+      "school": "UT Austin McCombs",
+      "program": "Master of Science in Finance (MSF)",
+      "as_of": "2026-10-26",
+      "tfeRank2026": 8,
+      "startTerm": "Summer (July) — 10-month in-residence; class of 2028 apps open",
+      "openDate": null,
+      "openDateNote": "Application for class of 2028 now open (as of page scrape).",
+      "deadlines": [
+        {
+          "label": "Round 1 Step1 / Steps2-3",
+          "date": "2026-10-13",
+          "dateAlt": "2026-10-20",
+          "decisionBy": "2026-12-11"
+        },
+        {
+          "label": "Round 2 Step1 / Steps2-3 (FINAL for international)",
+          "date": "2027-01-12",
+          "dateAlt": "2027-01-19",
+          "decisionBy": "2027-03-26"
+        },
+        {
+          "label": "Round 3 Step1 / Steps2-3",
+          "date": "2027-03-30",
+          "dateAlt": "2027-04-06",
+          "decisionBy": "2027-05-14"
+        },
+        {
+          "label": "Round 4 Step1 / Steps2-3",
+          "date": "2027-05-04",
+          "dateAlt": "2027-05-11",
+          "decisionBy": "2027-06-04"
+        }
+      ],
+      "tuition": 59700,
+      "tuitionResident": 55600,
+      "tuitionLabel": "Non-Texas resident total program tuition (incl. $2,000 pre-enrollment fee)",
+      "tuitionResidentLabel": "Texas resident total (incl. $2,000 pre-enrollment fee)",
+      "period": "as published on MSF tuition page",
+      "costNote": "Non-TX: Summer $11,900 + Fall $22,900 + Spring $22,900 + $2,000 pre-enroll = $59,700. Books/living/laptop/optional fees extra. Intl health + ISSS fees extra.",
+      "duration": "10 months (Summer–Fall–Spring).",
+      "credits": null,
+      "tracks": [
+        "Full-time MSF",
+        "MS Bridge (UT undergrads)"
+      ],
+      "coreNotes": "GRE/GMAT optional; video assessment via Kira; 2 recommendations.",
+      "academic": "Texas McCombs MSF: summer start, 10 months. Intl final Round 2 (Jan 12/19 2027). Non-TX total $59,700; TX $55,600 (incl. $2k seat fee).",
+      "orientation": "Summer start · 10 months · TFE #8 (2026)",
+      "stem": null,
+      "sources": [
+        [
+          "Application process / deadlines",
+          "https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-finance/admissions/application-process/"
+        ],
+        [
+          "Tuition & financial aid",
+          "https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-finance/admissions/tuition-financial-aid/"
+        ],
+        [
+          "TFE Times 2026",
+          "https://tfetimes.com/best-finance-program-rankings/"
+        ]
+      ]
+    }
+  ]
+}

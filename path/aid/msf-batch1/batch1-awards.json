@@ -1,0 +1,461 @@
+{
+  "asOf": "2026-10-26",
+  "timezone": "Asia/Hong_Kong",
+  "intake": "Fall 2027",
+  "idScheme": "SCH-085+ (next free after PRC SCH-084)",
+  "batch": "msf-batch1-tfe-1-8",
+  "awards": [
+    {
+      "asOf": "2026-10-26",
+      "ingest": true,
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "sources": [
+        {
+          "label": "MIT Sloan MFin Tuition & Financial Aid",
+          "url": "https://mitsloan.mit.edu/mfin/admissions/tuition-and-financial-aid"
+        }
+      ],
+      "programIds": [
+        "mit-msf"
+      ],
+      "id": "SCH-085",
+      "name": "MIT Sloan Master of Finance Fellowship",
+      "scope": "mit-msf",
+      "state": "Automatic with admission",
+      "tone": "green",
+      "type": "Fellowship · Merit-Based",
+      "awardType": "fellowship",
+      "category": "Merit-Based",
+      "description": "Limited fellowships for admitted MFin candidates of all citizenships and academic backgrounds. Established through a gift to MIT Sloan; no separate application. Recipients typically notified at admission.",
+      "eligibility": "Admitted MIT Sloan MFin students. Applies to U.S. citizens, permanent residents, and international students. Automatic consideration based on academic records, personal achievements, professional promise.",
+      "amount": "Not published (limited number)",
+      "deadline": "With admission (no separate application)",
+      "note": "Distinct from MIT Sloan MBA fellowships (SCH-025). Partner nationality funds listed on same page (Aker/Norway, FGB/Spain, Instituto Ling/Brazil, Kennedy Trust/UK, Habib/Lebanon, Kuo Sharper) are NOT separate SCH cards here — nationality-specific; see brief.",
+      "url": "https://mitsloan.mit.edu/mfin/admissions/tuition-and-financial-aid",
+      "intlEligible": "yes"
+    },
+    {
+      "asOf": "2026-10-26",
+      "ingest": true,
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "sources": [
+        {
+          "label": "BCF Annual Report 2026 — Fellowships",
+          "url": "https://bcf.princeton.edu/bcfar/2026/inc/html/page14.html"
+        },
+        {
+          "label": "Statement of Financial Resources (Finance Master's)",
+          "url": "https://gradschool.princeton.edu/admission-onboarding/prepare/statement-financial-resources"
+        },
+        {
+          "label": "Master's Degree Funding (MFin not fully funded)",
+          "url": "https://gradschool.princeton.edu/financial-support/financial-support-model/master%E2%80%99s-degree-funding"
+        }
+      ],
+      "programIds": [
+        "princeton-msf"
+      ],
+      "id": "SCH-086",
+      "name": "Princeton Bendheim Center MFin Partial Tuition Fellowships (Andlinger / Bendheim / Biglari)",
+      "scope": "princeton-msf",
+      "state": "Select students; Statement of Financial Resources required at application",
+      "tone": "amber",
+      "type": "Fellowship · Merit/Need",
+      "awardType": "fellowship",
+      "category": "Merit-Based",
+      "description": "Partial fellowships in support of tuition offered to select MFin students each year. BCF Annual Report 2026 notes four fellows in 2025–26 across three endowed fellowships: Andlinger ’52 Graduate Fellowship in Finance, Bendheim Graduate Fellowship in Finance, Biglari Graduate Fellowships in Finance. Graduate School: Finance (Master's) applicants must complete Statement of Financial Resources; assistance awarded on academic merit, promise, and need. MFin is NOT on the Graduate School list of fully funded master's programs — expect primarily self-pay unless awarded.",
+      "eligibility": "Admitted Princeton MFin students. International applicants use the same application; funding is not citizenship-limited in Graduate School general language. Amounts and selection criteria beyond 'select students' / merit+need not published as fixed packages.",
+      "amount": "Partial tuition (amounts not published; not full funding)",
+      "deadline": "With application (Statement of Financial Resources); Dec 15, 2026 app deadline for Fall 2027",
+      "note": "Central Graduate School master's funding page does not list Finance M.Fin. as a fully funded program.",
+      "url": "https://bcf.princeton.edu/bcfar/2026/inc/html/page14.html",
+      "intlEligible": "yes"
+    },
+    {
+      "asOf": "2026-10-26",
+      "ingest": true,
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "sources": [
+        {
+          "label": "Olin MSF Cost, Aid and Scholarships",
+          "url": "https://olin.washu.edu/programs/specialized-masters/ms-in-finance/cost-aid-scholarships.php"
+        }
+      ],
+      "programIds": [
+        "washu-msf"
+      ],
+      "id": "SCH-087",
+      "name": "WashU Olin MS in Finance Merit Scholarships",
+      "scope": "washu-msf",
+      "state": "Automatic with admission",
+      "tone": "green",
+      "type": "Scholarship · Merit-Based",
+      "awardType": "scholarship",
+      "category": "Merit-Based",
+      "description": "Every applicant admitted to Olin MSF is automatically considered for merit-based scholarship; no separate application. Same criteria as admission but more competitive. Award notified in writing at admission. Distinct from Olin Full-Time MBA merit/signature scholarships (SCH-052).",
+      "eligibility": "Admitted Olin MSF students. Page does not restrict by citizenship. U.S. Armed Forces admits also considered for Olin Veterans Association Fellowships / Yellow Ribbon (US military — not intl).",
+      "amount": "Not published (merit; notified at admission)",
+      "deadline": "With admission (no separate application)",
+      "note": "overlapsWithExisting SCH-052 is MBA-only — do not merge.",
+      "url": "https://olin.washu.edu/programs/specialized-masters/ms-in-finance/cost-aid-scholarships.php",
+      "intlEligible": "yes"
+    },
+    {
+      "asOf": "2026-10-26",
+      "ingest": true,
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "sources": [
+        {
+          "label": "Robinson Graduate Assistantships",
+          "url": "https://robinson.gsu.edu/graduate-student-resources/graduate-assistantships/"
+        },
+        {
+          "label": "Finance MS program costs",
+          "url": "https://www.gsu.edu/program/finance-ms/"
+        },
+        {
+          "label": "International applicants — GA not for I-20",
+          "url": "https://robinson.gsu.edu/admissions/international-applicants/"
+        }
+      ],
+      "programIds": [
+        "gsu-msf"
+      ],
+      "id": "SCH-088",
+      "name": "Georgia State Robinson MS Finance Graduate Assistantships",
+      "scope": "gsu-msf",
+      "state": "Auto-considered at admission; also post-admit Handshake applications",
+      "tone": "green",
+      "type": "Assistantship · Tuition Waiver + Stipend",
+      "awardType": "assistantship",
+      "category": "Assistantship",
+      "description": "Graduate research/administrative assistantships offset MS Finance costs. Applicants with completed applications are automatically considered for GA awards at admission; others may apply via Handshake after deposit. For Finance (12-month) sample: GA tuition waiver $14,865.50 + stipend estimate $5,000; out-of-country remaining cost with stipend ≈ $29,513.50 (published sample; subject to change). F-1 students are eligible. Cannot be counted toward I-20 minimum funding.",
+      "eligibility": "Admitted RCB graduate students; min 3.0 GPA; register 9 credits fall/spring (6 summer); U.S. work authorization — F-1 eligible (need SSN after hire). Priority GA consideration: apply by Round 2 (Jan 25, 2027) for Fall 2027. Intl needing visa must apply by Round 3 (Mar 15, 2027).",
+      "amount": "Sample Finance 12-mo: waiver $14,865.50 + stipend ~$5,000 (published breakdown; varies by appointment)",
+      "deadline": "Priority with Round 2 app (2027-01-25); positions also post near term start",
+      "note": "Evening Buckhead MSF — GA requires weekday daytime campus availability (8:30 a.m.–5:00 p.m.), which may conflict with work schedules.",
+      "url": "https://robinson.gsu.edu/graduate-student-resources/graduate-assistantships/",
+      "intlEligible": "yes"
+    },
+    {
+      "asOf": "2026-10-26",
+      "ingest": true,
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "sources": [
+        {
+          "label": "USC Marshall MSF Tuition + Fees / Scholarships",
+          "url": "https://www.marshall.usc.edu/programs/graduate-programs/specialized-masters/ms-finance/tuition-fees"
+        }
+      ],
+      "programIds": [
+        "usc-msf"
+      ],
+      "id": "SCH-089",
+      "name": "USC Marshall MS Finance Scholarships",
+      "scope": "usc-msf",
+      "state": "Automatic with admission; limited",
+      "tone": "green",
+      "type": "Scholarship · Merit-Based",
+      "awardType": "scholarship",
+      "category": "Merit-Based",
+      "description": "Limited MSF scholarships for admitted students based on holistic assessment. No separate application. U.S. citizens and international students eligible. Apply Round 1 or 2 for priority scholarship consideration. Program itself does not offer RA/TA (students may seek on-campus after start).",
+      "eligibility": "Admitted USC Marshall MSF students; international students explicitly eligible.",
+      "amount": "Limited; amounts not published",
+      "deadline": "With admission; priority Round 1–2",
+      "note": "Distinct from USC Marshall Full-Time MBA merit (SCH-056).",
+      "url": "https://www.marshall.usc.edu/programs/graduate-programs/specialized-masters/ms-finance/tuition-fees",
+      "intlEligible": "yes"
+    },
+    {
+      "asOf": "2026-10-26",
+      "ingest": true,
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "sources": [
+        {
+          "label": "Brandeis SBE FAQ — scholarships $5k–full",
+          "url": "https://www.brandeis.edu/global/admissions/faq.html"
+        },
+        {
+          "label": "Brandeis MSF program — 100% considered",
+          "url": "https://www.brandeis.edu/global/business/msf.html"
+        },
+        {
+          "label": "Graduate tuition calculator 2026–27",
+          "url": "https://www.brandeis.edu/student-financial-services/tuition-calculator/graduate-tuition.html"
+        }
+      ],
+      "programIds": [
+        "brandeis-msf"
+      ],
+      "id": "SCH-090",
+      "name": "Brandeis School of Business and Economics MSF Merit Scholarships",
+      "scope": "brandeis-msf",
+      "state": "Automatic with admission",
+      "tone": "green",
+      "type": "Scholarship · Merit-Based",
+      "awardType": "scholarship",
+      "category": "Merit-Based",
+      "description": "100% of admitted students automatically considered for partial and full-tuition merit scholarships (leadership, academic achievement, personal background, graduate education focus). FAQ: scholarships range from $5,000 to full tuition; notified in admission letter. Domestic and international students included. Merit awards apply to tuition only.",
+      "eligibility": "Admitted Brandeis SBE MSF (and other SBE master's) students from the U.S. and around the world; automatic consideration.",
+      "amount": "$5,000 to full tuition (FAQ); exact award in admission letter",
+      "deadline": "With admission (apply early encouraged)",
+      "note": "A Fall 2026 'guaranteed $10,000 scholarship for all admitted SBE graduate students' appeared in search snippets of older admissions copy; live Fall 2027 pages fetched 2026-10-26 confirm auto merit $5k–full tuition but do NOT clearly restate a universal $10k guarantee — do not treat $10k as verified for Fall 2027.",
+      "url": "https://www.brandeis.edu/global/admissions/faq.html",
+      "intlEligible": "yes"
+    },
+    {
+      "asOf": "2026-10-26",
+      "ingest": true,
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "sources": [
+        {
+          "label": "Utah Eccles MSF Tuition & Scholarships",
+          "url": "https://eccles.utah.edu/programs/master-of-science-in-finance/tuition-scholarships-financial-aid/"
+        }
+      ],
+      "programIds": [
+        "utah-msf"
+      ],
+      "id": "SCH-091",
+      "name": "Utah Eccles MSF Merit Scholarship",
+      "scope": "utah-msf",
+      "state": "Essay application after admission (new admits)",
+      "tone": "green",
+      "type": "Scholarship · Merit-Based",
+      "awardType": "scholarship",
+      "category": "Merit-Based",
+      "description": "Admissions scholarship acknowledging academic, personal, and professional accomplishments. Potential award $0–$3,000. Separate 300–500 word essay to MSF@Utah.edu. Only one admissions scholarship per student. Funding limited; first-come first-serve. Requirements must be met before Nov 1 (spring) or June 1 (fall).",
+      "eligibility": "Newly admitted MSF students who have not started the program. No citizenship restriction stated. UU employees on reduced tuition benefit ineligible. Program does not offer GA/fellowships.",
+      "amount": "$0 – $3,000",
+      "deadline": "Before Nov 1 (spring start) or June 1 (fall start); first-come first-serve",
+      "url": "https://eccles.utah.edu/programs/master-of-science-in-finance/tuition-scholarships-financial-aid/",
+      "intlEligible": "yes"
+    },
+    {
+      "asOf": "2026-10-26",
+      "ingest": true,
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "sources": [
+        {
+          "label": "Utah Eccles MSF Tuition & Scholarships",
+          "url": "https://eccles.utah.edu/programs/master-of-science-in-finance/tuition-scholarships-financial-aid/"
+        }
+      ],
+      "programIds": [
+        "utah-msf"
+      ],
+      "id": "SCH-092",
+      "name": "Utah Eccles MSF Community Impact Scholarship",
+      "scope": "utah-msf",
+      "state": "Essay application after admission (new admits)",
+      "tone": "green",
+      "type": "Scholarship · Leadership/Service",
+      "awardType": "scholarship",
+      "category": "Student-Specific",
+      "description": "For candidates with exceptional leadership in public sector or non-profits / community impact. Potential award $0–$3,000. 300–500 word essay to MSF@Utah.edu. One admissions scholarship only per student.",
+      "eligibility": "Newly admitted MSF students; community/public-sector leadership. No citizenship restriction stated.",
+      "amount": "$0 – $3,000",
+      "deadline": "Before Nov 1 (spring) or June 1 (fall); first-come first-serve",
+      "url": "https://eccles.utah.edu/programs/master-of-science-in-finance/tuition-scholarships-financial-aid/",
+      "intlEligible": "yes"
+    },
+    {
+      "asOf": "2026-10-26",
+      "ingest": true,
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "sources": [
+        {
+          "label": "McCombs MSF Tuition & Financial Aid",
+          "url": "https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-finance/admissions/tuition-financial-aid/"
+        }
+      ],
+      "programIds": [
+        "texas-msf"
+      ],
+      "id": "SCH-093",
+      "name": "UT Austin McCombs MS Program Scholarships (Admissions Recruiting Awards)",
+      "scope": "texas-msf",
+      "state": "Automatic with admission; limited",
+      "tone": "green",
+      "type": "Scholarship · Merit-Based",
+      "awardType": "scholarship",
+      "category": "Merit-Based",
+      "description": "Limited scholarships for Texas McCombs MS Program students. All MS applicants automatically considered; no separate application. Considered separately within each degree program (MSF has its own pool).",
+      "eligibility": "Admitted McCombs MS students including MSF. Page does not restrict by citizenship for these admissions scholarships.",
+      "amount": "Limited; amounts not published",
+      "deadline": "With admission (no separate application)",
+      "url": "https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-finance/admissions/tuition-financial-aid/",
+      "intlEligible": "yes"
+    },
+    {
+      "asOf": "2026-10-26",
+      "ingest": true,
+      "hkEligible": "unclear",
+      "twEligible": "unclear",
+      "prcEligible": "unclear",
+      "sources": [
+        {
+          "label": "McCombs MSF Tuition & Financial Aid — Flywheel",
+          "url": "https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-finance/admissions/tuition-financial-aid/"
+        }
+      ],
+      "programIds": [
+        "texas-msf"
+      ],
+      "id": "SCH-094",
+      "name": "UT Austin McCombs MSF Flywheel Scholarship",
+      "scope": "texas-msf",
+      "state": "Invitation-only after admission",
+      "tone": "amber",
+      "type": "Scholarship · Career-Pivot / First-Gen",
+      "awardType": "scholarship",
+      "category": "Student-Specific",
+      "description": "Candidates admitted to MSF may be eligible to apply for the Flywheel Scholarship, estimated at $20,000 over the course of the program. Awarded to applicants pivoting careers and first-generation college students. Applications invitation-only; sent after admission.",
+      "eligibility": "Admitted MSF students invited to apply; career-pivot and/or first-generation. Citizenship not specified on page → intlEligible unclear for invitation criteria, but not explicitly U.S.-only.",
+      "amount": "Estimated $20,000 over the program",
+      "deadline": "Invitation after admission (no public fixed deadline)",
+      "url": "https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-finance/admissions/tuition-financial-aid/",
+      "intlEligible": "unclear"
+    },
+    {
+      "asOf": "2026-10-26",
+      "ingest": false,
+      "hkEligible": "no",
+      "twEligible": "no",
+      "prcEligible": "no",
+      "sources": [
+        {
+          "label": "Utah Eccles MSF Tuition & Scholarships",
+          "url": "https://eccles.utah.edu/programs/master-of-science-in-finance/tuition-scholarships-financial-aid/"
+        }
+      ],
+      "programIds": [
+        "utah-msf"
+      ],
+      "id": "SCH-095",
+      "name": "Utah Eccles MSF Alumni Scholarship (University of Utah undergrad alumni)",
+      "scope": "utah-msf",
+      "state": "Automatic for eligible UU alumni admits",
+      "tone": "red",
+      "type": "Scholarship · Alumni",
+      "awardType": "scholarship",
+      "category": "Institutional",
+      "description": "Automatically awarded to newly admitted students who completed an undergraduate degree within the past five years at the University of Utah. Potential $0–$500. Not an international recruitment award.",
+      "eligibility": "UU bachelor's within past 5 years; newly admitted MSF. Rarely relevant for HK/TW/PRC applicants.",
+      "amount": "$0 – $500",
+      "deadline": "Automatic if eligible",
+      "url": "https://eccles.utah.edu/programs/master-of-science-in-finance/tuition-scholarships-financial-aid/",
+      "intlEligible": "no"
+    }
+  ],
+  "overlapsWithExisting": [
+    {
+      "existingId": "SCH-025",
+      "name": "MIT Sloan MBA Fellowships & Scholarships",
+      "note": "MBA-only; do not reuse for mit-msf — new SCH-085 is MFin-specific."
+    },
+    {
+      "existingId": "SCH-034",
+      "name": "Forté MBA Fellowships",
+      "note": "Forté official criteria: MBA degree candidate at member school. Does NOT apply to MSF/specialized masters."
+    },
+    {
+      "existingId": "SCH-035",
+      "name": "Reaching Out MBA (ROMBA) Fellowship",
+      "note": "MBA fellowship — not MSF."
+    },
+    {
+      "existingId": "SCH-036",
+      "name": "The Consortium for Graduate Study in Management Fellowship",
+      "note": "MBA Consortium — not MSF."
+    },
+    {
+      "existingId": "SCH-037",
+      "name": "Toigo Foundation LIFE (MBA) Program",
+      "note": "MBA career fellowship — not MSF."
+    },
+    {
+      "existingId": "SCH-052",
+      "name": "WashU Olin Full-Time MBA Merit & Signature Scholarships",
+      "note": "MBA page/signature set; MSF has separate auto merit (SCH-087)."
+    },
+    {
+      "existingId": "SCH-056",
+      "name": "USC Marshall Full-Time MBA Merit Scholarships",
+      "note": "MBA-only; MSF scholarships are SCH-089."
+    },
+    {
+      "existingId": "SCH-015",
+      "name": "HKSES",
+      "note": "External HK award already live — may fund postgraduate study incl. MSF; do not recreate."
+    },
+    {
+      "existingId": "SCH-017",
+      "name": "Fulbright Taiwan Graduate Study Award",
+      "note": "External TW — may apply to US MSF; do not recreate."
+    },
+    {
+      "existingId": "SCH-018",
+      "name": "Taiwan MOE GSSA",
+      "note": "External TW outbound — may apply; do not recreate."
+    },
+    {
+      "existingId": "SCH-038",
+      "name": "Paul & Daisy Soros Fellowships for New Americans",
+      "note": "Already live; New Americans in graduate programs incl. possible MSF — flag only."
+    },
+    {
+      "existingId": "SCH-068",
+      "name": "CSC rare master's path",
+      "note": "PRC Batch1 — thin master's path; flag for PRC MSF applicants, do not recreate."
+    }
+  ],
+  "externalNewSkipped": [
+    {
+      "name": "CFA Institute Student Scholarship",
+      "reason": "Exam-fee discount via university affiliation, not degree tuition funding for MSF cost cards."
+    },
+    {
+      "name": "Flash Realty Solutions scholarship (mentioned on McCombs MSF page)",
+      "reason": "Real-estate essay award; public traces show small/stale cycles — not verified as live MSF-relevant degree funding for Fall 2027."
+    },
+    {
+      "name": "MIT-listed nationality partner funds (Aker, FGB, Instituto Ling, Kennedy Trust, Habib Foundation)",
+      "reason": "Program-page links for Norway/Spain/Brazil/UK/Lebanon nationals — not HK/TW/PRC; listed in brief only, no SCH cards."
+    }
+  ],
+  "gaps": [
+    "MIT MFin fellowship dollar amounts unpublished",
+    "Princeton MFin partial fellowship amounts unpublished; not fully funded master's",
+    "WashU MSF merit amounts unpublished",
+    "USC MSF scholarship amounts unpublished",
+    "Brandeis Fall 2027 universal $10k guarantee not verified on live pages (Fall 2026 language only in search snippets)",
+    "Texas MSF auto scholarship amounts unpublished; Flywheel intl eligibility unclear",
+    "GSU Dean's Office named scholarships mostly undergraduate; master's GA is primary intl-relevant aid",
+    "No new verified finance-specific EXTERNAL degree awards beyond SCH-015–084 for this batch",
+    "Living-cost bands: only Princeton and Brandeis publish usable school figures among the 8"
+  ],
+  "counts": {
+    "awardsTotal": 11,
+    "ingestTrue": 10,
+    "ingestFalse": 1
+  }
+}
