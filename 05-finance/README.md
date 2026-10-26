@@ -4,7 +4,22 @@ Checked: 26 October 2026. Target intake: Fall 2027.
 
 ## Status
 
-TFE Times 2026 ranks **1–30** are in the catalog (batches 1–4), plus unranked **florida-msft** (UF FinTech), **chicago-booth-mif** (Asness and Liew MiF), **columbia-msfe** (MS in Financial Economics), and **tamu-qfin** (MS Quantitative Finance). Other Quant/MFE programs stay off this list.
+TFE Times 2026 ranks **1–30** are in the catalog (batches 1–4), plus unranked **florida-msft** (UF FinTech), **chicago-booth-mif** (Asness and Liew MiF), **columbia-msfe** (MS in Financial Economics), and **tamu-qfin** (MS Quantitative Finance).
+
+**quant-mfe** is a separate track (QuantNet 2026), not part of the TFE rank spine. Those eight rows keep `tfeRank2026` / catalog `rank` null:
+
+| Catalog id | QuantNet 2026 | Notes |
+| --- | --- | --- |
+| berkeley-mfe | 5 | Spring-only. Tuition is Program & University Fees $98,036 |
+| cmu-mscf | 3 | |
+| baruch-mfe | 1 | Intl package $42,000. No admit-time scholarship card |
+| columbia-ieor-mfe | 4 | IEOR MSFE. Not `columbia-msfe` (CBS) |
+| gt-qcf | 8 | Alias `gatech-qcf` is not a row. OOC semester tuition |
+| chicago-finmath | 7 | Illustrative 1,250-unit total |
+| nyu-courant-mf | 11 | Alias `nyu-courant` is not a row. No program aid card |
+| stanford-mcf | unlisted | Flat tuition null |
+
+Do not copy columbia-ieor-mfe costs or SCH-142–144 onto columbia-msfe.
 
 - **tamu-msf** and **florida-msf** are access-restricted combination pathways (TAMU undergrad 4+1 and UF undergrad only). External / international applicants are N/A on those ids.
 - **tamu-qfin** is MS Quantitative Finance (MS-QFIN / STEM to Stocks), open to non-TAMU graduates via Math GradCAS. It is a separate row from **tamu-msf**: no flat tuition sticker, nonresident base estimate $30,110, program fee $15,000 per Fall and Spring semester, and no scholarship card.
@@ -23,6 +38,7 @@ When programs are added, each catalog row id should end with **`-msf`**, using t
 | --- | --- | --- |
 | `{school-key}-msf` | `mit-msf`, `wharton-msf`, `columbia-msf` | Preferred default |
 | Locked suffix exceptions | `florida-msft`, `chicago-booth-mif`, `columbia-msfe`, `tamu-qfin` | Finance rows that do not use `-msf` |
+| quant-mfe track | `berkeley-mfe`, `cmu-mscf`, `baruch-mfe`, `columbia-ieor-mfe`, `gt-qcf`, `chicago-finmath`, `nyu-courant-mf`, `stanford-mcf` | Separate QuantNet track. `tfeRank2026` null. Aliases `gatech-qcf` and `nyu-courant` are not rows |
 | Existing CS/MBA keys | `stanford-cs`, `stanford-mba` | MSF sibling would be `stanford-msf` |
 
 Do not invent rankings or tuition during scaffold work. Add rows only after an approved handoff lists explicit ids.

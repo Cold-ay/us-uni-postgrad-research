@@ -1,7 +1,20 @@
 /**
  * Program area registry — CS, MBA, and MSF (Finance) families share one catalog pipeline.
  * MSF batches 1–4 (TFE Times 2026 ranks 1–30) plus unranked florida-msft, chicago-booth-mif, columbia-msfe, and tamu-qfin.
+ * Quant/MFE is a separate quant-mfe track (QuantNet 2026). Those ids are Finance rows with tfeRank null.
  */
+
+/** Locked quant-mfe catalog ids. Aliases (gatech-qcf, nyu-courant) are not rows. */
+export const QUANT_MFE_CATALOG_IDS = [
+  'berkeley-mfe',
+  'cmu-mscf',
+  'baruch-mfe',
+  'columbia-ieor-mfe',
+  'gt-qcf',
+  'chicago-finmath',
+  'nyu-courant-mf',
+  'stanford-mcf',
+];
 
 export const PROGRAM_AREAS = [
   {
@@ -40,7 +53,7 @@ export const PROGRAM_AREAS = [
     catalogIdSuffix: '-msf',
     tabShort: 'MSF',
     statTitle: 'MSF programs',
-    statSubtitle: 'TFE Times 2026 · ranks 1–30',
+    statSubtitle: 'TFE Times 2026 · ranks 1–30 · QuantNet track separate',
     tableSectionTitle: 'Master of Finance (MSF) programs',
     detailEyebrow: 'MSF',
     csvCategory: 'Master of Finance (MSF)',
@@ -84,7 +97,8 @@ export function isCatalogProgramId(id) {
     || id.endsWith('-msft')
     || id.endsWith('-mif')
     || id.endsWith('-msfe')
-    || id.endsWith('-qfin');
+    || id.endsWith('-qfin')
+    || QUANT_MFE_CATALOG_IDS.includes(id);
 }
 
 export function catalogIdArea(id) {
@@ -92,6 +106,7 @@ export function catalogIdArea(id) {
   if (id.endsWith('-mscs')) return 'Computer science';
   // Locked Finance ids that do not use the classic -msf suffix.
   if (id.endsWith('-msft') || id.endsWith('-mif') || id.endsWith('-msfe') || id.endsWith('-qfin')) return 'Finance';
+  if (QUANT_MFE_CATALOG_IDS.includes(id)) return 'Finance';
   for (const a of PROGRAM_AREAS) {
     if (id.endsWith(a.catalogIdSuffix)) return a.area;
   }

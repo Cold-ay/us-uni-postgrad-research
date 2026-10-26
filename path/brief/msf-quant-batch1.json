@@ -1,0 +1,617 @@
+{
+  "batch": "msf-quant-batch1",
+  "as_of": "2026-10-26",
+  "degree": "msf",
+  "field": "dossier-core",
+  "notes": [
+    "SEPARATE TRACK from primary MSF TFE slate \u2014 quant/MFE/computational finance only; do NOT merge into TFE rank spine.",
+    "Track label: quant-mfe. Ids locked from msf-candidate-list-2026-10-26.md.",
+    "ranking_source_primary = QuantNet 2026 MFE rankings (not TFE). All items have tfeRank2026: null.",
+    "Stanford ICME MCF is not listed on the 2026 QuantNet ranking page scrape \u2014 still included as locked quant bucket; rank null / program-stated.",
+    "Non-autumn / spring flags: Berkeley Haas MFE spring-only (no Fall admit); GT QCF also admits Spring; Chicago online has Jan/June starts (in-person Autumn).",
+    "Professor reputation signals: deferred (not researched this pass).",
+    "columbia-ieor-mfe (IEOR MSFE) is distinct from primary-slate columbia-msfe (CBS MS Financial Economics)."
+  ],
+  "ranking_source_primary": {
+    "name": "QuantNet 2026 Ranking of Best Financial Engineering Programs",
+    "url": "https://quantnet.com/mfe-programs-rankings/",
+    "as_of": "2026-01-08",
+    "mirror_url": "https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/"
+  },
+  "items": [
+    {
+      "id": "berkeley-mfe",
+      "school": "UC Berkeley Haas",
+      "program": "Master of Financial Engineering (MFE)",
+      "as_of": "2026-10-26",
+      "tfeRank2026": null,
+      "quantNetRank2026": 5,
+      "startTerm": "Spring only (January) \u2014 NO Fall admission; Spring 2028 cycle relevant for ~Fall 2027 app window",
+      "openDate": null,
+      "openDateNote": "Spring 2027 app closed; Spring 2028 app 'will reopen later this year' per admissions page (as of scrape).",
+      "deadlines": [
+        {
+          "label": "Spring 2028 Round 1",
+          "date": "2026-12-01",
+          "timeNote": "9:00 a.m. ET"
+        },
+        {
+          "label": "Spring 2028 Round 2",
+          "date": "2027-01-27",
+          "timeNote": "9:00 a.m. ET"
+        },
+        {
+          "label": "Spring 2028 Round 3",
+          "date": "2027-04-01",
+          "timeNote": "9:00 a.m. ET"
+        },
+        {
+          "label": "Spring 2028 Round 4",
+          "date": "2027-07-01",
+          "timeNote": "9:00 a.m. ET"
+        },
+        {
+          "label": "Late apps (space available)",
+          "date": "2027-07-15",
+          "timeNote": "9:00 a.m. ET"
+        },
+        {
+          "label": "Decisions",
+          "date": null,
+          "dateNote": "~9 weeks from submission per round"
+        }
+      ],
+      "tuition": 95353,
+      "tuitionAlt": 98036,
+      "tuitionLabel": "Tuition Class of 2028 FT (enter Jan 2027) \u2014 proxy until Spring 2028 schedule posted",
+      "tuitionAltLabel": "Program & University Fees Class of 2028 FT (enter Jan 2027)",
+      "period": "2026\u201327 (Class of 2028 entering Jan 2027)",
+      "costNote": "Haas COA for Class of 2028 (Spring 2027\u2013Fall 2027): tuition $95,353; Program & University Fees $98,036; total estimated COA $126,510 incl. living/insurance. Spring 2028 (Class of 2029) figures not yet posted \u2014 re-verify. Flex 2-year: $3,353/unit from Spring 2027; 28 units listed for part-time path.",
+      "duration": "1-year full-time (spring start) or 2-year Flex part-time",
+      "credits": 28,
+      "tracks": [
+        "Full-time 1-year MFE",
+        "Flex 2-year MFE (same curriculum)"
+      ],
+      "coreNotes": "SEPARATE TRACK quant-mfe. QuantNet 2026 #5 (tie). Spring-only; internship typically mid-program. STEM CIP 27.0305 Financial Mathematics (BIO memo).",
+      "academic": "Berkeley Haas MFE: spring-only start (no Fall). Spring 2028 rounds Dec 1'26 / Jan 27 / Apr 1 / Jul 1'27 (+ late Jul 15). FT tuition proxy Class of 2028 $95,353 (+$98,036 P&U fees). STEM. QuantNet #5.",
+      "orientation": "Spring start \u00b7 1-yr FT / 2-yr Flex \u00b7 QuantNet #5 \u00b7 SEPARATE TRACK",
+      "stem": true,
+      "sources": [
+        [
+          "Admissions / Spring 2028 deadlines",
+          "https://mfe.haas.berkeley.edu/admissions"
+        ],
+        [
+          "Cost of attendance",
+          "https://haas.berkeley.edu/financial-aid/master-of-financial-engineering/cost/"
+        ],
+        [
+          "Grad Division program page",
+          "https://grad.berkeley.edu/program/master-of-financial-engineering-mfe/"
+        ],
+        [
+          "STEM CIP memo (BIO)",
+          "https://internationaloffice.berkeley.edu/sites/default/files/master_of_financial_engineering_stem_memo.pdf"
+        ],
+        [
+          "QuantNet 2026 (IBKR mirror)",
+          "https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/"
+        ]
+      ]
+    },
+    {
+      "id": "cmu-mscf",
+      "school": "Carnegie Mellon University",
+      "program": "Master of Science in Computational Finance (MSCF)",
+      "as_of": "2026-10-26",
+      "tfeRank2026": null,
+      "quantNetRank2026": 3,
+      "startTerm": "Fall 2027 (Aug orientation; Fall-only entry)",
+      "openDate": null,
+      "openDateNote": "Apply portal open for Fall 2027 cycle; exact open date not labeled.",
+      "deadlines": [
+        {
+          "label": "Round 1 application",
+          "date": "2026-12-01"
+        },
+        {
+          "label": "Round 1 decision",
+          "date": "2027-02-26"
+        },
+        {
+          "label": "Round 1 deposit",
+          "date": "2027-03-25"
+        },
+        {
+          "label": "Round 2 application",
+          "date": "2027-03-01"
+        },
+        {
+          "label": "Round 2 decision",
+          "date": "2027-04-30"
+        },
+        {
+          "label": "Round 2 deposit",
+          "date": "2027-05-16"
+        }
+      ],
+      "tuition": 71800,
+      "tuitionAlt": 107700,
+      "tuitionLabel": "Tuition academic year 2026\u201327 (Fall+Spring) Pittsburgh/NYC",
+      "tuitionAltLabel": "Illustrative 3\u00d7 semester tuition ($35,900\u00d73) if billed Fall\u2013Spring\u2013Fall at 2026\u201327 rates \u2014 verify summer/total with MSCF",
+      "period": "2026\u201327",
+      "costNote": "CMU SFS MSCF: $71,800 AY tuition ($35,900/sem). Program ~16 months (Fall, Spring, required summer internship, final Fall). Total program tuition depends on summer billing \u2014 re-confirm with MSCF; QuantNet lists ~$104.6k (not official).",
+      "duration": "~16 months (Fall\u2013Spring\u2013summer internship\u2013Fall); mandatory Aug orientation from Aug 1",
+      "credits": null,
+      "tracks": [
+        "Pittsburgh campus",
+        "New York City campus (same live instruction)"
+      ],
+      "coreNotes": "SEPARATE TRACK quant-mfe. QuantNet 2026 #3. Full-time only; required summer internship. STEM (program/industry STEM-OPT; verify CIP on I-20).",
+      "academic": "CMU MSCF: Fall-only; R1 Dec 1'26 / R2 Mar 1'27. Tuition $71,800/AY 2026\u201327. ~16 mo Pittsburgh or NYC. STEM. QuantNet #3.",
+      "orientation": "Fall start \u00b7 ~16 mo \u00b7 QuantNet #3 \u00b7 SEPARATE TRACK",
+      "stem": true,
+      "sources": [
+        [
+          "Admissions / deadlines",
+          "https://www.cmu.edu/mscf/admissions"
+        ],
+        [
+          "FAQ (duration, internship, Fall-only)",
+          "https://www.cmu.edu/mscf/admissions/faq"
+        ],
+        [
+          "Tuition SFS",
+          "https://www.cmu.edu/sfs/tuition/graduate/mscf.html"
+        ],
+        [
+          "Curriculum",
+          "https://www.cmu.edu/mscf/academics/curriculum"
+        ],
+        [
+          "QuantNet 2026 (IBKR mirror)",
+          "https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/"
+        ]
+      ]
+    },
+    {
+      "id": "baruch-mfe",
+      "school": "Baruch College (CUNY) Weissman",
+      "program": "Master of Science in Financial Engineering (MFE)",
+      "as_of": "2026-10-26",
+      "tfeRank2026": null,
+      "quantNetRank2026": 1,
+      "startTerm": "Fall 2027 only",
+      "openDate": null,
+      "openDateNote": "Fall 2027 application available now per application-process page.",
+      "deadlines": [
+        {
+          "label": "Fall 2027 Round 1",
+          "date": "2026-11-01"
+        },
+        {
+          "label": "Fall 2027 Round 2",
+          "date": "2026-12-01"
+        },
+        {
+          "label": "Fall 2027 Round 3",
+          "date": "2027-01-15"
+        },
+        {
+          "label": "Fall 2027 Round 4",
+          "date": "2027-03-15"
+        },
+        {
+          "label": "Complete apps by (or deactivated)",
+          "date": "2027-03-20"
+        },
+        {
+          "label": "Pre-MFE seminar students only",
+          "date": "2027-04-01"
+        }
+      ],
+      "tuition": 27675,
+      "tuitionAlt": 42000,
+      "tuitionLabel": "Entire-program tuition NY state residents (program About page)",
+      "tuitionAltLabel": "Entire-program tuition out-of-state / international (program About page)",
+      "period": "program package (verify vs current bursar + AEF)",
+      "costNote": "Official About page: $27,675 NY / $42,000 OOS+intl for entire program. Catalog also lists Academic Excellence Fee $375/credit for MS Financial Engineering \u2014 package figures may need re-verify against current bursar. QuantNet lists higher tuition figure \u2014 not used as official.",
+      "duration": "Three semesters (Fall admission only)",
+      "credits": 36,
+      "tracks": [
+        "Full-time",
+        "Part-time (same admissions standard)"
+      ],
+      "coreNotes": "SEPARATE TRACK quant-mfe. QuantNet 2026 #1. GRE/GMAT not required \u2014 Quantitative Background Assessment (QBA) instead. STEM CIP 27.0305 (catalog).",
+      "academic": "Baruch MFE: Fall-only; rounds Nov 1 / Dec 1 / Jan 15 / Mar 15'27. Package tuition ~$27.7k NY / $42k OOS (verify AEF). 36 cr / 3 sem. STEM. QuantNet #1.",
+      "orientation": "Fall start \u00b7 3 semesters \u00b7 QuantNet #1 \u00b7 SEPARATE TRACK",
+      "stem": true,
+      "sources": [
+        [
+          "Application process / Fall 2027 deadlines",
+          "https://mfe.baruch.cuny.edu/application-process/"
+        ],
+        [
+          "About (length / tuition package)",
+          "https://mfe.baruch.cuny.edu/about/"
+        ],
+        [
+          "Catalog FINENGR-MS",
+          "https://baruch-graduate.catalog.cuny.edu/programs/FINENGR-MS"
+        ],
+        [
+          "Tuition & AEF catalog",
+          "https://baruch-graduate.catalog.cuny.edu/fees-expenses-financial-aid/tuition-and-fees"
+        ],
+        [
+          "QuantNet 2026 (IBKR mirror)",
+          "https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/"
+        ]
+      ]
+    },
+    {
+      "id": "columbia-ieor-mfe",
+      "school": "Columbia IEOR (Fu Foundation)",
+      "program": "Master of Science in Financial Engineering (MSFE)",
+      "as_of": "2026-10-26",
+      "tfeRank2026": null,
+      "quantNetRank2026": 4,
+      "startTerm": "Fall 2027 only (no Spring MSFE)",
+      "openDate": null,
+      "openDateNote": "Columbia Engineering graduate admissions cycle; exact open date not labeled on IEOR timelines page.",
+      "deadlines": [
+        {
+          "label": "Fall MS Financial Engineering deadline",
+          "date": "2027-01-15"
+        },
+        {
+          "label": "Decision timeline",
+          "date": null,
+          "dateNote": "Mid\u2013late April (IEOR graduate timelines)"
+        }
+      ],
+      "tuition": 101592,
+      "tuitionAlt": 2822,
+      "tuitionLabel": "Estimated program tuition 36 points \u00d7 $2,822/point (2026\u201327 SEAS)",
+      "tuitionAltLabel": "Tuition per point 2026\u201327 Graduate Engineering",
+      "period": "2026\u201327",
+      "costNote": "Columbia SFS Graduate Engineering 2026\u201327: $2,822 per point. IEOR lists MSFE as 36-credit program. 36\u00d7$2,822=$101,592 tuition (fees extra; IEOR +$1,144 program fee noted on SFS). Older IEOR tuition page still showed 2024\u201325 $2,584 \u2014 use SFS 2026\u201327. Distinct from CBS MS Financial Economics (columbia-msfe on primary slate).",
+      "duration": "Typically three semesters full-time (Fall start); IEOR budgets 36-credit programs over three semesters",
+      "credits": 36,
+      "tracks": [
+        "MSFE (Fall only)"
+      ],
+      "coreNotes": "SEPARATE TRACK quant-mfe. QuantNet 2026 #4. Official page: STEM-certified / F-1 STEM OPT eligible. Not CBS MSFE.",
+      "academic": "Columbia IEOR MSFE: Fall-only deadline Jan 15, 2027; decisions mid\u2013late Apr. ~$101,592 tuition (36\u00d7$2,822). STEM. QuantNet #4.",
+      "orientation": "Fall start \u00b7 ~3 semesters \u00b7 QuantNet #4 \u00b7 SEPARATE TRACK",
+      "stem": true,
+      "sources": [
+        [
+          "IEOR MSFE program",
+          "https://ieor.columbia.edu/financial-engineering-msfe"
+        ],
+        [
+          "IEOR graduate timelines",
+          "https://ieor.columbia.edu/graduate-programs-timelines"
+        ],
+        [
+          "Columbia Engineering application deadlines",
+          "https://www.engineering.columbia.edu/admissions-aid/graduate-admissions/how-apply/application-requirements"
+        ],
+        [
+          "SFS Graduate Engineering COA 2026\u201327",
+          "https://sfs.columbia.edu/content/graduate-engineering-cost-attendance"
+        ],
+        [
+          "IEOR tuition page (may lag)",
+          "https://ieor.columbia.edu/tuition-and-fees"
+        ],
+        [
+          "QuantNet 2026 (IBKR mirror)",
+          "https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/"
+        ]
+      ]
+    },
+    {
+      "id": "gt-qcf",
+      "school": "Georgia Tech (Scheller / ISyE / Math)",
+      "program": "Master of Science in Quantitative and Computational Finance (MS-QCF)",
+      "as_of": "2026-10-26",
+      "tfeRank2026": null,
+      "quantNetRank2026": 8,
+      "startTerm": "Fall 2027 or Spring 2027 (dual intake)",
+      "openDate": null,
+      "openDateNote": "Rolling review; deadlines are guidance \u2014 app closes May 15 (Fall) / Oct 15 (Spring) per program.",
+      "deadlines": [
+        {
+          "label": "Spring 2027 Standard",
+          "date": "2026-08-01"
+        },
+        {
+          "label": "Spring 2027 Final",
+          "date": "2026-10-01"
+        },
+        {
+          "label": "Spring 2027 app close",
+          "date": "2026-10-15"
+        },
+        {
+          "label": "Fall 2027 Early",
+          "date": "2026-10-15"
+        },
+        {
+          "label": "Fall 2027 Standard",
+          "date": "2026-12-05"
+        },
+        {
+          "label": "Fall 2027 Final (intl outside US)",
+          "date": "2027-03-15"
+        },
+        {
+          "label": "Fall 2027 Final (US / intl in US)",
+          "date": "2027-05-01"
+        },
+        {
+          "label": "Fall 2027 app close",
+          "date": "2027-05-15"
+        }
+      ],
+      "tuition": 21316,
+      "tuitionAlt": 9103,
+      "tuitionLabel": "Out-of-state MSQCF full-time semester (\u226512 cr) Fall 2026 bursar",
+      "tuitionAltLabel": "In-state MSQCF full-time semester (\u226512 cr) Fall 2026 bursar",
+      "period": "Fall 2026 rates (proxy until Fall 2027 posted)",
+      "costNote": "GT bursar Fall 2026 MSQCF: IS $759/hr ($9,103 \u226512 cr); OOS $1,778/hr ($21,316); Out-of-country $1,829/hr ($21,935) + mandatory fees. 36-credit degree \u2192 rough multi-semester total depends on load/residency; do not invent flat program total. Fall traditional track ~1.5 years with summer internship.",
+      "duration": "Fall traditional ~1.5 years (w/ summer internship); Spring fast track ~1 year (no internship) or extended 1.5\u20132 years",
+      "credits": 36,
+      "tracks": [
+        "Fall traditional (internship)",
+        "Spring fast track",
+        "Spring traditional/extended",
+        "Full-time or part-time (same daytime schedule)",
+        "Optional MS-QCF / MS-CSE shared-credit path"
+      ],
+      "coreNotes": "SEPARATE TRACK quant-mfe. QuantNet 2026 #8. Program site calls it a STEM degree. Catalog: 36 credit hours.",
+      "academic": "GT QCF: Fall 2027 early Oct 15'26 / std Dec 5 / finals Mar 15 & May 1'27. 36 cr; Fall ~1.5 yr. STEM stated. QuantNet #8. Per-hr tuition Fall 2026 rates.",
+      "orientation": "Fall or Spring \u00b7 36 cr \u00b7 QuantNet #8 \u00b7 SEPARATE TRACK",
+      "stem": true,
+      "sources": [
+        [
+          "Application requirements / deadlines",
+          "https://qcf.gatech.edu/prospective-students/application-requirements"
+        ],
+        [
+          "Prospective (STEM wording)",
+          "https://qcf.gatech.edu/prospective-students"
+        ],
+        [
+          "Curriculum / 36 credits",
+          "https://qcf.gatech.edu/student-life/academics-curriculum"
+        ],
+        [
+          "GT Catalog MS QCF",
+          "https://catalog.gatech.edu/programs/quantitative-computational-finance-ms/"
+        ],
+        [
+          "Fall 2026 bursar MSQCF rates PDF",
+          "https://bursar.gatech.edu/student/tuition/fa26/fa26_totals.pdf"
+        ],
+        [
+          "QuantNet 2026 (IBKR mirror)",
+          "https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/"
+        ]
+      ]
+    },
+    {
+      "id": "chicago-finmath",
+      "school": "University of Chicago (Physical Sciences / Math)",
+      "program": "MS in Financial Mathematics (MSFM)",
+      "as_of": "2026-10-26",
+      "tfeRank2026": null,
+      "quantNetRank2026": 7,
+      "startTerm": "Autumn 2027 (in-person); online also Jan 2027 / June 2027",
+      "openDate": null,
+      "openDateNote": "Master's Admissions Online System; exact open date not labeled.",
+      "deadlines": [
+        {
+          "label": "In-person Autumn 2027 Round 1",
+          "date": "2026-11-02"
+        },
+        {
+          "label": "In-person Autumn 2027 Round 2",
+          "date": "2027-02-01"
+        },
+        {
+          "label": "Online January 2027 start",
+          "date": "2026-11-02"
+        },
+        {
+          "label": "Online June 2027 Round 1",
+          "date": "2027-02-01"
+        },
+        {
+          "label": "Online June 2027 Round 2",
+          "date": "2027-05-01"
+        }
+      ],
+      "tuition": 8017,
+      "tuitionAlt": 100213,
+      "tuitionLabel": "Tuition per 100-unit course 2026\u201327",
+      "tuitionAltLabel": "Implied full degree tuition 1,250 units \u00d7 $8,017/100 (12.5\u00d7$8,017) \u2014 verify billing",
+      "period": "2026\u201327",
+      "costNote": "Official: $8,017 per 100 units for 2026\u201327; degree requires 1,250 units (250 core + 100 computing + 900 elective). Quarterly Student Services Fee $520; USHIP 2026 $1,839 if enrolled; one-time transcript fee $84. Enrollment deposit $3,000 credited to first Autumn tuition.",
+      "duration": "In-person typically five quarters (~15 months); online ~1 year (program descriptions)",
+      "credits": 1250,
+      "tracks": [
+        "In-person MSFM (Autumn start)",
+        "Online MSFM (Jan / June starts)",
+        "Degree concentrations available (in-person)"
+      ],
+      "coreNotes": "SEPARATE TRACK quant-mfe. QuantNet 2026 #7. Official: USCIS-approved STEM field / 24-mo STEM OPT. Credits expressed as UChicago units (not semester hours).",
+      "academic": "Chicago MSFM: Autumn'27 R1 Nov 2'26 / R2 Feb 1'27. $8,017/100 units; 1,250 units. STEM. QuantNet #7.",
+      "orientation": "Autumn (in-person) \u00b7 ~5 quarters \u00b7 QuantNet #7 \u00b7 SEPARATE TRACK",
+      "stem": true,
+      "sources": [
+        [
+          "Apply / deadlines",
+          "https://finmath.uchicago.edu/admissions/apply/"
+        ],
+        [
+          "Tuition",
+          "https://finmath.uchicago.edu/admissions/tuition/"
+        ],
+        [
+          "Curriculum / 1250 units",
+          "https://finmath.uchicago.edu/page/curriculum"
+        ],
+        [
+          "International / STEM OPT",
+          "https://finmath.uchicago.edu/admissions/international-students/"
+        ],
+        [
+          "QuantNet 2026 (IBKR mirror)",
+          "https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/"
+        ]
+      ]
+    },
+    {
+      "id": "nyu-courant-mf",
+      "school": "NYU Courant Institute",
+      "program": "MS in Mathematics in Finance",
+      "as_of": "2026-10-26",
+      "tfeRank2026": null,
+      "quantNetRank2026": 11,
+      "startTerm": "Fall 2027 (full-time Fall-only); part-time Fall or Spring",
+      "openDate": null,
+      "openDateNote": "GSAS online application; exact open date not labeled on program admissions page.",
+      "deadlines": [
+        {
+          "label": "Full-time Fall (all materials to GSAS)",
+          "date": "2027-02-12",
+          "dateNote": "Program page lists February 12 without year; assigned to Fall 2027 cycle \u2014 re-confirm on GSAS for 2027"
+        },
+        {
+          "label": "Part-time Fall",
+          "date": "2027-08-01"
+        },
+        {
+          "label": "Part-time Spring",
+          "date": "2026-12-01",
+          "dateNote": "December 1 for Spring \u2014 year depends on which Spring; listed as Dec 1 on page"
+        },
+        {
+          "label": "MBA/MS dual (current FT students)",
+          "date": "2027-02-15"
+        }
+      ],
+      "tuition": 87336,
+      "tuitionAlt": 2426,
+      "tuitionLabel": "Estimated tuition 36 points \u00d7 GSAS $2,426/credit (2026\u201327)",
+      "tuitionAltLabel": "GSAS graduate tuition per credit Fall 2026 / Spring 2027 schedule",
+      "period": "2026\u201327",
+      "costNote": "NYU Bursar 2026\u201327: Graduate School of Arts and Science All Programs $2,426 per credit + $503 registration/services fee + $81 per-credit R&S fee. 36-point degree \u2192 tuition $87,336 before fees. Program points to NYU tuition calculator.",
+      "duration": "Full-time three semesters (~18 months) with summer internship between 2nd and 3rd; part-time typically ~3 years",
+      "credits": 36,
+      "tracks": [
+        "Full-time MS",
+        "Part-time MS",
+        "Advanced Certificate",
+        "Non-degree (\u226412 points)",
+        "MBA/MS dual (current FT only)",
+        "Optional August summer bootcamp"
+      ],
+      "coreNotes": "SEPARATE TRACK quant-mfe. QuantNet 2026 #11 (tie). Bulletin CIP 27.0305 \u2014 STEM OPT typically applicable; confirm on I-20. GRE required (GMAT not accepted).",
+      "academic": "NYU Courant Math Finance: FT deadline Feb 12 (2027 cycle \u2014 verify year). 36 points / 3 sem. GSAS ~$2,426/cr. STEM CIP 27.0305. QuantNet #11.",
+      "orientation": "Fall FT \u00b7 3 semesters \u00b7 QuantNet #11 \u00b7 SEPARATE TRACK",
+      "stem": true,
+      "sources": [
+        [
+          "Admissions / deadlines",
+          "https://math-finance.cims.nyu.edu/admissions/"
+        ],
+        [
+          "Academics / 36 points",
+          "https://math-finance.cims.nyu.edu/academics/"
+        ],
+        [
+          "NYU Bulletin Mathematics in Finance MS",
+          "https://bulletins.nyu.edu/graduate/arts-science/programs/mathematics-finance-ms/"
+        ],
+        [
+          "NYU Bursar 2026\u201327 Tuition and Fees PDF",
+          "https://www.nyu.edu/content/dam/nyu/bursar/documents/2026-2027%20Tuition%20and%20Fees.pdf"
+        ],
+        [
+          "QuantNet 2026 (IBKR mirror)",
+          "https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/"
+        ]
+      ]
+    },
+    {
+      "id": "stanford-mcf",
+      "school": "Stanford ICME (School of Engineering)",
+      "program": "MS Mathematical and Computational Finance (MCF track)",
+      "as_of": "2026-10-26",
+      "tfeRank2026": null,
+      "quantNetRank2026": null,
+      "startTerm": "Autumn Quarter 2027\u201328 only (external applicants)",
+      "openDate": null,
+      "openDateNote": "ICME MS application; exact open date not labeled. Knight-Hennessy applicants: ICME due Dec 1, 2026.",
+      "deadlines": [
+        {
+          "label": "ICME MS external applicants Autumn 2027\u201328",
+          "date": "2027-01-29",
+          "timeNote": "11:59 p.m. PST"
+        },
+        {
+          "label": "Knight-Hennessy + ICME",
+          "date": "2026-12-01"
+        },
+        {
+          "label": "Decisions",
+          "date": null,
+          "dateNote": "Rolling after Jan 29; generally first week of April 2027"
+        }
+      ],
+      "tuition": 23239,
+      "tuitionAlt": 15100,
+      "tuitionLabel": "Graduate Engineering quarterly tuition 11\u201318 units (2026\u201327)",
+      "tuitionAltLabel": "Graduate Engineering quarterly tuition 8\u201310 units (2026\u201327)",
+      "period": "2026\u201327",
+      "costNote": "Stanford Student Services 2026\u201327 Engineering: $15,100 (8\u201310 units/qtr) or $23,239 (11\u201318). Degree 45 units over typically 5\u20136 full-time quarters \u2014 flat program total not published; do not invent. HCP part-time path exists separately.",
+      "duration": "45 units; typically 5\u20136 full-time quarters (~1.5\u20132 years)",
+      "credits": 45,
+      "tracks": [
+        "MCF track within ICME MS",
+        "HCP part-time (separate path)"
+      ],
+      "coreNotes": "SEPARATE TRACK quant-mfe. Not listed on 2026 QuantNet ranking scrape \u2014 program-stated only. Small cohort (~10\u201315; ~5% admit per FAQ). GRE/GMAT not required/accepted for ICME MS. STEM: CIP not stated on MCF pages \u2014 verify on I-20 (Engineering MS typically STEM).",
+      "academic": "Stanford ICME MCF: Autumn'27 deadline Jan 29, 2027 (11:59pm PST). 45 units / 5\u20136 qtrs. Eng tuition $15.1k\u2013$23.2k/qtr. QuantNet unranked. STEM verify CIP.",
+      "orientation": "Autumn start \u00b7 45 units \u00b7 QuantNet n/a \u00b7 SEPARATE TRACK",
+      "stem": null,
+      "sources": [
+        [
+          "ICME application deadlines",
+          "https://icme.stanford.edu/academics-admission/icme-application-deadlines"
+        ],
+        [
+          "MCF admissions hub",
+          "https://mcf.stanford.edu/admissions"
+        ],
+        [
+          "MCF FAQ (units, duration, tuition pointer)",
+          "https://mcf.stanford.edu/frequently-asked-questions"
+        ],
+        [
+          "Stanford 2026\u201327 graduate tuition rates",
+          "https://studentservices.stanford.edu/tuition-rates/2026-2027-graduate-and-professional-tuition-rates"
+        ],
+        [
+          "QuantNet 2026 (IBKR mirror \u2014 MCF not listed)",
+          "https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/"
+        ]
+      ]
+    }
+  ]
+}

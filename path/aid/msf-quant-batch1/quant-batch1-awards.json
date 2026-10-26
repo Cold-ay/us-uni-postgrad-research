@@ -1,0 +1,557 @@
+{
+  "asOf": "2026-10-26",
+  "timezone": "Asia/Hong_Kong",
+  "intake": "Fall 2027 cycle (berkeley-mfe Spring-only / Spring 2028)",
+  "idScheme": "SCH-140+ (quant-mfe separate track; after Batch3 SCH-115 / florida SCH-120; avoids Batch4 116+ and tamu 130+)",
+  "batch": "msf-quant-batch1-SEPARATE-TRACK",
+  "track": "quant-mfe SEPARATE TRACK — do NOT merge into primary MSF TFE rank spine",
+  "overlapsFlagOnly": [
+    {
+      "existingId": "SCH-015",
+      "name": "HKSES",
+      "note": "External HK — may fund US quant/MFE; do not recreate."
+    },
+    {
+      "existingId": "SCH-017",
+      "name": "Fulbright Taiwan",
+      "note": "External TW — flag only."
+    },
+    {
+      "existingId": "SCH-018",
+      "name": "Taiwan MOE GSSA",
+      "note": "External TW — flag only."
+    },
+    {
+      "existingId": "SCH-038",
+      "name": "Soros",
+      "note": "Already live; listed on CMU MSCF external page — flag only."
+    },
+    {
+      "existingId": "SCH-068",
+      "name": "CSC rare master's",
+      "note": "PRC thin master's path; flag for PRC quant applicants."
+    }
+  ],
+  "externalNewSkipped": [
+    {
+      "name": "AAUW / Numerix Women in Finance / GEM / HSF (listed on CMU MSCF page)",
+      "reason": "External multi-school — not new program-tied SCH cards."
+    },
+    {
+      "name": "Financial Women of San Francisco $15k",
+      "reason": "External Bay Area women finance — not Haas-tied SCH."
+    },
+    {
+      "name": "Baruch federal loans / Grad PLUS changes",
+      "reason": "Loan product — not scholarship card."
+    },
+    {
+      "name": "NYU GSAS Tuition Incentive Program",
+      "reason": "External-match mechanism — not Courant MF institutional merit."
+    },
+    {
+      "name": "Stanford Knight-Hennessy / SGF",
+      "reason": "PhD-oriented / university-wide — not MCF MS guaranteed funding."
+    }
+  ],
+  "gaps": [
+    "berkeley-mfe: Spring 2028 / Class of 2029 COA not posted — used Class of 2028 P&U Fees $98,036 proxy",
+    "cmu-mscf: total program tuition across 3 academic semesters + summer billing unverified — AY $71,800 only",
+    "baruch-mfe: About package $42k intl may lag catalog AEF path (~$44.3k est.) — re-verify bursar",
+    "baruch-mfe: no verified open admit-time merit SCH; Gatheral is current-student",
+    "columbia-ieor-mfe: IEOR dept page still 2024–25 rates; used Bulletin 2026–27 $2,822/point",
+    "gt-qcf: Fall 2027 bursar not posted — Fall 2026 OOC $21,935/sem; flat program total null",
+    "chicago-finmath: living band not published on FinMath tuition page — omitted; 1,250-unit total illustrative",
+    "nyu-courant-mf: no program scholarships; living band not published on admissions page — omitted",
+    "stanford-mcf: flat tuition null; STEM null; no guaranteed MS funding",
+    "Merit dollar amounts unpublished for Berkeley merit / Chicago FinMath / Columbia Dean's / GT GTA stipends"
+  ],
+  "counts": {
+    "awardsTotal": 15,
+    "ingestTrue": 8,
+    "ingestFalse": 7
+  },
+  "awards": [
+    {
+      "asOf": "2026-10-26",
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "intlEligible": "yes",
+      "ingest": true,
+      "id": "SCH-140",
+      "name": "Berkeley Haas MFE Partial-Tuition Merit Scholarship",
+      "scope": "berkeley-mfe",
+      "programIds": [
+        "berkeley-mfe"
+      ],
+      "state": "Automatic with admission",
+      "tone": "green",
+      "type": "Scholarship · Merit-Based",
+      "awardType": "scholarship",
+      "category": "Merit-Based",
+      "description": "All MFE candidates are considered for a partial-tuition Merit Scholarship with no separate application; typically offered with the admissions decision. Haas also lists donor-named awards (Matrosova Leadership, Arthur Qi Book $1,000, Mark Rubinstein Fellowship) and a general need-based scholarship via the scholarship portal aligned to admission rounds. Limited funding; earlier rounds advised.",
+      "eligibility": "Admitted Berkeley Haas MFE students (FT or Flex). Page addresses scholarships to admitted students without citizenship carve-out on the merit auto-consider language; international students have access to limited scholarships (most aid is loans).",
+      "amount": "Partial tuition (amount unpublished); Qi Book Award $1,000 when awarded",
+      "deadline": "With admission (merit); donor/need apps aligned to admission round deadlines",
+      "note": "SEPARATE TRACK quant-mfe. Spring-only program. SIEML alumni full first-year fee coverage is pathway-only — see SCH-148 ingest:false. Veterans benefits separate.",
+      "url": "https://mfe.haas.berkeley.edu/admissions/scholarships-loans",
+      "sources": [
+        {
+          "label": "MFE Scholarships and Loans",
+          "url": "https://mfe.haas.berkeley.edu/admissions/scholarships-loans"
+        },
+        {
+          "label": "Haas MFE Scholarships",
+          "url": "https://haas.berkeley.edu/financial-aid/master-of-financial-engineering/haas-scholarships/"
+        }
+      ]
+    },
+    {
+      "asOf": "2026-10-26",
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "intlEligible": "yes",
+      "ingest": true,
+      "id": "SCH-141",
+      "name": "CMU MSCF Merit Fellowship",
+      "scope": "cmu-mscf",
+      "programIds": [
+        "cmu-mscf"
+      ],
+      "state": "Automatic with admission",
+      "tone": "green",
+      "type": "Fellowship · Merit-Based",
+      "awardType": "fellowship",
+      "category": "Merit-Based",
+      "description": "All admitted MSCF students are automatically reviewed for an MSCF Merit Fellowship. Awards are partial; MSCF Fellowship awards up to $60,000 for the entirety of the program based on overall strength of the applicant relative to the pool and contribution to representation within the MSCF community. Fellowship page notes ~25% of incoming students receive fellowships.",
+      "eligibility": "Admitted CMU MSCF students (Pittsburgh or NYC). Automatic consideration; no separate fellowship application. International students are not eligible for CMU need-based/federal aid but merit fellowship language is not citizenship-restricted on the MSCF tuition/aid page.",
+      "amount": "Up to $60,000 for full program (partial; ~25% of incoming class per fellowship page)",
+      "deadline": "With admission (automatic)",
+      "note": "SEPARATE TRACK quant-mfe. External lists on same page (AAUW, Soros, Numerix Women in Finance, etc.) are not MSCF-tied SCH cards.",
+      "url": "https://www.cmu.edu/mscf/admissions/tuition-financial-aid",
+      "sources": [
+        {
+          "label": "MSCF Tuition & Financial Aid — Fellowship",
+          "url": "https://www.cmu.edu/mscf/admissions/tuition-financial-aid"
+        }
+      ]
+    },
+    {
+      "asOf": "2026-10-26",
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "intlEligible": "yes",
+      "ingest": true,
+      "id": "SCH-142",
+      "name": "Columbia Engineering Dean's MS Academic Excellence Fellowship",
+      "scope": "columbia-ieor-mfe",
+      "programIds": [
+        "columbia-ieor-mfe"
+      ],
+      "state": "Automatic departmental merit consideration",
+      "tone": "amber",
+      "type": "Fellowship · Merit-Based",
+      "awardType": "fellowship",
+      "category": "Merit-Based",
+      "description": "Partial tuition fellowship awarded by academic departments based on merit to MS students. No separate application. Master's internal funding at Columbia Engineering is limited and not guaranteed.",
+      "eligibility": "Admitted Columbia Engineering MS students including IEOR MSFE. No citizenship restriction stated on the Dean's MS Academic Excellence Fellowship description.",
+      "amount": "Partial tuition (amount unpublished)",
+      "deadline": "With admission (no separate application)",
+      "note": "SEPARATE TRACK quant-mfe. Applies to columbia-ieor-mfe only — do NOT attach to CBS columbia-msfe.",
+      "url": "https://www.engineering.columbia.edu/admissions-aid/graduate-admissions/graduate-funding-opportunities",
+      "sources": [
+        {
+          "label": "Columbia Engineering Graduate Funding — Master's",
+          "url": "https://www.engineering.columbia.edu/admissions-aid/graduate-admissions/graduate-funding-opportunities"
+        }
+      ]
+    },
+    {
+      "asOf": "2026-10-26",
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "intlEligible": "yes",
+      "ingest": true,
+      "id": "SCH-143",
+      "name": "Columbia Engineering CMA CGM Excellence Fund for Education",
+      "scope": "columbia-ieor-mfe",
+      "programIds": [
+        "columbia-ieor-mfe"
+      ],
+      "state": "Separate application after Engineering application submitted",
+      "tone": "amber",
+      "type": "Fellowship · Merit/Need",
+      "awardType": "fellowship",
+      "category": "Merit-Based",
+      "description": "Merit-based fellowship for outstanding Columbia Engineering master's students demonstrating academic excellence, financial need, and interest in applying technology/analytics to global challenges (logistics, infrastructure, data-driven decisions, sustainability, finance, AI). Particular consideration for connections to or interest in Lebanon's economic development. Selected fellows receive $50,000.",
+      "eligibility": "Admitted/applicant Columbia Engineering MS students who apply for the award after submitting the Engineering application. Not citizenship-limited on the published description; Lebanon interest is a preference factor, not a hard nationality lock.",
+      "amount": "$50,000",
+      "deadline": "After Columbia Engineering application submission (see funding page for cycle details)",
+      "note": "SEPARATE TRACK quant-mfe. Preference language for Lebanon — still open apply path for HK/TW/PRC if theme fit; not a pathway-only lock.",
+      "url": "https://www.engineering.columbia.edu/admissions-aid/graduate-admissions/graduate-funding-opportunities",
+      "sources": [
+        {
+          "label": "Columbia Engineering Graduate Funding — CMA CGM",
+          "url": "https://www.engineering.columbia.edu/admissions-aid/graduate-admissions/graduate-funding-opportunities"
+        }
+      ]
+    },
+    {
+      "asOf": "2026-10-26",
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "intlEligible": "yes",
+      "ingest": true,
+      "id": "SCH-144",
+      "name": "Columbia Engineering Graduate Fellowship in Engineering for Change",
+      "scope": "columbia-ieor-mfe",
+      "programIds": [
+        "columbia-ieor-mfe"
+      ],
+      "state": "Separate application after Engineering application submitted",
+      "tone": "amber",
+      "type": "Fellowship · Need/Merit",
+      "awardType": "fellowship",
+      "category": "Need-Based",
+      "description": "Partial tuition fellowship for MS students who have experienced extraordinary challenges in engineering endeavors and who demonstrate financial need. Apply after submitting Columbia Engineering application.",
+      "eligibility": "Columbia Engineering MS applicants/admits who apply for the fellowship; financial need + extraordinary challenges. No citizenship carve-out on published blurb.",
+      "amount": "Partial tuition (amount unpublished)",
+      "deadline": "After Columbia Engineering application submission",
+      "note": "SEPARATE TRACK quant-mfe.",
+      "url": "https://www.engineering.columbia.edu/admissions-aid/graduate-admissions/graduate-funding-opportunities",
+      "sources": [
+        {
+          "label": "Columbia Engineering Graduate Funding",
+          "url": "https://www.engineering.columbia.edu/admissions-aid/graduate-admissions/graduate-funding-opportunities"
+        }
+      ]
+    },
+    {
+      "asOf": "2026-10-26",
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "intlEligible": "yes",
+      "ingest": true,
+      "id": "SCH-145",
+      "name": "UChicago Financial Mathematics Merit-Based Funding",
+      "scope": "chicago-finmath",
+      "programIds": [
+        "chicago-finmath"
+      ],
+      "state": "Automatic with admission",
+      "tone": "green",
+      "type": "Scholarship · Merit-Based",
+      "awardType": "scholarship",
+      "category": "Merit-Based",
+      "description": "All applicants to the Financial Mathematics program — including both international and part-time applicants — are considered for merit-based funding from the program. No additional paperwork; funding decisions announced with admissions decisions.",
+      "eligibility": "All FinMath applicants including international and part-time. Explicitly open to international applicants on the tuition page.",
+      "amount": "Not published on current tuition page (historical QuantNet notes of % tuition tiers not treated as official)",
+      "deadline": "With admission (automatic)",
+      "note": "SEPARATE TRACK quant-mfe. Do not invent Alpha/Maroon % from third-party posts.",
+      "url": "https://finmath.uchicago.edu/admissions/tuition/",
+      "sources": [
+        {
+          "label": "FinMath Tuition — Scholarship Award Opportunities",
+          "url": "https://finmath.uchicago.edu/admissions/tuition/"
+        }
+      ]
+    },
+    {
+      "asOf": "2026-10-26",
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "intlEligible": "yes",
+      "ingest": true,
+      "id": "SCH-146",
+      "name": "Georgia Tech MS-QCF Graduate Teaching / Graduate Assistantships",
+      "scope": "gt-qcf",
+      "programIds": [
+        "gt-qcf"
+      ],
+      "state": "Select students during program",
+      "tone": "amber",
+      "type": "Assistantship · Merit/Service",
+      "awardType": "assistantship",
+      "category": "Assistantship",
+      "description": "GTA (tuition waiver + monthly salary) and GA (hourly salary) awarded to select QCF students throughout the program. Program page: typically over half of students have some opportunity for funding at some point. Not an automatic admission offer; competitive/select.",
+      "eligibility": "Enrolled MS-QCF students selected for GTA/GA. International students are not eligible for federal/state aid but assistantships are the primary institutional funding path described for the program.",
+      "amount": "GTA: tuition waiver + stipend (amounts unpublished on QCF page); GA: hourly (unpublished)",
+      "deadline": "During program (select awards; not a separate pre-admit open scholarship form on QCF funding page)",
+      "note": "SEPARATE TRACK quant-mfe. id=gt-qcf. Assistantship tuition uses reduced GA rate tables — not the full OOC sticker.",
+      "url": "https://qcf.gatech.edu/prospective-students/tuition-costs-and-funding-opportunites",
+      "sources": [
+        {
+          "label": "QCF Tuition Costs and Funding Opportunities",
+          "url": "https://qcf.gatech.edu/prospective-students/tuition-costs-and-funding-opportunites"
+        }
+      ]
+    },
+    {
+      "asOf": "2026-10-26",
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "intlEligible": "yes",
+      "ingest": true,
+      "id": "SCH-147",
+      "name": "Stanford ICME Limited MS Teaching/Course & Research Assistantships",
+      "scope": "stanford-mcf",
+      "programIds": [
+        "stanford-mcf"
+      ],
+      "state": "Competitive; not guaranteed; often via faculty/CA application after enrollment",
+      "tone": "amber",
+      "type": "Assistantship · Merit/Service",
+      "awardType": "assistantship",
+      "category": "Assistantship",
+      "description": "ICME does not offer guaranteed financial support for MS students. Limited TA/CA and occasional RA appointments may cover 8–10 units tuition plus salary at 50% time (20 hrs/week); reduced 25% appointments possible. MCF FAQ: admissions need-blind; no practice of linking guaranteed financial support to admission offers.",
+      "eligibility": "ICME MS students (including MCF track) who secure competitive TA/CA or RA. RA typically via faculty contact; TA/CA via ICME CA application (SUNet). Open without citizenship lock on ICME funding page; federal loans US-only.",
+      "amount": "Tuition coverage 8–10 units + monthly salary at standard assistantship rates (exact $ unpublished on ICME page)",
+      "deadline": "After enrollment / faculty arrangement (not automatic with admission)",
+      "note": "SEPARATE TRACK quant-mfe. Vuolteenaho Family Fellowship is Aalto-pathway — SCH-151 ingest:false. Knight-Hennessy / SGF are PhD-oriented — not MCF MS cards.",
+      "url": "https://icme.stanford.edu/academics-admission/graduate-funding",
+      "sources": [
+        {
+          "label": "ICME Graduate Funding",
+          "url": "https://icme.stanford.edu/academics-admission/graduate-funding"
+        },
+        {
+          "label": "MCF FAQ — scholarships",
+          "url": "https://mcf.stanford.edu/frequently-asked-questions"
+        }
+      ]
+    },
+    {
+      "asOf": "2026-10-26",
+      "hkEligible": "no",
+      "twEligible": "no",
+      "prcEligible": "no",
+      "intlEligible": "conditional",
+      "ingest": false,
+      "id": "SCH-148",
+      "name": "Berkeley Haas SIEML Alumni Assessed-Fees Coverage (pathway)",
+      "scope": "berkeley-mfe",
+      "programIds": [
+        "berkeley-mfe"
+      ],
+      "state": "SIEML alumni only",
+      "tone": "gray",
+      "type": "Scholarship · Pathway",
+      "awardType": "scholarship",
+      "category": "Pathway",
+      "description": "SIEML alumni eligible for application fee waiver and all assessed fees covered for first year of graduate studies at Haas.",
+      "eligibility": "Summer Institute for Emerging Managers and Leaders (SIEML) alumni only.",
+      "amount": "All assessed fees first year (plus app fee waiver)",
+      "deadline": "Pathway — SIEML alumni status required",
+      "note": "SEPARATE TRACK quant-mfe. Pathway-only → ingest:false.",
+      "url": "https://mfe.haas.berkeley.edu/admissions/scholarships-loans",
+      "sources": [
+        {
+          "label": "MFE Scholarships and Loans — SIEML",
+          "url": "https://mfe.haas.berkeley.edu/admissions/scholarships-loans"
+        }
+      ]
+    },
+    {
+      "asOf": "2026-10-26",
+      "hkEligible": "no",
+      "twEligible": "no",
+      "prcEligible": "no",
+      "intlEligible": "conditional",
+      "ingest": false,
+      "id": "SCH-149",
+      "name": "Columbia University–CUNY Pathways Fellowship (pathway)",
+      "scope": "columbia-ieor-mfe",
+      "programIds": [
+        "columbia-ieor-mfe"
+      ],
+      "state": "Recent CUNY graduates only",
+      "tone": "gray",
+      "type": "Fellowship · Pathway",
+      "awardType": "fellowship",
+      "category": "Pathway",
+      "description": "Partial tuition fellowship for high-achieving recent CUNY graduates admitted to Columbia Engineering MS programs. No separate application.",
+      "eligibility": "High-achieving recent graduates of CUNY admitted to Columbia Engineering MS.",
+      "amount": "Partial tuition (unpublished)",
+      "deadline": "Automatic with admission if CUNY pathway eligible",
+      "note": "SEPARATE TRACK quant-mfe. Pathway-only → ingest:false.",
+      "url": "https://www.engineering.columbia.edu/admissions-aid/graduate-admissions/graduate-funding-opportunities",
+      "sources": [
+        {
+          "label": "Columbia Engineering Graduate Funding — CUNY Pathways",
+          "url": "https://www.engineering.columbia.edu/admissions-aid/graduate-admissions/graduate-funding-opportunities"
+        }
+      ]
+    },
+    {
+      "asOf": "2026-10-26",
+      "hkEligible": "no",
+      "twEligible": "no",
+      "prcEligible": "no",
+      "intlEligible": "no",
+      "ingest": false,
+      "id": "SCH-150",
+      "name": "Columbia Engineering Behring Foundation Fellowship (Brazil)",
+      "scope": "columbia-ieor-mfe",
+      "programIds": [
+        "columbia-ieor-mfe"
+      ],
+      "state": "Brazil-focused",
+      "tone": "gray",
+      "type": "Fellowship · Nationality",
+      "awardType": "fellowship",
+      "category": "Nationality-Restricted",
+      "description": "Up to $40,000 toward tuition and fees for Masters students at Columbia Engineering via Behring Foundation Brazil Financial Aid Fund. No separate application.",
+      "eligibility": "Oriented to building Brazil tech/entrepreneurship ecosystem — not open HK/TW/PRC card.",
+      "amount": "Up to $40,000",
+      "deadline": "No separate application",
+      "note": "SEPARATE TRACK quant-mfe. Nationality/region restricted → ingest:false.",
+      "url": "https://www.engineering.columbia.edu/admissions-aid/graduate-admissions/graduate-funding-opportunities",
+      "sources": [
+        {
+          "label": "Columbia Engineering Graduate Funding — Behring",
+          "url": "https://www.engineering.columbia.edu/admissions-aid/graduate-admissions/graduate-funding-opportunities"
+        }
+      ]
+    },
+    {
+      "asOf": "2026-10-26",
+      "hkEligible": "no",
+      "twEligible": "no",
+      "prcEligible": "no",
+      "intlEligible": "conditional",
+      "ingest": false,
+      "id": "SCH-151",
+      "name": "Vuolteenaho Family Fellowship for MCF at Stanford (Aalto pathway)",
+      "scope": "stanford-mcf",
+      "programIds": [
+        "stanford-mcf"
+      ],
+      "state": "Aalto University graduates; automatic if eligible",
+      "tone": "gray",
+      "type": "Fellowship · Pathway",
+      "awardType": "fellowship",
+      "category": "Pathway",
+      "description": "External Vuolteenaho Family Fellowship supporting Aalto University graduates admitted to Stanford Engineering ICME Mathematical and Computational Finance. Aalto news cites ~$90,000 per selected student; Stanford selects/administers. Listed on ICME external fellowships page.",
+      "eligibility": "Requires Aalto University degree and admission to Stanford MCF — not open to general HK/TW/PRC applicants.",
+      "amount": "~$90,000 per selected student (per Aalto University announcement; confirm with Stanford/ICME)",
+      "deadline": "Automatic consideration for qualifying Aalto admits (no separate fellowship app per Aalto)",
+      "note": "SEPARATE TRACK quant-mfe. Pathway-only → ingest:false.",
+      "url": "https://icme.stanford.edu/academics-admission/graduate-funding",
+      "sources": [
+        {
+          "label": "ICME Graduate Funding — Vuolteenaho",
+          "url": "https://icme.stanford.edu/academics-admission/graduate-funding"
+        },
+        {
+          "label": "Aalto news on Vuolteenaho fellowships",
+          "url": "https://www.aalto.fi/en/news/a-unique-opportunity-for-aalto-university-graduates-to-study-finance-in-the-us"
+        }
+      ]
+    },
+    {
+      "asOf": "2026-10-26",
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "intlEligible": "yes",
+      "ingest": false,
+      "id": "SCH-152",
+      "name": "Baruch MFE Jim Gatheral Excellence Scholarship (current students)",
+      "scope": "baruch-mfe",
+      "programIds": [
+        "baruch-mfe"
+      ],
+      "state": "Current MFE students; award committee",
+      "tone": "gray",
+      "type": "Scholarship · Current-Student",
+      "awardType": "scholarship",
+      "category": "Merit-Based",
+      "description": "Endowed by Baruch MFE alumni in 2017; first awarded 2018. Recognizes intellectual curiosity / academic excellence among current MFE students. Dollar amount not published on primary program About/bursar pages reviewed this pass.",
+      "eligibility": "Current Baruch MFE students (not an open pre-admit automatic award). International recipients have been named in alumni posts.",
+      "amount": "Not published on primary Baruch MFE pages reviewed",
+      "deadline": "Internal current-student selection",
+      "note": "SEPARATE TRACK quant-mfe. Current-student / not open applicant-facing admit award → ingest:false. No verified open Baruch MFE admit-time merit SCH this pass — Financial Aid grad page directs scholarships to program contact.",
+      "url": "https://mfe.baruch.cuny.edu/about/",
+      "sources": [
+        {
+          "label": "Baruch Graduate Financial Aid — contact program for scholarships",
+          "url": "https://enrollmentmanagement.baruch.cuny.edu/financial-aid-services/financial-aid-graduate-information/"
+        }
+      ]
+    },
+    {
+      "asOf": "2026-10-26",
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "prcEligible": "yes",
+      "intlEligible": "yes",
+      "ingest": false,
+      "id": "SCH-153",
+      "name": "NYU Courant Mathematics in Finance — no program financial-assistance applications",
+      "scope": "nyu-courant-mf",
+      "programIds": [
+        "nyu-courant-mf"
+      ],
+      "state": "Research note — program does not accept aid applications",
+      "tone": "gray",
+      "type": "Research Note",
+      "awardType": "note",
+      "category": "Research Note",
+      "description": "Program admissions FAQ: does not accept applications for financial assistance. Some students may be eligible for support through GSAS; graders occasionally hired but cannot be arranged in advance and do not offer tuition remission. GSAS Tuition Incentive Program may match external awards — not a Courant MF institutional merit pool.",
+      "eligibility": "n/a — no open program merit application path published",
+      "amount": "n/a",
+      "deadline": "n/a",
+      "note": "SEPARATE TRACK quant-mfe. ingest:false research note so site does not invent a Courant MF scholarship card.",
+      "url": "https://math-finance.cims.nyu.edu/admissions/",
+      "sources": [
+        {
+          "label": "NYU Courant Math Finance Admissions FAQ — financial assistance",
+          "url": "https://math-finance.cims.nyu.edu/admissions/"
+        },
+        {
+          "label": "GSAS Fellowships and Assistantships",
+          "url": "https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html"
+        }
+      ]
+    },
+    {
+      "asOf": "2026-10-26",
+      "hkEligible": "conditional",
+      "twEligible": "conditional",
+      "prcEligible": "conditional",
+      "intlEligible": "conditional",
+      "ingest": false,
+      "id": "SCH-154",
+      "name": "Columbia Engineering Shardashish Interschool Fellowship (India commitment preference)",
+      "scope": "columbia-ieor-mfe",
+      "programIds": [
+        "columbia-ieor-mfe"
+      ],
+      "state": "Separate application; India commitment preference",
+      "tone": "gray",
+      "type": "Fellowship · Preference",
+      "awardType": "fellowship",
+      "category": "Need-Based",
+      "description": "UNM Foundation Shardashish fellowship: financial assistance to master's students with strong established commitment to India and its future; demonstrated financial need; preference for commitment to India. Max $50,000 for one year applied to tuition and fees.",
+      "eligibility": "Columbia Engineering MS applicants with financial need and commitment to India — not a general HK/TW/PRC open card.",
+      "amount": "Up to $50,000 for one year",
+      "deadline": "After Columbia Engineering application submission",
+      "note": "SEPARATE TRACK quant-mfe. India-preference → ingest:false for this HK/TW/PRC batch.",
+      "url": "https://www.engineering.columbia.edu/admissions-aid/graduate-admissions/graduate-funding-opportunities",
+      "sources": [
+        {
+          "label": "Columbia Engineering Graduate Funding — Shardashish",
+          "url": "https://www.engineering.columbia.edu/admissions-aid/graduate-admissions/graduate-funding-opportunities"
+        }
+      ]
+    }
+  ]
+}

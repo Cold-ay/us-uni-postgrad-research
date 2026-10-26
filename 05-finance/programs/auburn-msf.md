@@ -6,7 +6,7 @@ Checked: 19 October 2026. Preliminary program research.
 
 #23 in TFE Times Best Master's of Finance (as of 2026-10-26).
 
-Batch 1–4 (2026-10-26): TFE Times 2026 ranks 1–30 ingested. Locked unranked adds on this slate: florida-msft, chicago-booth-mif, columbia-msfe. US News Finance MBA specialty is not used as an MSF program rank. Quant/MFE programs remain on a separate track.
+Batch 1–4 (2026-10-26): TFE Times 2026 ranks 1–30 ingested. Locked unranked adds on this slate: florida-msft, chicago-booth-mif, columbia-msfe. US News Finance MBA specialty is not used as an MSF program rank. Quant/MFE is a separate quant-mfe track ranked by QuantNet 2026; those eight rows keep tfeRank2026 null and are not merged into TFE ranks 1–30.
 
 Ranking provenance: [TFE Times](https://tfetimes.com/best-finance-program-rankings/).
 

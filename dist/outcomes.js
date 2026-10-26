@@ -1,4 +1,4 @@
-// Generated from path/outcomes/batch-001.json through batch-005.json, msf-batch-001.json, msf-batch-002.json, msf-florida-msft.json, msf-batch-003.json (batch3 catalog ids only; ohiostate-msf→ohio-msf, ucsd-rady-msf→ucsd-msf), path-bc-msf-from-batch002.json, path-batch4-from-batch002-003.json (illinois-tech-msf→iit-msf), msf-tamu-qfin.json, and id-map.json. Do not edit by hand.
+// Generated from path/outcomes/batch-001.json through batch-005.json, msf-batch-001.json, msf-batch-002.json, msf-florida-msft.json, msf-batch-003.json (batch3 catalog ids only; ohiostate-msf→ohio-msf, ucsd-rady-msf→ucsd-msf), path-bc-msf-from-batch002.json, path-batch4-from-batch002-003.json (illinois-tech-msf→iit-msf), msf-tamu-qfin.json, path-msf-quant-batch-001.json (quant-mfe separate track), and id-map.json. Do not edit by hand.
 export const outcomeBatchMeta = [
   {
     "batch_id": "batch-001",
@@ -402,6 +402,51 @@ export const outcomeBatchMeta = [
       "evidence": "Catalog: admission to TAMU soph/jr/sr OR non-Texas A&M graduates with prereqs. Math master's app materials document international applicants. No citizenship restriction found on MS-QFIN catalog."
     },
     "last_updated": "2026-10-26"
+  },
+  {
+    "batch_id": "msf-quant-batch-001",
+    "agent": "path",
+    "created": "2026-10-26",
+    "access_date": "2026-10-26",
+    "card_count": 8,
+    "schema_version": "outcome-card-v2-msf",
+    "track": "quant_mfe",
+    "separate_from_primary_msf": true,
+    "schema_notes": [
+      "SAME outcome-card-v2-msf schema as msf-batch-001/002/003",
+      "Extra fields on every card: track=quant_mfe, separate_from_primary_msf=true",
+      "catalog_id = program_id; route_mismatch false unless needed",
+      "degree_family: MFE | MSCF | other as appropriate",
+      "LABEL CLEARLY as Quant/MFE/MSCF — NEVER say these are TFE MSF ranks",
+      "columbia-ieor-mfe is DISTINCT catalog_id from primary-add columbia-msfe (same underlying IEOR MSFE program family — do not merge UI tracks)"
+    ],
+    "methodology": "Open public sources only (official career PDFs/pages and school news). Staging leads in msf-quant-pending.json re-verified. Gaps=unknown. No alumni outreach. No fabricated numbers. access_date 2026-10-26.",
+    "program_ids": [
+      "berkeley-mfe",
+      "cmu-mscf",
+      "baruch-mfe",
+      "columbia-ieor-mfe",
+      "gt-qcf",
+      "chicago-finmath",
+      "nyu-courant-mf",
+      "stanford-mcf"
+    ],
+    "catalog_ids": [
+      "berkeley-mfe",
+      "cmu-mscf",
+      "baruch-mfe",
+      "columbia-ieor-mfe",
+      "gt-qcf",
+      "chicago-finmath",
+      "nyu-courant-mf",
+      "stanford-mcf"
+    ],
+    "name_confirmations": {
+      "chicago-finmath": "Master of Science in Financial Mathematics (MSFM) — UChicago Financial Mathematics",
+      "stanford-mcf": "Mathematical and Computational Finance (MCF) — ICME M.S. track (NOT Master of Computational Finance)"
+    },
+    "last_updated": "2026-10-26",
+    "id_alignment_note": "2026-10-26 aligned to brief quant dossier ids: gatech-qcf→gt-qcf, nyu-courant→nyu-courant-mf"
   }
 ];
 export const outcomeMeta = {
@@ -5122,6 +5167,511 @@ export const outcomeCards = {
     "confidence_reason": "Catalog firmly confirms external (non-TAMU graduate) eligibility and program identity distinct from restricted 4+1 MSF. No MS-QFIN-specific internship rate, FT placement %, salary, or named hire counts published. Adjacent MSF/STEM to Stocks career claims explicitly ring-fenced. STEM CIP unconfirmed.",
     "last_updated": "2026-10-26",
     "pathProgramId": "tamu-qfin",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "berkeley-mfe": {
+    "track": "quant_mfe",
+    "separate_from_primary_msf": true,
+    "school": "University of California, Berkeley",
+    "program": "Haas Fong Master of Financial Engineering (MFE)",
+    "degree": "MFE",
+    "degree_family": "MFE",
+    "schedule_note": "Program shifting from March start to January start for cohorts from 2027 onward (Haas MFE program update blog). Summer or fall internship option within one-year format. Not a traditional autumn MSF calendar.",
+    "internship_rate": "Program blog (2025 update): matched 96% of a recent cohort with an internship over fall/winter 2025. Class of 2025 internship offer list published on MFE Offers page (rate denominator not separately tabulated on placements page this run).",
+    "full_time_placement": "Class of 2025: 70 seekers; 67 received offers; 67 accepted (≈95.7% accept / 96% offer among seekers) — official Haas MFE Placement Report.",
+    "full_time_placement_notes": "Compensation Class of 2025: mean base $148,318; median base $150,000; high base $215,000; mean signing $34,267; median signing $40,000; high signing $90,000. Industries: IB 31%, AM 28%, HF 19%, Trading 12%, Other/FinTech 9%. Functions: portfolio mgmt/quant research & analysis 55%, trading 12%, strats/structuring 10%, portfolio management 6%, quant developer 5%, data science+ML/AI 5%, other 7%. Locations: East Coast 60%, US Other 13%, International 13%, California 10%, Chicago 5%. LABEL: Quant/MFE — not a TFE MSF rank entry.",
+    "notable_employers": [
+      "BlackRock",
+      "Goldman Sachs",
+      "Morgan Stanley",
+      "Millennium Management",
+      "Point72 Asset Management",
+      "Squarepoint",
+      "Optiver",
+      "Jump Trading",
+      "UBS",
+      "BNP Paribas",
+      "Deutsche Bank",
+      "Societe Generale",
+      "BMO Capital Markets",
+      "Walleye Capital"
+    ],
+    "notable_employers_notes": "Recent Hiring Firms list on official Class of 2025 Placement Report; internship offers Class of 2025 also include Cubist, QRT, Schonfeld, DRW, PIMCO, Vanguard, etc.",
+    "top_finance_firm_signal": "Extremely high for quant research/PM, trading, and markets roles at bulge + HF/prop (Millennium, Point72, Squarepoint, Optiver, Jump).",
+    "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
+    "sample_alumni_paths": [
+      "Portfolio management / quant research and analysis",
+      "Trading (prop/bank)",
+      "Strats / structuring",
+      "Quant developer / engineer",
+      "Data science + ML/AI in finance"
+    ],
+    "referral_network_notes": "Dedicated Haas MFE career services; East Coast–heavy placements; Haas alumni network. Formal cold-outreach ease: unknown.",
+    "difficulty_notes": "Highly selective one-year MFE; QuantNet/TFE MFE rankings often #1-tier — do NOT treat as MSF TFE spine rank. Intense quant bar.",
+    "intl_student_notes": "Historically international-heavy MFE; confirm STEM designation and January-2027 start visa timing for Fall 2027 planning language (intake is Jan 2027 for MFE27).",
+    "sources": [
+      {
+        "title": "Berkeley Haas MFE – Placement Report (Class of 2025)",
+        "url": "https://mfe.haas.berkeley.edu/careers/mfe-placements",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "Berkeley Haas MFE – Employment Offers",
+        "url": "https://mfe.haas.berkeley.edu/careers/mfe-employment-offers",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "Berkeley Haas MFE program update (Jan 2027 start)",
+        "url": "https://blogs.haas.berkeley.edu/mfe/mfe-program-update",
+        "access_date": "2026-10-26"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Official Haas MFE Placement Report with seeker n, offer/accept counts, salary, industry/function/geography, and named hiring firms.",
+    "last_updated": "2026-10-26",
+    "pathProgramId": "berkeley-mfe",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "cmu-mscf": {
+    "track": "quant_mfe",
+    "separate_from_primary_msf": true,
+    "school": "Carnegie Mellon University",
+    "program": "Master of Science in Computational Finance (MSCF)",
+    "degree": "MSCF",
+    "degree_family": "MSCF",
+    "schedule_note": "Typically December graduation cohort reporting (Class of 2026 = Dec 2025 graduates). Dual Pittsburgh/NYC career support.",
+    "internship_rate": "Class of 2026 (Dec 2025 grads): 100% of seekers accepted internship (99/99; 20 permanent WA + 79 non-permanent). Median monthly internship base $11,267.",
+    "full_time_placement": "Class of 2026 official CSEA Specialty Masters PDF: 100% of seekers received and accepted offers by 3 months (98 seeking of 99 total; 1 not seeking). 87% offer / 78% accept by graduation. Median base $145,000; mean base $145,653 (n=89 reporting).",
+    "full_time_placement_notes": "Signing bonus mean $37,821 / median $35,000 (n=75). Indicative year-end bonus mean $57,798 / median $57,500 (n=86). Functions: Quant Research 45%, Sales & Trading 20%, Strats & Modeling 15%, Other 8%, Risk 5%, Data Science 3%, PM 2%, Quant Developer 2%. Industry: IB 33%, HF 26%, AM 19%, Prop Trading 13%, Other 9%. Location: NY metro 59%, Other US 28%, International 7%, Chicago 6%. 93% FT employment in US. Prior Class of 2025 (Dec 2024): also 100% accept @3mo; median base $130k — superseded by 2026 PDF for headline figures. LABEL: Quant/MSCF — not MSF TFE spine.",
+    "notable_employers": [
+      "BNP Paribas (7 FT)",
+      "Morgan Stanley (5)",
+      "Bank of America (4)",
+      "Goldman Sachs (4)",
+      "J.P. Morgan (4)",
+      "Millennium Management (4)",
+      "Squarepoint (4)",
+      "Akuna (3)",
+      "Barclays (3)",
+      "Point72 (3)",
+      "Trexquant Investment (3)",
+      "Two Sigma (2)",
+      "IMC Trading (2)",
+      "Capula Investment Management (2)",
+      "AQR",
+      "Optiver",
+      "Jump Trading"
+    ],
+    "notable_employers_notes": "Multi-hire counts from official MSCF Class of 2026 FT recruiting partners table (Dec 2025 graduates).",
+    "top_finance_firm_signal": "Extremely high. Dense bulge markets/strats + elite HF/prop multi-hires (Millennium, Squarepoint, Point72, Two Sigma, Akuna, IMC, Capula, Trexquant).",
+    "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
+    "sample_alumni_paths": [
+      "Quantitative Researcher",
+      "Quantitative Strategist / Strats & Modeling",
+      "Sales & Trading / Quant Trader",
+      "Risk management / model risk",
+      "Quant developer / data science in finance"
+    ],
+    "referral_network_notes": "MSCF Career Services Pittsburgh + NYC; 2,300+ alumni claim on careers page; CSEA-conformant reporting. Formal referral ease: unknown.",
+    "difficulty_notes": "Elite selective MSCF; heavy non-permanent WA share (79/99 Class of 2026). Not an MSF TFE program.",
+    "intl_student_notes": "Class of 2026: 79/99 non-permanent US work authorization among total students — highly international. STEM MSCF; confirm OPT/CPT with school for Fall 2027.",
+    "sources": [
+      {
+        "title": "MSCF Class of 2026 Employment Report PDF (Dec 2025 grads)",
+        "url": "https://www.cmu.edu/sites/default/files/cmu-mscf-files/docs/2026-mscf-employment-report.pdf",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "MSCF Class of 2025 Employment Report PDF (Dec 2024 grads)",
+        "url": "https://www.cmu.edu/sites/default/files/cmu-mscf-files/docs/2025-mscf-employment-report.pdf",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "CMU MSCF – Employment Statistics hub",
+        "url": "https://www.cmu.edu/mscf/careers/employment-statistics.html",
+        "access_date": "2026-10-26"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Official CSEA Specialty Masters PDF Class of 2026 with seeker denominators, timing, compensation, function/industry/location, and named multi-hire employers.",
+    "last_updated": "2026-10-26",
+    "pathProgramId": "cmu-mscf",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "baruch-mfe": {
+    "track": "quant_mfe",
+    "separate_from_primary_msf": true,
+    "school": "Baruch College, CUNY",
+    "program": "Master of Financial Engineering (MFE)",
+    "degree": "MFE",
+    "degree_family": "MFE",
+    "schedule_note": "Three semesters; Fall admission only (program About page).",
+    "internship_rate": "Summer 2023: 22 of 22 seeking placed (100%) — official Baruch MFE employment-statistics page. Median monthly $12,533; average $13,078. HF/Prop/AM 68%, IB 27%, FinTech/Tech 5%; NY 95%.",
+    "full_time_placement": "Baruch College News Center (Nov 26, 2024): 100% employment success within three months of graduation over the last eight years. Dec 13, 2023 News Center: 100% job placement before graduation for then-most-recent cohort with average compensation $228,000. Latest CSEA-style FT PDF with seeker denominators for 2024–2025 class not located on program site this run (About page still shows Dec 2020–May 2021: 30/30).",
+    "full_time_placement_notes": "Employers cited in Nov 2024 News Center: AQR, AXQ Capital, Bank of America, Barclays, BlackRock, BMO, Citadel, Goldman Sachs, GTS, IMC Trading, Millennium, Morgan Stanley, RBC, Societe Generale, Tradewell, Verition. Small cohort culture (~20–25 FT). LABEL: Quant/MFE — never MSF TFE. Do not treat QuantNet peer rank as TFE MSF rank.",
+    "notable_employers": [
+      "Citadel",
+      "Millennium",
+      "AQR",
+      "Point72",
+      "Squarepoint Capital",
+      "Verition",
+      "Goldman Sachs",
+      "Morgan Stanley",
+      "Bank of America",
+      "Barclays",
+      "BlackRock",
+      "IMC Trading",
+      "GTS",
+      "Balyasny Asset Management",
+      "Virtu Financial"
+    ],
+    "notable_employers_notes": "Drawn from Baruch College News Center placement claims (2023–2024) and official Summer 2023 internship employer sample.",
+    "top_finance_firm_signal": "Extremely high for buy-side quant/HF/prop relative to class size; dense elite NYC names in school news and internship lists.",
+    "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
+    "sample_alumni_paths": [
+      "Quantitative researcher / trader at HF or prop",
+      "Quant roles at bulge markets/strats",
+      "Asset management quant",
+      "FinTech / trading technology"
+    ],
+    "referral_network_notes": "550+ alumni claim (News Center); >85% in financial industry per Nov 2024 release. Formal referral metrics unknown.",
+    "difficulty_notes": "Very small selective MFE; historically top QuantNet peer scores. Intense NYC buy-side interview bar. Not MSF.",
+    "intl_student_notes": "STEM-designated per News Center. About page lists out-of-state/international tuition band; confirm current STEM CIP and Fall 2027 OPT.",
+    "sources": [
+      {
+        "title": "Baruch MFE – Internship / Employment Statistics",
+        "url": "https://mfe.baruch.cuny.edu/employment-statistics/",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "Baruch News Center – MFE QuantNet #2 (Nov 26, 2024) placement claim",
+        "url": "https://newscenter.baruch.cuny.edu/news/baruch-colleges-mfe-program-ranks-among-nations-best-according-to-quantnet/",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "Baruch News Center – MFE #1 (Dec 13, 2023) compensation claim",
+        "url": "https://newscenter.baruch.cuny.edu/news/baruch-college-ranks-best-financial-engineering-program-us-2024/",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "Baruch MFE – About (legacy FT stats Dec 2020–May 2021)",
+        "url": "https://mfe.baruch.cuny.edu/about/",
+        "access_date": "2026-10-26"
+      }
+    ],
+    "confidence": "medium",
+    "confidence_reason": "Strong official internship table (100% Summer 2023) and school News Center 100% FT claims, but no latest official employment PDF with seeker denominators/salary breakouts for Class of 2024–2025 located this run.",
+    "last_updated": "2026-10-26",
+    "pathProgramId": "baruch-mfe",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "columbia-ieor-mfe": {
+    "track": "quant_mfe",
+    "separate_from_primary_msf": true,
+    "school": "Columbia University",
+    "program": "IEOR Master of Science in Financial Engineering (MSFE) — Quant/MFE track card",
+    "degree": "MSFE",
+    "degree_family": "MFE",
+    "schedule_note": "Fall start one-year IEOR MSFE (STEM). IMPORTANT: Same underlying Columbia IEOR Financial Engineering program as primary-add catalog_id columbia-msfe in msf-batch-002. This card is the SEPARATE quant_mfe track id columbia-ieor-mfe — do NOT merge into TFE MSF rank spine; site must keep tracks distinct even if content overlaps.",
+    "internship_rate": "unknown (FT placement page located; MSFE-specific internship % not on 2023–2024 FT stats page this run)",
+    "full_time_placement": "Official Columbia IEOR 2023–2024 MSFE Full-Time Job Placement Stats: Fall 2023 start n=98; 83 received employment offers; 3 continuing education; 97.6% placement rate. Average US-based salary $138,000 (range $85,000–$310,000); average bonus $29,500. Class of 2025 MSFE FT report not published on IEOR careers hub this run.",
+    "full_time_placement_notes": "Industry mix on official page: Investment Banking 74%, Asset Management 23%, Consulting & Rating 2%, Energy/Gov/Transport 1%. Roles include quant analyst/researcher, strats, traders, IB analyst. Do NOT confuse with Columbia Business School MS Financial Economics or Columbia Math MAFN. Distinct from primary MSF spine; label Quant/MFE.",
+    "notable_employers": [
+      "Goldman Sachs",
+      "JPMorgan Chase",
+      "Morgan Stanley",
+      "Bank of America",
+      "Barclays",
+      "Citi",
+      "Deutsche Bank",
+      "UBS",
+      "BNP Paribas",
+      "BlackRock",
+      "Citadel",
+      "AQR Capital Management",
+      "Balyasny Asset Management",
+      "Squarepoint Capital",
+      "The Voleon Group",
+      "Engineers Gate",
+      "Belvedere Trading",
+      "Transmarket Group"
+    ],
+    "notable_employers_notes": "Companies listed under IB/AM sections of official IEOR 2023–2024 MSFE placement page (same primary source as columbia-msfe card).",
+    "top_finance_firm_signal": "Extremely high. Dense bulge markets/IB + elite HF/quant AM with quant trader/researcher/strats titles; US mean base $138k.",
+    "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
+    "sample_alumni_paths": [
+      "Quantitative Analyst / Quantitative Researcher",
+      "Quantitative Strategist / Desk Strategist",
+      "Trading Desk Analyst / Program Trader / Exotic Trader",
+      "Investment Banking Analyst",
+      "Model Risk / Systematic Portfolio Engineer"
+    ],
+    "referral_network_notes": "Columbia IEOR career resources + NYC finance proximity. Formal referral ease: unknown.",
+    "difficulty_notes": "Large FE cohort (~100); ultra-competitive NYC recruiting. Quant/MFE track label only — not TFE MSF rank.",
+    "intl_student_notes": "STEM-certified MSFE eligible for F-1 STEM OPT (IEOR program page). Exact Fall 2023 intl % not on placement page.",
+    "sources": [
+      {
+        "title": "Columbia IEOR – 2023–2024 MSFE Full-Time Job Placement Stats",
+        "url": "https://ieor.columbia.edu/content/2024-msfe-placement-statistics",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "Columbia IEOR – Financial Engineering (MSFE) program page",
+        "url": "https://ieor.columbia.edu/financial-engineering-msfe",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "Columbia IEOR – Careers: Master of Science Programs",
+        "url": "https://ieor.columbia.edu/careers-masters-programs",
+        "access_date": "2026-10-26"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Official IEOR MSFE placement page with cohort n, offer count, 97.6% placement, US salary/bonus, sector mix, named employers. Latest published cohort Fall 2023 start (Class of 2025 PDF not located).",
+    "last_updated": "2026-10-26",
+    "pathProgramId": "columbia-ieor-mfe",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "gt-qcf": {
+    "track": "quant_mfe",
+    "separate_from_primary_msf": true,
+    "school": "Georgia Institute of Technology",
+    "program": "Master of Science in Quantitative and Computational Finance (MS-QCF)",
+    "degree": "MS-QCF",
+    "degree_family": "other",
+    "schedule_note": "Multiple graduating terms (Fall/Spring). Joint Scheller + ISyE + School of Mathematics.",
+    "internship_rate": "Summer 2023 internship placement 88% noted under Fall 2023 graduating class block on official employment-stats page; newer internship % not separately highlighted for Fall 2025 block.",
+    "full_time_placement": "Fall 2025 graduating class (official QCF employment-stats): 85% placement at 3 months post-graduation; average first-year base $113,732; average first-year total compensation $139,262; highest total comp $315,000; average sign-on & relocation $10,360. Spring 2025: 90% @3mo; avg base $113,667; avg total $137,417.",
+    "full_time_placement_notes": "Fall 2024 as of 4/1/25: 92% placement; avg base $114,096. Scheller Dec 10, 2025 news cites 96% within 3 months and $135,462 average starting salary (cohort not labeled as Fall 2025 on that page — prefer employment-stats Fall 2025 figures for this card). Hirers Fall 2025 include Millennium, Maven Securities, Belvedere, All Options, JPM, GS, Wells Fargo, ICE, Travelers. Cities: NYC, Chicago, Atlanta, Miami, Austin/Dallas, Charlotte, Hartford. LABEL: Quant/QCF — not MSF TFE.",
+    "notable_employers": [
+      "Millennium Management",
+      "Goldman Sachs",
+      "JPMorgan",
+      "Wells Fargo",
+      "Intercontinental Exchange",
+      "Maven Securities",
+      "Belvedere Trading",
+      "BNP Paribas",
+      "Citi",
+      "Charles Schwab",
+      "BNY Mellon",
+      "Capital One",
+      "BlackRock"
+    ],
+    "notable_employers_notes": "Hiring companies named on official QCF employment-stats blocks (Fall 2025 / Spring 2025 / Fall 2024) plus long alumni-recruiter network list on same page.",
+    "top_finance_firm_signal": "High for banking/markets/trading and some HF/prop (Millennium, Belvedere, Maven); strong Atlanta + multi-city US footprint. Base levels below Berkeley/CMU/Baruch elite buy-side medians.",
+    "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
+    "sample_alumni_paths": [
+      "Derivatives pricing and trading",
+      "Quantitative analysis / research",
+      "Risk management",
+      "Portfolio management / structured products",
+      "FinTech / credit analytics / technical consulting"
+    ],
+    "referral_network_notes": "Scheller/ISyE/Math joint program alumni network; Atlanta finance + ICE corridor. Formal referral ease: unknown.",
+    "difficulty_notes": "Competitive QCF; QuantNet often top-10 FE. Strong ROI narrative on Scheller news. Not an MSF program.",
+    "intl_student_notes": "Confirm STEM designation and multi-term graduation CPT/OPT timing. Placement cities include major US finance hubs.",
+    "sources": [
+      {
+        "title": "Georgia Tech QCF – Employment Stats",
+        "url": "https://qcf.gatech.edu/careers/employment-stats",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "Scheller news – QCF QuantNet #8 (Dec 10, 2025)",
+        "url": "https://www.scheller.gatech.edu/news/2025/georgia-tech-qcf-top-10-national-ranking.html",
+        "access_date": "2026-10-26"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Official QCF employment-stats page with term-labeled Fall 2025 / Spring 2025 placement %, base, total comp, and named hirers.",
+    "last_updated": "2026-10-26",
+    "id_alias_legacy": "gatech-qcf",
+    "pathProgramId": "gt-qcf",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "chicago-finmath": {
+    "track": "quant_mfe",
+    "separate_from_primary_msf": true,
+    "school": "The University of Chicago",
+    "program": "Master of Science in Financial Mathematics (MSFM)",
+    "degree": "MSFM",
+    "degree_family": "other",
+    "schedule_note": "In-person MSFM typically ~five quarters; December graduate outcomes published separately (Dec 2025 / Dec 2024 pages). Online MSFM exists with different CPT/OPT rules — outcomes pages reviewed are for Financial Mathematics program graduates generally.",
+    "internship_rate": "unknown (no internship % on Dec 2025 / Dec 2024 career-outcomes pages this run)",
+    "full_time_placement": "Official Dec 2025 grads career-outcomes page publishes employer lists, job titles, geography, and employer-type/function mix but does NOT publish placement % or salary. Placement rate and compensation = unknown from primary pages this run.",
+    "full_time_placement_notes": "Dec 2025 locations: US 78% (Chicago 27%, NY 22%, Other NE 10%, South/SE 7%, West 9%, Other Midwest 3%); Mainland China 7%; Europe 7%; Hong Kong 5%; Other 3%. Employer types: Trading 20%, AM 18%, Bank 18%, HF 17%, FinTech 8%, Energy/commodities 4%, Consulting 3%, FS/Exchange 3%, Insurance/Pension 2%, Other 7%. Functions: Quant Research/Analysis 43%, Trading 26%, Quant Development 13%, Quant Risk 10%, Portfolio Analytics 4%, Data Science 2%, Quant Consulting 2%. LABEL: Quant/Financial Mathematics — not MSF TFE. Do not invent QuantNet secondary rates as official.",
+    "notable_employers": [
+      "Citadel",
+      "Goldman Sachs",
+      "JPMorgan",
+      "Morgan Stanley",
+      "Millennium",
+      "Squarepoint Capital",
+      "Qube Research & Technologies",
+      "DRW",
+      "IMC",
+      "Tower Research Capital",
+      "Balyasny Asset Management",
+      "Brevan Howard",
+      "Marshall Wace",
+      "PIMCO",
+      "CME Group",
+      "Virtu Financial",
+      "Trexquant Investment"
+    ],
+    "notable_employers_notes": "Examples of employers who hired 2025 graduates from official Dec 2025 Career Outcomes page (plus Dec 2024 page for continuity: AQR, Point72, BlackRock, Arrowstreet, etc.).",
+    "top_finance_firm_signal": "Very high employer-name signal (elite HF/prop/trading + bulge) despite missing official placement % / salary on outcomes pages.",
+    "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
+    "sample_alumni_paths": [
+      "Quant researcher / quant analyst",
+      "Quant trader / algo trader / power trading analyst",
+      "Quant developer / trading systems engineer",
+      "Quant risk analyst",
+      "Global markets / derivatives roles at banks"
+    ],
+    "referral_network_notes": "Chicago FinMath CDO + Chicago/NY trading corridor. Formal referral ease: unknown.",
+    "difficulty_notes": "Selective MSFM; strong Chicago prop/trading footprint. Not an MSF program.",
+    "intl_student_notes": "Dec 2025 outcomes show meaningful Mainland China / Europe / Hong Kong placements (combined ~19% non-US). Confirm STEM and in-person vs online OPT differences.",
+    "sources": [
+      {
+        "title": "UChicago Financial Mathematics – Career Outcomes (December 2025 Grads)",
+        "url": "https://finmath.uchicago.edu/careers/career-outcomes/",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "UChicago Financial Mathematics – Career Outcomes (December 2024 Grads)",
+        "url": "https://finmath.uchicago.edu/careers/career-outcomes/career-outcomes-december-2024-grads/",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "UChicago Graduate Announcements – MS Program in Financial Mathematics",
+        "url": "http://graduateannouncements.uchicago.edu/graduate/departmentofmathematics/financialmathematics/",
+        "access_date": "2026-10-26"
+      }
+    ],
+    "confidence": "medium",
+    "confidence_reason": "Official outcomes pages with rich employer/function/geo detail for Dec 2025, but no placement percentage or salary published — gaps left unknown.",
+    "last_updated": "2026-10-26",
+    "pathProgramId": "chicago-finmath",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "nyu-courant-mf": {
+    "track": "quant_mfe",
+    "separate_from_primary_msf": true,
+    "school": "New York University",
+    "program": "Courant MS in Mathematics in Finance",
+    "degree": "MS Mathematics in Finance",
+    "degree_family": "other",
+    "schedule_note": "Full-time and part-time options; NYC Courant. Distinct from NYU Stern MS in Quantitative Finance (Shanghai joint) and other NYU finance masters.",
+    "internship_rate": "Official Career Services employment stats table: Summer internship placement 88% (2021 class block) / 77% (2022 class block). Newer internship % not published on that page this run.",
+    "full_time_placement": "Homepage marketing claim: 95% placement three months after graduation (year/cohort not specified on homepage hero). Career Services page official tables only list 2021: 100% employed at graduation or within 3 months (avg base $101,600) and 2022: 75% (avg base $114,800). No Class of 2024/2025 official employment PDF located this run.",
+    "full_time_placement_notes": "Program states admits fewer than 10% of applicants; 92% industry-affiliated lecturers (homepage). Resume books Class of 2026 FT / Class of 2027 internship posted for recruiters (Sep 2026 update note on career-services). Secondary QuantNet figures for recent cohorts exist but are NOT used as primary numbers here. LABEL: Quant/Math Finance — not MSF TFE; not Stern MSQF.",
+    "notable_employers": [
+      "unknown as a current official named multi-hire list on career-services page this run"
+    ],
+    "notable_employers_notes": "Career-services page shows employer logo section without extractable named multi-hire table in fetch. Gap = unknown for current named FT employers from primary text; do not invent from forums.",
+    "top_finance_firm_signal": "Historically strong NYC quant brand; current official named employer roster not extractable this run — signal qualitative/medium pending fresh official list.",
+    "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
+    "sample_alumni_paths": [
+      "Quantitative researcher / trader",
+      "Financial data science / ML roles",
+      "Risk and portfolio management",
+      "Derivatives / markets quant roles"
+    ],
+    "referral_network_notes": "Courant Office of Career Services; IAQF National Financial Mathematics Career Fair co-host. Formal referral ease: unknown.",
+    "difficulty_notes": "<10% admit claim on career-services. Recent official placement tables stale (2021–2022) vs homepage 95% claim — treat rates carefully.",
+    "intl_student_notes": "Global applicant pool; confirm STEM CIP and Fall 2027 OPT. Distinct visa/recruiting dynamics vs Stern Shanghai MSQF.",
+    "sources": [
+      {
+        "title": "NYU Courant Math Finance – Career Services / Employment Stats",
+        "url": "https://math-finance.cims.nyu.edu/career-services/",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "NYU Courant Math Finance – Homepage (95% placement claim)",
+        "url": "https://math-finance.cims.nyu.edu/",
+        "access_date": "2026-10-26"
+      }
+    ],
+    "confidence": "medium",
+    "confidence_reason": "Official site has only 2021–2022 employment tables plus undated homepage 95% claim; no recent official employment PDF with Class of 2024/2025 denominators.",
+    "last_updated": "2026-10-26",
+    "id_alias_legacy": "nyu-courant",
+    "pathProgramId": "nyu-courant-mf",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "stanford-mcf": {
+    "track": "quant_mfe",
+    "separate_from_primary_msf": true,
+    "school": "Stanford University",
+    "program": "Mathematical and Computational Finance (MCF) — ICME M.S. track",
+    "degree": "MS (ICME) – MCF track",
+    "degree_family": "other",
+    "schedule_note": "Official name is Mathematical and Computational Finance (MCF), an interdisciplinary track in Stanford ICME (School of Engineering) — NOT 'Master of Computational Finance'. Typically 45 units over 5–6 quarters. Relocated/relaunched from Statistics Financial Mathematics into Engineering ICME in 2014 (FAQ).",
+    "internship_rate": "FAQ: nearly 100% placement rate for students desiring internships in recent years (no seeker denominator table).",
+    "full_time_placement": "MCF FAQ: nearly 100% placement rate for students desiring full-time industry employment in recent years (explicitly not guaranteed). No MCF-only CSEA PDF with salary/timing denominators located this run.",
+    "full_time_placement_notes": "Target cohort ~10–15 students; ~5% admission rate (FAQ). ICME MS Graduates Employment Report 2024–2025 lists titles (Quant Researcher, Data Scientist, Software Engineer, etc.) and orgs including Balyasny, BlackRock, Morgan Stanley, Point72, Qube, Vanguard — but report covers ICME MS broadly (not MCF-only breakout) and notes incomplete public/self-reported coverage. Alumni geography clusters: NYC, SF Bay, London, Hong Kong (FAQ). LABEL: Quant/MCF — never MSF TFE; never Stanford GSB.",
+    "notable_employers": [
+      "Goldman Sachs",
+      "Morgan Stanley",
+      "JP Morgan",
+      "Bank of America",
+      "Citigroup",
+      "Two Sigma Investments",
+      "BlackRock",
+      "Citadel",
+      "QRT",
+      "Balyasny Asset Management",
+      "Millennium Management",
+      "IMC",
+      "Cubist Investments",
+      "Point72",
+      "Vanguard"
+    ],
+    "notable_employers_notes": "Finance companies named on MCF FAQ as having offered internships/employment in past few years; ICME 2024–2025 MS report adds overlapping names (Balyasny, BlackRock, Morgan Stanley, Point72, Qube, Vanguard) without MCF-only filter.",
+    "top_finance_firm_signal": "Extremely high potential per tiny selective cohort + named elite firms on FAQ; quantified placement/salary still thin vs CMU/Berkeley PDFs.",
+    "big_tech_or_top_firm_signal": "ICME MS report also shows tech employers (Amazon, Microsoft, Netflix, Waymo, Hugging Face) — MCF students may take fintech/tech paths; MCF-specific mix unknown.",
+    "sample_alumni_paths": [
+      "Quantitative researcher / quantitative strategist",
+      "Risk manager / financial technologist",
+      "Data / information scientist in finance",
+      "Buy-side / HF roles",
+      "Continued PhD study (separate ICME PhD application required)"
+    ],
+    "referral_network_notes": "ICME Career Services + Affiliates Program; annual ICME Career Forum. Small cohort mentoring. Formal referral ease: unknown.",
+    "difficulty_notes": "~10–15 seats / ~5% admit (FAQ). PhD-level quantitative rigor claim. Not Stanford GSB MBA; not MS&E Financial Analytics concentration.",
+    "intl_student_notes": "Confirm STEM CIP for ICME MS / MCF track and 5–6 quarter calendar for Fall 2027 visa planning. California location; FAQ says NY banking placement historically not a geographic blocker.",
+    "sources": [
+      {
+        "title": "Stanford MCF – Program page (official name & ICME home)",
+        "url": "https://mcf.stanford.edu/program",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "Stanford MCF – FAQ (placement ~100%, employers, cohort size)",
+        "url": "https://mcf.stanford.edu/frequently-asked-questions",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "ICME – Employment Report: ICME MS Graduates 2024–2025",
+        "url": "https://icme.stanford.edu/research-impact/icme-alumni/employment-report-icme-ms-graduates",
+        "access_date": "2026-10-26"
+      }
+    ],
+    "confidence": "medium",
+    "confidence_reason": "Official FAQ placement narrative and named employers, plus ICME MS aggregate report; no MCF-only employment PDF with seeker denominators/salary.",
+    "last_updated": "2026-10-26",
+    "pathProgramId": "stanford-mcf",
     "routeMismatch": false,
     "match": "same-route"
   }

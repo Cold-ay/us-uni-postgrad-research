@@ -1,0 +1,296 @@
+{
+  "_meta": {
+    "asOf": "2026-10-26",
+    "timezone": "Asia/Hong_Kong",
+    "intake": "Fall 2027 cycle angle; berkeley-mfe is Spring-only (Spring 2028 enter Jan 2028); gt-qcf also Spring; chicago-finmath in-person Autumn (online Jan/June)",
+    "track": "quant-mfe SEPARATE TRACK — do NOT merge into primary MSF TFE rank spine",
+    "rankingSource": {
+      "name": "QuantNet 2026 Ranking of Best Financial Engineering Programs",
+      "url": "https://quantnet.com/mfe-programs-rankings/",
+      "as_of": "2026-01-08",
+      "mirror_url": "https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/"
+    },
+    "rule": "Never invent; missing ≠ 0. Tuition from primary school pages/PDFs as of asOf. SEPARATE TRACK label on all items.",
+    "programIds": [
+      "berkeley-mfe",
+      "cmu-mscf",
+      "baruch-mfe",
+      "columbia-ieor-mfe",
+      "gt-qcf",
+      "chicago-finmath",
+      "nyu-courant-mf",
+      "stanford-mcf"
+    ],
+    "idsSource": "/workspace/brief-handoffs/msf-quant-batch1.json + msf-quant-batch1-handoff.md (exact ids)",
+    "briefCrossCheck": "/workspace/brief-handoffs/msf-quant-batch1.json"
+  },
+  "berkeley-mfe": {
+    "tuition": 98036,
+    "tuitionLabel": "Program & University Fees Class of 2028 FT (enter Jan 2027) — proxy until Spring 2028 / Class of 2029 COA posted; tuition component line $95,353",
+    "tuitionComponent": 95353,
+    "fees": 2683,
+    "feesNote": "Campus Fee $2,282 + IREF $282 + Documentation Mgmt Fee $119 = $2,683 (Class of 2028 COA). Health Insurance $8,206 (SHIP; waivable with comparable coverage). BIO intl fee $56/sem noted separately. Academic billed program charge published as Program & University Fees $98,036 (tuition component $95,353). Total estimated COA $126,510 incl. living/insurance/books.",
+    "period": "Class of 2028 FT Spring 2027–Fall 2027 (proxy for Spring 2028 enterers)",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://haas.berkeley.edu/financial-aid/master-of-financial-engineering/cost/",
+    "notes": "SEPARATE TRACK quant-mfe. SPRING-ONLY — no Fall admit (Spring 2028 rounds Dec 1'26–Jul 1'27). STEM CIP 27.0305. Flex 2-yr part-time $3,353/unit from Spring 2027 (28 units). Spring 2028 COA not posted as of asOf — Class of 2028 used as proxy.",
+    "startTerm": "Spring only (January) — NO Fall admission",
+    "summerStart": false,
+    "springOnly": true,
+    "stem": true,
+    "accessRestricted": false,
+    "livingCostBand": {
+      "low": 19674,
+      "high": null,
+      "basis": "Haas MFE Class of 2028 FT Est Living Expenses $9,837 × 2 terms = $19,674 (instruction dates only; excludes internship/non-instruction breaks)."
+    },
+    "sources": [
+      [
+        "Haas MFE Cost of Attendance Class of 2028",
+        "https://haas.berkeley.edu/financial-aid/master-of-financial-engineering/cost/"
+      ],
+      [
+        "MFE Admissions (Spring-only)",
+        "https://mfe.haas.berkeley.edu/admissions"
+      ],
+      [
+        "STEM CIP memo (BIO)",
+        "https://internationaloffice.berkeley.edu/sites/default/files/master_of_financial_engineering_stem_memo.pdf"
+      ]
+    ]
+  },
+  "cmu-mscf": {
+    "tuition": 71800,
+    "tuitionLabel": "MSCF tuition academic year 2026–27 (Fall+Spring) Pittsburgh or NYC — $35,900/semester",
+    "fees": 1040,
+    "feesNote": "Pittsburgh AY required fees: Student Activities $248 + Transportation $302 + Technology $490 = $1,040. NYC: Technology $490 (no activities/transport on SFS table). Health Insurance PIT $3,352 / NYC $3,258 (AY). Summer Session rates set by college — total program tuition over ~16 mo (3 academic semesters + required summer internship) not published as a flat sticker; illustrative 3×$35,900=$107,700 unverified for summer billing.",
+    "period": "2026–27 AY",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://www.cmu.edu/sfs/tuition/graduate/mscf.html",
+    "notes": "SEPARATE TRACK quant-mfe. Fall-only entry; mandatory Aug orientation from Aug 1; required summer internship. STEM (verify CIP on I-20). QuantNet ~$104.6k total not used as official. PIT COA total $110,408 / NYC $112,606 incl. living/insurance/loan fees (as of Jul/Jun 2026 on SFS).",
+    "startTerm": "Fall 2027 (Fall-only)",
+    "summerStart": false,
+    "stem": true,
+    "accessRestricted": false,
+    "livingCostBand": {
+      "low": 30504,
+      "high": 33252,
+      "basis": "CMU SFS MSCF 2026–27 AY living: PIT Housing $14,752 + Food $8,664 + Personal $4,098 + Travel $2,990 = $30,504; NYC Housing $15,952 + Food $9,570 + Personal $4,142 + Travel $3,588 = $33,252 (excludes books $2,212 and health insurance)."
+    },
+    "sources": [
+      [
+        "CMU SFS MSCF Tuition 2026–27",
+        "https://www.cmu.edu/sfs/tuition/graduate/mscf.html"
+      ],
+      [
+        "MSCF Tuition & Financial Aid",
+        "https://www.cmu.edu/mscf/admissions/tuition-financial-aid"
+      ],
+      [
+        "MSCF Admissions FAQ",
+        "https://www.cmu.edu/mscf/admissions/faq"
+      ]
+    ]
+  },
+  "baruch-mfe": {
+    "tuition": 42000,
+    "tuitionLabel": "Entire-program tuition package out-of-state / international (MFE About page) — NY residents $27,675",
+    "fees": null,
+    "feesNote": "Enrollment-based fees catalog ~$179.60/sem FT (Tech $125 + Consolidated $15 + Senate $1.45 + Activity $38.15). Academic Excellence Fee (AEF) for MS Financial Engineering $375/credit. Catalog estimate OOS: 36 cr × ($855 non-res + $375 AEF) = $44,280 tuition+AEF before enrollment fees — diverges from About-page $42,000 package; re-verify bursar package for Fall 2027. About page still showed stale 2023–24 deadlines as of fetch — package dollars may lag.",
+    "period": "Entire 3-semester program package (About) vs catalog Fall 2025+ rates",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://mfe.baruch.cuny.edu/about/",
+    "notes": "SEPARATE TRACK quant-mfe. Fall-only; 3 semesters / 36 credits; STEM. F-1/J-1 pay non-resident. Prefer About package $42k intl as published program sticker; flag catalog AEF path may bill higher.",
+    "startTerm": "Fall 2027 only",
+    "summerStart": false,
+    "stem": true,
+    "accessRestricted": false,
+    "livingCostBand": null,
+    "sources": [
+      [
+        "Baruch MFE About — tuition package",
+        "https://mfe.baruch.cuny.edu/about/"
+      ],
+      [
+        "Baruch Graduate Catalog Tuition and Fees",
+        "https://baruch-graduate.catalog.cuny.edu/fees-expenses-financial-aid/tuition-and-fees"
+      ],
+      [
+        "Baruch Bursar Tuition",
+        "https://adminfinance.baruch.cuny.edu/bursar/tuition/"
+      ]
+    ]
+  },
+  "columbia-ieor-mfe": {
+    "tuition": 101592,
+    "tuitionLabel": "Estimated program tuition 36 points × $2,822/point (2026–27 SEAS M.S. rate)",
+    "fees": 7099,
+    "feesNote": "Illustrative 3-semester fee stack from 2026–27 Bulletin: IEOR master's program fee FT $1,144 + University Services & Support $703×3=$2,109 + Health & Related Services $759×3=$2,277 + International Services $175×3=$525 + Activities (first-year FT $480 + continuing FT $460)=$940 + Document fee $105 one-time ≈ $7,100. Exact billing depends on enrollment pace. IEOR department tuition page still showed 2024–25 $2,584/cr / $93,024 for 36-cr — superseded by Bulletin 2026–27 $2,822/point. ISSO I-20 estimate for MS Financial Engineering: Tuition & Fees $78,998 + Living $31,625 = $110,623 per academic year (issuance estimate; not full 3-sem sticker).",
+    "period": "2026–27 rates × 36 points (3-semester MSFE)",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://bulletin.columbia.edu/columbia-engineering/graduate-studies/graduate-tuition-fees-payments/",
+    "notes": "SEPARATE TRACK quant-mfe. columbia-ieor-mfe (IEOR MSFE) ≠ columbia-msfe (CBS MS Financial Economics). STEM-certified. Fall matriculation. Do not mix with CBS costs.",
+    "startTerm": "Fall 2027",
+    "summerStart": false,
+    "stem": true,
+    "accessRestricted": false,
+    "livingCostBand": {
+      "low": 31625,
+      "high": null,
+      "basis": "Columbia ISSO estimated living expenses for Engineering MS Financial Engineering $31,625 per academic year (I-20/DS-2019 issuance; actual may differ)."
+    },
+    "sources": [
+      [
+        "Columbia Engineering Bulletin 2026–27 Graduate Tuition",
+        "https://bulletin.columbia.edu/columbia-engineering/graduate-studies/graduate-tuition-fees-payments/"
+      ],
+      [
+        "Columbia Engineering Bulletin Fees (IEOR program fee)",
+        "https://bulletin.columbia.edu/columbia-engineering/graduate-studies/graduate-tuition-fees-payments/fees/"
+      ],
+      [
+        "IEOR Tuition and Fees (stale 2024–25 on dept page)",
+        "https://ieor.columbia.edu/tuition-and-fees"
+      ],
+      [
+        "ISSO Eng graduate estimated expenses PDF",
+        "https://isso.columbia.edu/sites/isso.columbia.edu/files/content/rates/eng.pdf"
+      ],
+      [
+        "IEOR MSFE program",
+        "https://ieor.columbia.edu/financial-engineering-msfe"
+      ]
+    ]
+  },
+  "gt-qcf": {
+    "tuition": 21935,
+    "tuitionLabel": "Out-of-Country MSQCF full-time semester tuition (≥12 cr) Fall 2026 bursar — OOS $21,316; IS $9,103",
+    "fees": 758,
+    "feesNote": "Mandatory Institute Fees $758/sem at 4+ credits (Fall 2026). International Student Fee (ISF) $100/term for F/J. Health insurance TBD on bursar totals page. Per-hour: IS $759 / OOS $1,778 / OOC $1,829. Program 36 credits — flat program total not published; Fall traditional path includes summer internship (~1.5 yr). Fall 2027 rates not posted as of asOf — Fall 2026 used as current published schedule.",
+    "period": "Fall 2026 rates (proxy until Fall 2027 posted)",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://bursar.gatech.edu/student/tuition/fa26/fa26_qcf.pdf",
+    "notes": "SEPARATE TRACK quant-mfe. id=gt-qcf (NOT gatech-qcf). Fall and Spring admits; STEM. Use Out-of-Country for typical HK/TW/PRC F-1. GA/GTA rates on fa26_gra.pdf are assistantship-reduced — do not confuse with full sticker.",
+    "startTerm": "Fall 2027 and Spring",
+    "summerStart": false,
+    "stem": true,
+    "accessRestricted": false,
+    "livingCostBand": {
+      "low": 22612,
+      "high": 25256,
+      "basis": "GT Financial Aid Out-of-Country graduate COA excluding tuition/fees: on-campus $22,612 / off-campus $25,256 per year (Housing+Food+Books+Personal+Transport; OOC table omits average loan costs)."
+    },
+    "sources": [
+      [
+        "GT Bursar Fall 2026 MSQCF by credit hour PDF",
+        "https://bursar.gatech.edu/student/tuition/fa26/fa26_qcf.pdf"
+      ],
+      [
+        "GT Bursar Fall 2026 totals",
+        "https://bursar.gatech.edu/student/tuition/fa26/fa26_totals.pdf"
+      ],
+      [
+        "QCF Tuition & Funding (page still shows 2023–24 narrative)",
+        "https://qcf.gatech.edu/prospective-students/tuition-costs-and-funding-opportunites"
+      ],
+      [
+        "GT Graduate Costs",
+        "https://finaid.gatech.edu/costs/graduate-costs"
+      ]
+    ]
+  },
+  "chicago-finmath": {
+    "tuition": 100213,
+    "tuitionLabel": "Illustrative program tuition if 1,250 units × ($8,017 / 100 units) 2026–27 in-person — unit total from brief/curriculum; confirm exact unit load",
+    "tuitionPer100Units": 8017,
+    "fees": null,
+    "feesNote": "Quarterly Student Services Fee $520; Student Insurance 2026 $1,839/qtr if USHIP; one-time lifetime transcript fee $84 first quarter. Exact fee total depends on number of quarters enrolled (~5 qtr typical in-person). Do not invent multi-quarter fee sum beyond published per-quarter amounts.",
+    "period": "2026–27",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://finmath.uchicago.edu/admissions/tuition/",
+    "notes": "SEPARATE TRACK quant-mfe. In-person Autumn start; online also January/June. STEM. Enrollment deposit $3,000 credited to first Autumn tuition. Bursar PSD confirms FinMath In-Person 100 units = $8,017. Flat sticker only if unit total known — 1,250 u illustrative from brief (null if curriculum unit total changes).",
+    "startTerm": "Autumn 2027 (in-person); online Jan/June also",
+    "summerStart": false,
+    "stem": true,
+    "accessRestricted": false,
+    "livingCostBand": null,
+    "sources": [
+      [
+        "UChicago FinMath Tuition 2026",
+        "https://finmath.uchicago.edu/admissions/tuition/"
+      ],
+      [
+        "UChicago Bursar PSD 2026–27 FinMath rates",
+        "https://bursar.uchicago.edu/Tuition-and-Fees/Tuition-and-Fees-2026-27/Tuition-and-Fees-2026-27-Physical-Sciences-Division"
+      ]
+    ]
+  },
+  "nyu-courant-mf": {
+    "tuition": 87336,
+    "tuitionLabel": "Estimated tuition 36 points × GSAS $2,426/credit (2026–27 NYU Bursar)",
+    "fees": 4425,
+    "feesNote": "GSAS Registration & Services Fee $503/semester + $81 per credit. Illustrative 3-semester FT path: 3×$503 + 36×$81 = $1,509 + $2,916 = $4,425 (assumes all 36 points billed under GSAS R&S schedule). Confirm actual semester credit splits with program.",
+    "period": "2026–27 GSAS rate × 36 points",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://www.nyu.edu/content/dam/nyu/bursar/documents/2026-2027%20Tuition%20and%20Fees.pdf",
+    "notes": "SEPARATE TRACK quant-mfe. id=nyu-courant-mf (NOT nyu-courant). FT Fall-only; summer internship between sem 2–3; optional August bootcamp. STEM. Program states it does not accept applications for financial assistance.",
+    "startTerm": "Fall 2027 (FT Fall-only)",
+    "summerStart": false,
+    "stem": true,
+    "accessRestricted": false,
+    "livingCostBand": null,
+    "sources": [
+      [
+        "NYU Bursar 2026–2027 Tuition and Fees PDF (GSAS $2,426)",
+        "https://www.nyu.edu/content/dam/nyu/bursar/documents/2026-2027%20Tuition%20and%20Fees.pdf"
+      ],
+      [
+        "NYU Courant Math in Finance Admissions",
+        "https://math-finance.cims.nyu.edu/admissions/"
+      ],
+      [
+        "GSAS Bulletin Mathematics in Finance MS",
+        "https://bulletins.nyu.edu/graduate/arts-science/programs/mathematics-finance-ms/"
+      ]
+    ]
+  },
+  "stanford-mcf": {
+    "tuition": null,
+    "tuitionLabel": "No flat program sticker — Graduate Engineering quarterly: 11–18 units $23,239; 8–10 units $15,100 (2026–27). 45 units over typically 5–6 full-time quarters",
+    "tuitionQuarterlyHigh": 23239,
+    "tuitionQuarterlyLow": 15100,
+    "fees": null,
+    "feesNote": "Campus health insurance and other required fees not itemized on MCF pages; see Stanford Student Services for quarterly fees. Do not invent multi-quarter total.",
+    "period": "2026–27 Graduate Engineering rates",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://studentservices.stanford.edu/tuition-rates/2026-2027-graduate-and-professional-tuition-rates",
+    "notes": "SEPARATE TRACK quant-mfe. Not on QuantNet 2026 list. STEM not stated on MCF pages → stem null (verify CIP on I-20). Admissions need-blind; no guaranteed MS funding. HCP part-time path exists.",
+    "startTerm": "Autumn 2027",
+    "summerStart": false,
+    "stem": null,
+    "accessRestricted": false,
+    "livingCostBand": null,
+    "sources": [
+      [
+        "Stanford 2026–27 Graduate Engineering tuition",
+        "https://studentservices.stanford.edu/tuition-rates/2026-2027-graduate-and-professional-tuition-rates"
+      ],
+      [
+        "MCF FAQ (cost / funding)",
+        "https://mcf.stanford.edu/frequently-asked-questions"
+      ],
+      [
+        "ICME Graduate Funding",
+        "https://icme.stanford.edu/academics-admission/graduate-funding"
+      ]
+    ]
+  }
+}

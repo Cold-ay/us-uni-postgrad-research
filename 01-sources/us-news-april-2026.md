@@ -140,4 +140,19 @@ These checks corroborate selected rows, not the entire reproduced lists. Tuition
 | Unranked | Florida Warrington | [MS in Finance and Technology](../05-finance/programs/florida-msft.md) |
 | Unranked | Texas A&M Mays | [MS Quantitative Finance (MS-QFIN / STEM to Stocks)](../05-finance/programs/tamu-qfin.md) |
 
-_Quant/MFE programs are not listed here; see [05-finance/README.md](../05-finance/README.md)._
+Primary TFE Times ranks stay 1–30. Unranked adds on that slate are not QuantNet ranks.
+
+## Quant / MFE (separate track · QuantNet 2026)
+
+| QuantNet | Program | Research |
+| --- | --- | --- |
+| #1 | Baruch College (CUNY) Weissman | [Master of Science in Financial Engineering (MFE)](../05-finance/programs/baruch-mfe.md) |
+| #3 | Carnegie Mellon University | [Master of Science in Computational Finance (MSCF)](../05-finance/programs/cmu-mscf.md) |
+| #4 | Columbia IEOR (Fu Foundation) | [Master of Science in Financial Engineering (MSFE)](../05-finance/programs/columbia-ieor-mfe.md) |
+| #5 | UC Berkeley Haas | [Master of Financial Engineering (MFE)](../05-finance/programs/berkeley-mfe.md) |
+| #7 | University of Chicago (Physical Sciences / Math) | [MS in Financial Mathematics (MSFM)](../05-finance/programs/chicago-finmath.md) |
+| #8 | Georgia Tech (Scheller / ISyE / Math) | [Master of Science in Quantitative and Computational Finance (MS-QCF)](../05-finance/programs/gt-qcf.md) |
+| #11 | NYU Courant Institute | [MS in Mathematics in Finance](../05-finance/programs/nyu-courant-mf.md) |
+| Unranked | Stanford ICME (School of Engineering) | [MS Mathematical and Computational Finance (MCF track)](../05-finance/programs/stanford-mcf.md) |
+
+_quant-mfe is not merged into the TFE rank spine. Every row has tfeRank2026 null. See [05-finance/README.md](../05-finance/README.md)._

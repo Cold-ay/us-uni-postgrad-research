@@ -19,7 +19,7 @@ export const rankingSources = {
     original: 'https://tfetimes.com/best-finance-program-rankings/',
     reproduction: 'https://tfetimes.com/best-finance-program-rankings/',
     reproductionName: 'TFE Times',
-    note: 'Batch 1–4 (2026-10-26): TFE Times 2026 ranks 1–30 ingested. Locked unranked adds on this slate: florida-msft, chicago-booth-mif, columbia-msfe. US News Finance MBA specialty is not used as an MSF program rank. Quant/MFE programs remain on a separate track.'
+    note: 'Batch 1–4 (2026-10-26): TFE Times 2026 ranks 1–30 ingested. Locked unranked adds on this slate: florida-msft, chicago-booth-mif, columbia-msfe. US News Finance MBA specialty is not used as an MSF program rank. Quant/MFE is a separate quant-mfe track ranked by QuantNet 2026; those eight rows keep tfeRank2026 null and are not merged into TFE ranks 1–30.'
   }
 };
 export const rankingCaveat = 'U.S. News’s direct tables were inaccessible during research. Positions are transcribed from the linked reproductions, with selected university announcements used as cross-checks; not every position is independently verified. “April 2026 release” avoids inconsistent 2026/2027 edition labels across sources. Rankings are discovery aids, not admission or internship probabilities.';
