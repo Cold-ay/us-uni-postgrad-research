@@ -1,0 +1,71 @@
+{
+  "asOf": "2026-10-26",
+  "timezone": "Asia/Hong_Kong",
+  "intake": "Fall 2027",
+  "idScheme": "No SCH ids issued. Batch2 ended SCH-106; Batch3 reserved SCH-107+. No batch3-awards.json on disk — headroom SCH-120+ reserved if future florida-msft awards appear. Parent may renumber.",
+  "batch": "msf-florida-msft-singleton",
+  "programIds": [
+    "florida-msft"
+  ],
+  "awards": [],
+  "overlapsWithExisting": [
+    {
+      "existingId": "SCH-015",
+      "name": "HKSES",
+      "note": "External HK — may fund US MSF/MSFT; do not recreate."
+    },
+    {
+      "existingId": "SCH-017",
+      "name": "Fulbright Taiwan Graduate Study Award",
+      "note": "External TW — may apply; do not recreate."
+    },
+    {
+      "existingId": "SCH-018",
+      "name": "Taiwan MOE GSSA",
+      "note": "External TW outbound — may apply; do not recreate."
+    },
+    {
+      "existingId": "SCH-038",
+      "name": "Paul & Daisy Soros Fellowships for New Americans",
+      "note": "Already live; flag only."
+    },
+    {
+      "existingId": "SCH-068",
+      "name": "CSC rare master's path",
+      "note": "PRC Batch1 thin master's path; flag for PRC MSFT applicants."
+    }
+  ],
+  "externalNewSkipped": [
+    {
+      "name": "Program-page 'Assistantships' (research/TA for finance & analytics)",
+      "reason": "MS FinTech page directs students to assistantships, but Warrington Graduate Costs page states graduate assistantships are typically reserved for Ph.D. students; Financial Aid office does not offer master's assistantships. No amounts, seat counts, or MSFT-specific application process verified for Fall 2027 traditional admits → not an ingestable open award."
+    },
+    {
+      "name": "External scholarships (CFA Institute / fintech associations / philanthropic orgs)",
+      "reason": "Generic pointer on program tuition-assistance blurb via Business Career Services — no named, open, program-tied award with published amount/deadline for MSFT admits."
+    },
+    {
+      "name": "UF Master of Science in Finance Scholarship Fund (donor fund 012419)",
+      "reason": "Advancement giving vehicle for classic MSF; not verified as applicant-facing open award for florida-msft traditional Fall 2027 admits (also skipped in batch2 for florida-msf)."
+    },
+    {
+      "name": "Combination-degree / Bright Futures / Florida Prepaid residual",
+      "reason": "UF-undergrad combination pathway only — not traditional external florida-msft track."
+    }
+  ],
+  "gaps": [
+    "florida-msft: NO verified open program-tied scholarship or fellowship with published amounts/process for traditional Fall 2027 intl admits — awards array intentionally empty (none verified ≠ invent).",
+    "Assistantship language on program page conflicts with college-wide 'typically Ph.D.-reserved' policy — treat as unverified for ingest.",
+    "Fall 2027 / AY 2027–28 tuition rates not locked; published sticker matches 2026–27 per-credit × 30.",
+    "Warrington graduate cost table has no FinTech row yet.",
+    "No program-specific living cost band published.",
+    "STEM designation not stated on official pages.",
+    "No separate international application deadline posted on primary FinTech page (only Early Mar 1 / Final May 1 2027)."
+  ],
+  "counts": {
+    "awardsTotal": 0,
+    "ingestTrue": 0,
+    "ingestFalse": 0,
+    "schIdsUsed": []
+  }
+}

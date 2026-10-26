@@ -23,7 +23,10 @@ export const rankingSources = {
   }
 };
 export const rankingCaveat = 'U.S. News’s direct tables were inaccessible during research. Positions are transcribed from the linked reproductions, with selected university announcements used as cross-checks; not every position is independently verified. “April 2026 release” avoids inconsistent 2026/2027 edition labels across sources. Rankings are discovery aids, not admission or internship probabilities.';
-export function rankLabel(p) { return `#${p.rank}${p.tied ? ' (tie)' : ''}`; }
+export function rankLabel(p) {
+  if (p.rank == null) return 'Unranked';
+  return `#${p.rank}${p.tied ? ' (tie)' : ''}`;
+}
 export function formatTuition(n) {
   return Number.isFinite(n) ? new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD', maximumFractionDigits: 0 }).format(n) : 'Not verified';
 }

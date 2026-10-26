@@ -1,0 +1,87 @@
+{
+  "_meta": {
+    "asOf": "2026-10-26",
+    "timezone": "Asia/Hong_Kong",
+    "intake": "Fall 2027",
+    "scope": "Singleton handoff: florida-msft (UF Warrington MS Finance and Technology). DISTINCT from florida-msf (classic MS Finance, UF-undergrad combination only).",
+    "rule": "Never invent; missing ≠ 0. Tuition figures from primary Warrington program pages as of asOf.",
+    "programIds": [
+      "florida-msft"
+    ],
+    "idsSource": "/workspace/brief-handoffs/msf-florida-msft.json + Collinn lock 2026-10-26",
+    "schIdNote": "No batch3-awards.json present under /workspace/aid-msf/ as of write. Batch2 ended SCH-106; Batch3 (TFE 17–24) reserved SCH-107+. This singleton uses no SCH ids (zero verified awards). If later awards appear, start at SCH-120+ to leave headroom, or renumber after Batch3 max. Provisional SCH-FMSFT-* not needed (empty awards).",
+    "crossCheck": {
+      "briefDossier": "/workspace/brief-handoffs/msf-florida-msft.json",
+      "briefTuitionOos": 43478,
+      "briefTuitionInState": 15976,
+      "primaryPageMatch": true,
+      "perCreditArithmetic": "30 × $1,449.28 non-resident = $43,478.40; 30 × $532.52 FL resident = $15,975.60 — matches published stickers"
+    }
+  },
+  "florida-msft": {
+    "tuition": 43478,
+    "tuitionLabel": "Out-of-state / non-resident program tuition as listed on MS Finance and Technology page (intl-relevant sticker)",
+    "tuitionEstimate": null,
+    "tuitionEstimateLabel": null,
+    "fees": null,
+    "feesNote": "No separate program fee, professional-development fee, or deposit itemized on the FinTech program page. Published In-state/Out-of-state figures arithmetically match UF 2026–27 graduate per-credit totals for 30 credits (rates already include listed mandatory fee components). Missing separate fee line ≠ 0.",
+    "period": "As published on program page (arithmetically = UF 2026–27 graduate per-credit × 30 credits). Fall 2027 / AY 2027–28 billing rates not yet published — sticker may change.",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://warrington.ufl.edu/graduate/masters-finance-technology/",
+    "notes": "OPEN traditional 1-year track (external/intl) launches Fall 2027 — DISTINCT from florida-msf (classic MS Finance = UF undergrad combination only; accessRestricted). 30 credits; on campus Gainesville; 8-week modular; Fall entry only. Program page Costs: In-state $15,976 / Out-of-state $43,478 (verified 2026-10-26). Alias URL https://warrington.ufl.edu/graduate/masters-fintech/ shows same figures. Warrington graduate cost table does NOT yet list 'MS in Finance and Technology' as a row (MS Marketing shows identical OOS/in-state figures — do not assume identity of programs). Combination 4/5-yr track is UF Finance majors only — not this catalog id's primary path. STEM designation not stated on official FinTech pages → stem null. Living band not published for this program → livingCostBand null (UF SFA general 2026–27 grad living expenses exist campus-wide but are not program-tied).",
+    "startTerm": "Fall 2027",
+    "stem": null,
+    "credits": 30,
+    "duration": "1 year traditional master's (combination bachelor's/master's 4 or 5 years is UF-undergrad-only pathway)",
+    "livingCostBand": null,
+    "accessRestricted": false,
+    "accessNote": "Traditional 1-year master's open to external applicants (business major preferred; other majors case-by-case). Combination track is UF on-campus undergrads only — do not conflate with florida-msf classic combo MSF.",
+    "altTuition": {
+      "floridaResident": 15976,
+      "outOfState": 43478,
+      "perCreditFloridaResident_2026_27": 532.52,
+      "perCreditNonResident_2026_27": 1449.28,
+      "creditBasis": 30
+    },
+    "deadlines": {
+      "earlyDecision": "2027-03-01",
+      "final": "2027-05-01",
+      "note": "1-year traditional Fall 2027 launch deadlines on program page. Separate intl-only deadline not posted on primary FinTech page as of asOf."
+    },
+    "separateFrom": {
+      "id": "florida-msf",
+      "note": "Classic William R. Hough MS in Finance — UF undergraduate combination only; tuition null + accessRestricted in batch2. Do NOT merge costs or awards."
+    },
+    "sources": [
+      [
+        "MS Finance and Technology program (primary sticker)",
+        "https://warrington.ufl.edu/graduate/masters-finance-technology/"
+      ],
+      [
+        "MS FinTech alias URL (same program / same sticker)",
+        "https://warrington.ufl.edu/graduate/masters-fintech/"
+      ],
+      [
+        "News: Fall 2027 traditional launch / deadlines",
+        "https://warrington.ufl.edu/news/warrington-masters-finance-and-technology/"
+      ],
+      [
+        "UF 2026–27 Tuition and Fees (per-credit cross-check)",
+        "https://cfo.ufl.edu/student-financial-resources/current-and-former-students/2026-27-academic-year-tuition-and-fees/"
+      ],
+      [
+        "Warrington Graduate Costs table (FinTech row NOT listed as of asOf)",
+        "https://warrington.ufl.edu/admissions-aid/cost-aid/graduate/"
+      ],
+      [
+        "Graduate catalog PDF — Finance and Technology (30 cr)",
+        "https://gradcatalog.ufl.edu/graduate/colleges-departments/business/finance-insurance-real-estate/finance-and-technology/finance-and-technology.pdf"
+      ],
+      [
+        "Classic MSF — DISTINCT / do not conflate",
+        "https://warrington.ufl.edu/graduate/masters-finance/"
+      ]
+    ]
+  }
+}

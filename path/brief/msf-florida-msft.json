@@ -1,0 +1,92 @@
+{
+  "batch": "msf-florida-msft",
+  "as_of": "2026-10-26",
+  "degree": "msf",
+  "field": "dossier-core",
+  "notes": [
+    "Single-program add: University of Florida Warrington MS in Finance and Technology (id florida-msft).",
+    "Collinn LOCK 2026-10-26: keep florida-msf as restricted UF-undergrad combo on TFE #11 spine; ADD this FinTech MS as separate primary-slate program (Fall 2027 1-year traditional track launch).",
+    "tfeRank2026 is null — not on TFE Times 2026 classic Master's of Finance rankings spine; related to (but distinct from) florida-msf TFE #11.",
+    "Never invent; STEM null because not stated on official FinTech pages.",
+    "Tuition verified on FinTech program page; graduate cost table gap flagged in costNote."
+  ],
+  "ranking_source_primary": {
+    "name": "TFE Times 2026 Best Master's of Finance (related context only — this program not ranked on that spine)",
+    "url": "https://tfetimes.com/best-finance-program-rankings/",
+    "as_of": "2026-03-01",
+    "note": "florida-msft has tfeRank2026 null; classic florida-msf is TFE #11."
+  },
+  "items": [
+    {
+      "id": "florida-msft",
+      "school": "Florida Warrington",
+      "program": "MS in Finance and Technology",
+      "as_of": "2026-10-26",
+      "tfeRank2026": null,
+      "tfeRankNote": "Not on TFE Times 2026 classic Master's of Finance spine. Related classic florida-msf (combo-only MSF) is TFE #11 — DISTINCT degree; keep florida-msf restricted and this id as separate primary-slate FinTech MS.",
+      "startTerm": "Fall 2027 (Fall only; 1-year traditional track first class)",
+      "openDate": null,
+      "openDateNote": "Fall 2027 deadlines posted on program page; exact application open date not labeled as of scrape 2026-10-26.",
+      "deadlines": [
+        {
+          "label": "Early decision (1-year traditional, Fall 2027 launch)",
+          "date": "2027-03-01"
+        },
+        {
+          "label": "Final deadline (1-year traditional, Fall 2027 launch)",
+          "date": "2027-05-01"
+        },
+        {
+          "label": "Combination degree Fall 2027 cohort — early decision",
+          "date": "2027-03-01",
+          "dateNote": "UF undergrad combination track (not the external traditional path)"
+        },
+        {
+          "label": "Combination degree Fall 2027 cohort — regular deadline",
+          "date": "2027-05-01",
+          "dateNote": "UF undergrad combination track"
+        }
+      ],
+      "deadlinesNote": "DISTINCT from florida-msf (classic MSF combo Aug/Oct/Nov UF-undergrad-only cycle). Traditional 1-year track is the external/intl pathway; launches Fall 2027.",
+      "tuition": 43478,
+      "tuitionAlt": 15976,
+      "tuitionLabel": "Out-of-state program tuition (as listed on FinTech page)",
+      "tuitionAltLabel": "In-state / Florida resident program tuition (as listed on FinTech page)",
+      "period": null,
+      "costNote": "Verified on MS Finance and Technology program page (Costs: In-state $15,976 / Out-of-state $43,478). Warrington graduate cost table does NOT yet list 'MS in Finance and Technology' as a separate row (as of scrape); MS Marketing shows identical figures — treat FinTech page as primary source; confirm when graduate cost table adds the program. Living costs / UF fees / any professional-development fee not itemized on FinTech page. Not a Fall-2027-only locked quote.",
+      "duration": "1 year (traditional master’s); combination bachelor’s/master’s 4 or 5 years (UF undergrads).",
+      "credits": "30",
+      "tracks": [
+        "Traditional 1-year master’s (external applicants; first class Fall 2027) — PRIMARY for intl slate",
+        "Bachelor’s/master’s combination (UF on-campus undergrads; 4-yr or 5-yr; combo first class Fall 2026)",
+        "On campus · 8-week modular schedule · Fall entry only"
+      ],
+      "coreNotes": "DISTINCT from florida-msf (classic MS in Finance = UF-undergrad combination-only; TFE #11). This FinTech MS fuses investments/derivatives/valuation with AI/ML, blockchain, DeFi, NLP/genAI, financial intermediation & technology. GMAT/GRE not required (optional). Business major preferred; other majors case-by-case. Intl: English proficiency + Warrington interview for non-U.S. institution attendees; 3-year bachelor’s from India/Australia/Bangladesh/Canada(excl. Quebec)/Nepal/Pakistan not recognized. STEM designation not stated on program pages → null. 12–16 week industry project via Fintech Research Center (news). Minimum eight Finance graduate electives required (page).",
+      "academic": "UF Warrington MS in Finance and Technology (florida-msft): DISTINCT from classic florida-msf combo MSF. Traditional 1-year / 30 credits / Fall-only / 8-week modules; first traditional class Fall 2027. Deadlines Mar 1 (early) / May 1 (final) 2027. Tuition on program page: OOS $43,478 / in-state $15,976. Open to traditional external applicants (business bachelor’s preferred). STEM null. Not on TFE MSF spine.",
+      "orientation": "Fall 2027 launch · 1 year / 30 cr · FinTech MS (≠ classic MSF) · TFE n/a",
+      "stem": null,
+      "sources": [
+        [
+          "MS Finance and Technology program",
+          "https://warrington.ufl.edu/graduate/masters-finance-technology/"
+        ],
+        [
+          "MS FinTech alias URL (same program)",
+          "https://warrington.ufl.edu/graduate/masters-fintech/"
+        ],
+        [
+          "News: program introduction (deadlines / Fall 2027 launch)",
+          "https://warrington.ufl.edu/news/warrington-masters-finance-and-technology/"
+        ],
+        [
+          "Graduate costs table (FinTech row not yet listed)",
+          "https://warrington.ufl.edu/admissions-aid/cost-aid/graduate/"
+        ],
+        [
+          "Classic MSF (DISTINCT / combo-only — do not conflate)",
+          "https://warrington.ufl.edu/graduate/masters-finance/"
+        ]
+      ]
+    }
+  ]
+}
