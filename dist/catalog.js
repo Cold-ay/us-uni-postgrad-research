@@ -967,5 +967,15 @@ export const rankedSchools = [
     "rank": null,
     "academic": "Columbia MSFE (locked add): STEM-eligible, 4 semesters / ≥48 cr, late Aug start. App deadline ~Jan 28 2027 (verify). Est. tuition ~$77,516/yr ×2 (indexed; CF-blocked live).",
     "programUrl": "https://academics.business.columbia.edu/msfe/academics"
+  },
+  {
+    "id": "tamu-qfin",
+    "university": "Texas A&M University",
+    "short": "Texas A&M Mays",
+    "degree": "MS Quantitative Finance (MS-QFIN / STEM to Stocks)",
+    "area": "Finance",
+    "rank": null,
+    "academic": "TAMU Mays MS-QFIN (tamu-qfin): DISTINCT from restricted tamu-msf 4+1. 36-cr non-thesis joint Finance+Math. Catalog opens to non-TAMU graduates with prereqs (external/intl pathway exists). Program fee $15k/Fall&Spring sem (SBS); flat tuition null. Fall 2027 deadlines not posted. STEM CIP null. Not on TFE MSF spine (related tamu-msf = #20).",
+    "programUrl": "https://catalog.tamu.edu/graduate/colleges-schools-interdisciplinary/business/finance/quantitative-finance-ms/"
   }
 ];

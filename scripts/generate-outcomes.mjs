@@ -175,6 +175,7 @@ export async function generateOutcomes() {
   const msfBatch003 = JSON.parse(await readFile(path.join(root, 'path/outcomes/msf-batch-003.json'), 'utf8'));
   const msfBcFromBatch002 = JSON.parse(await readFile(path.join(root, 'path/outcomes/path-bc-msf-from-batch002.json'), 'utf8'));
   const msfBatch4 = JSON.parse(await readFile(path.join(root, 'path/outcomes/path-batch4-from-batch002-003.json'), 'utf8'));
+  const msfTamuQfin = JSON.parse(await readFile(path.join(root, 'path/outcomes/msf-tamu-qfin.json'), 'utf8'));
   const idMap = JSON.parse(await readFile(path.join(root, 'path/outcomes/id-map.json'), 'utf8'));
   const msfBatch003Cards = selectBatch3OutcomeCards([
     ...msfBcFromBatch002.cards,
@@ -275,10 +276,29 @@ export async function generateOutcomes() {
     outcomeAdjacentByCatalogId,
     outcomeSpecialtyByCatalogId,
   );
+  if (msfTamuQfin.cards?.length !== 1 || msfTamuQfin.cards[0].catalog_id !== 'tamu-qfin') {
+    throw new Error('msf-tamu-qfin.json must contain exactly the tamu-qfin card');
+  }
+  if (msfTamuQfin.cards[0].confidence !== 'low') {
+    throw new Error('tamu-qfin outcome confidence must stay low');
+  }
+  if (outcomeCards['tamu-qfin']) throw new Error('tamu-qfin outcome already exists; refusing to overwrite');
+  if (outcomeCards['tamu-msf'] && msfTamuQfin.cards[0].full_time_placement === outcomeCards['tamu-msf'].full_time_placement) {
+    throw new Error('Refusing to copy tamu-msf placement onto tamu-qfin');
+  }
+  ingestV2Batch(
+    'msf-tamu-qfin',
+    msfTamuQfin.meta,
+    msfTamuQfin.cards,
+    outcomeCards,
+    unlinkedOutcomeCards,
+    outcomeAdjacentByCatalogId,
+    outcomeSpecialtyByCatalogId,
+  );
 
-  const body = `// Generated from path/outcomes/batch-001.json through batch-005.json, msf-batch-001.json, msf-batch-002.json, msf-florida-msft.json, msf-batch-003.json (batch3 catalog ids only; ohiostate-msf→ohio-msf, ucsd-rady-msf→ucsd-msf), path-bc-msf-from-batch002.json, path-batch4-from-batch002-003.json (illinois-tech-msf→iit-msf), and id-map.json. Do not edit by hand.
+  const body = `// Generated from path/outcomes/batch-001.json through batch-005.json, msf-batch-001.json, msf-batch-002.json, msf-florida-msft.json, msf-batch-003.json (batch3 catalog ids only; ohiostate-msf→ohio-msf, ucsd-rady-msf→ucsd-msf), path-bc-msf-from-batch002.json, path-batch4-from-batch002-003.json (illinois-tech-msf→iit-msf), msf-tamu-qfin.json, and id-map.json. Do not edit by hand.
 export const outcomeBatchMeta = ${JSON.stringify(
-    [batch001.meta, batch002.meta, batch003.meta, batch004.meta, batch005.meta, msfBatch001.meta, msfBatch002.meta, msfFloridaMsft.meta, msfBatch003.meta, msfBcFromBatch002.meta, msfBatch4.meta],
+    [batch001.meta, batch002.meta, batch003.meta, batch004.meta, batch005.meta, msfBatch001.meta, msfBatch002.meta, msfFloridaMsft.meta, msfBatch003.meta, msfBcFromBatch002.meta, msfBatch4.meta, msfTamuQfin.meta],
     null,
     2,
   )};

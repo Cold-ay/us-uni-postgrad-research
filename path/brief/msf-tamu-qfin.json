@@ -1,0 +1,82 @@
+{
+  "batch": "msf-tamu-qfin",
+  "as_of": "2026-10-26",
+  "degree": "msf",
+  "field": "dossier-core",
+  "notes": [
+    "Single-program add: Texas A&M Mays MS Quantitative Finance / MS-QFIN (id tamu-qfin).",
+    "Collinn LOCK 2026-10-26: keep tamu-msf as restricted TAMU-undergrad 4+1 classic MSF on TFE #20 spine; ADD this QFIN as separate primary-slate program.",
+    "EXTERNAL/INTL: OPEN per official catalog — admission available to non-Texas A&M graduates meeting prerequisites (distinct from tamu-msf).",
+    "tfeRank2026 is null — not on TFE Times 2026 classic Master's of Finance rankings spine; related classic tamu-msf is TFE #20.",
+    "Never invent; STEM null (no CIP/STEM-OPT claim on official QFIN pages); Fall 2027 deadlines and flat tuition total not posted — flagged.",
+    "Tuition: only verified program fee $15,000 per Fall/Spring semester (SBS); use calculator for base tuition."
+  ],
+  "ranking_source_primary": {
+    "name": "TFE Times 2026 Best Master's of Finance (related context only — this program not ranked on that spine)",
+    "url": "https://tfetimes.com/best-finance-program-rankings/",
+    "as_of": "2026-03-01",
+    "note": "tamu-qfin has tfeRank2026 null; classic tamu-msf is TFE #20."
+  },
+  "items": [
+    {
+      "id": "tamu-qfin",
+      "school": "Texas A&M Mays",
+      "program": "MS Quantitative Finance (MS-QFIN)",
+      "as_of": "2026-10-26",
+      "tfeRank2026": null,
+      "tfeRankNote": "Not on TFE Times 2026 classic Master's of Finance spine. Related classic tamu-msf (4+1 TAMU-undergrad-only MSF) is TFE #20 — DISTINCT degree; keep tamu-msf restricted and this id as separate primary-slate QFIN.",
+      "startTerm": "Not labeled on official catalog / Math / Mays pages as of scrape (Fall 2027 entry not locked to a posted start month).",
+      "openDate": null,
+      "openDateNote": "Fall 2027 / external QFIN application open date not posted on catalog or dedicated Mays QFIN marketing page as of scrape 2026-10-26. Do not reuse classic tamu-msf 4+1 cycle dates (TAMU undergrads only).",
+      "deadlines": [],
+      "deadlinesNote": "CRITICAL GAP: No Fall 2027 MS-QFIN-specific deadlines found on official catalog, Arts & Sciences Math QFIN page, or Mays graduate pages this pass. Classic MSF Lightning/Round dates on mays.tamu.edu/graduate/masters/4plus1/ms-finance/ are for current Texas A&M undergraduates only — do not conflate. Confirm via BusinessCAS / Adam C. Sinn '00 Department of Finance (Jose Quiros) before applicant-facing deadline copy.",
+      "tuition": null,
+      "tuitionAlt": 15000,
+      "tuitionLabel": null,
+      "tuitionAltLabel": "Quantitative Finance program fee per Fall/Spring semester (SBS fee schedule / billing explanations; not full program tuition)",
+      "period": null,
+      "costNote": "No flat MS-QFIN program total on Mays or catalog pages. SBS Billing & Fee Explanations lists 'Quantitative Finance Prog Fee' $15,000/Sem (Fall/Spring only) for MS Quantitative Finance students (same dollar amount as MAYS MSF Program Fee). 2024–25 Resident GR DoD PDF also lists 'MS in Quantitative Finance' $15,000. Use TAMU tuition calculator (tuition.tamu.edu) for base tuition/fees by residency + hours; living/insurance separate. Not a Fall-2027-only locked quote; fee schedules can change.",
+      "duration": "36 semester credit hours, non-thesis (catalog). Calendar length (e.g. 1 vs 2 years) not stated on catalog page as of scrape.",
+      "credits": "36",
+      "tracks": [
+        "MS-QFIN / MSQF “STEM to Stocks” — joint Adam C. Sinn '00 Department of Finance + Department of Mathematics",
+        "36-hour non-thesis Master of Science in Quantitative Finance",
+        "Audience per catalog: STEM and Finance majors; current TAMU sophomores/juniors/seniors OR non-Texas A&M graduates meeting prerequisites"
+      ],
+      "coreNotes": "DISTINCT from tamu-msf (classic MS Finance = Texas A&M undergraduate 4+1 / combination only; TFE #20; external/intl N/A). Catalog (MS-QFIN): admission available to current Texas A&M sophomore, junior and senior students OR non-Texas A&M graduates who complete equivalent prerequisites (ACCT 209 or 229/640; ECON 202 or 203; MATH 171+172 or 151+152 or equivalents) with B or higher by end of TAMU spring semester immediately following admission. Highly recommended: Linear Algebra, Differential Equations, Statistics, coding experience. Careers listed: complex security research, data/analytics, fintech, model development, portfolio management, quantitative trading, risk management, software development. Access to Mays Graduate Career Management Center / career coaching. STEM OPT/CIP designation not stated on catalog or Artsci Math pages → stem null. Fall 2027 deadlines/tuition total/start term gaps flagged.",
+      "academic": "TAMU Mays MS-QFIN (tamu-qfin): DISTINCT from restricted tamu-msf 4+1. 36-cr non-thesis joint Finance+Math. Catalog opens to non-TAMU graduates with prereqs (external/intl pathway exists). Program fee $15k/Fall&Spring sem (SBS); flat tuition null. Fall 2027 deadlines not posted. STEM CIP null. Not on TFE MSF spine (related tamu-msf = #20).",
+      "orientation": "External/intl open per catalog · 36 cr · TFE n/a (≠ tamu-msf #20)",
+      "stem": null,
+      "sources": [
+        [
+          "MS Quantitative Finance catalog (eligibility + 36 hours)",
+          "https://catalog.tamu.edu/graduate/colleges-schools-interdisciplinary/business/finance/quantitative-finance-ms/"
+        ],
+        [
+          "College of Arts & Sciences — Quantitative Finance M.S.",
+          "https://artsci.tamu.edu/mathematics/academics/graduate/quantitative-finance-ms.html"
+        ],
+        [
+          "SBS Billing & Fee Explanations (Quantitative Finance Prog Fee $15,000/Sem Fall/Spring)",
+          "https://sbs.tamu.edu/billing-payments/billing-fee-explanations/"
+        ],
+        [
+          "SBS 2024–25 Resident GR DoD (MS in Quantitative Finance $15,000)",
+          "https://sbs.tamu.edu/documents/2024-2025%20Resident%20GR%20DoD.pdf"
+        ],
+        [
+          "Mays Apply — master’s via BusinessCAS",
+          "https://mays.tamu.edu/apply/"
+        ],
+        [
+          "Classic 4+1 MS Finance (DISTINCT / TAMU-undergrad-only — do not conflate)",
+          "https://mays.tamu.edu/graduate/masters/4plus1/ms-finance/"
+        ],
+        [
+          "TFE Times 2026 (context only — classic tamu-msf #20; this program not ranked)",
+          "https://tfetimes.com/best-finance-program-rankings/"
+        ]
+      ]
+    }
+  ]
+}

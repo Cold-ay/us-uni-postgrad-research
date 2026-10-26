@@ -10,8 +10,8 @@ test('top-30 cutoff retains all ties and separates ranking categories', () => {
   const cs = programs.filter(p=>p.area==='Computer science');
   assert.equal(mba.length,30); assert.equal(cs.length,33);
   const finance = programs.filter(p=>p.area==='Finance');
-  assert.equal(finance.length, 33);
-  assert.equal(new Set(programs.map(p=>p.id)).size,96);
+  assert.equal(finance.length, 34);
+  assert.equal(new Set(programs.map(p=>p.id)).size,97);
   assert.equal(mba.filter(p=>p.rank===29).length,2);
   assert.equal(cs.filter(p=>p.rank===27).length,7);
   assert.equal(cs.filter(p=>p.rank===1).length,3);
@@ -63,10 +63,10 @@ test('program sources, funding and original notebook files resolve', async () =>
     assert.ok(p.sources.some(([,url])=>url===p.ranking.reproduction));
   }
   for(const s of scholarships) assert.ok(notes.some(n=>n.path===s.note));
-  assert.equal(notes.filter(n=>n.path.includes('/programs/')).length,96);
+  assert.equal(notes.filter(n=>n.path.includes('/programs/')).length,97);
   for(const note of notes) assert.equal(note.body,await readFile(new URL('../'+note.path,import.meta.url),'utf8'));
   const csv=await readFile(new URL('../dist/ranked-programs.csv',import.meta.url),'utf8');
-  assert.equal(csv.trim().split('\n').length,97);
+  assert.equal(csv.trim().split('\n').length,98);
 });
 test('policy radar brief merges baseline and delta items by id on Fall 2027 context', () => {
   assert.equal(policy.scanType, 'initial_baseline+delta');
@@ -127,6 +127,8 @@ test('HK/TW scholarship batch rev2 + PRC batch1 + MSF batch1–4: 117 live award
   assert.ok(programs.find(p => p.id === 'ucsd-msf').scholarships.includes('SCH-114'));
   assert.ok(!programs.find(p => p.id === 'ucsd-msf').scholarships.includes('SCH-115'));
   assert.deepEqual(programs.find(p => p.id === 'tamu-msf').scholarships, []);
+  assert.deepEqual(programs.find(p => p.id === 'tamu-qfin').scholarships, []);
+  assert.ok(!scholarships.some(s => s.id === 'SCH-130'));
   assert.deepEqual(programs.find(p => p.id === 'auburn-msf').scholarships, []);
   assert.ok(programs.find(p => p.id === 'vanderbilt-msf').scholarships.includes('SCH-096'));
   assert.ok(!programs.find(p => p.id === 'vanderbilt-msf').scholarships.includes('SCH-051'));
