@@ -121,6 +121,14 @@ These checks corroborate selected rows, not the entire reproduced lists. Tuition
 | #14 | Villanova School of Business | [MS in Finance](../05-finance/programs/villanova-msf.md) |
 | #15 | Notre Dame Mendoza | [MS in Finance](../05-finance/programs/notredame-msf.md) |
 | #16 | UT Dallas Jindal | [MS in Finance](../05-finance/programs/utd-msf.md) |
+| #17 | Boston College Carroll | [MS in Finance](../05-finance/programs/bc-msf.md) |
+| #18 | Claremont Graduate (Drucker) | [MS in Finance](../05-finance/programs/cgu-msf.md) |
+| #19 | Illinois Gies | [MS in Finance](../05-finance/programs/illinois-msf.md) |
+| #20 | Texas A&M Mays | [MS in Finance (TAMU 4+1)](../05-finance/programs/tamu-msf.md) |
+| #21 | Ohio State Fisher | [Specialized Master in Finance](../05-finance/programs/ohio-msf.md) |
+| #22 | Michigan State Broad | [MS in Finance](../05-finance/programs/msu-msf.md) |
+| #23 | Auburn Harbert | [MS in Finance](../05-finance/programs/auburn-msf.md) |
+| #24 | UC San Diego Rady | [Master of Quantitative Finance (MQF)](../05-finance/programs/ucsd-msf.md) |
 | Unranked | Florida Warrington | [MS in Finance and Technology](../05-finance/programs/florida-msft.md) |
 
 _Quant/MFE programs are not listed here; see [05-finance/README.md](../05-finance/README.md)._

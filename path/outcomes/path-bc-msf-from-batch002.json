@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "source": "msf-batch-002 extract",
+    "note": "bc-msf deferred from batch2 PR; ingest with batch3"
+  },
+  "cards": [
+    {
+      "catalog_id": "bc-msf",
+      "program_id": "bc-msf",
+      "route_mismatch": false,
+      "school": "Boston College",
+      "program": "Carroll MS in Finance",
+      "degree": "MSF",
+      "degree_family": "MSF",
+      "internship_rate": "unknown (MSF-specific internship % not published on Carroll career-development page this run)",
+      "full_time_placement": "90% of students who accepted full-time offers accepted those offers in the U.S. (Class of 2025 FT MSF; data through April 2, 2026 for Dec 2024 / May 2025 / Aug 2025 graduates). Classic seeker-based offer/accept % at 6 months: unknown on the same page. Average base $82,333 (permanent US work-authorized); $81,800 average base for US accepts including non-permanent work-authorized.",
+      "full_time_placement_notes": "Carroll page markets typical MSF destinations: corporate finance, asset management, investment banking. Page includes explicit international-student caution that US permanent employment has become challenging and recommends dual US + home-country search.",
+      "notable_employers": [
+        "Alvarez & Marsal",
+        "Andersen",
+        "BCG",
+        "Kohlberg Kravis Roberts & Co",
+        "Bank of China",
+        "Bracebridge Capital, LLC",
+        "Ballentine Partners",
+        "Berkshire Residential Investments",
+        "Craig-Hallum Capital Group LLC",
+        "Dark Alpha Capital LLC",
+        "Alter Domus",
+        "Rockland Trust Bank",
+        "Simon Kucher & Partners",
+        "Riparian Partners, LLC"
+      ],
+      "notable_employers_notes": "2023\u20132025 employer examples listed under MSF section of Carroll Career Development page \u2014 not a ranked Class of 2025 multi-hire census.",
+      "top_finance_firm_signal": "Moderate-high Boston corridor signal (KKR example, AM/PE boutiques, A&M, BCG). Bulge multi-hire density not quantified on page.",
+      "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
+      "sample_alumni_paths": [
+        "Corporate finance",
+        "Asset management",
+        "Investment banking",
+        "Advisory / consulting (A&M, BCG examples)"
+      ],
+      "referral_network_notes": "Carroll Graduate Career Development; Eagle Exchange alumni mentoring; BC alumni network. Formal referral ease: unknown.",
+      "difficulty_notes": "Multiple graduation terms (Dec/May/Aug) in reporting window. Boston finance market competitive.",
+      "intl_student_notes": "Official career page warns intl students that US permanent employment has become challenging and recommends global search. Exact Class of 2025 intl %: unknown. Confirm STEM status with Carroll for Fall 2027 OPT.",
+      "sources": [
+        {
+          "title": "Boston College Carroll \u2013 Graduate Career Development (MSF Class of 2025 outcomes)",
+          "url": "https://www.bc.edu/bc-web/schools/carroll-school/graduate/career-development.html",
+          "access_date": "2026-10-26"
+        },
+        {
+          "title": "Boston College Carroll \u2013 M.S. in Finance program page",
+          "url": "https://www.bc.edu/bc-web/schools/carroll-school/graduate/ms-programs/ms-in-finance.html",
+          "access_date": "2026-10-26"
+        }
+      ],
+      "confidence": "medium",
+      "confidence_reason": "Official Carroll page publishes MSF Class of 2025 US salary and 90% US-accept share among FT accepts, plus employer examples; does not publish classic CSEA seeker offer/accept @6mo %.",
+      "last_updated": "2026-10-26"
+    }
+  ]
+}

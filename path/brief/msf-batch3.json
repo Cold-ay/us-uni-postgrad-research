@@ -1,0 +1,616 @@
+{
+  "batch": "msf-batch3",
+  "as_of": "2026-10-26",
+  "degree": "msf",
+  "field": "dossier-core",
+  "notes": [
+    "Fall 2027 MSF project batch3 (TFE Times 2026 ranks 17–24).",
+    "Summer / non-autumn flags: TAMU Mays MSF begins with May mini-mester boot camps (summer) for 4+1 admits; CGU Drucker posts Summer 2027 deadlines on school calendar while MSF at-a-glance lists Spring/Fall — confirm MSF summer admits; BC/Illinois have Spring entry options (not summer).",
+    "Texas A&M classic MS Finance is TAMU-undergrad 4+1 only — not open to external/international standalone Fall 2027 applicants; related MS Quantitative Finance (catalog) accepts non-TAMU graduates — separate degree.",
+    "UC San Diego official title verified: Master of Quantitative Finance (MQF), formerly Master of Finance (MFin).",
+    "MSU Broad: live broad.msu.edu pages Incapsula-blocked this pass — deadlines/tuition from search-indexed official pages; re-verify.",
+    "Professor reputation signals: deferred (not researched this pass).",
+    "US News Finance specialty not used as MSF program rank."
+  ],
+  "ranking_source_primary": {
+    "name": "TFE Times 2026 Best Master's of Finance",
+    "url": "https://tfetimes.com/best-finance-program-rankings/",
+    "as_of": "2026-03-01"
+  },
+  "items": [
+    {
+      "id": "bc-msf",
+      "school": "Boston College Carroll",
+      "program": "Master of Science in Finance (MSF)",
+      "as_of": "2026-10-26",
+      "tfeRank2026": 17,
+      "startTerm": "Fall (August) Regular + Quantitative tracks; Spring (January) Quantitative track only",
+      "openDate": null,
+      "openDateNote": "Fall/Spring 2027 rounds posted on MSF page; exact application-open date not separately labeled.",
+      "deadlines": [
+        {
+          "label": "Spring 2027 Quant — Round 1 (intl encouraged)",
+          "date": "2026-10-13",
+          "decisionBy": "2026-12-02"
+        },
+        {
+          "label": "Spring 2027 Quant — Final",
+          "date": "2026-12-15",
+          "dateNote": "Decision rolling within ~10 business days once complete"
+        },
+        {
+          "label": "Fall 2027 — Round 1",
+          "date": "2026-10-13",
+          "decisionBy": "2026-12-02"
+        },
+        {
+          "label": "Fall 2027 — Round 2 (intl encouraged)",
+          "date": "2027-01-12",
+          "decisionBy": "2027-02-24"
+        },
+        {
+          "label": "Fall 2027 — Round 3 (intl encouraged)",
+          "date": "2027-03-09",
+          "decisionBy": "2027-05-26"
+        },
+        {
+          "label": "Fall 2027 — Round 4",
+          "date": "2027-05-11",
+          "decisionBy": "2027-06-23"
+        },
+        {
+          "label": "Fall 2027 — Round 5",
+          "date": "2027-06-08",
+          "decisionBy": "2027-07-07"
+        }
+      ],
+      "deadlinesNote": "Full-time MSF 2027 table on Carroll MSF / Admission pages. Part-time has separate calendar.",
+      "tuition": 71940,
+      "tuitionLabel": "Program total at $2,398/credit × 30 credits (2026–27)",
+      "feesNote": "Graduate student activity fee $73/semester (7+ credits); medical insurance $4,723 (2026–27); ID card $50.",
+      "period": "2026–27",
+      "costNote": "Official Carroll Tuition & Aid page lists Part-Time MBA & MSF at $2,398/credit and program total $71,940 (30 MSF credits). Living separate. Rates subject to annual change (typically announced in April).",
+      "duration": "Full-time ~12 months (10 courses); part-time ~20 months.",
+      "credits": "10 courses / typically 30 credit hours",
+      "tracks": [
+        "Full-time Regular Finance (Fall only)",
+        "Full-time Quantitative Finance STEM (Fall or Spring)",
+        "Part-time MSF (Fall or Spring)",
+        "Fifth-year BC undergrad pathway"
+      ],
+      "coreNotes": "Only the Quantitative Finance track is STEM-designated. Regular track is not STEM. Managerial Statistics 0-credit online prerequisite before arrival. GMAT/GRE required (waiver request available). $100 app fee. 10 hours community service required to graduate.",
+      "academic": "BC Carroll MSF: 10 courses/~12 mo FT. Quant STEM (Fall Aug or Spring Jan); Regular Fall only. Fall 2027 rounds Oct 13’26–Jun 8’27; Spring Quant final Dec 15’26. Tuition 2026–27 $71,940 ($2,398/cr × 30).",
+      "orientation": "Fall (Aug) or Spring Quant · ~12 months · Quant STEM · TFE #17 (2026)",
+      "stem": true,
+      "stemNote": "STEM applies to Quantitative Finance track only (official MSF page). Regular track not STEM-designated.",
+      "sources": [
+        [
+          "MSF program / curriculum / deadlines",
+          "https://www.bc.edu/bc-web/schools/carroll-school/graduate/ms-programs/ms-in-finance.html"
+        ],
+        [
+          "Admission deadlines hub",
+          "https://www.bc.edu/bc-web/schools/carroll-school/graduate/admission.html"
+        ],
+        [
+          "Tuition & Aid 2026–27",
+          "https://www.bc.edu/bc-web/schools/carroll-school/graduate/admission/tuition-and-aid.html"
+        ],
+        [
+          "TFE Times 2026",
+          "https://tfetimes.com/best-finance-program-rankings/"
+        ]
+      ]
+    },
+    {
+      "id": "cgu-msf",
+      "school": "Claremont Graduate (Drucker)",
+      "program": "Master of Science in Finance (MSF)",
+      "as_of": "2026-10-26",
+      "tfeRank2026": 18,
+      "startTerm": "Fall / Spring (program at-a-glance); Summer deadlines appear on Drucker calendar — confirm MSF summer admits with admissions",
+      "openDate": "2026-08-31",
+      "openDateNote": "Drucker news: 2027 application open as of Aug 31, 2026.",
+      "deadlines": [
+        {
+          "label": "Spring 2027 — Priority",
+          "date": "2026-11-01"
+        },
+        {
+          "label": "Spring 2027 — Final international",
+          "date": "2026-11-15"
+        },
+        {
+          "label": "Spring 2027 — Final domestic",
+          "date": "2026-12-01",
+          "dateNote": "Classes begin Jan 19, 2027"
+        },
+        {
+          "label": "Summer 2027 — Priority",
+          "date": "2027-02-01",
+          "dateNote": "School-wide Drucker calendar; program page at-a-glance lists Spring/Fall starts — verify MSF summer availability"
+        },
+        {
+          "label": "Summer 2027 — Final international",
+          "date": "2027-03-01"
+        },
+        {
+          "label": "Summer 2027 — Final domestic",
+          "date": "2027-04-01",
+          "dateNote": "Classes begin May 17, 2027 if term open for MSF"
+        },
+        {
+          "label": "Fall 2027 — Priority",
+          "date": "2027-02-01"
+        },
+        {
+          "label": "Fall 2027 — Final international",
+          "date": "2027-06-01",
+          "dateNote": "MSF program page lists Jun 1; Drucker school-wide news table lists Jul 5 — use program page for MSF"
+        },
+        {
+          "label": "Fall 2027 — Final domestic",
+          "date": "2027-08-01",
+          "dateNote": "Classes begin Aug 30, 2027"
+        }
+      ],
+      "deadlinesNote": "Deadlines from MSF program Key Dates table. Summer flag: school calendar posts Summer 2027; program start list says Spring/Fall — confirm before treating as summer-start pathway.",
+      "tuition": 66240,
+      "tuitionLabel": "Estimated program tuition 32 units × $2,070/unit (2025–26 rates)",
+      "feesNote": "Student fee $245/semester; technology $150/semester; intl student services fee $802 fall / $898 spring (F-1).",
+      "period": "2025–26 unit rate (2026–27 rates not confirmed on page)",
+      "costNote": "Official MSF page: $2,070 per unit based on 2025–2026 tuition rates. Do not treat as locked 2026–27/Fall 2027 quote. Living separate.",
+      "duration": "About 1 year full-time (two semesters possible).",
+      "credits": "32 units",
+      "tracks": [
+        "Full-time in-person MSF",
+        "CFA Affiliated University curriculum",
+        "Asset Management Practicum"
+      ],
+      "coreNotes": "STEM-designated (OPT up to 36 months stated). AACSB. GMAT/GRE required with waivers. Interview required. $80 app fee. Financial accounting prerequisite.",
+      "academic": "CGU Drucker MSF: STEM, 32 units/~1 yr. Spring/Fall primary starts. Fall 2027 priority Feb 1 / intl final Jun 1 / dom Aug 1. Est. tuition 32×$2,070=$66,240 (2025–26 rates).",
+      "orientation": "Fall/Spring (+ summer TBD) · ~1 year · STEM · TFE #18 (2026)",
+      "stem": true,
+      "sources": [
+        [
+          "MSF program / deadlines / cost",
+          "https://www.cgu.edu/academics/program/ms-finance/"
+        ],
+        [
+          "Drucker 2027 deadlines news (apps open)",
+          "https://www.cgu.edu/news/2026/08/drucker-school-application-deadlines-for-2027-how-to-apply/"
+        ],
+        [
+          "TFE Times 2026",
+          "https://tfetimes.com/best-finance-program-rankings/"
+        ]
+      ]
+    },
+    {
+      "id": "illinois-msf",
+      "school": "Illinois Gies",
+      "program": "Master of Science in Finance (MSF)",
+      "as_of": "2026-10-26",
+      "tfeRank2026": 19,
+      "startTerm": "Fall 2027 and Spring 2027 entry options",
+      "openDate": null,
+      "openDateNote": "Fall 2027 and Spring 2027 rounds posted; exact open date not labeled on admissions page.",
+      "deadlines": [
+        {
+          "label": "Spring 2027 — Round 1",
+          "date": "2026-08-12",
+          "decisionBy": "2026-08-28"
+        },
+        {
+          "label": "Spring 2027 — Round 2",
+          "date": "2026-09-09",
+          "decisionBy": "2026-09-25"
+        },
+        {
+          "label": "Spring 2027 — Round 3 (intl final)",
+          "date": "2026-10-14",
+          "decisionBy": "2026-10-30"
+        },
+        {
+          "label": "Spring 2027 — Round 4 (dom / no new visa)",
+          "date": "2026-11-18",
+          "dateNote": "Rolling admissions"
+        },
+        {
+          "label": "Fall 2027 — Round 1",
+          "date": "2026-10-28",
+          "decisionBy": "2026-12-18"
+        },
+        {
+          "label": "Fall 2027 — Round 2",
+          "date": "2027-01-13",
+          "decisionBy": "2027-02-26"
+        },
+        {
+          "label": "Fall 2027 — Round 3",
+          "date": "2027-03-31",
+          "decisionBy": "2027-04-23"
+        },
+        {
+          "label": "Fall 2027 — Round 4 (intl final)",
+          "date": "2027-05-05",
+          "decisionBy": "2027-05-21"
+        },
+        {
+          "label": "Fall 2027 — Round 5 (dom / no new visa)",
+          "date": "2027-06-09",
+          "dateNote": "Rolling admissions"
+        }
+      ],
+      "tuition": 76443,
+      "tuitionAlt": 57846,
+      "tuitionLabel": "International tuition+campus fees estimate — 3 semesters (2026–27 rates)",
+      "tuitionAltLabel": "US resident tuition+campus fees estimate — 3 semesters (2026–27 rates)",
+      "feesNote": "Campus fees included in totals above (~$2,803–$2,881/semester). Deposit $1,750 (credited to tuition). Living separate.",
+      "period": "2026–27 estimates (Fall’26 + Spring’27 + Fall’27 columns on tuition page)",
+      "costNote": "Official Gies MSF tuition page 2026–27 estimates for three-semester path. Tuition subject to change each academic year; Fall 2027 cohort later terms may differ.",
+      "duration": "3 standard semesters (~15 months typical for Fall start).",
+      "credits": "Minimum 40 graduate credit hours (at least 28 in Finance)",
+      "tracks": [
+        "Asset Management specialization",
+        "Corporate Finance specialization",
+        "Data Analytics and Fintech specialization",
+        "Quantitative Finance specialization",
+        "Finance Research specialization",
+        "Concentrations: Accountancy; Data Analytics in Finance; Quantitative Finance",
+        "UIUC Fast Track / Accelerated pathways for current Illinois undergrads"
+      ],
+      "coreNotes": "STEM-designated (up to 36 months OPT stated). GMAT/GRE optional. $90 app fee. Video essays required.",
+      "academic": "Illinois Gies MSF: STEM, ~3 semesters / 40 cr. Fall 2027 rounds Oct 28’26–Jun 9’27 (intl final May 5). Est. intl tuition+fees $76,443 / resident $57,846 (2026–27 3-sem).",
+      "orientation": "Fall or Spring · ~15 months / 40 cr · STEM · TFE #19 (2026)",
+      "stem": true,
+      "sources": [
+        [
+          "Program hub / STEM",
+          "https://giesbusiness.illinois.edu/msf"
+        ],
+        [
+          "Admissions / deadlines",
+          "https://giesbusiness.illinois.edu/msf/admissions"
+        ],
+        [
+          "Tuition 2026–27",
+          "https://giesbusiness.illinois.edu/msf/tuition"
+        ],
+        [
+          "Curriculum / credits",
+          "https://giesbusiness.illinois.edu/msf/curriculum"
+        ],
+        [
+          "TFE Times 2026",
+          "https://tfetimes.com/best-finance-program-rankings/"
+        ]
+      ]
+    },
+    {
+      "id": "tamu-msf",
+      "school": "Texas A&M Mays",
+      "program": "Master of Science in Finance (4+1 / combination)",
+      "as_of": "2026-10-26",
+      "tfeRank2026": 20,
+      "startTerm": "May boot camps immediately after admission (summer mini-mesters) then Fall/Spring graduate year — not a standalone autumn-only external start",
+      "openDate": "2027-04-01",
+      "openDateNote": "2027–28 cycle opens Apr 1, 2027 for rising sophomores (Dec’29/May’30 grads) and seniors (May’28 grads). Current posted deadlines are for Fall 2026 entry / 2026–27 cycle (TAMU undergrads only).",
+      "deadlines": [
+        {
+          "label": "2026–27 Lightning Round (Fall 2026 entry cycle)",
+          "date": "2026-07-31",
+          "dateNote": "TAMU sophomores/seniors — not external Fall 2027 MSF"
+        },
+        {
+          "label": "2026–27 Round 2",
+          "date": "2026-10-31"
+        },
+        {
+          "label": "2026–27 Round 3",
+          "date": null,
+          "dateNote": "January 2027 (day not specified on page)"
+        },
+        {
+          "label": "2027–28 cycle opens",
+          "date": "2027-04-01",
+          "dateNote": "Rising sophomores / seniors only"
+        }
+      ],
+      "deadlinesNote": "CRITICAL GAP: Official MS Finance page requires current Texas A&M undergraduate enrollment. Not an external/international standalone Fall 2027 MSF pathway. Related MS Quantitative Finance (MS-QFIN) catalog states admission available to non-Texas A&M graduates meeting prerequisites — separate degree; deadlines/tuition not locked on finance department page this pass.",
+      "tuition": null,
+      "tuitionLabel": null,
+      "period": null,
+      "costNote": "No flat MSF program total on Mays page — use TAMU tuition calculator. Sophomore Start notes up to ~10% cost reduction because some MSF hours bill at undergrad rates. Living separate.",
+      "duration": "36 credit hours; May Boot Camp A + summer self-study + August Boot Camp B, then fall/spring full-time graduate year (Sophomore Start spreads hours across undergrad years).",
+      "credits": "36",
+      "tracks": [
+        "4+1 MS Finance — Texas A&M undergraduates only",
+        "Sophomore Start",
+        "Senior Start (May grads; limited seats)",
+        "PPIE 3+2 for ISEN undergrads",
+        "Related external-capable: MS Quantitative Finance (MS-QFIN / STEM to Stocks) — 36 hours; separate from classic MSF"
+      ],
+      "coreNotes": "Classic MSF is combination/4+1 for enrolled TAMU undergrads only. Summer May start flag (boot camps). STEM designation for classic MSF not confirmed on fetched pages this pass (null). MS-QFIN is STEM-oriented quantitative pathway accepting non-TAMU grads per catalog.",
+      "academic": "TAMU Mays MSF: TAMU-undergrad 4+1 only; May boot camps then FT year; 36 cr. Tuition via calculator (null flat). External Fall 2027 gap — related MS-QFIN may accept non-TAMU grads (verify deadlines).",
+      "orientation": "TAMU combo + May boot camps · 36 cr · TFE #20 (2026) — external gap",
+      "stem": null,
+      "sources": [
+        [
+          "4+1 MS Finance hub",
+          "https://mays.tamu.edu/graduate/masters/4plus1/ms-finance/"
+        ],
+        [
+          "Program details / May boot camps",
+          "https://mays.tamu.edu/graduate/masters/4plus1/ms-finance/program-details/"
+        ],
+        [
+          "MS Quantitative Finance catalog (related)",
+          "https://catalog.tamu.edu/graduate/colleges-schools-interdisciplinary/business/finance/quantitative-finance-ms/"
+        ],
+        [
+          "TFE Times 2026",
+          "https://tfetimes.com/best-finance-program-rankings/"
+        ]
+      ]
+    },
+    {
+      "id": "ohio-msf",
+      "school": "Ohio State Fisher",
+      "program": "Specialized Master in Finance (SMF)",
+      "as_of": "2026-10-26",
+      "tfeRank2026": 21,
+      "startTerm": "Autumn 2027 only (classes begin August 24, 2027)",
+      "openDate": null,
+      "openDateNote": "Autumn 2027 application stated open on applying page; exact open calendar date not labeled.",
+      "deadlines": [
+        {
+          "label": "Priority 1 (merit aid)",
+          "date": "2026-12-11"
+        },
+        {
+          "label": "Priority 2 (merit aid)",
+          "date": "2027-02-19"
+        },
+        {
+          "label": "International final",
+          "date": "2027-05-28"
+        },
+        {
+          "label": "Domestic final recommended",
+          "date": "2027-07-19"
+        }
+      ],
+      "tuition": 68093,
+      "tuitionAlt": 47093,
+      "tuitionLabel": "Non-resident / international tuition+fees estimate — 36 credits / 3 semesters (2026–27)",
+      "tuitionAltLabel": "Ohio resident tuition+fees estimate — 36 credits / 3 semesters (2026–27)",
+      "feesNote": "Estimates include general/instruction/activity/union/recreation/learning-tech/COTA fees. Health insurance ~$4,108 (intl cannot waive). Housing/food misc ~$19,986 (9 months) separate.",
+      "period": "2026–27 estimates",
+      "costNote": "Official Fisher SMF tuition & funding page; subject to change for future terms.",
+      "duration": "About 16 months / 3 semesters (36 credits; enables summer internship).",
+      "credits": "36",
+      "tracks": [
+        "Corporate Finance / Investment Banking pathway",
+        "Investment Management pathway",
+        "Risk Management pathway",
+        "Real Estate pathway",
+        "Domestic students (autumn 2026+): optional online final semester"
+      ],
+      "coreNotes": "STEM-designated. GMAT/GRE optional. Kira video interview required. $60 domestic / $70 intl app fee. Autumn term only.",
+      "academic": "OSU Fisher SMF: STEM, 36 cr/~16 mo, Autumn only (Aug 24 2027). Deadlines Dec 11’26 / Feb 19 / May 28 intl / Jul 19 dom. Est. NR/intl $68,093 / OH $47,093 (2026–27).",
+      "orientation": "Autumn (Aug) · ~16 months · STEM · TFE #21 (2026)",
+      "stem": true,
+      "sources": [
+        [
+          "Program hub / STEM",
+          "https://fisher.osu.edu/graduate/smf"
+        ],
+        [
+          "Applying & deadlines",
+          "https://fisher.osu.edu/graduate/smf/admissions/applying-fisher"
+        ],
+        [
+          "Tuition & funding",
+          "https://fisher.osu.edu/graduate/smf/admissions/tuition-funding"
+        ],
+        [
+          "TFE Times 2026",
+          "https://tfetimes.com/best-finance-program-rankings/"
+        ]
+      ]
+    },
+    {
+      "id": "msu-msf",
+      "school": "Michigan State Broad",
+      "program": "Master of Science in Finance (MS Finance)",
+      "as_of": "2026-10-26",
+      "tfeRank2026": 22,
+      "startTerm": "Fall (primary; confirm spring if any on admissions page)",
+      "openDate": null,
+      "openDateNote": "Exact open date not verified — Broad site blocked live scrape (Incapsula); rounds from indexed admissions page.",
+      "deadlines": [
+        {
+          "label": "Round 1",
+          "date": "2027-02-01",
+          "decisionBy": "2027-02-21",
+          "dateNote": "Month/day from indexed Broad admissions page; year assigned for Fall 2027 entry — verify on live page"
+        },
+        {
+          "label": "Round 2",
+          "date": "2027-03-01",
+          "decisionBy": "2027-03-20",
+          "dateNote": "Year assigned for Fall 2027 entry — verify"
+        }
+      ],
+      "deadlinesNote": "GAP: broad.msu.edu returned Incapsula block to automated fetch/curl. Deadlines/tuition taken from search-indexed snippets of official Broad MS Finance pages — re-verify on site before publishing hard dates.",
+      "tuition": 51000,
+      "tuitionAlt": 46500,
+      "tuitionLabel": "Out-of-state / international program tuition 2026–27 (indexed tuition page)",
+      "tuitionAltLabel": "In-state program tuition 2026–27 (indexed tuition page)",
+      "feesNote": "Indexed page: billed in three equal installments at start of each semester. Campus/living fees not confirmed in this pass.",
+      "period": "2026–27 (from indexed Broad tuition page)",
+      "costNote": "Source was search index of https://broad.msu.edu/masters/finance/tuition/ while live page blocked. Confirm amounts on official tuition page before quoting.",
+      "duration": "~12 months full-time (typical; confirm on program page).",
+      "credits": "30",
+      "tracks": [
+        "Full-time in-person MS Finance"
+      ],
+      "coreNotes": "STEM-designated (Broad news: two master’s programs earned STEM designation includes Finance). Live page scrape blocked — STEM/curriculum details should be re-confirmed on site.",
+      "academic": "MSU Broad MS Finance: STEM (news), ~30 cr/~12 mo. Indexed deadlines Feb 1 / Mar 1 (years for 2027 entry). Indexed tuition 2026–27 $51k OOS / $46.5k in-state. VERIFY — Incapsula blocked live scrape.",
+      "orientation": "Fall · ~12 months / 30 cr · STEM · TFE #22 (2026) — verify live",
+      "stem": true,
+      "sources": [
+        [
+          "Program hub (Incapsula-blocked this pass)",
+          "https://broad.msu.edu/masters/finance/"
+        ],
+        [
+          "Admissions (indexed)",
+          "https://broad.msu.edu/masters/finance/admissions/"
+        ],
+        [
+          "Tuition (indexed)",
+          "https://broad.msu.edu/masters/finance/tuition/"
+        ],
+        [
+          "STEM designation news",
+          "https://broad.msu.edu/news/two-broad-masters-programs-earn-stem-designation/"
+        ],
+        [
+          "TFE Times 2026",
+          "https://tfetimes.com/best-finance-program-rankings/"
+        ]
+      ]
+    },
+    {
+      "id": "auburn-msf",
+      "school": "Auburn Harbert",
+      "program": "Master of Science in Finance (MSF)",
+      "as_of": "2026-10-26",
+      "tfeRank2026": 23,
+      "startTerm": "Fall semester only (on-campus full-time)",
+      "openDate": null,
+      "openDateNote": "Fall-only admits; exact application-open date not labeled on admissions page.",
+      "deadlines": [
+        {
+          "label": "Fall — International",
+          "date": null,
+          "dateNote": "April 1 (year not labeled on table — use April 1 of entry year, e.g. 2027-04-01 for Fall 2027)"
+        },
+        {
+          "label": "Fall — Domestic",
+          "date": null,
+          "dateNote": "June 1 (year not labeled — e.g. 2027-06-01 for Fall 2027)"
+        }
+      ],
+      "deadlinesNote": "Admissions page table lists month/day only (Apr 1 intl / Jun 1 domestic) without year. Assigned interpretation: for Fall 2027 entry use 2027-04-01 / 2027-06-01.",
+      "tuition": null,
+      "tuitionLabel": null,
+      "tuitionAlt": null,
+      "period": "2026–27 per-credit rates",
+      "costNote": "No flat program total published. 2026–27: AL resident $643/cr (up to 9 hrs) / non-resident $1,975/cr; graduate professional fee $241/cr; student services fee $1,002 each semester; confirmation fee $450; graduation $40. Credits 30 (curriculum) vs 31 (admissions) — discrepancy. Rough NR illustration for 30 cr tuition+professional ≈ $66,480 before semester fees — not an official total.",
+      "duration": "Full-time on-campus (fall admit); online modality also offered (separate page). Exact months not stated as a single figure on hub — typically multi-semester.",
+      "credits": "30 (curriculum page) / 31 (admissions page) — verify",
+      "tracks": [
+        "Full-time on-campus",
+        "Online MS Finance",
+        "MBA dual option"
+      ],
+      "coreNotes": "STEM designation not stated on fetched Harbert MSF pages — stem null. GMAT/GRE with experience/GPA waivers. Fall only for on-campus.",
+      "academic": "Auburn Harbert MSF: fall only; 30–31 cr; STEM not stated. Deadlines Apr 1 intl / Jun 1 dom (years for entry year). Tuition per-credit 2026–27 $643 AL / $1,975 NR + $241/cr professional — no flat total.",
+      "orientation": "Fall only · 30–31 cr · STEM unstated · TFE #23 (2026)",
+      "stem": null,
+      "sources": [
+        [
+          "Program hub",
+          "https://harbert.auburn.edu/degrees-programs/graduate/ms-finance/"
+        ],
+        [
+          "Admissions / deadlines / 31 cr",
+          "https://harbert.auburn.edu/degrees-programs/graduate/ms-finance/admissions.html"
+        ],
+        [
+          "Curriculum / 30 cr",
+          "https://harbert.auburn.edu/degrees-programs/graduate/ms-finance/curriculum.html"
+        ],
+        [
+          "Tuition & financial assistance 2026–27",
+          "https://harbert.auburn.edu/degrees-programs/graduate/ms-finance/tuition-financial-assistance.html"
+        ],
+        [
+          "TFE Times 2026",
+          "https://tfetimes.com/best-finance-program-rankings/"
+        ]
+      ]
+    },
+    {
+      "id": "ucsd-msf",
+      "school": "UC San Diego Rady",
+      "program": "Master of Quantitative Finance (MQF) — formerly Master of Finance (MFin)",
+      "as_of": "2026-10-26",
+      "tfeRank2026": 24,
+      "startTerm": "Fall (primary; TritonLink/Rady describe Fall cohort billing)",
+      "openDate": null,
+      "openDateNote": "Fall 2027 rounds posted; exact open date not labeled on admissions page.",
+      "deadlines": [
+        {
+          "label": "Round 1",
+          "date": "2026-10-15"
+        },
+        {
+          "label": "Round 2",
+          "date": "2026-12-01"
+        },
+        {
+          "label": "Round 3",
+          "date": "2027-02-01"
+        },
+        {
+          "label": "Round 4 (Fellowship & International)",
+          "date": "2027-06-01"
+        },
+        {
+          "label": "Round 5 (Domestic)",
+          "date": "2027-07-15"
+        }
+      ],
+      "tuition": 88036,
+      "tuitionLabel": "Fall 2026 cohort program tuition — 52 units × $1,693/unit (proxy for Fall 2027)",
+      "feesNote": "2026–27 TritonLink: mandatory campus fees+SHIP annual total $9,413.17 (excludes per-unit tuition). Enrollment services $115 one-time. Deposit $1,500. Living/books separate. 12–15 month path may span more than three billed quarters — confirm COA.",
+      "period": "Fall 2026 cohort unit rate / 2026–27 campus fees (Fall 2027 cohort rate TBD)",
+      "costNote": "Official TritonLink Rady fees page lists Fall 2026 MQF cohort $1,693/unit, 52 units = $88,036. Fall 2027 cohort rate not yet posted separately — treat as proxy. Self-supported program.",
+      "duration": "12 or 15 months; minimum 52 credit units; fees billed quarterly.",
+      "credits": "52 units",
+      "tracks": [
+        "Master of Quantitative Finance (STEM)"
+      ],
+      "coreNotes": "Official title is MQF (renamed from MFin). STEM-designated. GRE/GMAT required (waiver criteria for some U.S. quantitative bachelor’s). Interview required (async). $150 app fee. Strong quantitative prerequisites (calculus required; linear algebra recommended).",
+      "academic": "UCSD Rady MQF (ex-MFin): STEM, 52 units, 12–15 mo. Fall 2027 rounds Oct 15’26–Jul 15’27 (intl Round 4 Jun 1). Program tuition Fall 2026 cohort $88,036 (+ ~$9.4k/yr campus fees); Fall 2027 rate TBD.",
+      "orientation": "Fall · 12–15 months / 52 u · STEM · TFE #24 (2026)",
+      "stem": true,
+      "sources": [
+        [
+          "MQF program hub",
+          "https://rady.ucsd.edu/programs/master-quantitative-finance/"
+        ],
+        [
+          "Admissions / deadlines",
+          "https://rady.ucsd.edu/programs/master-quantitative-finance/admissions/"
+        ],
+        [
+          "Tuition & aid (points to TritonLink)",
+          "https://rady.ucsd.edu/programs/master-quantitative-finance/tuition-aid.html"
+        ],
+        [
+          "TritonLink Rady fees 2026–27",
+          "https://students.ucsd.edu/finances/fees/registration/2026-27/rady.html"
+        ],
+        [
+          "TFE Times 2026",
+          "https://tfetimes.com/best-finance-program-rankings/"
+        ]
+      ]
+    }
+  ]
+}

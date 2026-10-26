@@ -17,17 +17,20 @@ test('outcome card keys map only to known catalog program ids', () => {
   for (const id of Object.keys(outcomeCards)) {
     assert.ok(catalogIds.has(id), `unknown catalog id: ${id}`);
   }
-  assert.equal(Object.keys(outcomeCards).length, 80);
+  assert.equal(Object.keys(outcomeCards).length, 88);
 });
 
 test('batch meta includes batch-002 through batch-005 schema v2', () => {
-  assert.equal(outcomeBatchMeta.length, 8);
+  assert.equal(outcomeBatchMeta.length, 10);
   assert.equal(outcomeBatchMeta[5].batch_id, 'msf-batch-001');
   assert.equal(outcomeBatchMeta[5].card_count, 8);
   assert.equal(outcomeBatchMeta[6].batch_id, 'msf-batch-002');
   assert.equal(outcomeBatchMeta[6].card_count, 8);
   assert.equal(outcomeBatchMeta[7].batch_id, 'msf-florida-msft');
   assert.equal(outcomeBatchMeta[7].card_count, 1);
+  assert.equal(outcomeBatchMeta[8].batch_id, 'msf-batch-003');
+  assert.equal(outcomeBatchMeta[8].card_count, 13);
+  assert.equal(outcomeBatchMeta[9].source, 'msf-batch-002 extract');
   assert.equal(outcomeBatchMeta[1].batch_id, 'batch-002');
   assert.equal(outcomeBatchMeta[1].schema_version, 'outcome-card-v2-catalog');
   assert.equal(outcomeBatchMeta[2].batch_id, 'batch-003');
@@ -167,7 +170,17 @@ test('batch-005 final gap-fill links all remaining catalog ids with display cave
 
 test('programs merge outcome by catalog id with route caveats where mapped', () => {
   const withOutcome = programs.filter(p => p.outcome);
-  assert.equal(withOutcome.length, 80);
+  assert.equal(withOutcome.length, 88);
+  assert.equal(outcomeCards['ohio-msf'].pathProgramId, 'ohiostate-msf');
+  assert.equal(outcomeCards['ucsd-msf'].pathProgramId, 'ucsd-rady-msf');
+  assert.match(outcomeCards['ucsd-msf'].program, /Quantitative Finance|MQF/i);
+  assert.equal(outcomeCards['bc-msf'].pathProgramId, 'bc-msf');
+  assert.equal(outcomeCards['ohiostate-msf'], undefined);
+  assert.equal(outcomeCards['ucsd-rady-msf'], undefined);
+  for (const id of ['temple-msf', 'lsu-msf', 'illinois-tech-msf', 'santaclara-msf', 'rit-msf', 'arizona-msf']) {
+    assert.equal(outcomeCards[id], undefined, id);
+    assert.equal(unlinkedOutcomeCards[id], undefined, id);
+  }
   const fintech = programs.find(p => p.id === 'florida-msft');
   assert.equal(fintech.outcome.confidence, 'low');
   assert.equal(fintech.outcome.internship_rate, 'unknown');

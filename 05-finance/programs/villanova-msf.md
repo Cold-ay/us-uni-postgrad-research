@@ -6,7 +6,7 @@ Checked: 19 October 2026. Preliminary program research.
 
 #14 in TFE Times Best Master's of Finance (as of 2026-10-26).
 
-Batch 1–2 (2026-10-26): TFE Times 2026 ranks 1–16 ingested. US News Finance MBA specialty is not used as an MSF program rank. Quant/MFE programs remain on a separate track.
+Batch 1–3 (2026-10-26): TFE Times 2026 ranks 1–24 ingested. US News Finance MBA specialty is not used as an MSF program rank. Quant/MFE programs remain on a separate track.
 
 Ranking provenance: [TFE Times](https://tfetimes.com/best-finance-program-rankings/).
 

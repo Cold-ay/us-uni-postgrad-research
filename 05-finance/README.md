@@ -1,14 +1,14 @@
-# Master of Finance (MSF) — catalog scaffold
+# Master of Finance (MSF)
 
-Checked: 26 October 2026. Target intake: Fall 2027 (when a slate is approved).
+Checked: 26 October 2026. Target intake: Fall 2027.
 
 ## Status
 
-**Schema and UI only.** This area exists so filters, navigation, compare, and i18n recognize a third degree family parallel to Computer science and Business.
+TFE Times 2026 ranks **1–24** are in the catalog (batches 1–3), plus **florida-msft** (UF FinTech, unranked on the TFE spine). Quant/MFE programs stay off this list.
 
-- **No MSF program rows** are in `dist/catalog.js` yet.
-- **No rankings, tuition, deadlines, or school dossiers** have been ingested for MSF.
-- **Ingest is on hold** until gm / Collinn greenlight the program slate (batch1 not started).
+- **tamu-msf** and **florida-msf** are access-restricted combination pathways (TAMU undergrad 4+1 and UF undergrad only). External / international applicants are N/A on those ids.
+- **ucsd-msf** is the Rady Master of Quantitative Finance (MQF, formerly MFin) and stays on this TFE spine.
+- Path aliases `ohiostate-msf` and `ucsd-rady-msf` resolve to `ohio-msf` and `ucsd-msf`. They are not separate rows.
 
 ## Catalog id convention (for future ingest)
 
