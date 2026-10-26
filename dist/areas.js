@@ -79,12 +79,14 @@ export function rankingSourceShortLabel(area) {
 
 export function isCatalogProgramId(id) {
   if (!id || typeof id !== 'string') return false;
-  return PROGRAM_AREAS.some(a => id.endsWith(a.catalogIdSuffix)) || id.endsWith('-mscs');
+  return PROGRAM_AREAS.some(a => id.endsWith(a.catalogIdSuffix)) || id.endsWith('-mscs') || id.endsWith('-msft');
 }
 
 export function catalogIdArea(id) {
   if (!id) return null;
   if (id.endsWith('-mscs')) return 'Computer science';
+  // FinTech MS id (florida-msft) does not use the classic -msf suffix.
+  if (id.endsWith('-msft')) return 'Finance';
   for (const a of PROGRAM_AREAS) {
     if (id.endsWith(a.catalogIdSuffix)) return a.area;
   }

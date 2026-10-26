@@ -96,6 +96,7 @@ export async function generateOutcomes() {
   const batch005 = JSON.parse(await readFile(path.join(root, 'path/outcomes/batch-005.json'), 'utf8'));
   const msfBatch001 = JSON.parse(await readFile(path.join(root, 'path/outcomes/msf-batch-001.json'), 'utf8'));
   const msfBatch002 = JSON.parse(await readFile(path.join(root, 'path/outcomes/msf-batch-002.json'), 'utf8'));
+  const msfFloridaMsft = JSON.parse(await readFile(path.join(root, 'path/outcomes/msf-florida-msft.json'), 'utf8'));
   const idMap = JSON.parse(await readFile(path.join(root, 'path/outcomes/id-map.json'), 'utf8'));
 
   const outcomeCards = {};
@@ -164,10 +165,19 @@ export async function generateOutcomes() {
     outcomeAdjacentByCatalogId,
     outcomeSpecialtyByCatalogId,
   );
+  ingestV2Batch(
+    'msf-florida-msft',
+    msfFloridaMsft.meta,
+    msfFloridaMsft.cards,
+    outcomeCards,
+    unlinkedOutcomeCards,
+    outcomeAdjacentByCatalogId,
+    outcomeSpecialtyByCatalogId,
+  );
 
-  const body = `// Generated from path/outcomes/batch-001.json through batch-005.json, msf-batch-001.json, msf-batch-002.json, and id-map.json. Do not edit by hand.
+  const body = `// Generated from path/outcomes/batch-001.json through batch-005.json, msf-batch-001.json, msf-batch-002.json, msf-florida-msft.json, and id-map.json. Do not edit by hand.
 export const outcomeBatchMeta = ${JSON.stringify(
-    [batch001.meta, batch002.meta, batch003.meta, batch004.meta, batch005.meta, msfBatch001.meta, msfBatch002.meta],
+    [batch001.meta, batch002.meta, batch003.meta, batch004.meta, batch005.meta, msfBatch001.meta, msfBatch002.meta, msfFloridaMsft.meta],
     null,
     2,
   )};

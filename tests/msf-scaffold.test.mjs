@@ -36,21 +36,48 @@ const MSF_BATCH2 = [
   'utd-msf',
 ];
 
-const MSF_ALL = [...MSF_BATCH1, ...MSF_BATCH2];
+const MSF_ALL = [...MSF_BATCH1, ...MSF_BATCH2, 'florida-msft'];
 
-test('MSF area is registered with batch1–2 catalog programs (TFE 2026 ranks 1–16)', () => {
+test('MSF area is registered with batch1–2 catalog programs plus florida-msft', () => {
   const finance = PROGRAM_AREAS.find(a => a.area === 'Finance');
   assert.ok(finance);
   assert.equal(finance.kind, 'MSF');
   assert.equal(finance.catalogIdSuffix, MSF_CATALOG_ID_SUFFIX);
   const msf = programs.filter(p => p.area === 'Finance');
-  assert.equal(msf.length, 16);
+  assert.equal(msf.length, 17);
   assert.deepEqual(msf.map(p => p.id).sort(), [...MSF_ALL].sort());
-  assert.equal(filterPrograms('', 'Finance').length, 16);
-  for (let i = 0; i < msf.length; i++) {
-    assert.equal(msf[i].rank, i + 1);
-    assert.equal(msf[i].ranking.reproductionName, 'TFE Times');
+  assert.equal(filterPrograms('', 'Finance').length, 17);
+  assert.equal(programs.filter(p => p.id === 'florida-msft').length, 1);
+  assert.equal(programs.filter(p => p.id === 'florida-msf').length, 1);
+  const ranked = msf.filter(p => p.rank != null);
+  assert.equal(ranked.length, 16);
+  for (let i = 0; i < ranked.length; i++) {
+    assert.equal(ranked[i].rank, i + 1);
+    assert.equal(ranked[i].ranking.reproductionName, 'TFE Times');
   }
+  const fintech = programs.find(p => p.id === 'florida-msft');
+  assert.equal(fintech.rank, null);
+  assert.equal(fintech.university, 'University of Florida');
+  assert.equal(fintech.short, 'Florida Warrington');
+  assert.equal(fintech.degree, 'MS in Finance and Technology');
+  assert.equal(fintech.area, 'Finance');
+  assert.equal(fintech.tuition, 43478);
+  assert.equal(fintech.tuitionAlt, 15976);
+  assert.equal(fintech.stem, null);
+  assert.equal(fintech.livingCostBand, null);
+  assert.equal(fintech.accessRestricted, false);
+  assert.equal(fintech.availabilityType, 'verify');
+  assert.match(fintech.availability, /Fall 2027/);
+  assert.match(fintech.deadline, /2027-03-01/);
+  assert.equal(fintech.deadlineDate, '2027-03-01');
+  assert.deepEqual(fintech.scholarships, []);
+  assert.equal(fintech.outcome?.confidence, 'low');
+  assert.equal(fintech.outcome?.internship_rate, 'unknown');
+  assert.match(fintech.outcome?.full_time_placement, /^unknown/i);
+  assert.deepEqual(fintech.outcome?.notable_employers, []);
+  assert.equal(catalogIdArea('florida-msft'), 'Finance');
+  assert.equal(isCatalogProgramId('florida-msft'), true);
+  assert.equal(catalogIdArea('florida-msf'), 'Finance');
 });
 
 test('program area filters include Finance alongside CS and MBA', () => {
@@ -88,7 +115,13 @@ test('florida-msf is access-restricted UF combination pathway', () => {
   assert.equal(florida.availabilityType, 'restricted');
   assert.match(florida.availability, /UF undergrad|external/i);
   assert.equal(florida.tuition, null);
+  assert.equal(florida.rank, 11);
   assert.ok(florida.tuitionEstimate);
+  assert.equal(florida.degree, 'MS in Finance (UF combination)');
+  const fintech = programs.find(p => p.id === 'florida-msft');
+  assert.notEqual(florida.tuition, fintech.tuition);
+  assert.ok(!florida.scholarships.some(id => fintech.scholarships.includes(id) && id));
+  assert.notDeepEqual(florida.outcome?.notable_employers, fintech.outcome?.notable_employers);
 });
 
 test('GSU MSF evening Buckhead format appears in orientation', () => {

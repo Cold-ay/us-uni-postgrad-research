@@ -121,5 +121,6 @@ These checks corroborate selected rows, not the entire reproduced lists. Tuition
 | #14 | Villanova School of Business | [MS in Finance](../05-finance/programs/villanova-msf.md) |
 | #15 | Notre Dame Mendoza | [MS in Finance](../05-finance/programs/notredame-msf.md) |
 | #16 | UT Dallas Jindal | [MS in Finance](../05-finance/programs/utd-msf.md) |
+| Unranked | Florida Warrington | [MS in Finance and Technology](../05-finance/programs/florida-msft.md) |
 
 _Quant/MFE programs are not listed here; see [05-finance/README.md](../05-finance/README.md)._

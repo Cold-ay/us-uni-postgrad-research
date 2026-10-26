@@ -1,4 +1,4 @@
-// Generated from path/outcomes/batch-001.json through batch-005.json, msf-batch-001.json, msf-batch-002.json, and id-map.json. Do not edit by hand.
+// Generated from path/outcomes/batch-001.json through batch-005.json, msf-batch-001.json, msf-batch-002.json, msf-florida-msft.json, and id-map.json. Do not edit by hand.
 export const outcomeBatchMeta = [
   {
     "batch_id": "batch-001",
@@ -296,6 +296,23 @@ export const outcomeBatchMeta = [
     ],
     "last_updated": "2026-10-26",
     "florida_lock": "restricted_uf_combo_only_2026-10-26"
+  },
+  {
+    "batch_id": "msf-florida-msft",
+    "agent": "path",
+    "created": "2026-10-26",
+    "access_date": "2026-10-26",
+    "card_count": 1,
+    "schema_version": "outcome-card-v2-msf",
+    "program_ids": [
+      "florida-msft"
+    ],
+    "catalog_ids": [
+      "florida-msft"
+    ],
+    "methodology": "Open public sources only. No fabricated numbers; gaps=unknown. Inaugural program — do not copy classic MSF placement onto FinTech id.",
+    "lock_note": "Collinn 2026-10-26: ADD florida-msft to primary slate; keep florida-msf restricted.",
+    "last_updated": "2026-10-26"
   }
 ];
 export const outcomeMeta = {
@@ -3980,6 +3997,58 @@ export const outcomeCards = {
     "confidence_reason": "Official employer/role examples only; no MSF-specific Class of 2024/2025 placement %, salary, or seeker denominators located in open sources this run.",
     "last_updated": "2026-10-26",
     "pathProgramId": "utd-msf",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "florida-msft": {
+    "school": "University of Florida",
+    "program": "Warrington MS in Finance and Technology",
+    "degree": "MS Finance and Technology",
+    "degree_family": "other",
+    "schedule_note": "Fall-only 1-year traditional track; first external class Fall 2027. Also offers UF-undergrad combination (4/5-yr) with combo first class Fall 2026 — intl slate should use traditional path.",
+    "internship_rate": "unknown",
+    "full_time_placement": "unknown",
+    "full_time_placement_notes": "Inaugural traditional 1-year cohort starts Fall 2027 — no FinTech-program employment report exists yet. Do NOT substitute classic florida-msf (MS Finance combo) placement figures as this program's outcomes. Adjacent Warrington MS Finance (distinct restricted id florida-msf) publicly claims 100% placement Class of 2024–25 with avg start ~$102.8k — related college signal only, not transferable to florida-msft.",
+    "notable_employers": [],
+    "notable_employers_notes": "No florida-msft graduate employer list yet. Program marketing cites industry sectors (banks, fintech startups, investment firms, neobanks, consulting) and Florida fintech ecosystem (e.g. SoFi, Mastercard, MoonPay ops; FIS HQ) without program-specific hire counts.",
+    "top_finance_firm_signal": "Unknown for this degree. Curriculum aims fintech/AI/blockchain/DeFi + core finance; college has strong classic MSF IB/PE pipeline, but that pipeline is not evidenced for FinTech MS yet.",
+    "big_tech_or_top_firm_signal": "See top_finance_firm_signal (MSF schema v2 rename).",
+    "sample_alumni_paths": [
+      "unknown (no graduates from traditional track yet)",
+      "Program-listed target titles (marketing, not outcomes): financial analyst, quantitative analyst, data analyst, blockchain developer, compliance/risk analyst"
+    ],
+    "referral_network_notes": "Warrington Business Career Services coaching + recruitment events + alumni network claimed on program page. Fintech Research Center 12–16 week industry project. Florida fintech hub narrative. Strength of FinTech-specific employer referrals unproven until first class places.",
+    "difficulty_notes": "New program — recruiting brand thinner than classic UF MSF. STEM/CIP unstated on official FinTech pages (OPT STEM eligibility unclear). 3-year bachelor's from India/Australia/Bangladesh/Canada(excl Quebec)/Nepal/Pakistan not recognized by UF Admissions. Interview required if non-U.S. institution.",
+    "intl_student_notes": "Traditional 1-year track is the external/intl pathway (distinct from restricted florida-msf combo-only). English proficiency required; interview if attended non-U.S. institution. STEM designation unknown as of 2026-10-26.",
+    "restricted": false,
+    "related_program_id": "florida-msf",
+    "related_program_note": "Keep florida-msf as restricted UF-UG combo classic MSF (TFE #11). florida-msft is separate FinTech MS on primary slate per Collinn lock 2026-10-26.",
+    "sources": [
+      {
+        "title": "UF Warrington MS in Finance and Technology program page",
+        "url": "https://warrington.ufl.edu/graduate/masters-finance-technology/",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "Warrington news: MS Finance and Technology introduction (2026-10-20)",
+        "url": "https://warrington.ufl.edu/news/warrington-masters-finance-and-technology/",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "Warrington specialized master's degrees, rankings and career outcomes (FinTech listed; no FinTech placement stats)",
+        "url": "https://warrington.ufl.edu/news/uf-warrington-specialized-masters-programs-degrees-rankings-career-outcomes/",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "Warrington 2024–2025 graduate outcomes (classic MSF 100% — adjacent only)",
+        "url": "https://warrington.ufl.edu/news/2024-2025-graduate-outcomes/",
+        "access_date": "2026-10-26"
+      }
+    ],
+    "confidence": "low",
+    "confidence_reason": "Inaugural Fall 2027 traditional cohort — zero program-specific placement/internship/salary data. Adjacent classic MSF stats explicitly not attributed. Career-page claims are aspirational.",
+    "last_updated": "2026-10-26",
+    "pathProgramId": "florida-msft",
     "routeMismatch": false,
     "match": "same-route"
   }

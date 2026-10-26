@@ -788,5 +788,15 @@ export const rankedSchools = [
     "rank": 16,
     "academic": "UTD Jindal MS Finance: STEM, 36 credits. Flex deadlines May 1 fall / Oct 1 spring / Mar 1 summer. Cohort ~12 mo: OOS $50k / in-state $35k; foreign deadline Apr 30. Flex COA via UTD tuition plans.",
     "programUrl": "https://catalog.utdallas.edu/2026/graduate/programs/jsom/finance"
+  },
+  {
+    "id": "florida-msft",
+    "university": "University of Florida",
+    "short": "Florida Warrington",
+    "degree": "MS in Finance and Technology",
+    "area": "Finance",
+    "rank": null,
+    "academic": "UF Warrington MS in Finance and Technology (florida-msft): DISTINCT from classic florida-msf combo MSF. Traditional 1-year / 30 credits / Fall-only / 8-week modules; first traditional class Fall 2027. Deadlines Mar 1 (early) / May 1 (final) 2027. Tuition on program page: OOS $43,478 / in-state $15,976. Open to traditional external applicants (business bachelor’s preferred). STEM null. Not on TFE MSF spine.",
+    "programUrl": "https://warrington.ufl.edu/graduate/masters-finance-technology/"
   }
 ];
