@@ -58,17 +58,28 @@ const MSF_BATCH4 = [
   'columbia-msfe',
 ];
 
-const MSF_ALL = [...MSF_BATCH1, ...MSF_BATCH2, ...MSF_BATCH3, 'florida-msft', ...MSF_BATCH4, 'tamu-qfin'];
+const QUANT_MFE = [
+  'berkeley-mfe',
+  'cmu-mscf',
+  'baruch-mfe',
+  'columbia-ieor-mfe',
+  'gt-qcf',
+  'chicago-finmath',
+  'nyu-courant-mf',
+  'stanford-mcf',
+];
 
-test('MSF area is registered with batch1–4 catalog programs plus florida-msft and tamu-qfin', () => {
+const MSF_ALL = [...MSF_BATCH1, ...MSF_BATCH2, ...MSF_BATCH3, 'florida-msft', ...MSF_BATCH4, 'tamu-qfin', ...QUANT_MFE];
+
+test('MSF area is registered with batch1–4 catalog programs plus florida-msft, tamu-qfin, and quant-mfe', () => {
   const finance = PROGRAM_AREAS.find(a => a.area === 'Finance');
   assert.ok(finance);
   assert.equal(finance.kind, 'MSF');
   assert.equal(finance.catalogIdSuffix, MSF_CATALOG_ID_SUFFIX);
   const msf = programs.filter(p => p.area === 'Finance');
-  assert.equal(msf.length, 34);
+  assert.equal(msf.length, 42);
   assert.deepEqual(msf.map(p => p.id).sort(), [...MSF_ALL].sort());
-  assert.equal(filterPrograms('', 'Finance').length, 34);
+  assert.equal(filterPrograms('', 'Finance').length, 42);
   assert.equal(programs.filter(p => p.id === 'ohiostate-msf').length, 0);
   assert.equal(programs.filter(p => p.id === 'ucsd-rady-msf').length, 0);
   assert.equal(programs.filter(p => p.id === 'tamu-qfin').length, 1);
@@ -110,6 +121,13 @@ test('MSF area is registered with batch1–4 catalog programs plus florida-msft 
   assert.equal(isCatalogProgramId('columbia-msfe'), true);
   assert.equal(catalogIdArea('tamu-qfin'), 'Finance');
   assert.equal(isCatalogProgramId('tamu-qfin'), true);
+  for (const id of QUANT_MFE) {
+    assert.equal(catalogIdArea(id), 'Finance', id);
+    assert.equal(isCatalogProgramId(id), true, id);
+  }
+  assert.equal(isCatalogProgramId('gatech-qcf'), false);
+  assert.equal(isCatalogProgramId('nyu-courant'), false);
+  assert.equal(catalogIdArea('gatech-qcf'), null);
 });
 
 test('program area filters include Finance alongside CS and MBA', () => {
@@ -343,4 +361,83 @@ test('tamu-qfin is an open MS-QFIN row and does not absorb tamu-msf', () => {
   assert.equal(tamu.degree, 'MS in Finance (TAMU 4+1)');
   assert.deepEqual(tamu.scholarships, []);
   assert.notEqual(qfin.programUrl, tamu.programUrl);
+});
+
+test('quant-mfe is a separate QuantNet track and does not move the TFE spine', () => {
+  const spine = programs.filter(p => p.area === 'Finance' && p.rank != null);
+  assert.equal(spine.length, 30);
+  for (let i = 0; i < spine.length; i++) assert.equal(spine[i].rank, i + 1);
+  assert.equal(programs.find(p => p.id === 'columbia-msfe').rank, null);
+  assert.equal(programs.find(p => p.id === 'columbia-msfe').tuition, 155032);
+  assert.deepEqual(programs.find(p => p.id === 'columbia-msfe').scholarships, ['SCH-127']);
+  assert.equal(programs.find(p => p.id === 'tamu-msf').rank, 20);
+  assert.equal(programs.find(p => p.id === 'florida-msf').rank, 11);
+  assert.equal(programs.find(p => p.id === 'florida-msft').rank, null);
+
+  const tuition = {
+    'berkeley-mfe': 98036,
+    'cmu-mscf': 71800,
+    'baruch-mfe': 42000,
+    'columbia-ieor-mfe': 101592,
+    'gt-qcf': 21935,
+    'chicago-finmath': 100213,
+    'nyu-courant-mf': 87336,
+    'stanford-mcf': null,
+  };
+  const quantNet = {
+    'berkeley-mfe': 5,
+    'cmu-mscf': 3,
+    'baruch-mfe': 1,
+    'columbia-ieor-mfe': 4,
+    'gt-qcf': 8,
+    'chicago-finmath': 7,
+    'nyu-courant-mf': 11,
+    'stanford-mcf': null,
+  };
+  for (const id of QUANT_MFE) {
+    const p = programs.find(row => row.id === id);
+    assert.equal(p.area, 'Finance', id);
+    assert.equal(p.track, 'quant-mfe', id);
+    assert.equal(p.rankingSource, 'QuantNet 2026', id);
+    assert.equal(p.rank, null, id);
+    assert.equal(p.tfeRank2026, null, id);
+    assert.equal(p.quantNetRank2026, quantNet[id], id);
+    assert.equal(p.ranking.reproductionName, 'QuantNet', id);
+    assert.equal(p.tuition, tuition[id], id);
+    assert.equal(p.tuitionEstimate, null, id);
+    assert.notEqual(p.tuition, 0, id);
+    assert.match(p.period, /^2026–27/, id);
+    if (p.tuition !== null) assert.match(p.costNote, /2027/, id);
+  }
+  const berkeley = programs.find(p => p.id === 'berkeley-mfe');
+  assert.equal(berkeley.springOnly, true);
+  assert.equal(berkeley.summerStart, false);
+  assert.equal(berkeley.stem, true);
+  assert.match(berkeley.availability, /SPRING-ONLY/);
+  assert.match(berkeley.costNote, /SPRING-ONLY/);
+  assert.deepEqual(berkeley.scholarships, ['SCH-140']);
+  const gt = programs.find(p => p.id === 'gt-qcf');
+  assert.deepEqual(gt.id_alias_legacy, ['gatech-qcf']);
+  assert.equal(programs.find(p => p.id === 'gatech-qcf'), undefined);
+  const nyu = programs.find(p => p.id === 'nyu-courant-mf');
+  assert.deepEqual(nyu.id_alias_legacy, ['nyu-courant']);
+  assert.equal(programs.find(p => p.id === 'nyu-courant'), undefined);
+  assert.deepEqual(nyu.scholarships, []);
+  assert.match(nyu.funding, /does not accept applications/i);
+  const stanford = programs.find(p => p.id === 'stanford-mcf');
+  assert.equal(stanford.tuition, null);
+  assert.equal(stanford.stem, null);
+  assert.equal(stanford.livingCostBand, null);
+  assert.deepEqual(stanford.scholarships, ['SCH-147']);
+  const ieor = programs.find(p => p.id === 'columbia-ieor-mfe');
+  const cbs = programs.find(p => p.id === 'columbia-msfe');
+  assert.deepEqual(ieor.scholarships, ['SCH-142', 'SCH-143', 'SCH-144']);
+  assert.notEqual(ieor.tuition, cbs.tuition);
+  assert.notEqual(ieor.programUrl, cbs.programUrl);
+  assert.equal(ieor.scholarships.includes('SCH-127'), false);
+  assert.equal(cbs.scholarships.some(id => ieor.scholarships.includes(id)), false);
+  assert.deepEqual(programs.find(p => p.id === 'baruch-mfe').scholarships, []);
+  for (const id of ['SCH-148', 'SCH-149', 'SCH-150', 'SCH-151', 'SCH-152', 'SCH-153', 'SCH-154']) {
+    assert.equal(programs.some(p => p.scholarships.includes(id)), false, id);
+  }
 });

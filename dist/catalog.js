@@ -977,5 +977,123 @@ export const rankedSchools = [
     "rank": null,
     "academic": "TAMU Mays MS-QFIN (tamu-qfin): DISTINCT from restricted tamu-msf 4+1. 36-cr non-thesis joint Finance+Math. Catalog opens to non-TAMU graduates with prereqs (external/intl pathway exists). Program fee $15k/Fall&Spring sem (SBS); flat tuition null. Fall 2027 deadlines not posted. STEM CIP null. Not on TFE MSF spine (related tamu-msf = #20).",
     "programUrl": "https://catalog.tamu.edu/graduate/colleges-schools-interdisciplinary/business/finance/quantitative-finance-ms/"
+  },
+  {
+    "id": "berkeley-mfe",
+    "university": "University of California, Berkeley",
+    "short": "UC Berkeley Haas",
+    "degree": "Master of Financial Engineering (MFE)",
+    "area": "Finance",
+    "rank": null,
+    "tfeRank2026": null,
+    "quantNetRank2026": 5,
+    "track": "quant-mfe",
+    "rankingSource": "QuantNet 2026",
+    "academic": "Berkeley Haas MFE: spring-only start (no Fall). Spring 2028 rounds Dec 1'26 / Jan 27 / Apr 1 / Jul 1'27 (+ late Jul 15). FT tuition proxy Class of 2028 $95,353 (+$98,036 P&U fees). STEM. QuantNet #5.",
+    "programUrl": "https://mfe.haas.berkeley.edu/admissions"
+  },
+  {
+    "id": "cmu-mscf",
+    "university": "Carnegie Mellon University",
+    "short": "Carnegie Mellon University",
+    "degree": "Master of Science in Computational Finance (MSCF)",
+    "area": "Finance",
+    "rank": null,
+    "tfeRank2026": null,
+    "quantNetRank2026": 3,
+    "track": "quant-mfe",
+    "rankingSource": "QuantNet 2026",
+    "academic": "CMU MSCF: Fall-only; R1 Dec 1'26 / R2 Mar 1'27. Tuition $71,800/AY 2026–27. ~16 mo Pittsburgh or NYC. STEM. QuantNet #3.",
+    "programUrl": "https://www.cmu.edu/mscf/admissions"
+  },
+  {
+    "id": "baruch-mfe",
+    "university": "Baruch College, CUNY",
+    "short": "Baruch College (CUNY) Weissman",
+    "degree": "Master of Science in Financial Engineering (MFE)",
+    "area": "Finance",
+    "rank": null,
+    "tfeRank2026": null,
+    "quantNetRank2026": 1,
+    "track": "quant-mfe",
+    "rankingSource": "QuantNet 2026",
+    "academic": "Baruch MFE: Fall-only; rounds Nov 1 / Dec 1 / Jan 15 / Mar 15'27. Package tuition ~$27.7k NY / $42k OOS (verify AEF). 36 cr / 3 sem. STEM. QuantNet #1.",
+    "programUrl": "https://mfe.baruch.cuny.edu/application-process/"
+  },
+  {
+    "id": "columbia-ieor-mfe",
+    "university": "Columbia University",
+    "short": "Columbia IEOR (Fu Foundation)",
+    "degree": "Master of Science in Financial Engineering (MSFE)",
+    "area": "Finance",
+    "rank": null,
+    "tfeRank2026": null,
+    "quantNetRank2026": 4,
+    "track": "quant-mfe",
+    "rankingSource": "QuantNet 2026",
+    "academic": "Columbia IEOR MSFE: Fall-only deadline Jan 15, 2027; decisions mid–late Apr. ~$101,592 tuition (36×$2,822). STEM. QuantNet #4.",
+    "programUrl": "https://ieor.columbia.edu/financial-engineering-msfe"
+  },
+  {
+    "id": "gt-qcf",
+    "university": "Georgia Institute of Technology",
+    "short": "Georgia Tech (Scheller / ISyE / Math)",
+    "degree": "Master of Science in Quantitative and Computational Finance (MS-QCF)",
+    "area": "Finance",
+    "rank": null,
+    "tfeRank2026": null,
+    "quantNetRank2026": 8,
+    "track": "quant-mfe",
+    "rankingSource": "QuantNet 2026",
+    "academic": "GT QCF: Fall 2027 early Oct 15'26 / std Dec 5 / finals Mar 15 & May 1'27. 36 cr; Fall ~1.5 yr. STEM stated. QuantNet #8. Per-hr tuition Fall 2026 rates.",
+    "programUrl": "https://qcf.gatech.edu/prospective-students/application-requirements",
+    "id_alias_legacy": [
+      "gatech-qcf"
+    ]
+  },
+  {
+    "id": "chicago-finmath",
+    "university": "University of Chicago",
+    "short": "University of Chicago (Physical Sciences / Math)",
+    "degree": "MS in Financial Mathematics (MSFM)",
+    "area": "Finance",
+    "rank": null,
+    "tfeRank2026": null,
+    "quantNetRank2026": 7,
+    "track": "quant-mfe",
+    "rankingSource": "QuantNet 2026",
+    "academic": "Chicago MSFM: Autumn'27 R1 Nov 2'26 / R2 Feb 1'27. $8,017/100 units; 1,250 units. STEM. QuantNet #7.",
+    "programUrl": "https://finmath.uchicago.edu/admissions/apply/"
+  },
+  {
+    "id": "nyu-courant-mf",
+    "university": "New York University",
+    "short": "NYU Courant Institute",
+    "degree": "MS in Mathematics in Finance",
+    "area": "Finance",
+    "rank": null,
+    "tfeRank2026": null,
+    "quantNetRank2026": 11,
+    "track": "quant-mfe",
+    "rankingSource": "QuantNet 2026",
+    "academic": "NYU Courant Math Finance: FT deadline Feb 12 (2027 cycle — verify year). 36 points / 3 sem. GSAS ~$2,426/cr. STEM CIP 27.0305. QuantNet #11.",
+    "programUrl": "https://math-finance.cims.nyu.edu/admissions/",
+    "id_alias_legacy": [
+      "nyu-courant"
+    ]
+  },
+  {
+    "id": "stanford-mcf",
+    "university": "Stanford University",
+    "short": "Stanford ICME (School of Engineering)",
+    "degree": "MS Mathematical and Computational Finance (MCF track)",
+    "area": "Finance",
+    "rank": null,
+    "tfeRank2026": null,
+    "quantNetRank2026": null,
+    "track": "quant-mfe",
+    "rankingSource": "QuantNet 2026",
+    "academic": "Stanford ICME MCF: Autumn'27 deadline Jan 29, 2027 (11:59pm PST). 45 units / 5–6 qtrs. Eng tuition $15.1k–$23.2k/qtr. QuantNet unranked. STEM verify CIP.",
+    "programUrl": "https://icme.stanford.edu/academics-admission/icme-application-deadlines"
   }
 ];

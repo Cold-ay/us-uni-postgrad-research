@@ -295,10 +295,50 @@ export async function generateOutcomes() {
     outcomeAdjacentByCatalogId,
     outcomeSpecialtyByCatalogId,
   );
+  const msfQuant = JSON.parse(await readFile(path.join(root, 'path/outcomes/path-msf-quant-batch-001.json'), 'utf8'));
+  const QUANT_MFE_IDS = [
+    'berkeley-mfe',
+    'cmu-mscf',
+    'baruch-mfe',
+    'columbia-ieor-mfe',
+    'gt-qcf',
+    'chicago-finmath',
+    'nyu-courant-mf',
+    'stanford-mcf',
+  ];
+  const quantIds = (msfQuant.cards || []).map((card) => card.catalog_id);
+  if (quantIds.join(',') !== QUANT_MFE_IDS.join(',')) {
+    throw new Error(`Quant outcome ids must be ${QUANT_MFE_IDS.join(', ')}; got ${quantIds.join(', ')}`);
+  }
+  for (const id of ['columbia-msfe', 'gatech-qcf', 'nyu-courant', 'tamu-qfin', 'tamu-msf', 'florida-msf', 'florida-msft']) {
+    if (quantIds.includes(id)) throw new Error(`Quant outcomes must not include ${id}`);
+  }
+  const cbsOutcomeBefore = JSON.stringify(outcomeCards['columbia-msfe']);
+  ingestV2Batch(
+    'msf-quant-batch-001',
+    msfQuant.meta,
+    msfQuant.cards,
+    outcomeCards,
+    unlinkedOutcomeCards,
+    outcomeAdjacentByCatalogId,
+    outcomeSpecialtyByCatalogId,
+  );
+  if (JSON.stringify(outcomeCards['columbia-msfe']) !== cbsOutcomeBefore) {
+    throw new Error('columbia-msfe outcome changed while ingesting quant-mfe');
+  }
+  for (const id of QUANT_MFE_IDS) {
+    if (!outcomeCards[id]) throw new Error(`Missing quant outcome card ${id}`);
+    if (outcomeCards[id].separate_from_primary_msf !== true) {
+      throw new Error(`${id} outcome must stay marked separate from primary MSF`);
+    }
+  }
+  if (outcomeCards['gatech-qcf'] || outcomeCards['nyu-courant']) {
+    throw new Error('Legacy quant aliases must not be outcome keys');
+  }
 
-  const body = `// Generated from path/outcomes/batch-001.json through batch-005.json, msf-batch-001.json, msf-batch-002.json, msf-florida-msft.json, msf-batch-003.json (batch3 catalog ids only; ohiostate-msf→ohio-msf, ucsd-rady-msf→ucsd-msf), path-bc-msf-from-batch002.json, path-batch4-from-batch002-003.json (illinois-tech-msf→iit-msf), msf-tamu-qfin.json, and id-map.json. Do not edit by hand.
+  const body = `// Generated from path/outcomes/batch-001.json through batch-005.json, msf-batch-001.json, msf-batch-002.json, msf-florida-msft.json, msf-batch-003.json (batch3 catalog ids only; ohiostate-msf→ohio-msf, ucsd-rady-msf→ucsd-msf), path-bc-msf-from-batch002.json, path-batch4-from-batch002-003.json (illinois-tech-msf→iit-msf), msf-tamu-qfin.json, path-msf-quant-batch-001.json (quant-mfe separate track), and id-map.json. Do not edit by hand.
 export const outcomeBatchMeta = ${JSON.stringify(
-    [batch001.meta, batch002.meta, batch003.meta, batch004.meta, batch005.meta, msfBatch001.meta, msfBatch002.meta, msfFloridaMsft.meta, msfBatch003.meta, msfBcFromBatch002.meta, msfBatch4.meta, msfTamuQfin.meta],
+    [batch001.meta, batch002.meta, batch003.meta, batch004.meta, batch005.meta, msfBatch001.meta, msfBatch002.meta, msfFloridaMsft.meta, msfBatch003.meta, msfBcFromBatch002.meta, msfBatch4.meta, msfTamuQfin.meta, msfQuant.meta],
     null,
     2,
   )};

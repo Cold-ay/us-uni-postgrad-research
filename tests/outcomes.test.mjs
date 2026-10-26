@@ -18,11 +18,14 @@ test('outcome card keys map only to known catalog program ids', () => {
   for (const id of Object.keys(outcomeCards)) {
     assert.ok(catalogIds.has(id), `unknown catalog id: ${id}`);
   }
-  assert.equal(Object.keys(outcomeCards).length, 97);
+  assert.equal(Object.keys(outcomeCards).length, 105);
 });
 
 test('batch meta includes batch-002 through batch-005 schema v2', () => {
-  assert.equal(outcomeBatchMeta.length, 12);
+  assert.equal(outcomeBatchMeta.length, 13);
+  assert.equal(outcomeBatchMeta[12].batch_id, 'msf-quant-batch-001');
+  assert.equal(outcomeBatchMeta[12].card_count, 8);
+  assert.equal(outcomeBatchMeta[12].track, 'quant_mfe');
   assert.equal(outcomeBatchMeta[11].batch_id, 'msf-tamu-qfin');
   assert.equal(outcomeBatchMeta[11].card_count, 1);
   assert.equal(outcomeBatchMeta[10].batch_id, 'msf-batch4');
@@ -110,7 +113,12 @@ test('each outcome card requires confidence and preserves unknown placement text
     assert.equal(typeof card.full_time_placement, 'string');
     assert.ok(card.sources?.length, `${id}.sources`);
     for (const s of card.sources) {
-      assert.equal(new URL(s.url).protocol, 'https:');
+      const url = new URL(s.url);
+      if (url.protocol === 'http:' && url.hostname === 'graduateannouncements.uchicago.edu') {
+        assert.equal(id, 'chicago-finmath');
+      } else {
+        assert.equal(url.protocol, 'https:', `${id} ${s.url}`);
+      }
       assert.match(s.access_date, /^\d{4}-\d{2}-\d{2}$/);
     }
     const placement = card.full_time_placement.toLowerCase();
@@ -176,7 +184,7 @@ test('batch-005 final gap-fill links all remaining catalog ids with display cave
 
 test('programs merge outcome by catalog id with route caveats where mapped', () => {
   const withOutcome = programs.filter(p => p.outcome);
-  assert.equal(withOutcome.length, 97);
+  assert.equal(withOutcome.length, 105);
   assert.equal(outcomeCards['ohio-msf'].pathProgramId, 'ohiostate-msf');
   assert.equal(outcomeCards['ucsd-msf'].pathProgramId, 'ucsd-rady-msf');
   assert.match(outcomeCards['ucsd-msf'].program, /Quantitative Finance|MQF/i);
@@ -255,4 +263,23 @@ test('columbia-msfe outcomes are CBS MS Financial Economics, not IEOR placement'
   assert.doesNotMatch(raw, /97\.6/);
   assert.doesNotMatch(raw, /\$138/);
   assert.doesNotMatch(raw, /138k/i);
+});
+
+test('quant-mfe outcome cards are wired as provided and stay off columbia-msfe', () => {
+  const source = JSON.parse(readFileSync(new URL('../path/outcomes/path-msf-quant-batch-001.json', import.meta.url), 'utf8'));
+  assert.equal(source.cards.length, 8);
+  for (const card of source.cards) {
+    const got = outcomeCards[card.catalog_id];
+    assert.ok(got, card.catalog_id);
+    assert.equal(got.confidence, card.confidence, card.catalog_id);
+    assert.equal(got.internship_rate, card.internship_rate, card.catalog_id);
+    assert.equal(got.full_time_placement, card.full_time_placement, card.catalog_id);
+    assert.deepEqual(got.notable_employers, card.notable_employers, card.catalog_id);
+    assert.equal(got.pathProgramId, card.program_id, card.catalog_id);
+    assert.equal(got.separate_from_primary_msf, true, card.catalog_id);
+  }
+  assert.equal(outcomeCards['gatech-qcf'], undefined);
+  assert.equal(outcomeCards['nyu-courant'], undefined);
+  assert.notEqual(outcomeCards['columbia-ieor-mfe'].full_time_placement, outcomeCards['columbia-msfe'].full_time_placement);
+  assert.equal(outcomeCards['columbia-ieor-mfe'].notable_employers.includes('PIMCO'), false);
 });
