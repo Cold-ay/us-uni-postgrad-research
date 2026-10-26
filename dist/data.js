@@ -1,5 +1,6 @@
 import { rankedSchools } from './catalog.js';
 import { rankingSources, rankingEdition } from './rankings.js';
+import { colorForArea, folderForArea, kindForArea, programAreaByName } from './areas.js';
 import { researchDetails } from './research-details.js';
 import { outcomeCards, outcomeAdjacentByCatalogId, outcomeSpecialtyByCatalogId } from './outcomes.js';
 import { asOf as policyAsOf, scanType as policyScanType, items as policyItems } from './policy.js';
@@ -46,14 +47,14 @@ export const programs = rankedSchools.map(row => {
   const detail = researchDetails[row.id] || {};
   const ranking = rankingSources[row.area];
   return {
-    kind: row.area === 'Business' ? 'MBA' : 'MS',
+    kind: kindForArea(row.area),
     monogram: row.short.split(/[ ·–]+/).map(s => s[0]).join('').slice(0,3),
-    color: row.area === 'Business' ? 'sage' : 'clay',
+    color: colorForArea(row.area),
     tuition: null, tuitionLabel: 'Tuition not yet verified', period: 'Year not verified',
     costNote: 'No verified program-specific figure recorded. Fall 2027 tuition is not assumed.',
     costDetail: 'Required fees, insurance, living expenses and full-degree total need verification for the selected route.',
     deadline: 'Fall 2027 deadline not verified', deadlineDate: null,
-    orientation: row.area === 'Business' ? 'Full-time MBA · Management' : 'See degree route and academic overview',
+    orientation: row.area === 'Business' ? 'Full-time MBA · Management' : row.area === 'Finance' ? 'MSF · Finance specialization (scaffold)' : 'See degree route and academic overview',
     internship: 'Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.',
     funding: 'Master’s scholarship eligibility, award coverage and deadlines are not yet verified. Doctoral funding must not be assumed to cover this degree.',
     faculty: 'Individual faculty specialties and master’s supervision access have not yet been verified.',
@@ -66,7 +67,7 @@ export const programs = rankedSchools.map(row => {
     outcome: outcomeCards[row.id] || null,
     outcomeAdjacent: outcomeAdjacentByCatalogId[row.id] || [],
     outcomeSpecialty: outcomeSpecialtyByCatalogId[row.id] || [],
-    note: `${row.area === 'Business' ? '03-business' : '02-computer-science'}/programs/${row.id}.md`,
+    note: `${folderForArea(row.area)}/programs/${row.id}.md`,
     sources: [...new Map([
       ['Program / academic source', detail.programUrl || row.programUrl],
       ...(seed.sources || []), ...(detail.sources || []),

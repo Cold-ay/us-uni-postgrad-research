@@ -1,3 +1,5 @@
+import { catalogIdArea, isCatalogProgramId, PROGRAM_AREAS } from './areas.js';
+
 /** Regional eligibility filter helpers (scholarship library). */
 export function awardEligibilityMatch(s, field, filter) {
   if (filter === 'All') return true;
@@ -28,3 +30,23 @@ export function awardRegionFilterMatch(s, hkFilter, twFilter, prcFilter = 'All')
 export function awardHkTwFilterMatch(s, hkFilter, twFilter) {
   return awardRegionFilterMatch(s, hkFilter, twFilter, 'All');
 }
+
+/** True when scope is a single catalog program id (any degree family). */
+export function isProgramScopedAward(scope) {
+  return isCatalogProgramId(scope);
+}
+
+/** Degree family for a program-scoped award, or null for multi / non-catalog scopes. */
+export function awardScopeProgramArea(scope) {
+  return catalogIdArea(scope);
+}
+
+/** Whether an award scope string references at least one catalog id in the given program area. */
+export function awardScopeMatchesArea(scope, area) {
+  if (!scope || !area) return false;
+  const tokens = String(scope).split(/[,;]+/).map(t => t.trim()).filter(Boolean);
+  if (!tokens.length) return false;
+  return tokens.some(t => catalogIdArea(t) === area);
+}
+
+export { PROGRAM_AREAS };

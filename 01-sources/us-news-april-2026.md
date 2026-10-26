@@ -14,6 +14,8 @@ The CS list does not certify that every department offers an external standalone
 - [Clear Admit reproduction](https://www.clearadmit.com/mba-rankings/usnews/)
 - [U.S. News: Best Computer Science Schools · graduate departments](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings) — inaccessible directly
 - [IvyPath Advisory reproduction](https://www.ivypath-advisory.com/ranking/major-cs-us/)
+- [U.S. News: Master of Finance (MSF) · planned program family](https://www.usnews.com/best-graduate-schools) — inaccessible directly
+- [Fieldnotes MSF scaffold reproduction](https://github.com/Cold-ay/us-uni-postgrad-research/blob/main/05-finance/README.md)
 - [U.S. News April 2026 release announcement](https://www.prnewswire.com/news-releases/us-news-unveils-2026-best-graduate-schools-302735056.html)
 
 ## Selected university cross-checks
@@ -98,3 +100,9 @@ These checks corroborate selected rows, not the entire reproduced lists. Tuition
 | #27 (tie) | UC Irvine | [MS in CS / Master of Computer Science](../02-computer-science/programs/uci-cs.md) |
 | #27 (tie) | UC Santa Barbara | [MS in Computer Science](../02-computer-science/programs/ucsb-cs.md) |
 | #27 (tie) | UNC Chapel Hill | [MS in Computer Science](../02-computer-science/programs/unc-cs.md) |
+
+## Master of Finance (MSF)
+
+| Status |
+| --- |
+| **Scaffold only.** Zero program rows. Ingest awaits gm greenlight. Future catalog ids use the `*-msf` suffix — see [05-finance/README.md](../05-finance/README.md). |
