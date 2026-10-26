@@ -5,6 +5,8 @@ import {
   awardEligibilityMatch,
   awardHkTwFilterMatch,
   awardRegionFilterMatch,
+  isProgramScopedAward,
+  awardScopeMatchesArea,
 } from '../dist/award-filters.js';
 
 test('awardEligibilityMatch respects yes/no/unclear without coercing missing fields', () => {
@@ -45,4 +47,11 @@ test('PRC filter: single dimension; multi-region uses OR union', () => {
   assert.ok(hkAndPrcOr.length > hkAndPrcAnd.length);
   assert.ok(hkAndPrcOr.some(s => s.id === 'SCH-067' && s.prcEligible === 'yes' && s.hkEligible === 'no'));
   assert.ok(hkAndPrcOr.some(s => s.id === 'SCH-016' && s.hkEligible === 'yes'));
+});
+
+test('program-scoped awards resolve degree family without MBA-only assumptions', () => {
+  assert.equal(isProgramScopedAward('texas-mba'), true);
+  assert.equal(isProgramScopedAward('Multiple institutions'), false);
+  assert.equal(awardScopeMatchesArea('texas-mba', 'Business'), true);
+  assert.equal(awardScopeMatchesArea('hypothetical-msf', 'Finance'), true);
 });
