@@ -8,7 +8,7 @@ Checked: 19 October 2026. Preliminary program research.
 
 Separate quant-mfe track. Not a TFE Times MSF rank. tfeRank2026 is null on every row. Stanford ICME MCF is not on the 2026 QuantNet list (QuantNet rank null).
 
-Ranking provenance: [QuantNet](https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/).
+Ranking provenance: [IBKR Quant News](https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/).
 
 University: University of Chicago
 
@@ -50,7 +50,7 @@ Shared scholarship IDs: SCH-145. See the [scholarship library](../../04-scholars
 - [Official tuition / budget](https://finmath.uchicago.edu/admissions/tuition/)
 - [Curriculum / 1250 units](https://finmath.uchicago.edu/page/curriculum)
 - [International / STEM OPT](https://finmath.uchicago.edu/admissions/international-students/)
-- [QuantNet 2026 MFE ranking via QuantNet](https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/)
+- [QuantNet 2026 MFE ranking via IBKR Quant News](https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/)
 - [UChicago Bursar PSD 2026–27 FinMath rates](https://bursar.uchicago.edu/Tuition-and-Fees/Tuition-and-Fees-2026-27/Tuition-and-Fees-2026-27-Physical-Sciences-Division)
 
 ## Outstanding evidence

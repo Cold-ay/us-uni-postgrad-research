@@ -50,3 +50,30 @@ export function awardScopeMatchesArea(scope, area) {
 }
 
 export { PROGRAM_AREAS };
+
+export const AWARD_REGIONS = [
+  { id: 'prc', field: 'prcEligible', label: 'Mainland China' },
+  { id: 'tw', field: 'twEligible', label: 'Taiwan' },
+  { id: 'hk', field: 'hkEligible', label: 'Hong Kong' },
+];
+export function regionEligibility(award, region) {
+  const value = award[AWARD_REGIONS.find(r => r.id === region)?.field];
+  return ['yes', 'no'].includes(value) ? value : 'unclear';
+}
+export function awardIsClosed(award) {
+  // Red also means regional ineligibility; presentation color is not deadline data.
+  return /\bclosed\b/i.test(award.state || '');
+}
+export function matchesAwardFilters(award, { regions = [], eligibility = 'confirmed', status = 'all', type = 'all' } = {}) {
+  const active = AWARD_REGIONS.filter(r => regions.includes(r.id));
+  const regionMatch = !active.length || active.some(r => {
+    const value = regionEligibility(award, r.id);
+    return eligibility === 'unclear' ? value === 'unclear' : value === 'yes' || (eligibility === 'include-unclear' && value === 'unclear');
+  });
+  const statusMatch = status === 'all'
+    || (status === 'closed' && awardIsClosed(award))
+    || (status === 'not-closed' && !awardIsClosed(award))
+    || (status === 'admission' && !awardIsClosed(award) && /admission|admit|enrollment/i.test(award.state || ''));
+  const typeMatch = type === 'all' || (type === 'non-loan' ? award.awardType !== 'loan' : award.awardType === type);
+  return regionMatch && statusMatch && typeMatch;
+}

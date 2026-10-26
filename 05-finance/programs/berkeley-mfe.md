@@ -8,7 +8,7 @@ Checked: 19 October 2026. Preliminary program research.
 
 Separate quant-mfe track. Not a TFE Times MSF rank. tfeRank2026 is null on every row. Stanford ICME MCF is not on the 2026 QuantNet list (QuantNet rank null).
 
-Ranking provenance: [QuantNet](https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/).
+Ranking provenance: [IBKR Quant News](https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/).
 
 University: University of California, Berkeley
 
@@ -50,7 +50,7 @@ Shared scholarship IDs: SCH-140. See the [scholarship library](../../04-scholars
 - [Official tuition / budget](https://haas.berkeley.edu/financial-aid/master-of-financial-engineering/cost/)
 - [Grad Division program page](https://grad.berkeley.edu/program/master-of-financial-engineering-mfe/)
 - [STEM CIP memo (BIO)](https://internationaloffice.berkeley.edu/sites/default/files/master_of_financial_engineering_stem_memo.pdf)
-- [QuantNet 2026 MFE ranking via QuantNet](https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/)
+- [QuantNet 2026 MFE ranking via IBKR Quant News](https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/)
 
 ## Outstanding evidence
 

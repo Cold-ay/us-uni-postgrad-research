@@ -8,7 +8,7 @@ Checked: 19 October 2026. Preliminary program research.
 
 Separate quant-mfe track. Not a TFE Times MSF rank. tfeRank2026 is null on every row. Stanford ICME MCF is not on the 2026 QuantNet list (QuantNet rank null).
 
-Ranking provenance: [QuantNet](https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/).
+Ranking provenance: [IBKR Quant News](https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/).
 
 University: Baruch College, CUNY
 
@@ -50,7 +50,7 @@ Shared scholarship IDs: No verified award links yet. See the [scholarship librar
 - [Official tuition / budget](https://mfe.baruch.cuny.edu/about/)
 - [Catalog FINENGR-MS](https://baruch-graduate.catalog.cuny.edu/programs/FINENGR-MS)
 - [Tuition & AEF catalog](https://baruch-graduate.catalog.cuny.edu/fees-expenses-financial-aid/tuition-and-fees)
-- [QuantNet 2026 MFE ranking via QuantNet](https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/)
+- [QuantNet 2026 MFE ranking via IBKR Quant News](https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/)
 - [Baruch Bursar Tuition](https://adminfinance.baruch.cuny.edu/bursar/tuition/)
 
 ## Outstanding evidence

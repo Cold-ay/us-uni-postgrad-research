@@ -8,7 +8,7 @@ Unranked in QuantNet 2026 Ranking of Best Financial Engineering Programs (as of 
 
 Separate quant-mfe track. Not a TFE Times MSF rank. tfeRank2026 is null on every row. Stanford ICME MCF is not on the 2026 QuantNet list (QuantNet rank null).
 
-Ranking provenance: [QuantNet](https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/).
+Ranking provenance: [IBKR Quant News](https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/).
 
 University: Stanford University
 
@@ -50,7 +50,7 @@ Shared scholarship IDs: SCH-147. See the [scholarship library](../../04-scholars
 - [MCF admissions hub](https://mcf.stanford.edu/admissions)
 - [MCF FAQ (units, duration, tuition pointer)](https://mcf.stanford.edu/frequently-asked-questions)
 - [Official tuition / budget](https://studentservices.stanford.edu/tuition-rates/2026-2027-graduate-and-professional-tuition-rates)
-- [QuantNet 2026 MFE ranking via QuantNet](https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/)
+- [QuantNet 2026 MFE ranking via IBKR Quant News](https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/)
 - [ICME Graduate Funding](https://icme.stanford.edu/academics-admission/graduate-funding)
 
 ## Outstanding evidence

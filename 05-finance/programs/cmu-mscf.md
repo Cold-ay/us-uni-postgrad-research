@@ -8,7 +8,7 @@ Checked: 19 October 2026. Preliminary program research.
 
 Separate quant-mfe track. Not a TFE Times MSF rank. tfeRank2026 is null on every row. Stanford ICME MCF is not on the 2026 QuantNet list (QuantNet rank null).
 
-Ranking provenance: [QuantNet](https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/).
+Ranking provenance: [IBKR Quant News](https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/).
 
 University: Carnegie Mellon University
 
@@ -50,7 +50,7 @@ Shared scholarship IDs: SCH-141. See the [scholarship library](../../04-scholars
 - [FAQ (duration, internship, Fall-only)](https://www.cmu.edu/mscf/admissions/faq)
 - [Official tuition / budget](https://www.cmu.edu/sfs/tuition/graduate/mscf.html)
 - [Curriculum](https://www.cmu.edu/mscf/academics/curriculum)
-- [QuantNet 2026 MFE ranking via QuantNet](https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/)
+- [QuantNet 2026 MFE ranking via IBKR Quant News](https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/)
 - [MSCF Tuition & Financial Aid](https://www.cmu.edu/mscf/admissions/tuition-financial-aid)
 
 ## Outstanding evidence

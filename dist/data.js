@@ -9,7 +9,7 @@ const quantNetRanking = {
   category: 'QuantNet 2026 Ranking of Best Financial Engineering Programs',
   original: 'https://quantnet.com/mfe-programs-rankings/',
   reproduction: 'https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/',
-  reproductionName: 'QuantNet',
+  reproductionName: 'IBKR Quant News',
   note: 'Separate quant-mfe track. Not a TFE Times MSF rank. tfeRank2026 is null on every row. Stanford ICME MCF is not on the 2026 QuantNet list (QuantNet rank null).',
 };
 export const checked = '19 October 2026';
@@ -70,7 +70,7 @@ export const programs = rankedSchools.map(row => {
     availability: 'Route identified · 2027 eligibility to verify', availabilityType: 'verify',
     ...seed, ...row, ...detail,
     summary: detail.academic || row.academic,
-    tied: rankedSchools.filter(p => p.area === row.area && p.rank === row.rank).length > 1,
+    tied: row.rank != null && rankedSchools.filter(p => p.area === row.area && p.rank === row.rank).length > 1,
     ranking, rankingEdition,
     outcome: outcomeCards[row.id] || null,
     outcomeAdjacent: outcomeAdjacentByCatalogId[row.id] || [],

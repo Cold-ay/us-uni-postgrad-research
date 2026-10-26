@@ -14,8 +14,7 @@ The CS list does not certify that every department offers an external standalone
 - [Clear Admit reproduction](https://www.clearadmit.com/mba-rankings/usnews/)
 - [U.S. News: Best Computer Science Schools · graduate departments](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings) — inaccessible directly
 - [IvyPath Advisory reproduction](https://www.ivypath-advisory.com/ranking/major-cs-us/)
-- [U.S. News: TFE Times Best Master's of Finance](https://tfetimes.com/best-finance-program-rankings/) — inaccessible directly
-- [TFE Times reproduction](https://tfetimes.com/best-finance-program-rankings/)
+- [TFE Times Best Master's of Finance](https://tfetimes.com/best-finance-program-rankings/) — TFE Times source
 - [U.S. News April 2026 release announcement](https://www.prnewswire.com/news-releases/us-news-unveils-2026-best-graduate-schools-302735056.html)
 
 ## Selected university cross-checks

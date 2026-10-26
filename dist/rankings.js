@@ -35,3 +35,16 @@ export function paginate(list, page = 1, size = 12) {
   const current = Math.max(1, Math.min(page, pages));
   return { items: list.slice((current - 1) * size, current * size), current, pages };
 }
+
+/** A display group has one publisher and edition, independent of degree area. */
+export function programRanking(p) {
+  if (p.track === 'quant-mfe') return { key: 'quant-mfe', publisher: 'QuantNet', edition: '2026', label: p.quantNetRank2026 == null ? 'Unranked' : `#${p.quantNetRank2026}`, title: 'Quantitative finance / financial engineering' };
+  if (p.area === 'Finance') return { key: 'finance', publisher: 'TFE Times', edition: '2026', label: rankLabel(p), title: 'Master of Finance (MSF) programs' };
+  return { key: p.area, publisher: 'U.S. News', edition: rankingEdition, label: rankLabel(p), title: p.area === 'Business' ? 'Full-time MBA' : 'Graduate computer science departments' };
+}
+export function rankingDisplayPrograms(list) {
+  const order = new Map(['Business','Computer science','finance','quant-mfe'].map((key,i)=>[key,i]));
+  return [...list].sort((a,b) => order.get(programRanking(a).key)-order.get(programRanking(b).key)
+    || ((a.track === 'quant-mfe' ? a.quantNetRank2026 : a.rank) ?? Infinity)-((b.track === 'quant-mfe' ? b.quantNetRank2026 : b.rank) ?? Infinity)
+    || a.short.localeCompare(b.short));
+}

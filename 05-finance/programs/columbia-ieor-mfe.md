@@ -8,7 +8,7 @@ Checked: 19 October 2026. Preliminary program research.
 
 Separate quant-mfe track. Not a TFE Times MSF rank. tfeRank2026 is null on every row. Stanford ICME MCF is not on the 2026 QuantNet list (QuantNet rank null).
 
-Ranking provenance: [QuantNet](https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/).
+Ranking provenance: [IBKR Quant News](https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/).
 
 University: Columbia University
 
@@ -52,7 +52,7 @@ Shared scholarship IDs: SCH-142, SCH-143, SCH-144. See the [scholarship library]
 - [Columbia Engineering application deadlines](https://www.engineering.columbia.edu/admissions-aid/graduate-admissions/how-apply/application-requirements)
 - [SFS Graduate Engineering COA 2026–27](https://sfs.columbia.edu/content/graduate-engineering-cost-attendance)
 - [IEOR tuition page (may lag)](https://ieor.columbia.edu/tuition-and-fees)
-- [QuantNet 2026 MFE ranking via QuantNet](https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/)
+- [QuantNet 2026 MFE ranking via IBKR Quant News](https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/)
 - [Columbia Engineering Bulletin Fees (IEOR program fee)](https://bulletin.columbia.edu/columbia-engineering/graduate-studies/graduate-tuition-fees-payments/fees/)
 - [ISSO Eng graduate estimated expenses PDF](https://isso.columbia.edu/sites/isso.columbia.edu/files/content/rates/eng.pdf)
 

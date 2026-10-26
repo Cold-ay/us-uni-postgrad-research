@@ -48,3 +48,9 @@ The interface supports English, Traditional Chinese (`?lang=zh-Hant`) and Simpli
 Edit `locales/zh-Hant.json` and `locales/zh-Hans.json` when adding research or interface text. `scripts/build-locales.mjs` checks matching keys and generates `dist/translations.js` during the normal build. `scripts/convert-chinese.py` is an optional editorial helper (OpenCC 0.1.7); no Python dependency is needed to build or serve the website. Review converted terminology before release. Tests check narrative coverage, cost numbers, language precedence and multilingual search.
 
 Program profiles, scholarship summaries, comparison views and source guidance are translated. Original Markdown notebooks, CSV exports and external source documents retain their original language. The interface explicitly labels these boundaries.
+
+## Funding discovery and ranking display
+
+Scholarship region chips use the explicit `prcEligible`, `twEligible` and `hkEligible` fields. Missing or unrecognised values remain `unclear`; selecting a region defaults to `yes`. Multiple regions use a union, then intersect with status, type and trimmed multilingual search. Counts on region chips include all recorded statuses; the result count reflects active filters. Reset clears all filters. Loans remain a distinct funding type. Application closure follows the record's explicit `closed` wording, never its badge color; records are not reclassified as currently open from absence of a closed label.
+
+`programRanking()` supplies publisher, year and display group for cards, tables, details and comparison. Finance rows use TFE Times, Quant/MFE rows use QuantNet, and MBA/CS use U.S. News. Finance is split into separate display groups; sorting keeps each ranking together. Unknown ranks have no tie flag. QuantNet reproduction links are labelled IBKR Quant News to match the actual destination.

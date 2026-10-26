@@ -402,7 +402,7 @@ test('quant-mfe is a separate QuantNet track and does not move the TFE spine', (
     assert.equal(p.rank, null, id);
     assert.equal(p.tfeRank2026, null, id);
     assert.equal(p.quantNetRank2026, quantNet[id], id);
-    assert.equal(p.ranking.reproductionName, 'QuantNet', id);
+    assert.equal(p.ranking.reproductionName, 'IBKR Quant News', id);
     assert.equal(p.tuition, tuition[id], id);
     assert.equal(p.tuitionEstimate, null, id);
     assert.notEqual(p.tuition, 0, id);

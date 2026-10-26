@@ -8,7 +8,7 @@ Checked: 19 October 2026. Preliminary program research.
 
 Separate quant-mfe track. Not a TFE Times MSF rank. tfeRank2026 is null on every row. Stanford ICME MCF is not on the 2026 QuantNet list (QuantNet rank null).
 
-Ranking provenance: [QuantNet](https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/).
+Ranking provenance: [IBKR Quant News](https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/).
 
 University: Georgia Institute of Technology
 
@@ -52,7 +52,7 @@ Shared scholarship IDs: SCH-146. See the [scholarship library](../../04-scholars
 - [Curriculum / 36 credits](https://qcf.gatech.edu/student-life/academics-curriculum)
 - [GT Catalog MS QCF](https://catalog.gatech.edu/programs/quantitative-computational-finance-ms/)
 - [Fall 2026 bursar MSQCF rates PDF](https://bursar.gatech.edu/student/tuition/fa26/fa26_totals.pdf)
-- [QuantNet 2026 MFE ranking via QuantNet](https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/)
+- [QuantNet 2026 MFE ranking via IBKR Quant News](https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/)
 - [QCF Tuition & Funding (page still shows 2023–24 narrative)](https://qcf.gatech.edu/prospective-students/tuition-costs-and-funding-opportunites)
 - [GT Graduate Costs](https://finaid.gatech.edu/costs/graduate-costs)
 
