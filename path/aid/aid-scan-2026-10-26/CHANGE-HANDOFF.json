@@ -1,0 +1,102 @@
+{
+  "asOf": "2026-10-26",
+  "scan": "tuition-award-change-scan",
+  "material": true,
+  "changedProgramIds": [
+    "texas-cs"
+  ],
+  "changedScholarshipIds": [
+    "SCH-045"
+  ],
+  "costs": {
+    "texas-cs": {
+      "before": {
+        "tuition": 18170,
+        "period": "2026\u201327",
+        "asOf": "2026-10-20"
+      },
+      "after": {
+        "tuition": 18162,
+        "period": "2026\u201327",
+        "asOf": "2026-10-26"
+      },
+      "delta": -8,
+      "detail": "Nonresident Natural Sciences 9-hour semester $9,085\u2192$9,081; AY 2\u00d7 rate $18,170\u2192$18,162. 12-hour still $10,970. PDF footer 10/22/26.",
+      "sourceUrl": "https://catalog.utexas.edu/general-information/registration-tuition-and-fees/tuition-and-fees/tables-tuition-for-fall-and-spring/tables-tuition-for-fall-and-spring.pdf",
+      "referenceCostPatch": {
+        "tuition": 18162,
+        "period": "2026\u201327",
+        "asOf": "2026-10-26"
+      }
+    }
+  },
+  "awards": {
+    "SCH-045": {
+      "id": "SCH-045",
+      "name": "Qualcomm Innovation Fellowship (North America)",
+      "scope": "25 listed US/Canada universities",
+      "state": "2027 North America cycle published \u00b7 abstract window closed (Oct 19, 2026)",
+      "tone": "amber",
+      "type": "Fellowship \u00b7 Company-Sponsored",
+      "description": "Team-based (2 PhD students) research fellowship.",
+      "eligibility": "PhD students at listed universities (incl. MIT, Stanford, UCLA, UC Berkeley, Cornell, Georgia Tech per 2026 rules); nationality: unclear.",
+      "amount": "'Cash awards of $50,000 per Entrant will be awarded to the university academic departments of the winning students, not to the winning Entrants directly' (2027 Official Rules PDF, verbatim)",
+      "deadline": "2027 cycle abstract/application due Monday Oct 19, 2026 by 10:00 a.m. (ASU Inner Circle program notice; Official Rules defer to Website timeline) \u2014 window closed as of 2026-10-26",
+      "note": "04-scholarships/opportunities/qualcomm-qif.md; replace 2026 rules PDF with 2027; expand programIds to 2027 rules university list intersecting catalog",
+      "url": "https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/QIF-2027-official-rules-US-CANADA.pdf",
+      "category": "Company-Sponsored",
+      "awardType": "fellowship",
+      "hkEligible": "unclear",
+      "twEligible": "unclear",
+      "intlEligible": "unclear",
+      "programIds": [
+        "cmu-mscs",
+        "mit-cs",
+        "princeton-cs",
+        "stanford-cs",
+        "berkeley-cs",
+        "ucla-cs",
+        "ucsd-cs",
+        "ucsb-cs",
+        "illinois-cs",
+        "maryland-cs",
+        "columbia-cs",
+        "usc-cs",
+        "cornell-cs",
+        "michigan-cs",
+        "washington-cs",
+        "gatech-cs",
+        "texas-cs",
+        "wisconsin-cs",
+        "purdue-cs"
+      ],
+      "sources": [
+        [
+          "QIF 2027 Official Rules (PDF)",
+          "https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/QIF-2027-official-rules-US-CANADA.pdf"
+        ],
+        [
+          "Qualcomm press note \u2014 2027 QIF launch (Oct 12, 2026)",
+          "https://www.qualcomm.com/news/releases/2026/10/qualcomm-launches-2027-innovation-fellowship-program-for-north-a.md"
+        ],
+        [
+          "ASU Inner Circle \u2014 apply by Oct 19, 2026",
+          "https://innercircle.engineering.asu.edu/2026/09/apply-for-the-2027-qualcomm-innovation-fellowship-by-oct-19/"
+        ]
+      ],
+      "asOf": "2026-10-26"
+    }
+  },
+  "unresolvedNotes": [
+    {
+      "id": "SCH-066",
+      "note": "Haas CRB Fellowship: official Haas pages still do not publish $20k; third-party only. No amount change applied. Re-verify later."
+    }
+  ],
+  "nonMaterialWatches": [
+    "gatech-cs: Spring 2027 chart published; Out-of-Country Master flat still $16,540",
+    "texas-mba: still Class of 2027 only; Fall 2027 entry rates not published",
+    "michigan-mba: 2027\u201328 tuition posts July 2027",
+    "No newly published 2027\u201328 tuition schedules among the other 16 batch1 programs"
+  ]
+}
