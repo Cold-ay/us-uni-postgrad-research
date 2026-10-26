@@ -982,35 +982,56 @@
    "id": "SCH-045",
    "name": "Qualcomm Innovation Fellowship (North America)",
    "scope": "25 listed US/Canada universities",
-   "state": "2026 cycle; 2027 unknown · amount verified",
+   "state": "2027 North America cycle published · abstract window closed (Oct 19, 2026)",
    "tone": "amber",
    "type": "Fellowship · Company-Sponsored",
    "description": "Team-based (2 PhD students) research fellowship.",
    "eligibility": "PhD students at listed universities (incl. MIT, Stanford, UCLA, UC Berkeley, Cornell, Georgia Tech per 2026 rules); nationality: unclear.",
-   "amount": "'Cash awards of $50,000 per Entrant will be awarded to the university academic departments of the winning students, not to the winning Entrants directly' (2026 Official Rules PDF, verbatim)",
-   "deadline": "unknown for 2027",
+   "amount": "'Cash awards of $50,000 per Entrant will be awarded to the university academic departments of the winning students, not to the winning Entrants directly' (2027 Official Rules PDF, verbatim)",
+   "deadline": "2027 cycle abstract/application due Monday Oct 19, 2026 by 10:00 a.m. (ASU Inner Circle program notice; Official Rules defer to Website timeline) — window closed as of 2026-10-26",
    "note": "04-scholarships/opportunities/qualcomm-qif.md",
-   "url": "https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/QIF-2026-official-rules-US-CANADA.pdf",
+   "url": "https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/QIF-2027-official-rules-US-CANADA.pdf",
    "category": "Company-Sponsored",
    "awardType": "fellowship",
    "hkEligible": "unclear",
    "twEligible": "unclear",
    "intlEligible": "unclear",
    "programIds": [
+    "cmu-mscs",
     "mit-cs",
+    "princeton-cs",
     "stanford-cs",
-    "ucla-cs",
     "berkeley-cs",
+    "ucla-cs",
+    "ucsd-cs",
+    "ucsb-cs",
+    "illinois-cs",
+    "maryland-cs",
+    "columbia-cs",
+    "usc-cs",
     "cornell-cs",
-    "gatech-cs"
+    "michigan-cs",
+    "washington-cs",
+    "gatech-cs",
+    "texas-cs",
+    "wisconsin-cs",
+    "purdue-cs"
    ],
    "sources": [
     [
-     "QIF 2026 Official Rules (PDF)",
-     "https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/QIF-2026-official-rules-US-CANADA.pdf"
+     "QIF 2027 Official Rules (PDF)",
+     "https://www.qualcomm.com/content/dam/qcomm-martech/dm-assets/documents/QIF-2027-official-rules-US-CANADA.pdf"
+    ],
+    [
+     "Qualcomm press note — 2027 QIF launch (Oct 12, 2026)",
+     "https://www.qualcomm.com/news/releases/2026/10/qualcomm-launches-2027-innovation-fellowship-program-for-north-a.md"
+    ],
+    [
+     "ASU Inner Circle — apply by Oct 19, 2026",
+     "https://innercircle.engineering.asu.edu/2026/09/apply-for-the-2027-qualcomm-innovation-fellowship-by-oct-19/"
     ]
    ],
-   "asOf": "2026-10-20"
+   "asOf": "2026-10-26"
   },
   {
    "id": "SCH-046",
@@ -1699,6 +1720,7 @@
    "SCH-042",
    "SCH-043",
    "SCH-044",
+   "SCH-045",
    "SCH-059",
    "SCH-060",
    "SCH-063"

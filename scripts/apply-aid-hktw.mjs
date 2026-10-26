@@ -69,7 +69,7 @@ function fmtScalar(v) {
 }
 
 function fmtScholarship(s) {
-  const keys = SCHOLARSHIP_FIELDS.filter((k) => s[k] !== undefined);
+  const keys = [...new Set([...SCHOLARSHIP_FIELDS, 'prcEligible'])].filter((k) => s[k] !== undefined);
   return `  { ${keys.map((k) => `${k}: ${fmtScalar(s[k])}`).join(', ')} }`;
 }
 
