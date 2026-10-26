@@ -1,6 +1,6 @@
 /**
  * Program area registry — CS, MBA, and MSF (Finance) families share one catalog pipeline.
- * MSF rows are not ingested yet; Finance remains a zero-program scaffold until gm greenlights the slate.
+ * MSF batch 1 (TFE Times 2026 ranks 1–8) ingested 2026-10-26; further MSF rows await later batches.
  */
 
 export const PROGRAM_AREAS = [
@@ -40,12 +40,11 @@ export const PROGRAM_AREAS = [
     catalogIdSuffix: '-msf',
     tabShort: 'MSF',
     statTitle: 'MSF programs',
-    statSubtitle: 'Scaffold only · ingest on hold',
+    statSubtitle: 'TFE Times 2026 · batch 1 (ranks 1–8)',
     tableSectionTitle: 'Master of Finance (MSF) programs',
     detailEyebrow: 'MSF',
     csvCategory: 'Master of Finance (MSF)',
     sortOrder: 3,
-    ingestStatus: 'hold',
   },
 ];
 

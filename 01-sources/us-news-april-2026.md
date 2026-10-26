@@ -14,8 +14,8 @@ The CS list does not certify that every department offers an external standalone
 - [Clear Admit reproduction](https://www.clearadmit.com/mba-rankings/usnews/)
 - [U.S. News: Best Computer Science Schools · graduate departments](https://www.usnews.com/best-graduate-schools/top-science-schools/computer-science-rankings) — inaccessible directly
 - [IvyPath Advisory reproduction](https://www.ivypath-advisory.com/ranking/major-cs-us/)
-- [U.S. News: Master of Finance (MSF) · planned program family](https://www.usnews.com/best-graduate-schools) — inaccessible directly
-- [Fieldnotes MSF scaffold reproduction](https://github.com/Cold-ay/us-uni-postgrad-research/blob/main/05-finance/README.md)
+- [U.S. News: TFE Times Best Master's of Finance](https://tfetimes.com/best-finance-program-rankings/) — inaccessible directly
+- [TFE Times reproduction](https://tfetimes.com/best-finance-program-rankings/)
 - [U.S. News April 2026 release announcement](https://www.prnewswire.com/news-releases/us-news-unveils-2026-best-graduate-schools-302735056.html)
 
 ## Selected university cross-checks
@@ -103,6 +103,15 @@ These checks corroborate selected rows, not the entire reproduced lists. Tuition
 
 ## Master of Finance (MSF)
 
-| Status |
-| --- |
-| **Scaffold only.** Zero program rows. Ingest awaits gm greenlight. Future catalog ids use the `*-msf` suffix — see [05-finance/README.md](../05-finance/README.md). |
+| Rank | Program | Research |
+| --- | --- | --- |
+| #1 | MIT Sloan | [Master of Finance (MFin)](../05-finance/programs/mit-msf.md) |
+| #2 | Princeton BCF | [Master in Finance (M.Fin.)](../05-finance/programs/princeton-msf.md) |
+| #3 | WashU Olin | [MS in Finance](../05-finance/programs/washu-msf.md) |
+| #4 | Georgia State Robinson | [MS in Finance](../05-finance/programs/gsu-msf.md) |
+| #5 | USC Marshall | [MS in Finance](../05-finance/programs/usc-msf.md) |
+| #6 | Brandeis IBS | [MS in Finance](../05-finance/programs/brandeis-msf.md) |
+| #7 | Utah Eccles | [MS in Finance](../05-finance/programs/utah-msf.md) |
+| #8 | Texas McCombs | [MS in Finance](../05-finance/programs/texas-msf.md) |
+
+_Quant/MFE programs are not listed here; see [05-finance/README.md](../05-finance/README.md)._

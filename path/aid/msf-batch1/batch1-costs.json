@@ -1,0 +1,154 @@
+{
+  "_meta": {
+    "asOf": "2026-10-26",
+    "timezone": "Asia/Hong_Kong",
+    "intake": "Fall 2027 (MIT and Texas: summer start)",
+    "rankingSource": {
+      "name": "TFE Times 2026 Best Master's of Finance ranks 1–8",
+      "url": "https://tfetimes.com/best-finance-program-rankings/",
+      "as_of": "2026-03-01"
+    },
+    "rule": "Never invent; missing ≠ 0. Tuition figures from primary school pages/PDFs as of asOf."
+  },
+  "mit-msf": {
+    "tuition": 96884,
+    "tuitionAlt": 133007,
+    "tuitionLabel": "Program tuition 12-month format (2026–27 AY)",
+    "tuitionAltLabel": "Program tuition 18-month format (2026–27 AY)",
+    "fees": null,
+    "feesNote": "Required course packs included in tuition; textbooks separate. See MIT SFS graduate COA for non-tuition budget (tuition on SFS page should be ignored per MFin page).",
+    "period": "2026–27",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://mitsloan.mit.edu/mfin/admissions/tuition-and-financial-aid",
+    "notes": "SUMMER START (July), not autumn Fall. 12-month = summer+fall+spring; 18-month adds second fall. Low-residency summer option with reduced tuition if 15.401+15.402 completed pre-entry. Not a Fall-2027-only quote.",
+    "startTerm": "Summer (July) — 2027 entry",
+    "livingCostBand": null,
+    "livingCostNote": "School does not publish an MFin-specific living band on the tuition page; points to SFS graduate COA (ignore tuition there)."
+  },
+  "princeton-msf": {
+    "tuition": 65210,
+    "tuitionLabel": "Academic-year regular graduate tuition (per year, 2026–27)",
+    "fees": 4220,
+    "feesNote": "Student Health Plan (SHP) fee $4,220 AY; tuition+SHP total $69,430 per year (Graduate School rates).",
+    "period": "2026–27",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://gradschool.princeton.edu/financial-support/financial-support-model/funding-calendar-university-rates-costs",
+    "notes": "M.Fin. typically 4 semesters / 2 academic years (compressed 2-semester option for select admits after admission). Two-year tuition ≈ 2×$65,210 before SHP; SHP charged each year of enrollment. Missing ≠ full-degree total.",
+    "startTerm": "Fall 2027",
+    "livingCostBand": {
+      "low": 33141,
+      "high": 39770,
+      "basis": "Princeton Graduate School published living expenses 2026–27: $33,141 (10 months) / $39,770 (12 months) — housing, food, personal, books & supplies."
+    },
+    "sources": [
+      [
+        "University rates 2026–27",
+        "https://gradschool.princeton.edu/financial-support/financial-support-model/funding-calendar-university-rates-costs"
+      ],
+      [
+        "BCF Apply / program length & fees pointer",
+        "https://bcf.princeton.edu/academic-programs/master-in-finance/apply-for-the-master-in-finance-program/"
+      ]
+    ]
+  },
+  "washu-msf": {
+    "tuition": 81500,
+    "tuitionAlt": 102900,
+    "tuitionLabel": "Corporate Finance concentration total tuition (Fall 2026 starters, 2 semesters)",
+    "tuitionAltLabel": "Quantitative OR Wealth & Asset Management total tuition (Fall 2026 starters, 3 semesters)",
+    "fees": 2700,
+    "feesNote": "Per semester posted Spring 2026: program fee $900 + student government $100 + health/wellness $350 = $1,350/semester. Corporate (2 sem) ≈ $2,700 fees; Quant/W&AM (3 sem) ≈ $4,050 fees. Health insurance separate (required).",
+    "period": "2026–27 (Fall 2026 starters; Fall 2027 cohort rates not yet separately posted as of asOf)",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://olin.washu.edu/programs/specialized-masters/ms-in-finance/cost-aid-scholarships.php",
+    "notes": "Flat program tuition; three concentrations with different length/cost. Page labels costs for candidates starting Fall 2026. Living/health insurance not in tuition.",
+    "startTerm": "Fall (verify concentration calendar)",
+    "livingCostBand": null
+  },
+  "gsu-msf": {
+    "tuition": 49379,
+    "tuitionLabel": "Out-of-country residents published program cost",
+    "fees": null,
+    "feesNote": "Nonrefundable seat deposit $250. Published figures are program costs; GA residents $38,822; non-GA $47,987. Tuition subject to change.",
+    "period": "as published on program page (Fall 2027 cycle; subject to change)",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://www.gsu.edu/program/finance-ms/",
+    "notes": "Evening weekday program at Buckhead Center (5:30–9:45 p.m.); STEM-designated. 12- or 16-month options. Costs may be offset with graduate assistantship (see awards).",
+    "startTerm": "Fall 2027",
+    "stem": true,
+    "livingCostBand": null,
+    "altTuition": {
+      "georgiaResident": 38822,
+      "nonGeorgiaResident": 47987,
+      "outOfCountry": 49379
+    }
+  },
+  "usc-msf": {
+    "tuition": 91476,
+    "tuitionLabel": "Estimated tuition for 36-unit / 3-semester program at 2025–26 per-unit rate ($2,541/unit)",
+    "fees": 3396,
+    "feesNote": "Mandatory fees total $3,396 over 3 semesters as published; total estimated tuition+fees $94,872. Excludes housing, health insurance, transport, food.",
+    "period": "estimate using 2025–26 rates (page notes typical 3–5% annual increases; Fall 2027 rates not locked)",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://www.marshall.usc.edu/programs/graduate-programs/specialized-masters/ms-finance/tuition-fees",
+    "notes": "STEM. Fall start only. Official USC tuition published annually; this is an estimate at time of publishing on Marshall page.",
+    "startTerm": "Fall only",
+    "stem": true,
+    "livingCostBand": null
+  },
+  "brandeis-msf": {
+    "tuition": 44200,
+    "tuitionAlt": 57200,
+    "tuitionLabel": "MSF 9-month tuition (2026–27; Fall+Spring)",
+    "tuitionAltLabel": "MSF 16-month tuition total (Y1 $40,040 + Y2 fall $17,160)",
+    "fees": 220,
+    "feesNote": "9-month / Y1: fees $220. 16-month Y2 fall: fees $60. Orientation fee $100 first term (FAQ/admissions materials). Health insurance estimate $4,685 (waivable) on tuition calculator.",
+    "period": "2026–27",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://www.brandeis.edu/student-financial-services/tuition-calculator/graduate-tuition.html",
+    "notes": "STEM. Fall 2027 and Spring 2027 starts available for MSF. Living expenses published on same calculator (food/housing $20,970 for 9 months).",
+    "startTerm": "Fall 2027 (also Spring)",
+    "stem": true,
+    "livingCostBand": {
+      "low": 20970,
+      "high": null,
+      "basis": "Brandeis SFS 2026–27 MSF estimated living: Food and Housing $20,970 (9 months); plus books $750, transport $495, personal $3,340; health insurance $4,685 listed separately."
+    }
+  },
+  "utah-msf": {
+    "tuition": 39000,
+    "tuitionLabel": "Full 30-credit program tuition at $1,300/credit (resident = nonresident)",
+    "fees": 0,
+    "feesNote": "Program page: fixed rate includes all standard fees. Living separate.",
+    "period": "as published (fixed program rate; not labeled to a single AY on page)",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://eccles.utah.edu/programs/master-of-science-in-finance/tuition-scholarships-financial-aid/",
+    "notes": "Same rate for residents and non-residents. Fall 2027 and Spring 2027 starts. No graduate assistantships or fellowships from the program (per page).",
+    "startTerm": "Fall 2027 (also Spring)",
+    "livingCostBand": null
+  },
+  "texas-msf": {
+    "tuition": 59700,
+    "tuitionLabel": "Non-Texas resident total program tuition (incl. $2,000 pre-enrollment fee)",
+    "fees": 2000,
+    "feesNote": "Non-refundable $2,000 pre-enrollment tuition fee required to secure seat (included in $59,700 total). Texas resident total $55,600. Intl students also responsible for international health insurance + ISSS fees (amounts not on MSF tuition page).",
+    "period": "as published on MSF tuition page (class of 2028 / summer-start cycle)",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-finance/admissions/tuition-financial-aid/",
+    "notes": "SUMMER START (July) — ~10-month in-residence. Non-TX breakdown: Summer $11,900 + Fall $22,900 + Spring $22,900 + $2,000 pre-enroll = $59,700. Books/living/laptop/optional fees extra.",
+    "startTerm": "Summer (July)",
+    "livingCostBand": null,
+    "altTuition": {
+      "texasResident": 55600,
+      "nonTexasResident": 59700
+    }
+  }
+}

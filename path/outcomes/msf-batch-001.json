@@ -1,0 +1,507 @@
+{
+  "meta": {
+    "batch_id": "msf-batch-001",
+    "agent": "path",
+    "created": "2026-10-26",
+    "access_date": "2026-10-26",
+    "card_count": 8,
+    "schema_version": "outcome-card-v2-msf",
+    "schema_notes": [
+      "catalog_id currently equals program_id for MSF site scaffolding (not yet in rankedSchools catalog)",
+      "degree_family: MSF | MFin | MSFE | MiF | MSCF | MFE | other",
+      "top_finance_firm_signal replaces big_tech_or_top_firm_signal conceptually; big_tech field retained as alias pointing to finance signal",
+      "Aligned to brief locked TFE 1–8 program_ids 2026-10-26"
+    ],
+    "methodology": "Open public sources only (official career PDFs/pages). No fabricated numbers; gaps=unknown. Never messaged alumni/recruiters. No unauthorized login scraping.",
+    "program_ids": [
+      "mit-msf",
+      "princeton-msf",
+      "washu-msf",
+      "gsu-msf",
+      "usc-msf",
+      "brandeis-msf",
+      "utah-msf",
+      "texas-msf"
+    ],
+    "catalog_ids": [
+      "mit-msf",
+      "princeton-msf",
+      "washu-msf",
+      "gsu-msf",
+      "usc-msf",
+      "brandeis-msf",
+      "utah-msf",
+      "texas-msf"
+    ],
+    "excluded_this_batch": [
+      "Quant/MFE/MSCF bucket → see outcomes/msf-quant-pending.json (pending_gm_lock)",
+      "Michigan Ross (no MSF)",
+      "NYU Stern classic FT pre-experience MSF",
+      "Stanford GSB / Harvard Extension ALM / Wharton Jacobs MSQF"
+    ],
+    "last_updated": "2026-10-26"
+  },
+  "cards": [
+    {
+      "catalog_id": "mit-msf",
+      "program_id": "mit-msf",
+      "route_mismatch": false,
+      "school": "Massachusetts Institute of Technology",
+      "program": "MIT Sloan Master of Finance (MFin)",
+      "degree": "MFin",
+      "degree_family": "MFin",
+      "schedule_note": "Summer start (12-month and 18-month formats); not a standard autumn-only intake.",
+      "internship_rate": "98.9% of internship-seeking 18-month students (graduating Feb 2026) received a summer 2025 internship offer; 97.9% accepted (n seeking ≈94 of 103 enrolled in that format).",
+      "full_time_placement": "97.1% of Class of 2025 seekers received an offer within 6 months; 94.2% accepted within 6 months (reporting rate 100%; sought employment 104/117 = 88.9%).",
+      "full_time_placement_notes": "Official MIT Sloan CDO 2025 MFin Employment Report (Feb 2025 18-month + May 2025 12-month). Mean base $122,858; median base $125,000; mean signing bonus $29,183; median signing $25,000. Nearly 85% accepted Finance industry roles; >5% Technology/AI. Functions: Quant Research/Data Science 26.8%, IBD/Transactions Advisory 19.6%, Quant Trading Research/Sales 17.5%. Class profile International 89%.",
+      "notable_employers": [
+        "Morgan Stanley (8 FT hires Class of 2025 highlight)",
+        "JP Morgan Chase & Co. (5)",
+        "Squarepoint Ops (4)",
+        "Goldman Sachs (3)",
+        "BNP Paribas (3)",
+        "Qube Research & Technologies (3)",
+        "Trexquant Investment (3)",
+        "Boston Consulting Group (3)",
+        "Bank of America",
+        "Barclays",
+        "Deutsche Bank",
+        "Citadel",
+        "BlackRock",
+        "McKinsey & Company"
+      ],
+      "notable_employers_notes": "Highlight multi-hire list from official 2025 report; full employer roster on report p.8 includes AQR, Brevan Howard, Capula, Citi, DRW, Optiver, Point72, UBS, Verition, etc.",
+      "top_finance_firm_signal": "Very high. Official multi-hire bulge/elite quant: MS, JPM, GS, Squarepoint, QRT, Trexquant, Citadel*, BlackRock*, Optiver*. IBD + quant research/trading dominate functions.",
+      "big_tech_or_top_firm_signal": "See top_finance_firm_signal (MSF schema v2 rename).",
+      "sample_alumni_paths": [
+        "Quantitative Research / Data Science associate roles",
+        "Investment Banking / Transactions Advisory analyst",
+        "Quantitative Trading – Research/Sales",
+        "Private Equity / Venture Capital (~7.2% of Class of 2025 functions)",
+        "Portfolio Management / Fundamental Research"
+      ],
+      "referral_network_notes": "Sloan CDO + MFin alumni; Action Learning Labs; dense NYC/HK/London placements. 47.2% of Feb 2025 graduates who accepted FT rejoined summer internship employer. Formal cold-outreach ease: unknown.",
+      "difficulty_notes": "Highly selective (QuantNet cites ~8.3% acceptance for recent cycle — secondary). International-heavy cohort (~89%). Strong brand does not remove interview bars for quant/IB.",
+      "intl_student_notes": "STEM-designated MFin historically; Class of 2025 profile 89% international / 38 countries. Confirm current STEM CIP with school for Fall 2027 OPT planning.",
+      "sources": [
+        {
+          "title": "2025 Master of Finance Employment Report (MIT Sloan CDO PDF)",
+          "url": "https://cdn.cdo.mit.edu/wp-content/uploads/sites/67/2026/02/2025-MFin-Employment-Report.pdf",
+          "access_date": "2026-10-26"
+        },
+        {
+          "title": "MIT Sloan MFin – Meet the Class / employment highlights",
+          "url": "https://mitsloan.mit.edu/mfin/meet-class",
+          "access_date": "2026-10-26"
+        },
+        {
+          "title": "MIT Sloan CDO – Employment Reports hub",
+          "url": "https://cdo.mit.edu/employment-reports/",
+          "access_date": "2026-10-26"
+        }
+      ],
+      "confidence": "high",
+      "confidence_reason": "Official CSEA-conformant MFin PDF with 100% reporting rate, offer/accept timing, salaries, functions, and named multi-hire employers.",
+      "last_updated": "2026-10-26"
+    },
+    {
+      "catalog_id": "princeton-msf",
+      "program_id": "princeton-msf",
+      "route_mismatch": false,
+      "school": "Princeton University",
+      "program": "Master in Finance (Bendheim Center for Finance)",
+      "degree": "MFin",
+      "degree_family": "MFin",
+      "internship_rate": "Program states regular ~100% internship placement record; Class of 2025/2026 internship employer lists published in BCF annual report flipbooks (rate denominator not separately audited in a CSEA PDF located this run).",
+      "full_time_placement": "BCF recruiting page: regularly achieves ~100% placement for full-time and internships. BCF 2024 annual report text: 100% of 2024 graduates hired in finance industry positions. QuantNet 2026 secondary: employment at graduation 94% / after 3 months 97% (methodology differs from school narrative).",
+      "full_time_placement_notes": "Small cohort (~40 of ~1,000 applicants per BCF). No MIT/CMU-style single CSEA PDF located; outcomes presented via BCF career page + annual report employer lists. Prefer school lists for employers; treat exact % with medium caution vs QuantNet.",
+      "notable_employers": [
+        "Two Sigma",
+        "Jane Street",
+        "Citadel / Citadel Securities",
+        "AQR Capital Management",
+        "Goldman Sachs",
+        "JP Morgan",
+        "Morgan Stanley",
+        "Squarepoint Capital",
+        "DRW",
+        "IMC Trading",
+        "BNP Paribas",
+        "Balyasny Asset Management",
+        "Millennium",
+        "Five Rings",
+        "Akuna"
+      ],
+      "notable_employers_notes": "Drawn from BCF annual report Careers Upon Graduation / Summer Internships lists (2024–2026 flipbook pages) and BCF recruiting page.",
+      "top_finance_firm_signal": "Extremely high for HF/prop trading/quant research relative to class size. Dense elite buy-side and bulge names in recent graduate lists.",
+      "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
+      "sample_alumni_paths": [
+        "Quantitative Researcher / Quant Trader",
+        "Equity Derivatives / Rates / Options trading",
+        "Systematic strategies / portfolio implementation analyst",
+        "IB / markets analyst at bulge brackets"
+      ],
+      "referral_network_notes": "Very small cohort + Career Speaker Series (AQR, Balyasny, Citadel, Cubist, DRW, Squarepoint, etc.) + corporate partners. High touch recruiting; formal referral metrics unknown.",
+      "difficulty_notes": "~40 seats / ~1,000 applicants (BCF). Intense quant bar; STEM/intl angle strong but ultra-selective.",
+      "intl_student_notes": "Historically international-heavy elite MFin; confirm STEM designation and Fall 2027 visa timing with BCF.",
+      "sources": [
+        {
+          "title": "Princeton BCF – Recruiting, Career Development, and Job Placements",
+          "url": "https://bcf.princeton.edu/academic-programs/master-in-finance/recruiting-career-development-and-job-placements/",
+          "access_date": "2026-10-26"
+        },
+        {
+          "title": "BCF 2025 Annual Report flipbook – careers/internships page",
+          "url": "https://bcf.princeton.edu/bcfar/2025/inc/html/14.html",
+          "access_date": "2026-10-26"
+        },
+        {
+          "title": "BCF 2024 Annual Report flipbook – 100% 2024 finance placement claim + employers",
+          "url": "https://bcf.princeton.edu/bcfar/2024/inc/html/14.html",
+          "access_date": "2026-10-26"
+        },
+        {
+          "title": "IBKR Campus summary of QuantNet 2026 ranking (secondary placement %)",
+          "url": "https://www.interactivebrokers.com/campus/ibkr-quant-news/2026-quantnet-ranking-of-best-financial-engineering-programs/",
+          "access_date": "2026-10-26"
+        }
+      ],
+      "confidence": "medium",
+      "confidence_reason": "Strong official employer lists and BCF 100% narrative, but no single CSEA-style audited % PDF; QuantNet cites slightly lower timing rates.",
+      "last_updated": "2026-10-26"
+    },
+    {
+      "catalog_id": "washu-msf",
+      "program_id": "washu-msf",
+      "route_mismatch": false,
+      "school": "Washington University in St. Louis",
+      "program": "Olin MS in Finance (Corporate Finance / Quantitative / Wealth & Asset Management)",
+      "degree": "MSF",
+      "degree_family": "MSF",
+      "internship_rate": "unknown (MSF-specific internship % not isolated in 2024 official SMP PDF located this run)",
+      "full_time_placement": "Specialized Master's Class of 2024 (aggregate across SMP, not MSF-only): 82% received offer within 6 months; 81% accepted within 6 months (n seeking=192). MSF-specific latest official breakout: unknown in 2024 PDF.",
+      "full_time_placement_notes": "2024 official Olin SMP Employment Report is aggregate (MACC/MSA/MSF tracks/MSSCM). Older 2022 SMP report (secondary archive) showed MSFC 67% / MSFQ 77% / MSFWAM 72% employment rates with low knowledge-rate caveats and COVID travel impacts — treat as historical, not current. Fall 2024 class profiles: MSFC n=65, MSFQ n=68, MSFWAM n=88.",
+      "notable_employers": [
+        "JPMorgan Chase",
+        "Goldman Sachs",
+        "BlackRock",
+        "Deloitte",
+        "Wells Fargo",
+        "Edward Jones",
+        "Bain Capital",
+        "Bytedance",
+        "Citic"
+      ],
+      "notable_employers_notes": "Alumni/recruiting examples listed on Olin Flex/MSF career marketing pages — not a Class of 2024 hire census.",
+      "top_finance_firm_signal": "Moderate-to-strong brand signal with named bulge/AM recruiters on marketing lists; latest class multi-hire counts unknown from official 2024 PDF.",
+      "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
+      "sample_alumni_paths": [
+        "Financial Analyst / Senior Analyst",
+        "Investments Analyst",
+        "Risk Analyst",
+        "Wealth / asset management roles (MSFWAM track)",
+        "Quant/analytical finance roles (MSFQ track)"
+      ],
+      "referral_network_notes": "Olin Center for Career Engagement + large intl alumni base (esp. Asia). St. Louis regional + Asia placements historically important. Ease metrics: unknown.",
+      "difficulty_notes": "Three STEM tracks with different lengths/tuition. Cohorts heavily international per secondary reporting — US work authorization and geographic salary mix affect averages.",
+      "intl_student_notes": "STEM-designated tracks per Olin. Historically very high % international; confirm OPT/CPT pathways and Fall 2027 track choice (12 vs 18 months).",
+      "sources": [
+        {
+          "title": "WashU Olin Specialized Master's Class of 2024 Employment Report PDF",
+          "url": "https://olin.washu.edu/docs/programs/employment/smp-employment-report.pdf",
+          "access_date": "2026-10-26"
+        },
+        {
+          "title": "WashU Olin – MS in Finance overview",
+          "url": "https://olin.washu.edu/programs/specialized-masters/ms-in-finance/index.php",
+          "access_date": "2026-10-26"
+        },
+        {
+          "title": "WashU Olin Specialized Master's program profiles (Fall 2024 cohorts)",
+          "url": "https://olin.washu.edu/programs/specialized-masters/index.php",
+          "access_date": "2026-10-26"
+        },
+        {
+          "title": "WashU Center for Career Engagement – outcomes dashboard (CSEA for SMP)",
+          "url": "https://careers.washu.edu/channels/career-outcomes/",
+          "access_date": "2026-10-26"
+        }
+      ],
+      "confidence": "medium",
+      "confidence_reason": "Official 2024 PDF exists but is SMP-aggregate; MSF-track-specific current placement/salary unknown. Employer list marketing-grade.",
+      "last_updated": "2026-10-26"
+    },
+    {
+      "catalog_id": "gsu-msf",
+      "program_id": "gsu-msf",
+      "route_mismatch": false,
+      "school": "Georgia State University",
+      "program": "Robinson College of Business MS in Finance (Buckhead evening STEM)",
+      "degree": "MS",
+      "degree_family": "MSF",
+      "format_note": "Evening classes at Buckhead Center (weeknights); 12- and 16-month options; designed to accommodate working professionals.",
+      "internship_rate": "unknown (internships/CPT available via Fintech Academy & Career Advancement Center; cohort % not published as a single rate this run)",
+      "full_time_placement": "Official program pages: 88% / 88.5% of 2023 graduates employed within 3 months of completing the program. 2024–2025 placement %: unknown from a full public CSEA PDF this run.",
+      "full_time_placement_notes": "2025 Graduate Outcomes marketing stats emphasize salary change (88% average percent change; $31,500 average change; $136,000 average top-quartile salary) — these are compensation-change metrics for a working-professional-heavy program, not a classic first-destination seeker rate. Prefer 2023 3-month employment figure for placement.",
+      "notable_employers": [
+        "JPMorgan Chase",
+        "Bank of America",
+        "BlackRock",
+        "Amazon",
+        "Deloitte",
+        "EY",
+        "Truist",
+        "Synovus",
+        "Georgia-Pacific",
+        "The Home Depot",
+        "Delta Air Lines",
+        "NCR",
+        "Koch"
+      ],
+      "top_finance_firm_signal": "Moderate. Atlanta banking/fintech (Transaction Alley) + some national AM/IB names on examples list. Not a pure bulge/quant feeder like MIT/Princeton.",
+      "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
+      "sample_alumni_paths": [
+        "Corporate financial analyst / senior financial analyst",
+        "Valuation analyst",
+        "Fintech / financial data analytics roles",
+        "Consulting / Big 4 related roles"
+      ],
+      "referral_network_notes": "Robinson alumni network claimed 70k+; Buckhead employer proximity; Georgia Fintech Academy. Formal referral ease: unknown.",
+      "difficulty_notes": "Evening STEM format suits career-switchers already in Atlanta. GMAT/GRE not required. Less quant-bar than MFE/MSCF peers.",
+      "intl_student_notes": "STEM-designated. International applicants have earlier hard deadlines. Evening format + CPT/OPT planning differs from full-time day MSF; confirm F-1 course-load rules.",
+      "sources": [
+        {
+          "title": "GSU Robinson – Finance, M.S. program page (2023 placement + employers)",
+          "url": "https://robinson.gsu.edu/program/finance-ms/",
+          "access_date": "2026-10-26"
+        },
+        {
+          "title": "GSU Find Programs – Finance M.S. (2025 outcomes + Buckhead format + Fall 2027 rounds)",
+          "url": "https://findprograms.gsu.edu/program/finance-ms/",
+          "access_date": "2026-10-26"
+        },
+        {
+          "title": "Robinson Career Advancement Center – Panthers on the Move",
+          "url": "https://robinson.gsu.edu/cac/panthers-move-survey/",
+          "access_date": "2026-10-26"
+        }
+      ],
+      "confidence": "medium",
+      "confidence_reason": "Official pages state 2023 3-month employment ~88–88.5% and employer examples; no fresh Class of 2025 first-destination PDF with seeker denominators located.",
+      "last_updated": "2026-10-26"
+    },
+    {
+      "catalog_id": "usc-msf",
+      "program_id": "usc-msf",
+      "route_mismatch": false,
+      "school": "University of Southern California",
+      "program": "Marshall MS in Finance",
+      "degree": "MSF",
+      "degree_family": "MSF",
+      "internship_rate": "unknown (not broken out on Fall 2025 class profile employment summary)",
+      "full_time_placement": "87% employed among Fall 2024 graduates (official Marshall MS Finance class profile). Of hires: 78% North America / 22% international.",
+      "full_time_placement_notes": "Fall 2025 entering class: n=126; International 76%; avg work experience 5 months. Current class-profile page does not publish MSF mean/median base salary for Fall 2024 (older secondary reports cited ~$78.8k for 2023 — not used as current official).",
+      "notable_employers": [
+        "JPMorganChase",
+        "Bank of America",
+        "UBS Investment Bank",
+        "HSBC",
+        "Bloomberg",
+        "Nomura",
+        "TD Securities",
+        "EY",
+        "McKinsey & Company",
+        "Moody's Analytics",
+        "SoFi",
+        "Lincoln International",
+        "Warner Bros. Discovery"
+      ],
+      "notable_employers_notes": "Representative employers from official Marshall MS Finance class profile (not ranked by hire count).",
+      "top_finance_firm_signal": "Moderate-high. Mix of IB/markets (JPM, BofA, UBS, HSBC, Nomura), consulting (McKinsey, EY), fintech (SoFi), and LA corporate/PE boutique names.",
+      "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
+      "sample_alumni_paths": [
+        "Investment Banking Analyst / Corporate & Investment Banking Analyst",
+        "Private Equity Analyst / Venture Capital Fellow",
+        "M&A Associate / Deal Advisory valuation & modeling",
+        "Equity / Investment Analyst",
+        "Strategic Finance Analyst / Wealth Advisor Associate"
+      ],
+      "referral_network_notes": "Marshall Graduate Career Services; LA + Asia alumni density (76% intl entering class). Formal referral ease: unknown.",
+      "difficulty_notes": "STEM MSF; competitive apps (1,259 apps → 126 seats Fall 2025). GMAT/GRE optional per recent program materials — verify for Fall 2027.",
+      "intl_student_notes": "STEM; Fall 2025 class 76% international. Strong China/Asia representation in countries-of-origin list. OPT STEM extension relevant.",
+      "sources": [
+        {
+          "title": "USC Marshall – MS Finance Class Profile (employment summary + employers)",
+          "url": "https://www.marshall.usc.edu/programs/graduate-programs/specialized-masters/ms-finance/class-profile",
+          "access_date": "2026-10-26"
+        },
+        {
+          "title": "USC Marshall Graduate Recruitment Guide 2024-2025 (STEM note)",
+          "url": "https://uscmarshallweb.s3-us-west-2.amazonaws.com/assets/uploads/s1/files/recruitment_guide_2024-2025_hs6mwdwg06.pdf",
+          "access_date": "2026-10-26"
+        }
+      ],
+      "confidence": "high",
+      "confidence_reason": "Official Marshall class profile publishes Fall 2024 employed % + geography split + representative employers and titles; salary still unknown on that page.",
+      "last_updated": "2026-10-26"
+    },
+    {
+      "catalog_id": "brandeis-msf",
+      "program_id": "brandeis-msf",
+      "route_mismatch": false,
+      "school": "Brandeis University",
+      "program": "International Business School Master of Science in Finance (MSF)",
+      "degree": "MSF",
+      "degree_family": "MSF",
+      "internship_rate": "100% of seeking students secured an internship or field project (MSF 16-month graduates of 2025, official program page).",
+      "full_time_placement": "91% of job seekers secured employment or started their own business within six months of graduation (MSF 16-month Class of 2025).",
+      "full_time_placement_notes": "Average U.S. salary and bonus $88,182; salaries ranging up to $106,000 based on industry and experience (official). Employment data page lists industry mix including Technology 15%, IB/Brokerage 15%, Consulting 10%, Big 4 9%.",
+      "notable_employers": [
+        "Fidelity Investments",
+        "JPMorgan Chase & Co.",
+        "State Street Corp.",
+        "Santander Bank",
+        "Deloitte"
+      ],
+      "notable_employers_notes": "Named alumni hiring companies on official MSF page; not a full hire-count census.",
+      "top_finance_firm_signal": "Moderate. Boston-area AM/custody/banking (Fidelity, State Street, Santander, JPM) + Big 4/consulting. Less HF/prop density than Princeton/MIT.",
+      "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
+      "sample_alumni_paths": [
+        "Risk management",
+        "Transfer pricing / valuation",
+        "Corporate finance",
+        "Asset management / investment management",
+        "Financial analytics / FinTech concentration paths"
+      ],
+      "referral_network_notes": "IBS Career Strategies Center; Boston finance hub proximity; CFA/GARP/CAIA academic partnerships. Formal referral ease: unknown.",
+      "difficulty_notes": "9-month (experienced) and 16-month options for Fall 2025+. STEM. Partial/full tuition scholarships considered for 100% of admits (per page).",
+      "intl_student_notes": "STEM-designated; international student angle explicit on program marketing. Confirm 9 vs 16-month fit for CPT/internship requirement.",
+      "sources": [
+        {
+          "title": "Brandeis IBS – Master of Science in Finance (2025 outcomes)",
+          "url": "https://www.brandeis.edu/global/academics/msf/index.html",
+          "access_date": "2026-10-26"
+        },
+        {
+          "title": "Brandeis IBS – MSF career paths page (2025 outcomes restated)",
+          "url": "https://www.brandeis.edu/global/careers/msf.html",
+          "access_date": "2026-10-26"
+        },
+        {
+          "title": "Brandeis IBS – MSF Employment Data (industries/functions)",
+          "url": "https://www.brandeis.edu/global/text/msf-employment-data.html",
+          "access_date": "2026-10-26"
+        }
+      ],
+      "confidence": "high",
+      "confidence_reason": "Official program pages publish 2025 16-month internship 100%, 6-month placement 91%, and U.S. salary+bonus average with employer examples.",
+      "last_updated": "2026-10-26"
+    },
+    {
+      "catalog_id": "utah-msf",
+      "program_id": "utah-msf",
+      "route_mismatch": false,
+      "school": "University of Utah",
+      "program": "David Eccles School of Business Master of Science in Finance",
+      "degree": "MSF",
+      "degree_family": "MSF",
+      "internship_rate": "unknown",
+      "full_time_placement": "88% placement rate reported on Eccles MSF one-pager / marketing materials (average starting salary $90,402 base + variable). Careers page interactive counters rendered as 0 in public fetch — treat one-pager figure as primary public claim pending full employment PDF.",
+      "full_time_placement_notes": "Full CSEA-style Class of 2025 PDF not located this run. Older 2021 employment report (secondary archive) showed 93% acceptances by 6 months — historical only. LinkedIn school post cited $101,461 average (Jan 2025) — secondary, not used as primary.",
+      "notable_employers": [
+        "Goldman Sachs",
+        "Morgan Stanley",
+        "Zions Bancorporation",
+        "Wells Fargo",
+        "Citibank",
+        "Snap Finance",
+        "Carta",
+        "WebBank",
+        "Intermountain Healthcare",
+        "L3Harris Technologies"
+      ],
+      "notable_employers_notes": "Top Hiring Partners list on official Eccles MSF careers page.",
+      "top_finance_firm_signal": "Moderate. Named GS/MS plus strong Mountain West banks/fintech/corporate (Zions, WebBank, Snap Finance, Intermountain).",
+      "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
+      "sample_alumni_paths": [
+        "Investment banking / markets analyst paths (via named partners)",
+        "Corporate finance / FP&A in regional employers",
+        "Fintech / banking analytics (Snap Finance, WebBank, Carta)"
+      ],
+      "referral_network_notes": "Dedicated MSF career coach; ConnectU; Salt Lake + national locations listed. Formal referral ease: unknown.",
+      "difficulty_notes": "FT or PT; Fall or Spring start; ~30 credits; relatively accessible tuition vs coastal elites (~$39k estimated on one-pager — verify current).",
+      "intl_student_notes": "STEM-designated (official careers page discusses CPT/OPT + STEM OPT). One-pager cited ~17% international — verify current class profile.",
+      "sources": [
+        {
+          "title": "Eccles MSF – Careers / hiring partners / STEM OPT",
+          "url": "https://eccles.utah.edu/programs/master-of-science-in-finance/careers/",
+          "access_date": "2026-10-26"
+        },
+        {
+          "title": "Eccles MSF program home",
+          "url": "https://eccles.utah.edu/programs/master-of-science-in-finance/",
+          "access_date": "2026-10-26"
+        },
+        {
+          "title": "University of Utah MSF one-pager (Issuu) – 88% placement / $90,402 avg starting",
+          "url": "https://issuu.com/utahmba/docs/msf_-_one_pager",
+          "access_date": "2026-10-26"
+        }
+      ],
+      "confidence": "medium",
+      "confidence_reason": "Official careers page lists employers and STEM notes, but numeric placement/salary on live page were broken (0); relying on school one-pager marketing figures without a full employment PDF.",
+      "last_updated": "2026-10-26"
+    },
+    {
+      "catalog_id": "texas-msf",
+      "program_id": "texas-msf",
+      "route_mismatch": false,
+      "school": "The University of Texas at Austin",
+      "program": "McCombs Master of Science in Finance (MSF)",
+      "degree": "MSF",
+      "degree_family": "MSF",
+      "schedule_note": "Summer start (Class of 2025 employment report / McCombs specialized masters calendar).",
+      "internship_rate": "unknown as a single cohort %; report notes some internship conversions via McCombs (3 sourced from McCombs internships = 5.5% of offer sources among reporters).",
+      "full_time_placement": "94.2% of seekers received and accepted an offer within 6 months of graduation (Class of 2025; n seeking=69 of 72). 59.4% by graduation.",
+      "full_time_placement_notes": "Official McCombs MSF Class of 2025 Employment Report (CSEA Specialty Masters). Mean base $82,968; median $81,000; mean signing bonus $7,811. Financial Services 52% of acceptances. International students only 1% of entering Fall 2025 class profile — domestically oriented relative to peer MSFs. 75% of graduates accepted roles in Southwest (Houston/Austin/Dallas).",
+      "notable_employers": [
+        "Goldman Sachs",
+        "JP Morgan",
+        "Wells Fargo",
+        "Dimensional Fund Advisors",
+        "Deloitte",
+        "EY",
+        "Visa",
+        "JLL"
+      ],
+      "notable_employers_notes": "Sample companies on McCombs MSF career outcomes web page (prior/recent years aggregate examples) plus Class of 2025 function mix emphasizing banking/corporate finance/consulting.",
+      "top_finance_firm_signal": "Moderate-high for Texas/Southwest banking, corporate finance, valuation, and some IB (IB/S&T function mean base $105,000 among reporters). Fewer published elite HF/prop multi-hires than MIT/Princeton.",
+      "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
+      "sample_alumni_paths": [
+        "Investment Banking Analyst / Sales & Trading",
+        "Commercial / Corporate Banking",
+        "Corporate Finance / FP&A",
+        "Business Valuation / consulting",
+        "Investment Management / Research Analyst"
+      ],
+      "referral_network_notes": "43.6% of reported offer sources via McCombs corporate partners/alumni/staff/UT resources; 41.8% individual network. Strong Texas metro alumni density.",
+      "difficulty_notes": "Competitive specialized masters; Class of 2025 n=72. Low intl share may reduce OPT-peer competition but also signals less intl-oriented recruiting culture.",
+      "intl_student_notes": "Only 1% international in Class of 2025 profile — important Fall 2027 intl-applicant signal. Confirm STEM designation and summer-start visa timing.",
+      "sources": [
+        {
+          "title": "McCombs MSF Class of 2025 Employment Report PDF",
+          "url": "https://www.mccombs.utexas.edu/wp-content/uploads/2026/03/25-MSF-Employment-Report.pdf",
+          "access_date": "2026-10-26"
+        },
+        {
+          "title": "McCombs MSF – Career Outcomes page",
+          "url": "https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-finance/career-management/career-outcomes/",
+          "access_date": "2026-10-26"
+        }
+      ],
+      "confidence": "high",
+      "confidence_reason": "Official CSEA Specialty Masters PDF with seeker denominators, timing, salary, industry/function, geography, and offer sources.",
+      "last_updated": "2026-10-26"
+    }
+  ]
+}

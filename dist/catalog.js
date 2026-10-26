@@ -628,5 +628,85 @@ export const rankedSchools = [
     "rank": 29,
     "academic": "First-year core followed by more than 100 elective choices, spanning analytics, finance, strategy and other business disciplines.",
     "programUrl": "https://business.rice.edu/rice-mba/full-time-mba/curriculum"
+  },
+  {
+    "id": "mit-msf",
+    "university": "Massachusetts Institute of Technology",
+    "short": "MIT Sloan",
+    "degree": "Master of Finance (MFin)",
+    "area": "Finance",
+    "rank": 1,
+    "academic": "MIT Sloan MFin: 12- or 18-month formats starting summer. Quantitative finance curriculum; Python proficiency expected by matriculation.",
+    "programUrl": "https://mitsloan.mit.edu/mfin/admissions"
+  },
+  {
+    "id": "princeton-msf",
+    "university": "Princeton University",
+    "short": "Princeton BCF",
+    "degree": "Master in Finance (M.Fin.)",
+    "area": "Finance",
+    "rank": 2,
+    "academic": "Princeton M.Fin.: four-semester curriculum with required summer internship; strong economics and quantitative emphasis.",
+    "programUrl": "https://bcf.princeton.edu/academic-programs/master-in-finance/"
+  },
+  {
+    "id": "washu-msf",
+    "university": "Washington University in St. Louis",
+    "short": "WashU Olin",
+    "degree": "MS in Finance",
+    "area": "Finance",
+    "rank": 3,
+    "academic": "WashU Olin MSF: Corporate Finance, Quantitative Finance, or Wealth & Asset Management concentrations with different length and tuition.",
+    "programUrl": "https://olin.washu.edu/programs/specialized-masters/ms-in-finance/index.php"
+  },
+  {
+    "id": "gsu-msf",
+    "university": "Georgia State University",
+    "short": "Georgia State Robinson",
+    "degree": "MS in Finance",
+    "area": "Finance",
+    "rank": 4,
+    "academic": "GSU Robinson MSF: STEM-designated evening weekday program at Buckhead Center (5:30–9:45 p.m.); 12- or 16-month paths.",
+    "programUrl": "https://www.gsu.edu/program/finance-ms/"
+  },
+  {
+    "id": "usc-msf",
+    "university": "University of Southern California",
+    "short": "USC Marshall",
+    "degree": "MS in Finance",
+    "area": "Finance",
+    "rank": 5,
+    "academic": "USC Marshall MSF: 16-month, 36-unit STEM program with fall start and summer internship opportunity.",
+    "programUrl": "https://www.marshall.usc.edu/programs/graduate-programs/specialized-masters/ms-finance/"
+  },
+  {
+    "id": "brandeis-msf",
+    "university": "Brandeis University",
+    "short": "Brandeis IBS",
+    "degree": "MS in Finance",
+    "area": "Finance",
+    "rank": 6,
+    "academic": "Brandeis International Business School MSF: STEM; 9- or 16-month options with finance concentrations.",
+    "programUrl": "https://www.brandeis.edu/global/business/msf.html"
+  },
+  {
+    "id": "utah-msf",
+    "university": "University of Utah",
+    "short": "Utah Eccles",
+    "degree": "MS in Finance",
+    "area": "Finance",
+    "rank": 7,
+    "academic": "Utah Eccles MSF: 30-credit fixed-rate program; fall or spring start.",
+    "programUrl": "https://eccles.utah.edu/programs/master-of-science-in-finance/"
+  },
+  {
+    "id": "texas-msf",
+    "university": "The University of Texas at Austin",
+    "short": "Texas McCombs",
+    "degree": "MS in Finance",
+    "area": "Finance",
+    "rank": 8,
+    "academic": "UT Austin McCombs MSF: summer-start, ~10-month in-residence program.",
+    "programUrl": "https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-finance/"
   }
 ];
