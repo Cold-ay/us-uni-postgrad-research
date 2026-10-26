@@ -884,5 +884,88 @@ export const rankedSchools = [
     "id_alias_legacy": [
       "ucsd-rady-msf"
     ]
+  },
+  {
+    "id": "iit-msf",
+    "university": "Illinois Institute of Technology",
+    "short": "Illinois Tech Stuart",
+    "degree": "Illinois Tech Stuart MS Finance",
+    "area": "Finance",
+    "rank": 25,
+    "academic": "IIT Stuart MS Finance: STEM, ≥30 cr, FT 12–15 mo. Fall priorities Jan 31 / Apr 15; intl outside US regular Jun 15. Tuition 2026–27 $1,925/cr ≈ $57,750.",
+    "programUrl": "https://www.iit.edu/academics/programs/finance-ms",
+    "id_alias_legacy": [
+      "illinois-tech-msf"
+    ]
+  },
+  {
+    "id": "temple-msf",
+    "university": "Temple University",
+    "short": "Temple Fox",
+    "degree": "MS in Financial Analysis (Fox)",
+    "area": "Finance",
+    "rank": 26,
+    "academic": "Temple Fox Financial Analysis MS: STEM, 30 cr, 10 or 22 mo FT. Fall open Aug 1; Dec 15 early / Mar 1 intl&scholarship / Jun 30 final. Est. tuition $34,950 + $750 fee (2026–27).",
+    "programUrl": "https://www.temple.edu/academics/degree-programs/financial-analysis-ms-bu-fian-ms"
+  },
+  {
+    "id": "lsu-msf",
+    "university": "Louisiana State University",
+    "short": "LSU Ourso",
+    "degree": "MS in Finance",
+    "area": "Finance",
+    "rank": 27,
+    "academic": "LSU Ourso MS Finance: 36 cr / 3 semesters; Fall+Spring admits. Grad School deadlines May 15 fall / Oct 15 spring. Tuition via LSU schedule (null flat). STEM not stated on MSF page.",
+    "programUrl": "https://www.lsu.edu/business/finance/master-finance.php"
+  },
+  {
+    "id": "santaclara-msf",
+    "university": "Santa Clara University",
+    "short": "Santa Clara Leavey",
+    "degree": "MS in Finance & Analytics (MSFA)",
+    "area": "Finance",
+    "rank": 28,
+    "academic": "SCU Leavey MSFA: on-campus STEM, 36 u, ~9 mo FT. Fall priority Apr 1 / final Jun 1. Est. tuition $56,916 (2026–27). Online path non-STEM/non-F1.",
+    "programUrl": "https://www.scu.edu/business/ms/ms-finance-and-analytics/"
+  },
+  {
+    "id": "rit-msf",
+    "university": "Rochester Institute of Technology",
+    "short": "RIT Saunders",
+    "degree": "MS in Finance",
+    "area": "Finance",
+    "rank": 29,
+    "academic": "RIT Saunders Finance MS: STEM-OPT FT, Fall/Spring rolling. Tuition per RIT grad schedule (null flat). Credits not on program page (null). Flexible FinTech-heavy curriculum.",
+    "programUrl": "https://www.rit.edu/study/finance-ms"
+  },
+  {
+    "id": "arizona-msf",
+    "university": "University of Arizona",
+    "short": "Arizona Eller",
+    "degree": "MS in Finance",
+    "area": "Finance",
+    "rank": 30,
+    "academic": "Arizona Eller MSF: STEM, 30 cr, ~9 mo Tucson. Deadlines Oct 15 early / May 15 intl / Jun 1 FINPREP / Aug 1 final (years for F27). Tuition NR $47,500 / AZ $27,200 (2026–27).",
+    "programUrl": "https://eller.arizona.edu/programs/masters/finance/ms-finance"
+  },
+  {
+    "id": "chicago-booth-mif",
+    "university": "University of Chicago",
+    "short": "Chicago Booth",
+    "degree": "Asness and Liew Master in Finance (MiF)",
+    "area": "Finance",
+    "rank": null,
+    "academic": "Chicago Booth MiF (locked add): STEM-eligible, 15 mo / 4 quarters. Early Review from Oct 1’26; Round One Jan 7’27. Total tuition Aut 2026 matriculants $123,470 (proxy).",
+    "programUrl": "https://www.chicagobooth.edu/master-in-finance/admissions/how-to-apply"
+  },
+  {
+    "id": "columbia-msfe",
+    "university": "Columbia University",
+    "short": "Columbia Business School",
+    "degree": "MS in Financial Economics (MSFE)",
+    "area": "Finance",
+    "rank": null,
+    "academic": "Columbia MSFE (locked add): STEM-eligible, 4 semesters / ≥48 cr, late Aug start. App deadline ~Jan 28 2027 (verify). Est. tuition ~$77,516/yr ×2 (indexed; CF-blocked live).",
+    "programUrl": "https://academics.business.columbia.edu/msfe/academics"
   }
 ];

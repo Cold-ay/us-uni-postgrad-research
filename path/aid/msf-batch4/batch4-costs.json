@@ -1,0 +1,335 @@
+{
+  "_meta": {
+    "asOf": "2026-10-26",
+    "timezone": "Asia/Hong_Kong",
+    "intake": "Fall 2027 (IIT Fall/Spring; Temple Fall+Aug Finance Academy; LSU Fall/Spring; SCU Fall/Spring on-campus; RIT Fall/Spring; Arizona Fall Tucson; Booth Autumn 15-mo; Columbia late Aug 4-sem)",
+    "rankingSource": {
+      "name": "TFE Times 2026 Best Master's of Finance ranks 25–30 + locked adds",
+      "url": "https://tfetimes.com/best-finance-program-rankings/",
+      "as_of": "2026-03-01"
+    },
+    "rule": "Never invent; missing ≠ 0. Tuition figures from primary school pages/PDFs as of asOf. Cross-checked brief /workspace/brief-handoffs/msf-batch4.json.",
+    "programIds": [
+      "iit-msf",
+      "temple-msf",
+      "lsu-msf",
+      "santaclara-msf",
+      "rit-msf",
+      "arizona-msf",
+      "chicago-booth-mif",
+      "columbia-msfe"
+    ],
+    "idsSource": "/workspace/brief-handoffs/msf-candidate-list-2026-10-26.md (exact ids used); dossier /workspace/brief-handoffs/msf-batch4.json"
+  },
+  "iit-msf": {
+    "tuition": 57750,
+    "tuitionLabel": "Estimated tuition — 30 credits × $1,925/credit (Stuart School of Business 2026–27)",
+    "fees": null,
+    "feesNote": "Mandatory (2026–27 Stuart schedule): Activity Fee FT grad $125/semester; Student Service Fee new FT (entering Summer 2023+) $800 one-time; Opt-in U-Pass $155/semester; Health Insurance $2,510/year (billed Fall; waivable with comparable coverage). App fee $100; deposit $300. Semester count depends on FT pace (typically 12–15 months) — do not invent multi-semester fee total.",
+    "period": "2026–27",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://www.iit.edu/student-accounting/tuition-and-fees/current-tuition-and-fees/current-stuart-school-business",
+    "notes": "STEM-designated MS Finance; ≥30 semester credit hours; F-1 eligible. Open external admits (AMP Plus One is Illinois Tech undergrad pathway, not a restriction on external MS admits). Fall 2027 priorities Jan 31 / Apr 15; intl outside US regular Jun 15. Same per-credit rate domestic/intl.",
+    "startTerm": "Fall 2027 (also Spring; university calendar lists Summer — confirm Stuart MSF summer admits)",
+    "summerStart": null,
+    "summerStartNote": "University graduate calendar lists Summer term; Stuart MSF summer admits not confirmed on program page this pass.",
+    "stem": true,
+    "accessRestricted": false,
+    "livingCostBand": null,
+    "sources": [
+      [
+        "Stuart tuition 2026–27",
+        "https://www.iit.edu/student-accounting/tuition-and-fees/current-tuition-and-fees/current-stuart-school-business"
+      ],
+      [
+        "Finance (M.S.) program / STEM / scholarships",
+        "https://www.iit.edu/academics/programs/finance-ms"
+      ],
+      [
+        "Stuart Scholarships and Aid",
+        "https://www.iit.edu/stuart/admission-aid/scholarships-and-aid"
+      ],
+      [
+        "Graduate Student Scholarships",
+        "https://www.iit.edu/admissions-aid/tuition-and-aid/scholarships/graduate-student-scholarships"
+      ]
+    ]
+  },
+  "temple-msf": {
+    "tuition": 34950,
+    "tuitionLabel": "Estimated tuition — 30 credits × $1,165/credit (Fox specialized master’s 2026–27; PA and OOS same)",
+    "fees": 750,
+    "feesNote": "One-time program fee $750 in term of admission (Graduate Bulletin footnote for Fox specialized master’s / MBA). Living separate.",
+    "period": "2026–27 credit rate (Temple Graduate Bulletin Cost and Aid)",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://bulletin.temple.edu/graduate/cost-aid/",
+    "notes": "Official title Master of Science in Financial Analysis (STEM) — TFE lists Temple MS Finance. Full-time 10 or 22 months; part-time ~2 years. August Finance Academy precedes fall modules. Open external/intl admits. Program marketing also listed $1,165 for 2025–26; bulletin 2026–27 confirms same specialized-master rate.",
+    "startTerm": "Fall 2027 (Finance Academy in August precedes fall modules)",
+    "summerStart": false,
+    "stem": true,
+    "accessRestricted": false,
+    "livingCostBand": null,
+    "sources": [
+      [
+        "Temple Graduate Cost and Aid 2026–27",
+        "https://bulletin.temple.edu/graduate/cost-aid/"
+      ],
+      [
+        "Bulletin Financial Analysis MS",
+        "https://bulletin.temple.edu/graduate/scd/fox/financial-analysis-ms/"
+      ],
+      [
+        "Fox Financial Analysis MS hub",
+        "https://www.temple.edu/academics/degree-programs/financial-analysis-ms-bu-fian-ms"
+      ],
+      [
+        "Fox Grad Scholarships & Financial Aid",
+        "https://www.temple.edu/academics/schools-and-colleges/fox-school-of-business-and-management/fox-grad-scholarships-financial-aid"
+      ]
+    ]
+  },
+  "lsu-msf": {
+    "tuition": null,
+    "tuitionEstimate": 46311,
+    "tuitionLabel": null,
+    "tuitionEstimateLabel": "Estimate only (NOT a published flat sticker): non-resident Tier 2 tuition+mandatory fees for 36 credits paced 12+12+12 as Fall 2026 $15,441.15 + Spring 2027 $15,429.15 + third major-term 12h using Fall 2026 NR Tier 2 $15,441.15 ≈ $46,311. Third Fall 2027 rate not published — proxy. Alternative Summer 2027 12h NR $9,843.25 (summer schedule is untiered) would yield ≈ $40,714 for Fall+Spring+Summer — pacing not locked on department page.",
+    "fees": null,
+    "feesNote": "LSU graduate schedules already include mandatory fees in the published hour totals. No separate MSF program fee listed (MBA/DMAE professional fees do not apply to MS Finance).",
+    "period": "2026–27 graduate tuition schedule (no flat MSF sticker)",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://www.lsu.edu/business/finance/master-finance.php",
+    "notes": "On-campus Ourso MS Finance: 36-hour full-time three-semester program; Fall and Spring admits. Finance is Tier 2 differential tuition (LSU Differential Tuition FAQ). Separate LSU Online MS Finance ($970/cr × 36 = $34,920 marketed) is a different modality — out of this id’s primary sticker. Department page: We currently do not offer any assistantships for the masters program for the coming academic year. STEM not stated on MS Finance page (stem null). Open external admits (Accelerated BS/MS is undergrad path, not a restriction).",
+    "startTerm": "Fall 2027 (also Spring)",
+    "summerStart": false,
+    "stem": null,
+    "accessRestricted": false,
+    "altTuition": {
+      "tier": 2,
+      "fall2026_12h_NR_tier2": 15441.15,
+      "spring2027_12h_NR_tier2": 15429.15,
+      "summer2027_12h_NR_allGrad": 9843.25,
+      "fall2026_12h_resident_tier2": 6972.15,
+      "credits": 36
+    },
+    "livingCostBand": null,
+    "sources": [
+      [
+        "LSU MS Finance department",
+        "https://www.lsu.edu/business/finance/master-finance.php"
+      ],
+      [
+        "FY26–27 Graduate Tuition PDF",
+        "https://www.lsu.edu/bgtplan/Tuition-Fees/2026-2027/grad.pdf"
+      ],
+      [
+        "Differential Tuition FAQ (Finance = Tier 2)",
+        "https://www.lsu.edu/bgtplan/Tuition-Fees/differential-tuition-faq.pdf"
+      ],
+      [
+        "Catalog Finance M.S.",
+        "https://catalog.lsu.edu/preview_program.php?catoid=35&poid=14335"
+      ]
+    ]
+  },
+  "santaclara-msf": {
+    "tuition": 56916,
+    "tuitionLabel": "Estimated tuition — 36 units × $1,581/unit (MSFA 2026–27 on program page)",
+    "fees": null,
+    "feesNote": "Enrollment deposit MSFA $1,000 (credited to first-quarter tuition). Graduate Business Student Association Fee $50/quarter appears on Leavey bulletin financial info (2025–26 bulletin listed MSFA at prior $1,520/unit — use live program page $1,581 for 2026–27). Health insurance TBD / separate.",
+    "period": "2026–27",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://www.scu.edu/business/ms/ms-finance-and-analytics/",
+    "notes": "Official title MS in Finance & Analytics (MSFA). On-campus STEM / F-1 eligible; Online MSFA is NOT STEM and NOT F-1 eligible — use on-campus path for intl. ~9 months FT / ~16 months PT. Fall mid-September and Spring late March/early April starts for on-campus.",
+    "startTerm": "Fall 2027 (also Spring on-campus)",
+    "summerStart": false,
+    "stem": true,
+    "stemNote": "On-ground MSFA only; Online MSFA not STEM per Leavey FAQ.",
+    "accessRestricted": false,
+    "livingCostBand": null,
+    "sources": [
+      [
+        "SCU Leavey MSFA program / cost",
+        "https://www.scu.edu/business/ms/ms-finance-and-analytics/"
+      ],
+      [
+        "Leavey Graduate Business Scholarships",
+        "https://www.scu.edu/business/scholarships/"
+      ]
+    ]
+  },
+  "rit-msf": {
+    "tuition": null,
+    "tuitionEstimate": null,
+    "tuitionLabel": null,
+    "tuitionEstimateLabel": null,
+    "fees": null,
+    "feesNote": "When FT (9+ credits/sem): Student Activity Fee $235/sem + Student Health Services Fee $315/sem. International students automatically enrolled/billed for RIT health insurance (amount not on estimate page this pass). No Finance MS flat total published.",
+    "period": "2026–27 graduate tuition",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://www.rit.edu/admissions/graduate/estimate-education-costs",
+    "notes": "RIT graduate billing 2026–27: $2,690/credit if <12 credits/sem OR fixed $32,271/sem for 12–18 credits. Finance MS total credit hours NOT stated on rit.edu/study/finance-ms this pass (secondary sources cite 31 — left null). On-campus only; Fall or Spring; STEM-OPT eligible for full-time. Open external admits. Use RIT estimate tool once plan of study / credits confirmed.",
+    "startTerm": "Fall 2027 (also Spring; rolling)",
+    "summerStart": false,
+    "stem": true,
+    "accessRestricted": false,
+    "altTuition": {
+      "perCreditUnder12": 2690,
+      "fixedRate12to18PerSemester": 32271,
+      "activityFeePerSemesterFT": 235,
+      "healthServicesFeePerSemesterFT": 315
+    },
+    "livingCostBand": {
+      "low": 20386,
+      "high": null,
+      "basis": "RIT Estimate Graduate Education Costs page (linked from Finance MS): estimated living expenses (housing and meals) $17,370/year + estimated transportation, books, supplies, and personal expenses $3,016/year = $20,386. General graduate estimate — not a Finance-MS-only COA table."
+    },
+    "sources": [
+      [
+        "Finance MS program",
+        "https://www.rit.edu/study/finance-ms"
+      ],
+      [
+        "Estimate Graduate Education Costs 2026–27",
+        "https://www.rit.edu/admissions/graduate/estimate-education-costs"
+      ],
+      [
+        "Graduate Funding Sources",
+        "https://www.rit.edu/admissions/financial-aid/graduate-funding-sources"
+      ],
+      [
+        "RIT Tuition and Fees (grad table)",
+        "https://www.rit.edu/admissions/tuition-and-fees"
+      ]
+    ]
+  },
+  "arizona-msf": {
+    "tuition": 47500,
+    "tuitionLabel": "Non-resident tuition — Tucson on-campus MS Finance 9-month / 30 units (Eller Matrix 2026–27)",
+    "fees": null,
+    "feesNote": "Matrix footnote: tuition and fees subject to change. ROI page itemizes AZ resident 9-mo total $27,122 and Non-AZ $47,422 (slightly below matrix round numbers) including program fees/fees lines; $500 seat fee due after admission applied toward tuition if student attends. FINPrep non-credit summer module $2,500 separate if required. Online MSF listed separately $37,500 ($1,250/unit) — different modality.",
+    "period": "2026–27 (Eller graduate programs matrix PDF dated Aug 2026)",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://eller.arizona.edu/sites/default/files/2026-08/Matrix-2026-2027.pdf",
+    "notes": "STEM; ~9 months Tucson on-campus; 30 units. Open external/intl. Prefer matrix sticker ($47,500 NR / $27,200 AZ) as official 2026–27 program matrix; ROI page itemization differs by ~$78.",
+    "startTerm": "Fall 2027 (Tucson on-campus)",
+    "summerStart": false,
+    "stem": true,
+    "accessRestricted": false,
+    "altTuition": {
+      "arizonaResidentMatrix": 27200,
+      "nonResidentMatrix": 47500,
+      "arizonaResidentROIItemized": 27122,
+      "nonResidentROIItemized": 47422,
+      "onlineMSF": 37500
+    },
+    "livingCostBand": null,
+    "sources": [
+      [
+        "Eller Graduate Programs Matrix 2026–27 PDF",
+        "https://eller.arizona.edu/sites/default/files/2026-08/Matrix-2026-2027.pdf"
+      ],
+      [
+        "Eller MSF Cost / ROI",
+        "https://eller.arizona.edu/programs/masters/finance/ms-finance/roi"
+      ],
+      [
+        "Eller MSF Admissions",
+        "https://eller.arizona.edu/programs/masters/finance/ms-finance/admissions"
+      ],
+      [
+        "Eller MSF hub",
+        "https://eller.arizona.edu/programs/masters/finance/ms-finance"
+      ]
+    ]
+  },
+  "chicago-booth-mif": {
+    "tuition": 123470,
+    "tuitionLabel": "Total tuition four-quarter program — Autumn 2026 matriculants (proxy for Autumn 2027 until updated)",
+    "fees": 2674,
+    "feesNote": "From 2026/27 Estimated COA (Three Quarters): Student Services Fee $1,560 + Lifetime Credentials Fee $84 + Administrative Service Fee $1,030 = $2,674. Full tuition charged over four quarterly installments. Books $549 in 3-quarter COA. Health insurance allowance embedded in Misc. Personal Expenses; university health rates TBD on page.",
+    "period": "2026/27 (Autumn 2026 matriculant totals on Booth MiF Cost page)",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://www.chicagobooth.edu/master-in-finance/admissions/cost-financial-aid",
+    "notes": "Asness and Liew Master in Finance (MiF); STEM-eligible for OPT (FAQ); 15 months / four quarters; summer internship after first three quarters. Accelerated 10-month track discontinued. Autumn 2027 cohort rates may change — confirm when updated. Locked add (no TFE 2026 rank).",
+    "startTerm": "Autumn 2027",
+    "summerStart": false,
+    "stem": true,
+    "accessRestricted": false,
+    "altTuition": {
+      "threeQuarterTuitionInCOATable": 93282,
+      "fourQuarterProgramTotalAut2026Matriculants": 123470
+    },
+    "livingCostBand": {
+      "low": 35580,
+      "high": null,
+      "basis": "Booth MiF 2026/27 Estimated COA (Three Quarters): Housing and Food $26,010 + Misc. Personal Expenses $7,770 + Transportation $1,800 = $35,580. Fourth quarter / internship summer living not separately itemized on page."
+    },
+    "sources": [
+      [
+        "Booth MiF Cost & Financial Aid",
+        "https://www.chicagobooth.edu/master-in-finance/admissions/cost-financial-aid"
+      ],
+      [
+        "Booth MiF How to Apply",
+        "https://www.chicagobooth.edu/master-in-finance/admissions/how-to-apply"
+      ],
+      [
+        "Booth MiF FAQ",
+        "https://www.chicagobooth.edu/master-in-finance/faq"
+      ]
+    ]
+  },
+  "columbia-msfe": {
+    "tuition": 155032,
+    "tuitionLabel": "Estimated total tuition two years — $77,516/year × 2 (MSFE Student Budget 2026–27)",
+    "fees": 11517,
+    "feesNote": "Mandatory fees Year 1 $5,811 + Year 2 $5,706 = $11,517 (University services & support, program, health services, and Y1 one-time document fee components per page footnotes). Health Insurance $5,823/year separate in budget table.",
+    "period": "2026–27 indexed MSFE budgets on CBS MS Programs costs page",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://business.columbia.edu/financial-aid/costs/ms-programs",
+    "notes": "MS in Financial Economics (MSFE); STEM-eligible; four fall/spring semesters; min 48 credits / max 52.5 under flat rate; begins late August; typical ≥6-week summer internship. Live costs page Cloudflare-blocked to direct curl; figures verified via jina.ai fetch of the same official URL showing Student Budget 2026–27 Year 1/2 tables ($77,516 tuition each year). Wayback Apr 2026 still showed prior 2025–26 MSFE $75,256 — live updated. Tuition generally increases 2–7% noted on page — Fall 2027 entrants’ Year 2 may differ. Locked add (no TFE 2026 rank).",
+    "startTerm": "Late August 2027 (four fall/spring semesters)",
+    "summerStart": false,
+    "stem": true,
+    "accessRestricted": false,
+    "altTuition": {
+      "year1Tuition": 77516,
+      "year2Tuition": 77516,
+      "year1MandatoryFees": 5811,
+      "year2MandatoryFees": 5706,
+      "year1TotalBudget": 125666,
+      "year2TotalBudget": 125561
+    },
+    "livingCostBand": {
+      "low": 35226,
+      "high": null,
+      "basis": "MSFE Student Budget 2026–27 (per year): Food & Housing $30,231 + Personal Expenses $3,636 + Transportation $1,359 = $35,226 (excludes books $1,290 and health insurance $5,823). Same living lines Year 1 and Year 2."
+    },
+    "sources": [
+      [
+        "CBS MS Programs costs (MSFE Budget)",
+        "https://business.columbia.edu/financial-aid/costs/ms-programs"
+      ],
+      [
+        "CBS Academics Tuition and Financial Aid (MS fellowships)",
+        "https://academics.business.columbia.edu/tuition-and-financial-aid"
+      ],
+      [
+        "MSFE academics",
+        "https://academics.business.columbia.edu/msfe/academics"
+      ],
+      [
+        "MSFE hub",
+        "https://academics.business.columbia.edu/msfe"
+      ]
+    ]
+  }
+}

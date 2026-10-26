@@ -16,7 +16,7 @@ const MSF_CATALOG_ID_ALIAS = {
   'ucsd-rady-msf': 'ucsd-msf',
 };
 
-/** Batch3 primary slate only. Batch4 path cards stay in the source file and are not wired. */
+/** Batch3 primary slate only. Batch4 cards are wired from path-batch4-from-batch002-003.json, not leftover batch3 rows. */
 const MSF_BATCH3_CATALOG_IDS = new Set([
   'bc-msf',
   'cgu-msf',
@@ -41,6 +41,46 @@ function selectBatch3OutcomeCards(cards) {
   }
   if (ids.length !== MSF_BATCH3_CATALOG_IDS.size) {
     throw new Error(`Expected ${MSF_BATCH3_CATALOG_IDS.size} batch3 outcome cards, got ${ids.join(', ')}`);
+  }
+  return selected;
+}
+
+/** Batch4 extract. illinois-tech-msf remaps onto iit-msf; do not emit both spellings. */
+const MSF_BATCH4_ALIAS = {
+  'illinois-tech-msf': 'iit-msf',
+};
+
+const MSF_BATCH4_CATALOG_IDS = [
+  'iit-msf',
+  'temple-msf',
+  'lsu-msf',
+  'santaclara-msf',
+  'rit-msf',
+  'arizona-msf',
+  'chicago-booth-mif',
+  'columbia-msfe',
+];
+
+function selectBatch4OutcomeCards(cards) {
+  const allowed = new Set(MSF_BATCH4_CATALOG_IDS);
+  const selected = [];
+  for (const card of cards) {
+    const catalog_id = MSF_BATCH4_ALIAS[card.catalog_id] || card.catalog_id;
+    if (!allowed.has(catalog_id)) {
+      throw new Error(`Unexpected batch4 outcome catalog id ${card.catalog_id}`);
+    }
+    selected.push({ ...card, catalog_id });
+  }
+  const ids = selected.map((card) => card.catalog_id);
+  if (new Set(ids).size !== ids.length) {
+    throw new Error(`Duplicate batch4 outcome catalog ids: ${ids.join(', ')}`);
+  }
+  const missing = MSF_BATCH4_CATALOG_IDS.filter((id) => !ids.includes(id));
+  if (missing.length || ids.length !== MSF_BATCH4_CATALOG_IDS.length) {
+    throw new Error(`Expected 8 batch4 outcome cards, missing ${missing.join(', ') || 'none'}, got ${ids.join(', ')}`);
+  }
+  if (ids.includes('illinois-tech-msf')) {
+    throw new Error('illinois-tech-msf must not be an outcome key');
   }
   return selected;
 }
@@ -134,11 +174,13 @@ export async function generateOutcomes() {
   const msfFloridaMsft = JSON.parse(await readFile(path.join(root, 'path/outcomes/msf-florida-msft.json'), 'utf8'));
   const msfBatch003 = JSON.parse(await readFile(path.join(root, 'path/outcomes/msf-batch-003.json'), 'utf8'));
   const msfBcFromBatch002 = JSON.parse(await readFile(path.join(root, 'path/outcomes/path-bc-msf-from-batch002.json'), 'utf8'));
+  const msfBatch4 = JSON.parse(await readFile(path.join(root, 'path/outcomes/path-batch4-from-batch002-003.json'), 'utf8'));
   const idMap = JSON.parse(await readFile(path.join(root, 'path/outcomes/id-map.json'), 'utf8'));
   const msfBatch003Cards = selectBatch3OutcomeCards([
     ...msfBcFromBatch002.cards,
     ...msfBatch003.cards,
   ]);
+  const msfBatch4Cards = selectBatch4OutcomeCards(msfBatch4.cards);
 
   const outcomeCards = {};
   const unlinkedOutcomeCards = {};
@@ -224,10 +266,19 @@ export async function generateOutcomes() {
     outcomeAdjacentByCatalogId,
     outcomeSpecialtyByCatalogId,
   );
+  ingestV2Batch(
+    'msf-batch4',
+    msfBatch4.meta,
+    msfBatch4Cards,
+    outcomeCards,
+    unlinkedOutcomeCards,
+    outcomeAdjacentByCatalogId,
+    outcomeSpecialtyByCatalogId,
+  );
 
-  const body = `// Generated from path/outcomes/batch-001.json through batch-005.json, msf-batch-001.json, msf-batch-002.json, msf-florida-msft.json, msf-batch-003.json (batch3 catalog ids only; ohiostate-msf→ohio-msf, ucsd-rady-msf→ucsd-msf), path-bc-msf-from-batch002.json, and id-map.json. Do not edit by hand.
+  const body = `// Generated from path/outcomes/batch-001.json through batch-005.json, msf-batch-001.json, msf-batch-002.json, msf-florida-msft.json, msf-batch-003.json (batch3 catalog ids only; ohiostate-msf→ohio-msf, ucsd-rady-msf→ucsd-msf), path-bc-msf-from-batch002.json, path-batch4-from-batch002-003.json (illinois-tech-msf→iit-msf), and id-map.json. Do not edit by hand.
 export const outcomeBatchMeta = ${JSON.stringify(
-    [batch001.meta, batch002.meta, batch003.meta, batch004.meta, batch005.meta, msfBatch001.meta, msfBatch002.meta, msfFloridaMsft.meta, msfBatch003.meta, msfBcFromBatch002.meta],
+    [batch001.meta, batch002.meta, batch003.meta, batch004.meta, batch005.meta, msfBatch001.meta, msfBatch002.meta, msfFloridaMsft.meta, msfBatch003.meta, msfBcFromBatch002.meta, msfBatch4.meta],
     null,
     2,
   )};

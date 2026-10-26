@@ -1,0 +1,529 @@
+{
+  "batch": "msf-batch4",
+  "as_of": "2026-10-26",
+  "degree": "msf",
+  "field": "dossier-core",
+  "notes": [
+    "Fall 2027 MSF project batch4: TFE Times 2026 ranks 25–30 plus locked adds chicago-booth-mif and columbia-msfe (tfeRank2026 null).",
+    "Title verification: Temple official = MS in Financial Analysis; Santa Clara official = MS in Finance & Analytics (MSFA); Chicago = Asness and Liew Master in Finance (MiF); Columbia = MS in Financial Economics (MSFE).",
+    "Summer / non-autumn flags: Temple August Finance Academy precedes fall modules; IIT university calendar lists Summer graduate term (confirm Stuart MSF); SCU/RIT/LSU have Spring entry; Booth/Columbia include summer internship between academic terms but matriculate autumn.",
+    "Professor reputation signals: deferred (not researched this pass).",
+    "US News Finance specialty not used as MSF program rank. TFE primary only for ranks 25–30."
+  ],
+  "ranking_source_primary": {
+    "name": "TFE Times 2026 Best Master's of Finance",
+    "url": "https://tfetimes.com/best-finance-program-rankings/",
+    "as_of": "2026-03-01"
+  },
+  "items": [
+    {
+      "id": "iit-msf",
+      "school": "Illinois Tech Stuart",
+      "program": "Master of Science in Finance (M.S. Finance)",
+      "as_of": "2026-10-26",
+      "tfeRank2026": 25,
+      "startTerm": "Fall / Spring (university graduate calendar also lists Summer term — confirm Stuart MSF summer admits)",
+      "openDate": null,
+      "openDateNote": "University graduate deadlines page; exact open date not labeled for Stuart MSF specifically.",
+      "deadlines": [
+        {
+          "label": "Fall — Priority 1",
+          "date": "2027-01-31"
+        },
+        {
+          "label": "Fall — Priority 2",
+          "date": "2027-04-15"
+        },
+        {
+          "label": "Fall — Regular (intl living outside U.S.)",
+          "date": "2027-06-15"
+        },
+        {
+          "label": "Fall — Regular (domestic / intl living in U.S.)",
+          "date": "2027-07-15"
+        },
+        {
+          "label": "Fall — I-20 (intl outside U.S.)",
+          "date": "2027-06-30"
+        },
+        {
+          "label": "Fall — I-20 (intl in U.S.)",
+          "date": "2027-07-31"
+        },
+        {
+          "label": "Spring — Priority",
+          "date": "2026-10-15",
+          "dateNote": "Priority#1 extended to Oct 15"
+        },
+        {
+          "label": "Spring — Regular international",
+          "date": "2026-11-15"
+        },
+        {
+          "label": "Spring — Regular domestic",
+          "date": "2027-01-07"
+        }
+      ],
+      "deadlinesNote": "Illinois Tech university Masters Program deadlines (years assigned for Fall 2027 / Spring 2027 cycles). A separate Graduate Admission FAQ table shows alternate Fall/Summer dates — use Admission Dates and Deadlines page; confirm Stuart applies same calendar.",
+      "tuition": 57750,
+      "tuitionLabel": "Estimated tuition 30 credits × $1,925/credit (Stuart 2026–27)",
+      "feesNote": "Activity fee FT grad $125/sem; student service fee (new FT entering Summer 2023+) $800; health insurance $2,510/year; app fee $100; deposit $300.",
+      "period": "2026–27",
+      "costNote": "Official Current Stuart School of Business tuition page: $1,925 per credit hour. Program requires ≥30 credits → $57,750 tuition before fees. Living separate.",
+      "duration": "Full-time typically 12–15 months; part-time about 2 years.",
+      "credits": "At least 30 semester credit hours (10 courses × 3)",
+      "tracks": [
+        "Financial Technology",
+        "Portfolio Management",
+        "Risk Management",
+        "Corporate Finance and Valuation",
+        "Quantitative Modeling and Trading",
+        "Mathematical Finance",
+        "AMP Plus One (Illinois Tech undergrads)",
+        "Dual degrees (MBA / JD combinations available)"
+      ],
+      "coreNotes": "STEM-designated; F-1 eligible. No GMAT/GRE required. Evening/Saturday downtown Chicago classes. Min 3.0 undergrad GPA stated.",
+      "academic": "IIT Stuart MS Finance: STEM, ≥30 cr, FT 12–15 mo. Fall priorities Jan 31 / Apr 15; intl outside US regular Jun 15. Tuition 2026–27 $1,925/cr ≈ $57,750.",
+      "orientation": "Fall/Spring · 12–15 months · STEM · TFE #25 (2026)",
+      "stem": true,
+      "sources": [
+        [
+          "Program hub / STEM / curriculum",
+          "https://www.iit.edu/academics/programs/finance-ms"
+        ],
+        [
+          "Graduate admission dates & deadlines",
+          "https://www.iit.edu/admissions-aid/graduate-admission/admission-dates-and-deadlines"
+        ],
+        [
+          "Stuart tuition 2026–27",
+          "https://www.iit.edu/student-accounting/tuition-and-fees/current-tuition-and-fees/current-stuart-school-business"
+        ],
+        [
+          "TFE Times 2026",
+          "https://tfetimes.com/best-finance-program-rankings/"
+        ]
+      ]
+    },
+    {
+      "id": "temple-msf",
+      "school": "Temple Fox",
+      "program": "Master of Science in Financial Analysis (MS) — Fox finance suite (TFE lists Temple MS Finance)",
+      "as_of": "2026-10-26",
+      "tfeRank2026": 26,
+      "startTerm": "Fall (Finance Academy in August precedes fall modules)",
+      "openDate": "2026-08-01",
+      "openDateNote": "Admissions calendar: Fall term applications open Aug 1 (year assigned for Fall 2027 cycle).",
+      "deadlines": [
+        {
+          "label": "Early admissions",
+          "date": "2026-12-15"
+        },
+        {
+          "label": "Scholarship & international",
+          "date": "2027-03-01"
+        },
+        {
+          "label": "Final",
+          "date": "2027-06-30"
+        }
+      ],
+      "deadlinesNote": "Month/day from Fox Financial Analysis MS admissions + bulletin; years assigned for Fall 2027 entry. Rolling review after deadlines space-available.",
+      "tuition": 34950,
+      "tuitionLabel": "Estimated tuition 30 credits × $1,165/credit (Fox specialized master’s 2026–27)",
+      "feesNote": "One-time program fee $750 in admission term (bulletin). Living separate.",
+      "period": "2026–27 credit rate (bulletin Cost and Aid); program marketing page also lists $1,165 for 2025–26",
+      "costNote": "Temple Graduate Bulletin 2026–27: Fox specialized master’s $1,165/credit (PA and OOS same) + $750 one-time program fee. 30-credit MS → ~$34,950 + $750 before living.",
+      "duration": "Full-time 10 or 22 months; part-time ~2 years.",
+      "credits": "30",
+      "tracks": [
+        "Financial Analysis MS (STEM) — primary TFE match",
+        "Related Fox: Quantitative Finance MS; Financial and Quantitative Analysis MS",
+        "CFA University Affiliation (Levels I–III CBOK)"
+      ],
+      "coreNotes": "STEM-designated. Official title is Financial Analysis MS (not plain 'MS in Finance'). August Finance Academy kickoff then Fall I/II and Spring I/II modules. GMAT/GRE optional (required if GPA <3.0 per bulletin). $60 app fee. Prereqs: accounting, finance, micro/macro, statistics B or better.",
+      "academic": "Temple Fox Financial Analysis MS: STEM, 30 cr, 10 or 22 mo FT. Fall open Aug 1; Dec 15 early / Mar 1 intl&scholarship / Jun 30 final. Est. tuition $34,950 + $750 fee (2026–27).",
+      "orientation": "Fall (+ Aug academy) · 10 or 22 months · STEM · TFE #26 (2026)",
+      "stem": true,
+      "sources": [
+        [
+          "Program hub",
+          "https://www.temple.edu/academics/degree-programs/financial-analysis-ms-bu-fian-ms"
+        ],
+        [
+          "Admissions / deadlines",
+          "https://www.temple.edu/academics/degree-programs/financial-analysis-ms-bu-fian-ms/admissions"
+        ],
+        [
+          "Bulletin curriculum / STEM",
+          "https://bulletin.temple.edu/graduate/scd/fox/financial-analysis-ms/"
+        ],
+        [
+          "Graduate cost & aid 2026–27",
+          "https://bulletin.temple.edu/graduate/cost-aid/"
+        ],
+        [
+          "TFE Times 2026",
+          "https://tfetimes.com/best-finance-program-rankings/"
+        ]
+      ]
+    },
+    {
+      "id": "lsu-msf",
+      "school": "LSU Ourso",
+      "program": "Master of Science in Finance (MS Finance)",
+      "as_of": "2026-10-26",
+      "tfeRank2026": 27,
+      "startTerm": "Fall and Spring",
+      "openDate": null,
+      "openDateNote": "Graduate School / department deadlines posted; exact open date not labeled on MS Finance page.",
+      "deadlines": [
+        {
+          "label": "Fall admission (Graduate School)",
+          "date": "2027-05-15",
+          "dateNote": "Department page: Grad School sets May 15 for Fall; advises intl to apply ~10 months early"
+        },
+        {
+          "label": "Spring admission (Graduate School)",
+          "date": "2026-10-15"
+        }
+      ],
+      "deadlinesNote": "From LSU Department of Finance MS Finance page citing Pinkie Gordon Lane Graduate School deadlines. Separate LSU Online MS Finance has different module deadlines — not the on-campus program.",
+      "tuition": null,
+      "tuitionLabel": null,
+      "tuitionAlt": null,
+      "period": "2026–27 graduate tuition schedule",
+      "costNote": "No flat MSF total on department page. FY26–27 Grad PDF: Tier 1 resident/non-resident schedules (e.g. Fall 2026 12-hour NR Tier 1 ~$15,333.75 including mandatory fees). Confirm which tier Finance majors use and sum across 3 semesters via bursar. Related LSU Online MS Finance markets $970/cr × 36 = $34,920 — separate modality.",
+      "duration": "36-hour full-time three-semester program (~12 months typical).",
+      "credits": "36",
+      "tracks": [
+        "Accounting focus",
+        "Actuarial Science focus",
+        "Corporate Finance focus",
+        "Economics focus",
+        "ISDS focus",
+        "Internal Audit focus",
+        "Investments focus",
+        "Statistics focus",
+        "Customized focus",
+        "Accelerated BS/MS (undergrad path)",
+        "JD/MS dual",
+        "Related: MS in Financial Economics (10 months) — separate degree"
+      ],
+      "coreNotes": "STEM designation not stated on fetched MS Finance department page (stem null). Separate MS Financial Economics exists. Targets ~3.2 GPA / GMAT ≥600 (historical waiver language for high GPA). Small cohort (~25). Business core prereqs required.",
+      "academic": "LSU Ourso MS Finance: 36 cr / 3 semesters; Fall+Spring admits. Grad School deadlines May 15 fall / Oct 15 spring. Tuition via LSU schedule (null flat). STEM not stated on MSF page.",
+      "orientation": "Fall/Spring · 36 cr / ~3 sem · STEM unstated · TFE #27 (2026)",
+      "stem": null,
+      "sources": [
+        [
+          "MS Finance department page",
+          "https://www.lsu.edu/business/finance/master-finance.php"
+        ],
+        [
+          "Catalog Finance M.S.",
+          "https://catalog.lsu.edu/preview_program.php?catoid=35&poid=14335"
+        ],
+        [
+          "FY26–27 graduate tuition PDF",
+          "https://www.lsu.edu/bgtplan/Tuition-Fees/2026-2027/grad.pdf"
+        ],
+        [
+          "Graduate School apply / deadlines",
+          "https://www.lsu.edu/graduateschool/admissions/apply.php"
+        ],
+        [
+          "TFE Times 2026",
+          "https://tfetimes.com/best-finance-program-rankings/"
+        ]
+      ]
+    },
+    {
+      "id": "santaclara-msf",
+      "school": "Santa Clara Leavey",
+      "program": "Master of Science in Finance & Analytics (MSFA)",
+      "as_of": "2026-10-26",
+      "tfeRank2026": 28,
+      "startTerm": "Fall (mid-September) and Spring (late March/early April) for on-campus MSFA",
+      "openDate": null,
+      "openDateNote": "Applications normally open ~9 months before deadline; exact open date not labeled.",
+      "deadlines": [
+        {
+          "label": "Fall on-campus — Priority",
+          "date": "2027-04-01"
+        },
+        {
+          "label": "Fall on-campus — Final",
+          "date": "2027-06-01",
+          "dateNote": "Approx start mid-September"
+        },
+        {
+          "label": "Spring on-campus — Final",
+          "date": "2027-01-20",
+          "dateNote": "Priority column blank on table; approx start late March/early April"
+        },
+        {
+          "label": "Fall online — Priority",
+          "date": "2026-08-15"
+        },
+        {
+          "label": "Fall online — Final",
+          "date": "2026-09-05"
+        }
+      ],
+      "deadlinesNote": "Month/day from Leavey MSFA page; years assigned for next Fall/Spring cycles. Late apps: domestic space-available only; no late F-1 apps.",
+      "tuition": 56916,
+      "tuitionLabel": "Estimated tuition 36 units × $1,581/unit (2026–27)",
+      "feesNote": "Deposit MSFA $1,000 (credited to first quarter). Living/insurance separate.",
+      "period": "2026–27",
+      "costNote": "Official MSFA page: $1,581 per unit 2026–2027; minimum 36 units. Subject to annual adjustment.",
+      "duration": "As little as 9 months full-time; about 16 months part-time.",
+      "credits": "36 academic units (22 core + 10 elective + 4 experiential)",
+      "tracks": [
+        "On-campus MSFA (STEM / F-1 eligible)",
+        "Online MSFA (not STEM; not F-1 eligible)"
+      ],
+      "coreNotes": "Official title is MS in Finance & Analytics (not plain MS Finance). On-ground STEM-designated; online is not. Evening/weekend classes. Calculus & statistics recommended. GMAT/GRE or waiver.",
+      "academic": "SCU Leavey MSFA: on-campus STEM, 36 u, ~9 mo FT. Fall priority Apr 1 / final Jun 1. Est. tuition $56,916 (2026–27). Online path non-STEM/non-F1.",
+      "orientation": "Fall/Spring · ~9–16 months · on-campus STEM · TFE #28 (2026)",
+      "stem": true,
+      "stemNote": "STEM applies to on-ground MSFA only; Online MSFA not STEM-designated per Leavey FAQ.",
+      "sources": [
+        [
+          "MSFA program / deadlines / cost / STEM",
+          "https://www.scu.edu/business/ms/ms-finance-and-analytics/"
+        ],
+        [
+          "Leavey MS hub",
+          "https://www.scu.edu/business/ms/"
+        ],
+        [
+          "TFE Times 2026",
+          "https://tfetimes.com/best-finance-program-rankings/"
+        ]
+      ]
+    },
+    {
+      "id": "rit-msf",
+      "school": "RIT Saunders",
+      "program": "Master of Science in Finance (Finance MS)",
+      "as_of": "2026-10-26",
+      "tfeRank2026": 29,
+      "startTerm": "Fall or Spring (on-campus only)",
+      "openDate": null,
+      "openDateNote": "Rolling admissions; exact open date not labeled on program page.",
+      "deadlines": [
+        {
+          "label": "Fall / Spring — Rolling",
+          "date": null,
+          "dateNote": "Program page: Application Deadline = Rolling for full-time and part-time. Apply early for visa timing; no fixed final date published on program page."
+        }
+      ],
+      "deadlinesNote": "RIT graduate admissions describes priority/standard/extended rolling for many programs, but Finance MS table lists Rolling only. Confirm any priority scholarship date with Saunders admissions.",
+      "tuition": null,
+      "tuitionLabel": null,
+      "period": "2026–27 graduate tuition",
+      "costNote": "RIT graduate billing 2026–27: $2,690/credit if <12 credits/sem OR fixed $32,271/sem for 12–18 credits. Plus activity $235 + health services $315 per semester when FT (9+). Total program cost depends on credit pacing — no single Finance MS flat total on program page. Use RIT estimate tool.",
+      "duration": "Flexible; typically completable in about one academic year full-time (confirm plan of study). Co-op optional.",
+      "credits": null,
+      "creditsNote": "Total credit hours not stated on rit.edu/study/finance-ms this pass. Secondary sources cite 31 — leave null until official curriculum listing confirms.",
+      "tracks": [
+        "Full-time (STEM-OPT eligible)",
+        "Part-time (not STEM-OPT eligible per program table)",
+        "Elective focus areas: AI/ML, advanced financial analytics, algorithmic trading / FinTech"
+      ],
+      "coreNotes": "STEM-OPT Visa Eligible for full-time on-campus (program table). GMAT/GRE optional (recommended for international degrees). CFA-oriented curriculum.",
+      "academic": "RIT Saunders Finance MS: STEM-OPT FT, Fall/Spring rolling. Tuition per RIT grad schedule (null flat). Credits not on program page (null). Flexible FinTech-heavy curriculum.",
+      "orientation": "Fall/Spring rolling · STEM-OPT (FT) · TFE #29 (2026)",
+      "stem": true,
+      "sources": [
+        [
+          "Program hub / STEM-OPT / rolling",
+          "https://www.rit.edu/study/finance-ms"
+        ],
+        [
+          "Estimate graduate education costs 2026–27",
+          "https://www.rit.edu/admissions/graduate/estimate-education-costs"
+        ],
+        [
+          "Graduate admission deadlines overview",
+          "https://www.rit.edu/admissions/graduate-admission-deadlines-and-requirements"
+        ],
+        [
+          "TFE Times 2026",
+          "https://tfetimes.com/best-finance-program-rankings/"
+        ]
+      ]
+    },
+    {
+      "id": "arizona-msf",
+      "school": "Arizona Eller",
+      "program": "Master of Science in Finance (MSF)",
+      "as_of": "2026-10-26",
+      "tfeRank2026": 30,
+      "startTerm": "Fall (Tucson on-campus 9-month path); online MSF also offered",
+      "openDate": null,
+      "openDateNote": "Rounds posted without separate open date.",
+      "deadlines": [
+        {
+          "label": "Fall Early Admission",
+          "date": "2026-10-15"
+        },
+        {
+          "label": "Fall — International",
+          "date": "2027-05-15"
+        },
+        {
+          "label": "FINPREP Deadline",
+          "date": "2027-06-01"
+        },
+        {
+          "label": "Fall Final",
+          "date": "2027-08-01"
+        }
+      ],
+      "deadlinesNote": "Month/day from Eller MSF admissions; years assigned for Fall 2027. Same page also says preferred intl deadline Dec 1 and mentions Feb 1 in one paragraph — conflict with May 15 intl line; dossier uses the bullet list (Oct 15 / May 15 / Jun 1 / Aug 1). Re-verify with admissions.",
+      "tuition": 47500,
+      "tuitionAlt": 27200,
+      "tuitionLabel": "Non-resident tuition — 9-month Tucson MSF (2026–27 matrix)",
+      "tuitionAltLabel": "Arizona resident tuition — 9-month Tucson MSF (2026–27 matrix)",
+      "feesNote": "Matrix footnote: tuition and fees subject to change. Online MSF listed separately at $37,500 ($1,250/unit).",
+      "period": "2026–27 (Eller graduate programs matrix PDF dated Aug 2026)",
+      "costNote": "Official Eller Matrix-2026-2027.pdf: MS Finance Tucson 9+ months / 30 units — AZ $27,200 / Non-resident $47,500.",
+      "duration": "As few as 9 months (on-campus); online 12+ months.",
+      "credits": "30",
+      "tracks": [
+        "Tucson on-campus MSF",
+        "Online MSF",
+        "Dual degrees: MBA, MSBA, MSA, JD"
+      ],
+      "coreNotes": "STEM-designated. GMAT/GRE waived for Fall 2027 (admissions). FINPREP online module may be required. CFA prep supported.",
+      "academic": "Arizona Eller MSF: STEM, 30 cr, ~9 mo Tucson. Deadlines Oct 15 early / May 15 intl / Jun 1 FINPREP / Aug 1 final (years for F27). Tuition NR $47,500 / AZ $27,200 (2026–27).",
+      "orientation": "Fall · ~9 months · STEM · TFE #30 (2026)",
+      "stem": true,
+      "sources": [
+        [
+          "Program hub / STEM",
+          "https://eller.arizona.edu/programs/masters/finance/ms-finance"
+        ],
+        [
+          "Admissions / deadlines",
+          "https://eller.arizona.edu/programs/masters/finance/ms-finance/admissions"
+        ],
+        [
+          "Graduate programs matrix 2026–27 PDF",
+          "https://eller.arizona.edu/sites/default/files/2026-08/Matrix-2026-2027.pdf"
+        ],
+        [
+          "TFE Times 2026",
+          "https://tfetimes.com/best-finance-program-rankings/"
+        ]
+      ]
+    },
+    {
+      "id": "chicago-booth-mif",
+      "school": "Chicago Booth",
+      "program": "Asness and Liew Master in Finance (MiF)",
+      "as_of": "2026-10-26",
+      "tfeRank2026": null,
+      "startTerm": "Autumn (15-month program; summer internship after first three quarters)",
+      "openDate": "2026-10-01",
+      "openDateNote": "Early Review window starts October 1, 2026.",
+      "deadlines": [
+        {
+          "label": "Early Review",
+          "date": "2026-10-01",
+          "dateNote": "Starting Oct 1, 2026; decisions rolling until mid-December 2026; submit by 11:59 p.m. CT"
+        },
+        {
+          "label": "Round One",
+          "date": "2027-01-07",
+          "decisionBy": "2027-03-08",
+          "dateNote": "Decision release week of March 8, 2027"
+        }
+      ],
+      "tuition": 123470,
+      "tuitionLabel": "Total tuition four-quarter program — Autumn 2026 matriculants (proxy for Autumn 2027 until updated)",
+      "tuitionAlt": 93282,
+      "tuitionAltLabel": "Tuition for three quarters 2026/27 estimated COA table",
+      "feesNote": "2026/27 estimated COA (3 quarters): student services $1,560; lifetime credentials $84; administrative service $1,030; books $549; housing/food $26,010; misc $7,770; transport $1,800; 3-quarter total COA $132,085.",
+      "period": "2026/27 (Autumn 2026 matriculant tuition totals on cost page)",
+      "costNote": "Official MiF Cost & Financial Aid: total tuition four-quarter program $123,470 for Autumn 2026 matriculants (13 courses / 1300 units). Accelerated 10-month track discontinued. Autumn 2027 cohort rates may change — confirm when updated.",
+      "duration": "15 months (four quarters); summer internship after first three quarters.",
+      "credits": "13 courses / 1300 units of coursework (Booth units)",
+      "tracks": [
+        "Asset Management specialization (recommended, not required)",
+        "Investment Banking specialization",
+        "Fintech specialization"
+      ],
+      "coreNotes": "STEM-eligible for OPT (FAQ). GMAT/GRE required (UChicago undergrad/alumni waiver). Interview required for admission. First cohort graduated 2025. Locked add — not on TFE 2026 list.",
+      "academic": "Chicago Booth MiF (locked add): STEM-eligible, 15 mo / 4 quarters. Early Review from Oct 1’26; Round One Jan 7’27. Total tuition Aut 2026 matriculants $123,470 (proxy).",
+      "orientation": "Autumn · 15 months · STEM-eligible · locked add (no TFE rank)",
+      "stem": true,
+      "sources": [
+        [
+          "How to apply / deadlines",
+          "https://www.chicagobooth.edu/master-in-finance/admissions/how-to-apply"
+        ],
+        [
+          "Cost & financial aid",
+          "https://www.chicagobooth.edu/master-in-finance/admissions/cost-financial-aid"
+        ],
+        [
+          "FAQ / STEM / duration",
+          "https://www.chicagobooth.edu/master-in-finance/faq"
+        ]
+      ]
+    },
+    {
+      "id": "columbia-msfe",
+      "school": "Columbia Business School",
+      "program": "Master of Science in Financial Economics (MSFE)",
+      "as_of": "2026-10-26",
+      "tfeRank2026": null,
+      "startTerm": "Late August (four fall/spring semesters; summer internship typical between years)",
+      "openDate": null,
+      "openDateNote": "MS admissions page notes apps open before deadline; exact open date for 2027 cycle not locked this pass (one portal snippet previously cited Aug 5, 2026 — verify).",
+      "deadlines": [
+        {
+          "label": "Application submission",
+          "date": "2027-01-28",
+          "dateNote": "Listed on MS admissions / MSFE academics pages; MSFE academics also shows Jan 21, 2027 in a duplicate widget — use Jan 28 and confirm on deadlines page"
+        }
+      ],
+      "deadlinesNote": "Conflicting footer on CBS pages says '2027 deadlines have passed' while listing Jan 2027 dates (as of scrape 2026-10-26) — treat as CMS inconsistency; verify live deadlines page before relying. Locked add — not on TFE 2026 list.",
+      "tuition": 155032,
+      "tuitionLabel": "Estimated total tuition two years at $77,516/year (indexed 2026–27 MS costs page)",
+      "feesNote": "Search-indexed CBS MS costs page: mandatory fees ~$5,811 year 1 / ~$5,706 year 2. Flat-rate tuition for four semesters; up to 52.5 credits under flat rate. Live costs page Cloudflare-blocked this pass — re-verify.",
+      "period": "2026–27 indexed figures (verify on business.columbia.edu/financial-aid/costs/ms-programs)",
+      "costNote": "Official costs page blocked by Cloudflare to automated fetch; figures from search index of that page. Do not treat as locked until re-confirmed in browser.",
+      "duration": "Four semesters full-time (~2 academic years); begins late August; typically includes ≥6-week summer internship.",
+      "credits": "Minimum 48 credits (16 full-term courses) including thesis seminar; max 52.5 under flat tuition",
+      "tracks": [
+        "Academia Track",
+        "Industry Track"
+      ],
+      "coreNotes": "STEM-eligible. PhD-level finance core + MBA electives. Thesis seminar required. Administered with Program for Financial Studies. Locked add.",
+      "academic": "Columbia MSFE (locked add): STEM-eligible, 4 semesters / ≥48 cr, late Aug start. App deadline ~Jan 28 2027 (verify). Est. tuition ~$77,516/yr ×2 (indexed; CF-blocked live).",
+      "orientation": "Late Aug · ~2 years · STEM-eligible · locked add (no TFE rank)",
+      "stem": true,
+      "sources": [
+        [
+          "MSFE academics / STEM / structure",
+          "https://academics.business.columbia.edu/msfe/academics"
+        ],
+        [
+          "MS admissions hub",
+          "https://academics.business.columbia.edu/admissions/ms"
+        ],
+        [
+          "MS costs (verify live; CF-blocked this pass)",
+          "https://business.columbia.edu/financial-aid/costs/ms-programs"
+        ],
+        [
+          "MSFE program hub",
+          "https://academics.business.columbia.edu/msfe"
+        ]
+      ]
+    }
+  ]
+}

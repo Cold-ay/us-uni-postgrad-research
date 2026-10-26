@@ -10,8 +10,8 @@ test('top-30 cutoff retains all ties and separates ranking categories', () => {
   const cs = programs.filter(p=>p.area==='Computer science');
   assert.equal(mba.length,30); assert.equal(cs.length,33);
   const finance = programs.filter(p=>p.area==='Finance');
-  assert.equal(finance.length, 25);
-  assert.equal(new Set(programs.map(p=>p.id)).size,88);
+  assert.equal(finance.length, 33);
+  assert.equal(new Set(programs.map(p=>p.id)).size,96);
   assert.equal(mba.filter(p=>p.rank===29).length,2);
   assert.equal(cs.filter(p=>p.rank===27).length,7);
   assert.equal(cs.filter(p=>p.rank===1).length,3);
@@ -28,7 +28,7 @@ test('search combines names, academic topics and subject/status filters', () => 
   assert.equal(filterPrograms('','Business').length,30);
   assert.equal(filterPrograms('unresearched school').length,0);
   assert.ok(filterPrograms('thesis','Computer science').length>5);
-  assert.equal(filterPrograms('','All programs','With tuition reference').length,84);
+  assert.equal(filterPrograms('','All programs','With tuition reference').length,90);
 });
 test('restrictions remain visible and are not turned into open applications', () => {
   const restricted=filterPrograms('','Computer science','Restrictions & exceptions');
@@ -63,10 +63,10 @@ test('program sources, funding and original notebook files resolve', async () =>
     assert.ok(p.sources.some(([,url])=>url===p.ranking.reproduction));
   }
   for(const s of scholarships) assert.ok(notes.some(n=>n.path===s.note));
-  assert.equal(notes.filter(n=>n.path.includes('/programs/')).length,88);
+  assert.equal(notes.filter(n=>n.path.includes('/programs/')).length,96);
   for(const note of notes) assert.equal(note.body,await readFile(new URL('../'+note.path,import.meta.url),'utf8'));
   const csv=await readFile(new URL('../dist/ranked-programs.csv',import.meta.url),'utf8');
-  assert.equal(csv.trim().split('\n').length,89);
+  assert.equal(csv.trim().split('\n').length,97);
 });
 test('policy radar brief merges baseline and delta items by id on Fall 2027 context', () => {
   assert.equal(policy.scanType, 'initial_baseline+delta');
@@ -95,14 +95,23 @@ test('shared scholarship records retain eligibility and expiry limits', () => {
   assert.ok(programs.find(p=>p.id==='stanford-cs').scholarships.includes('SCH-002'));
   assert.ok(!programs.find(p=>p.id==='harvard-cs').scholarships.includes('SCH-004'));
 });
-test('HK/TW scholarship batch rev2 + PRC batch1 + MSF batch1–3: 109 live awards, eligibility updates, loan badge', () => {
-  assert.equal(scholarships.length, 109);
+test('HK/TW scholarship batch rev2 + PRC batch1 + MSF batch1–4: 117 live awards, eligibility updates, loan badge', () => {
+  assert.equal(scholarships.length, 117);
   assert.ok(!scholarships.some(s => s.id === 'SCH-095'));
   assert.ok(!scholarships.some(s => s.id === 'SCH-105'));
   assert.ok(!scholarships.some(s => s.id === 'SCH-106'));
   assert.ok(!scholarships.some(s => s.id === 'SCH-108'));
   assert.ok(!scholarships.some(s => s.id === 'SCH-115'));
-  assert.ok(!scholarships.some(s => Number(s.id.replace('SCH-', '')) >= 116));
+  assert.ok(!scholarships.some(s => Number(s.id.replace('SCH-', '')) > 127));
+  for (const id of ['SCH-116', 'SCH-118', 'SCH-120', 'SCH-121', 'SCH-123', 'SCH-125', 'SCH-126', 'SCH-127']) {
+    assert.ok(scholarships.some(s => s.id === id), id);
+  }
+  for (const id of ['SCH-117', 'SCH-119', 'SCH-122', 'SCH-124']) {
+    assert.ok(!scholarships.some(s => s.id === id), id);
+  }
+  assert.deepEqual(programs.find(p => p.id === 'lsu-msf').scholarships, []);
+  assert.ok(!programs.find(p => p.id === 'chicago-booth-mif').scholarships.some(id => ['SCH-034', 'SCH-035', 'SCH-036', 'SCH-037'].includes(id)));
+  assert.ok(!programs.find(p => p.id === 'columbia-msfe').scholarships.some(id => ['SCH-034', 'SCH-035', 'SCH-036', 'SCH-037'].includes(id)));
   for (const id of ['SCH-085', 'SCH-086', 'SCH-087', 'SCH-088', 'SCH-089', 'SCH-090', 'SCH-091', 'SCH-092', 'SCH-093', 'SCH-094']) {
     assert.ok(scholarships.some(s => s.id === id));
   }
