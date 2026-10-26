@@ -1,6 +1,6 @@
 /**
  * Program area registry — CS, MBA, and MSF (Finance) families share one catalog pipeline.
- * MSF batches 1–4 (TFE Times 2026 ranks 1–30) plus unranked florida-msft, chicago-booth-mif, and columbia-msfe.
+ * MSF batches 1–4 (TFE Times 2026 ranks 1–30) plus unranked florida-msft, chicago-booth-mif, columbia-msfe, and tamu-qfin.
  */
 
 export const PROGRAM_AREAS = [
@@ -83,14 +83,15 @@ export function isCatalogProgramId(id) {
     || id.endsWith('-mscs')
     || id.endsWith('-msft')
     || id.endsWith('-mif')
-    || id.endsWith('-msfe');
+    || id.endsWith('-msfe')
+    || id.endsWith('-qfin');
 }
 
 export function catalogIdArea(id) {
   if (!id) return null;
   if (id.endsWith('-mscs')) return 'Computer science';
   // Locked Finance ids that do not use the classic -msf suffix.
-  if (id.endsWith('-msft') || id.endsWith('-mif') || id.endsWith('-msfe')) return 'Finance';
+  if (id.endsWith('-msft') || id.endsWith('-mif') || id.endsWith('-msfe') || id.endsWith('-qfin')) return 'Finance';
   for (const a of PROGRAM_AREAS) {
     if (id.endsWith(a.catalogIdSuffix)) return a.area;
   }

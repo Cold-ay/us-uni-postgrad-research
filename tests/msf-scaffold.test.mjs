@@ -58,20 +58,20 @@ const MSF_BATCH4 = [
   'columbia-msfe',
 ];
 
-const MSF_ALL = [...MSF_BATCH1, ...MSF_BATCH2, ...MSF_BATCH3, 'florida-msft', ...MSF_BATCH4];
+const MSF_ALL = [...MSF_BATCH1, ...MSF_BATCH2, ...MSF_BATCH3, 'florida-msft', ...MSF_BATCH4, 'tamu-qfin'];
 
-test('MSF area is registered with batch1–4 catalog programs plus florida-msft', () => {
+test('MSF area is registered with batch1–4 catalog programs plus florida-msft and tamu-qfin', () => {
   const finance = PROGRAM_AREAS.find(a => a.area === 'Finance');
   assert.ok(finance);
   assert.equal(finance.kind, 'MSF');
   assert.equal(finance.catalogIdSuffix, MSF_CATALOG_ID_SUFFIX);
   const msf = programs.filter(p => p.area === 'Finance');
-  assert.equal(msf.length, 33);
+  assert.equal(msf.length, 34);
   assert.deepEqual(msf.map(p => p.id).sort(), [...MSF_ALL].sort());
-  assert.equal(filterPrograms('', 'Finance').length, 33);
+  assert.equal(filterPrograms('', 'Finance').length, 34);
   assert.equal(programs.filter(p => p.id === 'ohiostate-msf').length, 0);
   assert.equal(programs.filter(p => p.id === 'ucsd-rady-msf').length, 0);
-  assert.equal(programs.filter(p => p.id === 'tamu-qfin').length, 0);
+  assert.equal(programs.filter(p => p.id === 'tamu-qfin').length, 1);
   assert.equal(programs.filter(p => p.id === 'illinois-tech-msf').length, 0);
   assert.equal(programs.filter(p => p.id === 'florida-msft').length, 1);
   assert.equal(programs.filter(p => p.id === 'florida-msf').length, 1);
@@ -108,6 +108,8 @@ test('MSF area is registered with batch1–4 catalog programs plus florida-msft'
   assert.equal(isCatalogProgramId('chicago-booth-mif'), true);
   assert.equal(catalogIdArea('columbia-msfe'), 'Finance');
   assert.equal(isCatalogProgramId('columbia-msfe'), true);
+  assert.equal(catalogIdArea('tamu-qfin'), 'Finance');
+  assert.equal(isCatalogProgramId('tamu-qfin'), true);
 });
 
 test('program area filters include Finance alongside CS and MBA', () => {
@@ -294,4 +296,51 @@ test('batch4 ranks 25–30, locked adds, alias, and cost flags', () => {
   assert.equal(tamu.tuition, null);
   assert.equal(tamu.rank, 20);
   assert.equal(tamu.accessRestricted, true);
+});
+
+test('tamu-qfin is an open MS-QFIN row and does not absorb tamu-msf', () => {
+  const qfin = programs.find(p => p.id === 'tamu-qfin');
+  const tamu = programs.find(p => p.id === 'tamu-msf');
+  assert.equal(qfin.rank, null);
+  assert.equal(qfin.university, 'Texas A&M University');
+  assert.equal(qfin.short, 'Texas A&M Mays');
+  assert.equal(qfin.degree, 'MS Quantitative Finance (MS-QFIN / STEM to Stocks)');
+  assert.equal(qfin.area, 'Finance');
+  assert.equal(qfin.tuition, null);
+  assert.equal(qfin.tuitionEstimate, 30110);
+  assert.match(qfin.tuitionEstimateLabel, /NOT a published|Estimate only/i);
+  assert.equal(qfin.tuitionAlt, 15000);
+  assert.match(qfin.tuitionAltLabel, /Fall\/Spring|per Fall/i);
+  assert.equal(qfin.fees, null);
+  assert.equal(qfin.livingCostBand, null);
+  assert.equal(qfin.stem, null);
+  assert.equal(qfin.accessRestricted, false);
+  assert.match(qfin.availability, /Math GradCAS/);
+  assert.match(qfin.costNote, /estimate only/i);
+  assert.match(qfin.costNote, /2027/);
+  assert.match(qfin.costDetail, /10,328|10328/);
+  assert.match(qfin.period, /^2026–27/);
+  assert.match(qfin.deadline, /2027-05-15/);
+  assert.equal(qfin.deadlineDate, '2027-05-15');
+  assert.doesNotMatch(qfin.deadline, /Lightning|2027-04-01/);
+  assert.deepEqual(qfin.scholarships, []);
+  assert.match(qfin.funding, /none|empty/i);
+  assert.doesNotMatch(qfin.funding, /Aggie 4\+1/);
+  assert.notEqual(qfin.funding, tamu.funding);
+  assert.equal(qfin.outcome?.confidence, 'low');
+  assert.equal(qfin.outcome?.internship_rate, 'unknown');
+  assert.equal(qfin.outcome?.full_time_placement, 'unknown');
+  assert.deepEqual(qfin.outcome?.notable_employers, []);
+  assert.doesNotMatch(qfin.outcome.full_time_placement, /100%|\$80|121,625/);
+  assert.match(qfin.outcome.full_time_placement_notes, /Do NOT substitute/);
+  assert.match(tamu.outcome.full_time_placement, /100%/);
+  assert.notEqual(qfin.outcome.full_time_placement, tamu.outcome.full_time_placement);
+  assert.equal(tamu.accessRestricted, true);
+  assert.equal(tamu.tuition, null);
+  assert.equal(tamu.tuitionEstimate, null);
+  assert.equal(tamu.tuitionAlt, null);
+  assert.equal(tamu.rank, 20);
+  assert.equal(tamu.degree, 'MS in Finance (TAMU 4+1)');
+  assert.deepEqual(tamu.scholarships, []);
+  assert.notEqual(qfin.programUrl, tamu.programUrl);
 });

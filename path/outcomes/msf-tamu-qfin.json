@@ -1,0 +1,98 @@
+{
+  "meta": {
+    "batch_id": "msf-tamu-qfin",
+    "agent": "path",
+    "created": "2026-10-26",
+    "access_date": "2026-10-26",
+    "card_count": 1,
+    "schema_version": "outcome-card-v2-msf",
+    "program_ids": [
+      "tamu-qfin"
+    ],
+    "catalog_ids": [
+      "tamu-qfin"
+    ],
+    "methodology": "Open public sources only. No fabricated numbers; gaps=unknown. Do not copy restricted tamu-msf 4+1 placement onto tamu-qfin.",
+    "lock_note": "Collinn 2026-10-26: ADD tamu-qfin to primary slate (primary_add_qfin); keep tamu-msf restricted. Verify external/intl open.",
+    "external_intl_finding": {
+      "external_non_tamu": "confirmed_open",
+      "intl_applicants": "confirmed_open",
+      "evidence": "Catalog: admission to TAMU soph/jr/sr OR non-Texas A&M graduates with prereqs. Math master's app materials document international applicants. No citizenship restriction found on MS-QFIN catalog."
+    },
+    "last_updated": "2026-10-26"
+  },
+  "cards": [
+    {
+      "catalog_id": "tamu-qfin",
+      "program_id": "tamu-qfin",
+      "route_mismatch": false,
+      "school": "Texas A&M University",
+      "program": "Mays MS Quantitative Finance (MS-QFIN / STEM to Stocks)",
+      "degree": "MS Quantitative Finance",
+      "degree_family": "other",
+      "schedule_note": "36-hour non-thesis MS jointly offered by Adam C. Sinn '00 Department of Finance with Department of Mathematics. Catalog does not lock Fall-only vs multi-term calendar on the degree page; application dates deferred to Finance department site. Distinct from classic 4+1 MS Finance (tamu-msf).",
+      "internship_rate": "unknown",
+      "full_time_placement": "unknown",
+      "full_time_placement_notes": "No MS-QFIN-specific CSEA/employment PDF or published internship/FT % located 2026-10-26. Do NOT substitute classic Mays 4+1 MS Finance (tamu-msf) figures: MSF program page/FT news claim 100% job success among active seekers at graduation and first-year salary bands (~$80k–$100k; some $180k+ total first-year; FT Masters in Finance 2026 alumni avg salary $121,625) — those are MSF outcomes, related college/program family only. STEM to Stocks director bio (Misty Page) states a ~40-company corporate advisory board employs approximately half of MSF/MSQF students annually — combined MSF+MSQF narrative, not an audited MS-QFIN-only rate.",
+      "notable_employers": [],
+      "notable_employers_notes": "No MS-QFIN-only graduate hire list with counts found. Adjacent MSF Advisory Board page (shared STEM to Stocks career ecosystem; titled MSF) lists 35+ firms including Goldman Sachs, Citi, Bank of America, Wells Fargo, Macquarie, RBC Capital Markets, Houlihan Lokey, McKinsey, Big 4, ExxonMobil, ConocoPhillips, Texas Instruments, UTIMCO — board page states ~50% of MSF program students accepted intern/FT at a board company in AY2024. Treat as network signal for the Finance department master's complex, not as verified MS-QFIN placement employers.",
+      "top_finance_firm_signal": "Unknown for MS-QFIN alone. Curriculum targets quantitative/technical roles (security research, data/analytics, fintech, model development, portfolio management, quant trading, risk, software). Adjacent STEM to Stocks / MSF advisory board includes bulge/elite and Texas energy/corp finance recruiters, but those hire stats are not disaggregated to MS-QFIN.",
+      "big_tech_or_top_firm_signal": "See top_finance_firm_signal (MSF schema v2 rename).",
+      "sample_alumni_paths": [
+        "unknown (no MS-QFIN-specific alumni path distribution published)",
+        "Catalog target roles (curriculum intent, not outcomes): complex security research; data and analytics; fintech; model development; portfolio management; quantitative trading; risk management; software development"
+      ],
+      "referral_network_notes": "Catalog: access to Mays Graduate Career Management Center, individual career coaching, soft-skill development (STEM to Stocks). Shared director/career course (FINC 601) with MSF; student directory for MSF and MSQF employers. MSF Advisory Board (~35+ firms) + January roadshows to Austin/Dallas/Houston advisory employers historically cover MSF/MSQF cohorts. Strength of external/non-TAMU MS-QFIN referrals unproven vs TAMU 4+1 pipeline.",
+      "difficulty_notes": "Catalog: highly selective; advanced math (calc sequence required B+; linear algebra, DE, stats, coding recommended). Dual audience: TAMU undergrads (soph/jr/sr) and non-TAMU graduates with equivalent prereqs. No dedicated public MS-QFIN employment report; QuantNet forum anecdotes (secondary, unverified) are mixed — not used as stats. Official STEM CIP for OPT extension not confirmed on catalog page (STEM to Stocks is branding / audience, not proof of CIP).",
+      "intl_student_notes": "EXTERNAL OPEN — CONFIRMED: official Graduate Catalog states admission available to current Texas A&M sophomore/junior/senior students OR non-Texas A&M graduates meeting prereq equivalents (ACCT, ECON, MATH calc sequences) with B or higher by end of TAMU spring immediately following admission. Not combo-only (unlike restricted tamu-msf). INTL OPEN — CONFIRMED (no citizenship bar on catalog; Mathematics graduate master's application materials explicitly document international applicants — native+English transcripts, TOEFL iBT 80 / TOEFL Essentials 8.5 / IELTS 6.0 unless waiver, $114 intl app fee, earlier intl deadlines May 15 Fall / Sept 15 Spring). Arts & Sciences Mathematics lists Quantitative Finance M.S. as Finance+Math collaboration. Caveat: Mays live marketing is dominated by 4+1 MSF pages; a dedicated MS-QFIN Fall 2027 intl deadline landing was not located this pass — brief should lock app portal/deadlines. Official STEM CIP / STEM-OPT eligibility for MS-QFIN: unknown (confirm with ISSS/I-20 CIP).",
+      "restricted": false,
+      "related_program_id": "tamu-msf",
+      "related_program_note": "Keep tamu-msf restricted (TAMU-UG 4+1 classic MS Finance; external/intl N/A). tamu-qfin is separate MS Quantitative Finance on primary slate per Collinn lock 2026-10-26 (slate primary_add_qfin).",
+      "sources": [
+        {
+          "title": "TAMU Graduate Catalog — Master of Science in Quantitative Finance (MS-QFIN)",
+          "url": "https://catalog.tamu.edu/graduate/colleges-schools-interdisciplinary/business/finance/quantitative-finance-ms/",
+          "access_date": "2026-10-26"
+        },
+        {
+          "title": "TAMU Catalog PDF — MS Quantitative Finance",
+          "url": "https://catalog.tamu.edu/graduate/colleges-schools-interdisciplinary/business/finance/quantitative-finance-ms/quantitative-finance-ms.pdf",
+          "access_date": "2026-10-26"
+        },
+        {
+          "title": "College of Arts & Sciences Mathematics — MS Quantitative Finance",
+          "url": "https://artsci.tamu.edu/mathematics/academics/graduate/quantitative-finance-ms.html",
+          "access_date": "2026-10-26"
+        },
+        {
+          "title": "Mathematics Graduate Master's application information (intl applicants, English scores, deadlines)",
+          "url": "https://artsci.tamu.edu/mathematics/academics/graduate/masters/appinfo-ms.html",
+          "access_date": "2026-10-26"
+        },
+        {
+          "title": "Mays 4+1 MS Finance program page (RESTRICTED classic MSF — adjacent only; do not copy placement)",
+          "url": "https://mays.tamu.edu/graduate/masters/4plus1/ms-finance/",
+          "access_date": "2026-10-26"
+        },
+        {
+          "title": "Mays MSF Advisory Board (adjacent STEM to Stocks employer network; MSF-titled)",
+          "url": "https://mays.tamu.edu/graduate/masters/4plus1/ms-finance/advisory-board/",
+          "access_date": "2026-10-26"
+        },
+        {
+          "title": "Misty Page directory — Director MS Finance / STEM to Stocks (MSF & MSQF)",
+          "url": "https://mays.tamu.edu/directory/misty-page/",
+          "access_date": "2026-10-26"
+        },
+        {
+          "title": "Mays news — FT Masters in Finance 2026 ranking (MSF outcomes; adjacent only)",
+          "url": "https://mays.tamu.edu/news/2026/06/22/mays-ms-finance-ft-2026-ranking/",
+          "access_date": "2026-10-26"
+        }
+      ],
+      "confidence": "low",
+      "confidence_reason": "Catalog firmly confirms external (non-TAMU graduate) eligibility and program identity distinct from restricted 4+1 MSF. No MS-QFIN-specific internship rate, FT placement %, salary, or named hire counts published. Adjacent MSF/STEM to Stocks career claims explicitly ring-fenced. STEM CIP unconfirmed.",
+      "last_updated": "2026-10-26"
+    }
+  ]
+}
