@@ -25,15 +25,28 @@ const MSF_BATCH1 = [
   'texas-msf',
 ];
 
-test('MSF area is registered with batch1 catalog programs (TFE 2026 ranks 1–8)', () => {
+const MSF_BATCH2 = [
+  'vanderbilt-msf',
+  'rochester-msf',
+  'florida-msf',
+  'asu-msf',
+  'uci-msf',
+  'villanova-msf',
+  'notredame-msf',
+  'utd-msf',
+];
+
+const MSF_ALL = [...MSF_BATCH1, ...MSF_BATCH2];
+
+test('MSF area is registered with batch1–2 catalog programs (TFE 2026 ranks 1–16)', () => {
   const finance = PROGRAM_AREAS.find(a => a.area === 'Finance');
   assert.ok(finance);
   assert.equal(finance.kind, 'MSF');
   assert.equal(finance.catalogIdSuffix, MSF_CATALOG_ID_SUFFIX);
   const msf = programs.filter(p => p.area === 'Finance');
-  assert.equal(msf.length, 8);
-  assert.deepEqual(msf.map(p => p.id).sort(), [...MSF_BATCH1].sort());
-  assert.equal(filterPrograms('', 'Finance').length, 8);
+  assert.equal(msf.length, 16);
+  assert.deepEqual(msf.map(p => p.id).sort(), [...MSF_ALL].sort());
+  assert.equal(filterPrograms('', 'Finance').length, 16);
   for (let i = 0; i < msf.length; i++) {
     assert.equal(msf[i].rank, i + 1);
     assert.equal(msf[i].ranking.reproductionName, 'TFE Times');
@@ -57,16 +70,25 @@ test('catalog id helpers recognize -msf rows', () => {
 
 test('ranking sources include Finance TFE Times metadata', () => {
   assert.ok(rankingSources.Finance);
-  assert.match(rankingSources.Finance.note, /TFE|batch 1/i);
+  assert.match(rankingSources.Finance.note, /TFE|1–16|batch/i);
   assert.equal(rankingSources.Finance.reproductionName, 'TFE Times');
 });
 
 test('summer-start MSF programs are flagged in research details', () => {
-  for (const id of ['mit-msf', 'texas-msf']) {
+  for (const id of ['mit-msf', 'texas-msf', 'villanova-msf', 'notredame-msf', 'utd-msf']) {
     const p = programs.find(x => x.id === id);
     assert.ok(p.summerStart, id);
-    assert.match(p.costNote, /SUMMER START/i);
+    assert.match(p.costNote, /SUMMER START/i, id);
   }
+});
+
+test('florida-msf is access-restricted UF combination pathway', () => {
+  const florida = programs.find(p => p.id === 'florida-msf');
+  assert.equal(florida.accessRestricted, true);
+  assert.equal(florida.availabilityType, 'restricted');
+  assert.match(florida.availability, /UF undergrad|external/i);
+  assert.equal(florida.tuition, null);
+  assert.ok(florida.tuitionEstimate);
 });
 
 test('GSU MSF evening Buckhead format appears in orientation', () => {

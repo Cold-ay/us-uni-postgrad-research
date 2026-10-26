@@ -1,4 +1,4 @@
-// Generated from path/outcomes/batch-001.json through batch-005.json, msf-batch-001.json, and id-map.json. Do not edit by hand.
+// Generated from path/outcomes/batch-001.json through batch-005.json, msf-batch-001.json, msf-batch-002.json, and id-map.json. Do not edit by hand.
 export const outcomeBatchMeta = [
   {
     "batch_id": "batch-001",
@@ -250,6 +250,52 @@ export const outcomeBatchMeta = [
       "Stanford GSB / Harvard Extension ALM / Wharton Jacobs MSQF"
     ],
     "last_updated": "2026-10-26"
+  },
+  {
+    "batch_id": "msf-batch-002",
+    "agent": "path",
+    "created": "2026-10-26",
+    "access_date": "2026-10-26",
+    "card_count": 8,
+    "schema_version": "outcome-card-v2-msf",
+    "schema_notes": [
+      "catalog_id currently equals program_id for MSF site scaffolding (not yet in rankedSchools catalog)",
+      "degree_family: MSF | MFin | MSFE | MiF | MSCF | MFE | other",
+      "top_finance_firm_signal replaces big_tech_or_top_firm_signal conceptually; big_tech field retained as alias pointing to finance signal",
+      "Aligned to Collinn/gm LOCKED 2026-10-26: TFE Times 2026 #9–17 + chicago-booth-mif + columbia-msfe",
+      "uci-msf program name confirmed as Merage Master of Finance (MFin); notredame-msf confirmed as Mendoza MSF; florida-msf is UF combination pathway"
+    ],
+    "methodology": "Open public sources only (official career PDFs/pages). No fabricated numbers; gaps=unknown. Never messaged alumni/recruiters. No unauthorized login scraping.",
+    "program_ids": [
+      "vanderbilt-msf",
+      "rochester-msf",
+      "florida-msf",
+      "asu-msf",
+      "uci-msf",
+      "villanova-msf",
+      "notredame-msf",
+      "utd-msf"
+    ],
+    "catalog_ids": [
+      "vanderbilt-msf",
+      "rochester-msf",
+      "florida-msf",
+      "asu-msf",
+      "uci-msf",
+      "villanova-msf",
+      "notredame-msf",
+      "utd-msf"
+    ],
+    "excluded_this_batch": [
+      "Quant/MFE/MSCF bucket (berkeley-mfe, cmu-mscf, baruch-mfe, columbia-ieor-mfe, gatech-qcf, chicago-finmath, nyu-courant, stanford-mcf) — separate track; columbia-msfe is on primary+adds slate",
+      "TFE 1–8 already in msf-batch-001",
+      "TFE 18–30 deferred to later batches",
+      "bc-msf",
+      "chicago-booth-mif",
+      "columbia-msfe — deferred to later PRs"
+    ],
+    "last_updated": "2026-10-26",
+    "florida_lock": "restricted_uf_combo_only_2026-10-26"
   }
 ];
 export const outcomeMeta = {
@@ -3456,6 +3502,484 @@ export const outcomeCards = {
     "confidence_reason": "Official CSEA Specialty Masters PDF with seeker denominators, timing, salary, industry/function, geography, and offer sources.",
     "last_updated": "2026-10-26",
     "pathProgramId": "texas-msf",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "vanderbilt-msf": {
+    "school": "Vanderbilt University",
+    "program": "Owen MS Finance",
+    "degree": "MSF",
+    "degree_family": "MSF",
+    "schedule_note": "9-month full-time in-person (Nashville); typical autumn-aligned accelerated MSF.",
+    "internship_rate": "unknown (program markets IB Academy and career treks; Class of 2025 FT report does not publish a separate internship % this run)",
+    "full_time_placement": "97% of Class of 2025 seekers received a full-time offer within 6 months; 94% accepted within 6 months (n seeking=70 of class size 84).",
+    "full_time_placement_notes": "Official Owen MSF Class of 2025 outcomes page. Average base $94,144; average signing bonus $9,250. Functions: Investment Banking 46%, Investment Management 9%, PE/VC 7%, Advisory & Valuation 6%, Corporate Finance 5%, Equity Research 5%, Management Consulting 5%, Sales & Trading 5%. Top metros: New York 16, Nashville 12, Atlanta 5, Charlotte 5.",
+    "notable_employers": [
+      "Wells Fargo & Company (4)",
+      "Cain Brothers (3)",
+      "JPMorgan Chase & Co. (3)",
+      "KPMG (3)",
+      "Brookwood Associates (2)",
+      "First Trust Capital Management (2)"
+    ],
+    "notable_employers_notes": "Top multi-hire table from official Class of 2025 outcomes page; news release notes >50 employers nationwide.",
+    "top_finance_firm_signal": "High for traditional IB/markets MSF. Nearly half of Class of 2025 in investment banking; named bulge/MM multi-hires (Wells Fargo, JPM) plus boutique IB (Cain Brothers).",
+    "big_tech_or_top_firm_signal": "See top_finance_firm_signal (MSF schema v2 rename).",
+    "sample_alumni_paths": [
+      "Investment Banking analyst (MSF IB Academy pathway)",
+      "Investment management / research",
+      "Private equity / venture capital",
+      "Advisory & valuation",
+      "Corporate finance / sales & trading"
+    ],
+    "referral_network_notes": "Official news: 37% of accepted offers via Owen-driven activities (alumni referrals, faculty, structured recruiting). Dedicated MSF career coach; Owen Finance Club; NYC/Dallas/Charlotte treks. Formal cold-outreach ease: unknown.",
+    "difficulty_notes": "Accelerated 9-month; IB Academy for early-fall IB recruiting. Selective relative to regional MSFs; Class of 2025 avg undergrad GPA 3.8.",
+    "intl_student_notes": "Class of 2025 profile: International 20% / Domestic 80% — domestically skewed vs MIT/USC-style intl-heavy MFins. Confirm STEM CIP and Fall 2027 OPT timing with Owen.",
+    "sources": [
+      {
+        "title": "Vanderbilt Owen – MSF Career Outcomes (Class of 2025)",
+        "url": "https://business.vanderbilt.edu/masters-in-finance/outcomes/",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "Vanderbilt MS Finance Class of 2025 Delivers Strong Employment Outcomes (news)",
+        "url": "https://business.vanderbilt.edu/news/2026/01/29/vanderbilt-ms-finance-class-of-2025-delivers-strong-employment-outcomes/",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "Vanderbilt MS Finance Employment Report 2025 (Issuu)",
+        "url": "https://issuu.com/vanderbiltowen/docs/vanderbilt_ms_finance_employment_report_2025",
+        "access_date": "2026-10-26"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Official Owen Class of 2025 outcomes page with seeker n, offer/accept @6mo, salary, functions, metros, and named multi-hire employers.",
+    "last_updated": "2026-10-26",
+    "pathProgramId": "vanderbilt-msf",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "rochester-msf": {
+    "school": "University of Rochester",
+    "program": "Simon MS Finance",
+    "degree": "MSF",
+    "degree_family": "MSF",
+    "schedule_note": "Full-time MSF with optional internship track (~16 months) or non-internship track (~9 months); STEM-designated.",
+    "internship_rate": "unknown (internship track available; MSF-specific internship % not published on careers page this run)",
+    "full_time_placement": "MSF-specific Class of 2025 offer/accept %: unknown. Aggregate Full-Time MS Class of 2025: 73% of job-seeking MS graduates received employment offers within 6 months (CSEA; data as of April 1, 2026). MSF US compensation: $80,501 mean base+signing for graduates employed in the US (2025).",
+    "full_time_placement_notes": "Simon careers page publishes MSF-specific US mean compensation but not MSF-only placement rate; Accountancy (91%) and Marketing Analytics (90%) get program-level offer rates while MSF does not in the same module. Fact sheet (updated Dec 2025): $84,323 mean base+signing US average 2022–2024. Geography of hired MS Class of 2025: North America 80.9%, Asia 17.3%.",
+    "notable_employers": [
+      "Citigroup Inc.",
+      "Goldman Sachs",
+      "Houlihan Lokey",
+      "RBC Capital Markets",
+      "Deloitte",
+      "Ernst & Young LLP",
+      "PwC",
+      "Moody's Corporation",
+      "Manning & Napier",
+      "Bank of Beijing",
+      "China Merchants Bank",
+      "SHEIN",
+      "Chobani, LLC",
+      "Grant Thornton"
+    ],
+    "notable_employers_notes": "Sample hiring companies from official MSF fact sheet (not a Class of 2025 multi-hire census).",
+    "top_finance_firm_signal": "Moderate. Named bulge/elite (GS, Citi, HL, RBC) appear on sample lists; Class of 2025 MSF multi-hire counts unknown. Career paths marketed: corporate finance, investment management, risk management.",
+    "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
+    "sample_alumni_paths": [
+      "Corporate finance analyst",
+      "Investment management / financial analysis",
+      "Risk management",
+      "Investment banking (concentration path)",
+      "FinTech / financial technology roles"
+    ],
+    "referral_network_notes": "Jay S. and Jeanne Benet Career Management Center; concentrations (IM/FA, Corporate FS & IB, FinTech). Formal referral ease: unknown.",
+    "difficulty_notes": "Class of 2025: n=121; 15 countries of origin; avg age 23; avg GPA 3.3; ~50% direct from undergrad. Analytical Simon brand; STEM.",
+    "intl_student_notes": "STEM-designated (up to 36 months OPT per school). Class of 2025 lists 15 countries of origin; exact intl % unknown on class profile. Aggregate MS hires show meaningful Asia placements (17.3%).",
+    "sources": [
+      {
+        "title": "Simon – Full-Time MS Careers & Outcomes (CSEA; as of April 1, 2026)",
+        "url": "https://simon.rochester.edu/programs/full-time-ms/careers-outcomes",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "Simon MS in Finance fact sheet PDF (sample employers + STEM)",
+        "url": "https://apply.simon.rochester.edu/apply/factsheet/msf.pdf",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "Simon MS in Finance Class Profile (Class of 2025)",
+        "url": "https://simon.rochester.edu/programs/full-time-ms-in-finance/class-profile",
+        "access_date": "2026-10-26"
+      }
+    ],
+    "confidence": "medium",
+    "confidence_reason": "Official CSEA page gives MSF US salary and aggregate MS 73% offer rate, but MSF-track-specific placement % and multi-hire census not isolated this run.",
+    "last_updated": "2026-10-26",
+    "pathProgramId": "rochester-msf",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "florida-msf": {
+    "school": "University of Florida",
+    "program": "Warrington MSF",
+    "degree": "MSF",
+    "degree_family": "MSF",
+    "schedule_note": "Primarily a combination bachelor's→MSF pathway for current UF undergraduates (graduate credits in years 3–4; junior summer internship). Not a classic standalone autumn open-to-all MSF.",
+    "internship_rate": "100% of rising seniors placed in junior summer internship (program page claim). Class of 2024: 84% earned junior summer internship return offers (news).",
+    "full_time_placement": "William R. Hough MSF: 100% job placement for 2024–2025 graduating cohort (official Warrington Class of 2024–2025 outcomes news, Mar 2026); average starting salary $102,813; average starting bonus $13,909. Class of 2024 news: 100% full-time placement; average salary $99,188. Program page long-run claim: 98% full-time analyst placement by graduation for >20 years.",
+    "full_time_placement_notes": "Combination-degree cohort is overwhelmingly UF undergrad pipeline; placement lists dense with bulge/elite IB and PE (Evercore, Centerview, Blackstone, Lazard, Guggenheim, GS, JPM, etc.). Exact seeker denominator / CSEA PDF not located this run — school news states 100% placement.",
+    "notable_employers": [
+      "Evercore",
+      "Centerview",
+      "Blackstone",
+      "Goldman Sachs",
+      "JPMorgan / JPMorgan Private Bank",
+      "Bank of America / BofA Private Bank",
+      "Citi / Citi Private Bank",
+      "Guggenheim Partners",
+      "Lazard",
+      "Houlihan Lokey",
+      "Lincoln International",
+      "Jefferies",
+      "RBC Capital Markets",
+      "Wells Fargo Securities",
+      "Nomura",
+      "McKinsey",
+      "Bain & Company",
+      "UBS"
+    ],
+    "notable_employers_notes": "Drawn from official Class of 2024 placement news and published Class of 2024–2026 individual placement tables on the MSF program page.",
+    "top_finance_firm_signal": "Very high for a public MSF — dense elite IB/PE/markets names (Evercore, Centerview, Blackstone, Lazard, GS, Guggenheim) on recent placement lists.",
+    "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
+    "sample_alumni_paths": [
+      "Investment Banking Analyst",
+      "Private Equity Analyst",
+      "Private Banking / Wealth Management Analyst",
+      "Equity Research / Global Markets Analyst",
+      "Corporate finance / strategic consulting associate"
+    ],
+    "referral_network_notes": "Hough Program + HIREWarrington recruiting; junior internship→FT return pipeline is structural. Formal referral ease: unknown.",
+    "difficulty_notes": "Applications sought from current UF undergraduates only (combination pathway). High bar (recent class avg GPA ~3.9; high SAT/ACT). Non-UF applicants: pathway limited. Pathway gate: external/intl N/A — outcomes reflect UF combo cohort only.",
+    "intl_student_notes": "Program is UF-undergrad combination track — domestically skewed by design. Exact MSF intl % unknown; Warrington specialized master's overall intl share historically modest vs coastal MFins. Critical: Fall 2027 intl applicants generally cannot use this as a classic open MSF unless already enrolled at UF. RESTRICTED for external/intl: UF-undergrad combination MSF only (not an open external MSF). Collinn lock 2026-10-26 keep+annotate; FinTech MS researched under separate id when brief assigns.",
+    "sources": [
+      {
+        "title": "UF Warrington – Class of 2024–2025 graduate outcomes (MSF 100% / $102,813)",
+        "url": "https://warrington.ufl.edu/news/2024-2025-graduate-outcomes/",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "MSF Class of 2024 secures 100% placement (employer list)",
+        "url": "https://warrington.ufl.edu/news/msf-class-of-2024-secures-100-placement/",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "UF Warrington – Master's in Finance program page (combination pathway + placements)",
+        "url": "https://warrington.ufl.edu/graduate/masters-finance/",
+        "access_date": "2026-10-26"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Official Warrington news + program page publish 100% placement, salaries, internship return %, and named employer/placement lists; caveat is combination-degree (not open standalone MSF).",
+    "last_updated": "2026-10-26",
+    "restricted": true,
+    "restricted_note": "UF undergrad combination pathway only; external/international applicants N/A (Collinn lock 2026-10-26). Keep on slate annotated; separate FinTech MS id forthcoming from brief.",
+    "pathProgramId": "florida-msf",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "asu-msf": {
+    "school": "Arizona State University",
+    "program": "W. P. Carey MS Finance",
+    "degree": "MSF",
+    "degree_family": "MSF",
+    "schedule_note": "August start; 9–16 months (corporate finance vs optional analytical methods extended track).",
+    "internship_rate": "unknown (Career Services + recruiting events marketed; MS-FIN-specific internship % not published this run)",
+    "full_time_placement": "92% of MS-FIN Class of 2025 employed within 6 months of graduation; average base starting salary $67,490 (official W. P. Carey Facts & Figures and 2025–2026 Year in Review).",
+    "full_time_placement_notes": "Prior year impact report: MS-Fin Class of 2024 80% accepted FT offers @6 months. Salary is notably below elite MFin peers — Phoenix/regional corporate finance mix likely. CFA Level I alignment / CFA University Affiliation Program.",
+    "notable_employers": [
+      "Bank of America",
+      "Credit Suisse (historical hire example)",
+      "Amazon",
+      "BlackRock",
+      "Northern Trust"
+    ],
+    "notable_employers_notes": "Employer examples listed on official MS-FIN program page — not a Class of 2025 hire census.",
+    "top_finance_firm_signal": "Moderate. Named national AM/banking examples (BlackRock, BofA, Northern Trust) on marketing list; Class of 2025 multi-hire and IB density unknown. Phoenix finance/insurance job-growth market emphasized.",
+    "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
+    "sample_alumni_paths": [
+      "Corporate financial analyst / FP&A",
+      "Risk management analyst",
+      "Asset management / portfolio roles",
+      "Investment banking (possible; density unknown)",
+      "Consulting-related finance roles"
+    ],
+    "referral_network_notes": "W. P. Carey Career Services Center; 650+ partner orgs claimed school-wide; 140k+ alumni. Formal referral ease: unknown.",
+    "difficulty_notes": "STEM; GMAT/GRE optional. Two tracks (corporate finance vs analytical methods). Less quant-bar than MFE peers.",
+    "intl_student_notes": "STEM-designated (up to 36 months OPT). International priority/final rounds on admissions calendar. Exact Class of 2025 intl %: unknown this run.",
+    "sources": [
+      {
+        "title": "ASU W. P. Carey – Facts and Figures (MS Finance Class of 2025 92%)",
+        "url": "https://www.wpcarey.asu.edu/about/facts-figures",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "W. P. Carey 2025–2026 Year in Review (MS-FIN 92% / $67,490)",
+        "url": "https://wpcareymagazine.com/review/2025-2026-year-in-review/",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "ASU W. P. Carey – MS Finance (MS-FIN) program page",
+        "url": "https://wpcarey.asu.edu/masters-programs/finance",
+        "access_date": "2026-10-26"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Official school Facts & Figures + Year in Review publish Class of 2025 MS-FIN 6-month employment % and average base; employer list remains marketing-grade.",
+    "last_updated": "2026-10-26",
+    "pathProgramId": "asu-msf",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "uci-msf": {
+    "school": "University of California, Irvine",
+    "program": "Merage Master of Finance (MFin)",
+    "degree": "MFin",
+    "degree_family": "MSF",
+    "schedule_note": "Full-time ~12-month (fall–winter–spring + summer session); Class of 2025 cohort in employment report graduated summer 2024.",
+    "internship_rate": "unknown (MFin-specific internship % not isolated in 2025 annual employment report this run)",
+    "full_time_placement": "91.4% of MFin Class of 2025 seekers employed within 6 months (64/70 seeking; official Merage 2025 Annual Employment Report, CSEA). Mean base $64,979; median $70,000 (n reporting salary=27 / 44.3% of hires). Financial services 42.6% of hires; Finance function 54.1%.",
+    "full_time_placement_notes": "Class size 116; Permanent US work auth 29.1% / Non-permanent 70.7%. Knowledge rate 77%. Top multi-hires: State Street (4), Hyundai Capital America (2). Geography: North America 78.7% (West 75.4%), Asia 21.3%. Permanent-auth mean base $70,475 vs non-permanent $59,874.",
+    "notable_employers": [
+      "State Street (4)",
+      "Hyundai Capital America (2)",
+      "JPMorgan Chase and Co.",
+      "Amazon",
+      "Meta",
+      "EY",
+      "KPMG",
+      "MassMutual",
+      "Pathway Capital Management",
+      "Avanath Capital Management",
+      "ROTH MKM",
+      "UCI Health Ventures"
+    ],
+    "notable_employers_notes": "From official 2025 MFin employer list / top-employer callouts in Merage employment report PDF.",
+    "top_finance_firm_signal": "Moderate. Mix of asset servicing (State Street), regional/corporate finance, some bulge (JPM) and AM boutiques; not a dense elite IB/HF feeder like MIT/Princeton/Columbia MSFE.",
+    "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
+    "sample_alumni_paths": [
+      "Finance / financial analyst roles",
+      "Asset / wealth management",
+      "Risk management",
+      "Real estate finance",
+      "Corporate finance / venture associate"
+    ],
+    "referral_network_notes": "Merage School Career Center (Assess.Design.Propel.); alumni mock interviews/mentorship. Formal referral ease: unknown.",
+    "difficulty_notes": "STEM-oriented Merage MFin; large intl share. Competitive SoCal market; salary outcomes materially below elite MFin peers.",
+    "intl_student_notes": "Class of 2025: ~70.7% non-permanent US work authorization — heavily international. Asia placements ~21%. Confirm STEM CIP / OPT for Fall 2027.",
+    "sources": [
+      {
+        "title": "Merage School 2025 Annual Employment Report PDF (MFin CSEA stats)",
+        "url": "https://merage.uci.edu/_files/documents/career-center/Employment-Report_compiled_2025.pdf",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "Merage Master of Finance Career Impact",
+        "url": "https://merage.uci.edu/programs/masters/master-finance/career-impact.html",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "Merage MFin program overview",
+        "url": "https://merage.uci.edu/programs/masters/master-finance/index.html",
+        "access_date": "2026-10-26"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Official CSEA-conformant Merage 2025 employment PDF with MFin seeker n, 6-month employment %, salaries, industries, functions, geography, and employer list.",
+    "last_updated": "2026-10-26",
+    "pathProgramId": "uci-msf",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "villanova-msf": {
+    "school": "Villanova University",
+    "program": "MS in Finance",
+    "degree": "MSF",
+    "degree_family": "MSF",
+    "internship_rate": "unknown (not broken out in Class of 2025 outcomes summary located this run)",
+    "full_time_placement": "91% of job-seeking May 2025 graduates secured an opportunity within 6 months (knowledge rate 97% = 33/34 May 2025 graduates). Average salary $87,024; average bonus $9,000.",
+    "full_time_placement_notes": "Official VSB Issuu 'MSF Employment Outcomes Class of 2025' (published Apr 20, 2026); figures also summarized via MSFHQ citing that report. Disclaimer: employed includes FT/PT, entrepreneurship, fellowships, temp/contract, freelance, post-grad internships. Location skew: Greater Philadelphia 10, NY Metro 5, North Carolina 4.",
+    "notable_employers": [
+      "AllianceBernstein",
+      "Bank of America",
+      "BlackRock",
+      "J.P. Morgan Private Bank",
+      "Morgan Stanley",
+      "Vanguard",
+      "Wells Fargo",
+      "T. Rowe Price",
+      "Barings",
+      "BTIG",
+      "Hamilton Lane",
+      "KeyBanc Capital Markets",
+      "NatWest Markets",
+      "PNC",
+      "MetLife"
+    ],
+    "notable_employers_notes": "Sample employers from Class of 2025 outcomes summary (MSFHQ reprint of school materials).",
+    "top_finance_firm_signal": "Moderate-high for Philly/NY AM and private bank pipeline (Vanguard, BlackRock, AB, JPM PB, MS, T. Rowe). Less bulge IB density than Vanderbilt/Florida lists.",
+    "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
+    "sample_alumni_paths": [
+      "Asset / wealth management analyst",
+      "Private banking",
+      "Corporate / markets analyst",
+      "Investment management at AM giants"
+    ],
+    "referral_network_notes": "Villanova School of Business graduate career support; Philly–NY corridor alumni. Formal referral ease: unknown.",
+    "difficulty_notes": "Class of 2025 profile (MSFHQ): cohort 45; 87% domestic / 13% international; avg GPA 3.47; avg age 23; heavily male (40/5).",
+    "intl_student_notes": "Class of 2025 ~13% international — domestically skewed. Confirm STEM status and OPT pathway with VSB for Fall 2027.",
+    "sources": [
+      {
+        "title": "Villanova School of Business – MSF Employment Outcomes Class of 2025 (Issuu)",
+        "url": "https://issuu.com/villanovaschoolofbusiness/docs/msf_employment_outcomes_class_of_2025",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "MSFHQ – Villanova MSF 2025 placements (cites school report)",
+        "url": "https://msfhq.com/villanova-university-msf-2025-placement/",
+        "access_date": "2026-10-26"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Official VSB Issuu Class of 2025 employment outcomes with knowledge rate, 6-month opportunity %, salary/bonus, and employer sample; secondary MSFHQ used only to surface figures also attributed to that report.",
+    "last_updated": "2026-10-26",
+    "pathProgramId": "villanova-msf",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "notredame-msf": {
+    "school": "University of Notre Dame",
+    "program": "Mendoza Master of Science in Finance (MSF)",
+    "degree": "MSF",
+    "degree_family": "MSF",
+    "schedule_note": "June start (11-month / 38-credit STEM MSF) — summer start, not autumn-only.",
+    "internship_rate": "unknown (accelerated summer-start format; internship % not published in 2025 employment report this run)",
+    "full_time_placement": "100% of Class of 2025 job offers received by 6 months after graduation; 100% accepted by 6 months (official Mendoza 2025 MSF Employment Report). Mean base $85,000; median base $88,765; mean bonus $7,500; median bonus $7,231 (usable salary info 91.2%).",
+    "full_time_placement_notes": "Industry: Financial Services 67.6%, Consulting 8.8%, Healthcare 8.8%, Real Estate 5.9%, Other 5.9%, CPG 2.9%. Function: Finance 79.4%, Consulting 11.8%, Other 8.8%. Regions: Midwest 41.2%, Northeast 23.5%, South 14.7%, Southwest/Mid-Atlantic 8.8% each, West 2.9%. Prior Class of 2024: 94% accepted @6mo; avg base ~$77k.",
+    "notable_employers": [
+      "Goldman Sachs",
+      "Morgan Stanley",
+      "Baird",
+      "AllianceBernstein",
+      "IMC Trading",
+      "KPMG US",
+      "Kaufman Hall",
+      "Charles River Associates",
+      "Ford Motor Company",
+      "Optum",
+      "GMO",
+      "Maven Securities",
+      "TIDAL",
+      "Key Bank"
+    ],
+    "notable_employers_notes": "Featured/all-employer list from official 2025 MSF Employment Report PDF.",
+    "top_finance_firm_signal": "Moderate-high. Named bulge (GS, MS), AM (AB, GMO), prop (IMC, Maven), and Midwest corporate/consulting mix. Strong Domers network more than pure NY IB feeder density.",
+    "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
+    "sample_alumni_paths": [
+      "Finance / financial analysis",
+      "Financial consulting",
+      "Corporate finance",
+      "Private wealth management",
+      "Trading / securities"
+    ],
+    "referral_network_notes": "Mendoza Career Success; ND alumni network claimed 144k+ / 250+ clubs. Formal referral ease: unknown.",
+    "difficulty_notes": "Current class profile: 48 students; avg GPA 3.6; avg age 22; 25% women; 20 non-business majors; 34 undergrad institutions. Quant-heavy pivot MSF.",
+    "intl_student_notes": "STEM-designated. Exact intl % unknown on public class profile (countries represented noted historically). International applicants urged to apply by Round 2 for visa timing. June start affects I-20/visa calendar.",
+    "sources": [
+      {
+        "title": "Notre Dame Mendoza – 2025 MSF Employment Report PDF",
+        "url": "https://content.mendoza.nd.edu/asset/cb554c03-56f7-4d36-a781-74969b5a536b/2025-MSF-Employment-Report.pdf",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "Mendoza M.S. in Finance program page (June start + 2025 highlights)",
+        "url": "https://mendoza.nd.edu/graduate-programs/finance-msf/",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "Mendoza Specialized Master's Employment Reports hub",
+        "url": "https://mendoza-mscareers.nd.edu/about-us/employment-reports/",
+        "access_date": "2026-10-26"
+      }
+    ],
+    "confidence": "high",
+    "confidence_reason": "Official Mendoza 2025 MSF Employment Report PDF with 100% offer/accept @6mo, salaries, industry/function/region breakouts, and employer list.",
+    "last_updated": "2026-10-26",
+    "pathProgramId": "notredame-msf",
+    "routeMismatch": false,
+    "match": "same-route"
+  },
+  "utd-msf": {
+    "school": "University of Texas at Dallas",
+    "program": "Jindal MS Finance",
+    "degree": "MSF",
+    "degree_family": "MSF",
+    "schedule_note": "MS Finance Flex format (typical 12–24 months); STEM-designated. Confirm Flex vs any full-time day track for Fall 2027.",
+    "internship_rate": "unknown (internships and project-based courses marketed; cohort % not published this run)",
+    "full_time_placement": "unknown (no MSF-specific official placement % or CSEA first-destination PDF located this run)",
+    "full_time_placement_notes": "Jindal MS Finance Flex careers page lists employer examples and role titles but does not publish Class of 2024/2025 seeker rates or mean/median base for the MSF cohort. University Career Center Jobs Data Report is school-wide, not MSF-breakout.",
+    "notable_employers": [
+      "Goldman Sachs",
+      "JP Morgan Chase",
+      "Bank of America",
+      "Amazon",
+      "Capital One",
+      "Deloitte",
+      "Ernst and Young",
+      "KPMG",
+      "Fidelity Investments",
+      "Charles Schwab",
+      "Houlihan Lokey",
+      "CBRE",
+      "Texas Instruments",
+      "Fannie Mae",
+      "State Farm"
+    ],
+    "notable_employers_notes": "Employers listed as having hired MS in Finance students on official Flex careers page — not a graduating-class hire census.",
+    "top_finance_firm_signal": "Moderate (Dallas market). Named national banking/AM/consulting employers on examples list; placement density and IB vs corporate mix unknown without rates.",
+    "big_tech_or_top_firm_signal": "See top_finance_firm_signal.",
+    "sample_alumni_paths": [
+      "Financial Analyst / Senior Financial Analyst",
+      "FP&A Analyst",
+      "Credit / Risk / Treasury Analyst",
+      "Investments Analyst",
+      "Consultant / Associate tracks"
+    ],
+    "referral_network_notes": "Jindal Career Management Center; DFW employer proximity. Formal referral ease: unknown.",
+    "difficulty_notes": "Flex/working-professional friendly format common; prior experience influences title/salary per school. Less elite-brand signal than Booth/Columbia/Vandy.",
+    "intl_student_notes": "STEM-designated (up to 36 months OPT per school). Exact intl % and US placement for F-1 seekers: unknown this run.",
+    "sources": [
+      {
+        "title": "UT Dallas Jindal – MS in Finance Flex Career Outcomes",
+        "url": "https://fin.utdallas.edu/ms-finance-flex/career/",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "UT Dallas – Master of Science in Finance fact sheet",
+        "url": "https://academics.utdallas.edu/fact-sheets/jindal/master-of-science-in-finance/",
+        "access_date": "2026-10-26"
+      },
+      {
+        "title": "UT Dallas Career Center – Career Outcomes hub",
+        "url": "https://career.utdallas.edu/career-resource-library/career-outcomes/",
+        "access_date": "2026-10-26"
+      }
+    ],
+    "confidence": "low",
+    "confidence_reason": "Official employer/role examples only; no MSF-specific Class of 2024/2025 placement %, salary, or seeker denominators located in open sources this run.",
+    "last_updated": "2026-10-26",
+    "pathProgramId": "utd-msf",
     "routeMismatch": false,
     "match": "same-route"
   }

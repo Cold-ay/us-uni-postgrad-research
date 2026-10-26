@@ -1,0 +1,272 @@
+{
+  "_meta": {
+    "asOf": "2026-10-26",
+    "timezone": "Asia/Hong_Kong",
+    "intake": "Fall 2027 (Villanova July summer start; Notre Dame June summer start; others Fall/August)",
+    "rankingSource": {
+      "name": "TFE Times 2026 Best Master's of Finance ranks 9\u201316",
+      "url": "https://tfetimes.com/best-finance-program-rankings/",
+      "as_of": "2026-03-01"
+    },
+    "rule": "Never invent; missing \u2260 0. Tuition figures from primary school pages/PDFs as of asOf.",
+    "programIds": [
+      "vanderbilt-msf",
+      "rochester-msf",
+      "florida-msf",
+      "asu-msf",
+      "uci-msf",
+      "villanova-msf",
+      "notredame-msf",
+      "utd-msf"
+    ],
+    "idsSource": "/workspace/brief-handoffs/msf-candidate-list-2026-10-26.md (exact ids used)"
+  },
+  "vanderbilt-msf": {
+    "tuition": 76700,
+    "tuitionLabel": "Owen MS Finance tuition (2026\u201327 AY; 9-month program)",
+    "fees": 2926,
+    "feesNote": "Mandatory direct fees from Owen MSF tuition page / Student Accounts: Transcript $100 + Maintenance (MSF) $1,250 + Student Health Fee $882 + Student Services Fee $694 = $2,926. Health insurance $4,244 (waivable with comparable coverage) separate. Loan fees on COA page are financing estimates, not billed fees.",
+    "period": "2026\u201327",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://business.vanderbilt.edu/masters-in-finance/admissions/tuition-financial-aid/",
+    "notes": "9-month full-time MSF. Tuition subject to change annually. Financial Aid COA also lists Owen MBA/MSF/MAcc/MMark First Year direct costs total $79,626 (tuition $76,700 + fees). All applicants auto-considered for partial merit scholarships; no need-based scholarships.",
+    "startTerm": "Fall 2027",
+    "stem": null,
+    "livingCostBand": {
+      "low": 27057,
+      "high": 32270,
+      "basis": "Owen MSF page Average Living Expenses sum Housing $16,030 + Food $7,488 + Personal $2,013 + Transportation $1,526 = $27,057. VU Financial Aid graduate COA First Year Indirect Total $32,270 (includes books $500 + housing $16,128 + food $7,714 + personal & health insurance $6,186 + transportation $1,526 + loan fees $216)."
+    },
+    "sources": [
+      [
+        "Owen MSF Tuition & Financing",
+        "https://business.vanderbilt.edu/masters-in-finance/admissions/tuition-financial-aid/"
+      ],
+      [
+        "VU Costs \u2013 Graduate 2026\u201327",
+        "https://www.vanderbilt.edu/financialaid/costs-graduate/"
+      ],
+      [
+        "Student Accounts Grad/Prof Tuition 2026\u201327",
+        "https://www.vanderbilt.edu/stuaccts/fees/tuition_fees_2026-27_grad_prof/"
+      ]
+    ]
+  },
+  "rochester-msf": {
+    "tuition": 78000,
+    "tuitionLabel": "Full-Time MS in Finance tuition per year (2026\u201327 AY)",
+    "fees": 1827,
+    "feesNote": "Activity Fee $800/year + Mandatory Health Fee $1,027/year (health fees are estimates pending NY State approval in June). Health Insurance $3,906/year separate. Intl: ISO Fee $140/year + International Student Programming Fee $900 one-time. Optional Internship Track fee $5,500.",
+    "period": "2026\u201327 (rates accurate as of 2025-11-14 per Simon page)",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://simon.rochester.edu/programs/full-time-ms/tuition-financial-aid",
+    "notes": "STEM. Tracks: 9-month non-internship vs 16-month internship (+$5,500 fee). Tuition published as $/year \u2014 9-mo track typically one billed year; 16-mo may extend across a second academic year (second-year tuition not separately itemized on page \u2014 missing \u2260 0 for multi-year total). Fall entry for MS Finance per admissions FAQs (curriculum page spring banner appears shared/MS-wide \u2014 treat Fall as SoT for Finance).",
+    "startTerm": "Fall 2027",
+    "stem": true,
+    "livingCostBand": {
+      "low": 22505,
+      "high": null,
+      "basis": "Simon published 2026\u201327 MSF living: Housing $10,206 + Food $6,273 + Travel $2,250 + Personal $2,466 + Books $1,310 = $22,505/year (excludes health insurance)."
+    },
+    "sources": [
+      [
+        "Simon Full-Time MS Tuition & Financial Aid",
+        "https://simon.rochester.edu/programs/full-time-ms/tuition-financial-aid"
+      ],
+      [
+        "MS in Finance curriculum / tracks",
+        "https://simon.rochester.edu/programs/full-time-ms-in-finance/curriculum"
+      ]
+    ]
+  },
+  "florida-msf": {
+    "tuition": null,
+    "tuitionEstimate": 46377,
+    "tuitionLabel": null,
+    "tuitionEstimateLabel": "Estimate only: 32 graduate credits \u00d7 $1,449.28 non-resident graduate rate (2026\u201327) = $46,376.96 \u2014 NOT a published MSF program sticker",
+    "fees": null,
+    "feesNote": "Per-credit graduate rates already include listed mandatory fee components (CITF, financial aid, technology, A&S, athletic, health, transportation). No separate MSF program fee schedule published.",
+    "period": "2026\u201327 per-credit schedule (program has no flat sticker)",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://warrington.ufl.edu/graduate/masters-finance/",
+    "notes": "CRITICAL ACCESS FLAG: William R. Hough MS in Finance is a combination/accelerated pathway \u2014 applications are only sought from current University of Florida undergraduates (apply in second year; min ~3.6 GPA). Not an open external Fall 2027 MSF for HK/TW/PRC applicants. 32 credits; 16 graduate credits may be taken before bachelor's finish; 12 credits double-count. Florida resident graduate rate $532.52/credit \u2192 32\u00d7 = $17,040.64. Combination + Bright Futures/Prepaid may further reduce cost for eligible FL students only. Missing program sticker \u2260 0.",
+    "startTerm": "Combination with UF UG timeline (not a standard open Fall MSF start)",
+    "stem": null,
+    "livingCostBand": null,
+    "altTuition": {
+      "floridaResidentGraduate32crEstimate": 17041,
+      "nonResidentGraduate32crEstimate": 46377,
+      "perCreditFloridaResident": 532.52,
+      "perCreditNonResident": 1449.28
+    },
+    "accessRestricted": true,
+    "accessNote": "Current UF undergraduates only per program admissions page.",
+    "sources": [
+      [
+        "Warrington MS in Finance (combination)",
+        "https://warrington.ufl.edu/graduate/masters-finance/"
+      ],
+      [
+        "UF 2026\u201327 Tuition and Fees (per credit)",
+        "https://cfo.ufl.edu/student-financial-resources/current-and-former-students/2026-27-academic-year-tuition-and-fees/"
+      ]
+    ]
+  },
+  "asu-msf": {
+    "tuition": 73500,
+    "tuitionAlt": 99500,
+    "tuitionLabel": "MS-FIN Corporate finance track \u2014 estimated total tuition and fees, International",
+    "tuitionAltLabel": "MS-FIN Analytical methods track \u2014 estimated total tuition and fees, International",
+    "fees": 500,
+    "feesNote": "One-time non-refundable enrollment deposit $500 required before registration (in addition to estimated totals as published). Estimated totals are labeled tuition and fees combined.",
+    "period": "as published on W. P. Carey MS-FIN cost page (Fall 2027 cycle; subject to ABOR change)",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://wpcarey.asu.edu/masters-programs/finance/cost-financial-aid",
+    "notes": "STEM. Starts August; length 9\u201316 months (Corporate vs Analytical methods). Resident / Nonresident / International estimates: Corporate $43,500 / $70,000 / $73,500; Analytical $61,500 / $95,000 / $99,500. Same figures on main program page as of asOf.",
+    "startTerm": "Fall (August) 2027",
+    "stem": true,
+    "livingCostBand": null,
+    "altTuition": {
+      "corporateResident": 43500,
+      "corporateNonresident": 70000,
+      "corporateInternational": 73500,
+      "analyticalResident": 61500,
+      "analyticalNonresident": 95000,
+      "analyticalInternational": 99500
+    },
+    "sources": [
+      [
+        "W. P. Carey MS-FIN Cost & Financial Aid",
+        "https://wpcarey.asu.edu/masters-programs/finance/cost-financial-aid"
+      ],
+      [
+        "W. P. Carey MS-FIN program",
+        "https://wpcarey.asu.edu/masters-programs/finance"
+      ]
+    ]
+  },
+  "uci-msf": {
+    "tuition": 80848,
+    "tuitionLabel": "Master of Finance program fee total \u2014 cohort entering Fall 2026 (4 quarters \u00d7 $20,212)",
+    "fees": 9985,
+    "feesNote": "Mandatory campus fees on Fall 2026 cohort schedule (excl. optional UCGPC ~$7): Student Services Access $1,096 + Assoc. Grad Students $56 + Student Center $617.27 + Bren Events $92 + Recreation $352 + Student Health Insurance $7,771.86 \u2248 $9,985.13. Total fees paid on schedule $90,833.13 including program fee.",
+    "period": "2026\u201327 schedule for Fall 2026 entering cohort (posted 2026-08-14). Fall 2027 entering cohort rates NOT separately published as of asOf \u2014 do not treat as locked Fall 2027 quote.",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://www.reg.uci.edu/fees/2026-2027/finance.pdf",
+    "notes": "STEM. 12-month / 4-quarter full-time MFin (52 units). Merage financial-aid page points to Registrar fee assessment; living budget published for nine months (F/W/S) only \u2014 summer living not in that table.",
+    "startTerm": "Fall 2027 (program begins each fall)",
+    "stem": true,
+    "livingCostBand": {
+      "low": 21992,
+      "high": 38640,
+      "basis": "Merage MFin nine-month budget (Fall/Winter/Spring): Books $2,009 + Personal $3,489 + Transportation $3,663 + Room & Board Living at Home $12,831 (= $21,992) to Off-Campus Apartments $29,479 (= $38,640). On-campus Palo Verde R&B $17,222 mid. Does not include Summer quarter."
+    },
+    "sources": [
+      [
+        "UCI Registrar Master of Finance fees PDF 2026\u201327",
+        "https://www.reg.uci.edu/fees/2026-2027/finance.pdf"
+      ],
+      [
+        "Merage MFin Financial Aid",
+        "https://merage.uci.edu/programs/masters/master-finance/financial-aid.html"
+      ]
+    ]
+  },
+  "villanova-msf": {
+    "tuition": 57000,
+    "tuitionLabel": "Entire MSF program tuition 2026\u201327 ($1,900 per credit)",
+    "fees": 314,
+    "feesNote": "University general fee $157 each semester. Two semesters \u2248 $314; exact semester count depends on July\u2013start calendar (confirm billable terms). Mandatory health insurance listed for I-20 proof $2,360 (intl).",
+    "period": "2026\u201327",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://www.villanova.edu/university/business/academics/graduate-programs/msf/admissions.html",
+    "notes": "STEM. Full-time ~11 months; starts in person in July (summer start). Intl I-20 funding proof: tuition $57,000 + living $15,000 + health insurance $2,360 = $74,360 (+ $157/sem general fee).",
+    "startTerm": "Summer (July) \u2014 2027 entry",
+    "stem": true,
+    "livingCostBand": {
+      "low": 15000,
+      "high": null,
+      "basis": "Villanova MSF international students page: Living Expenses $15,000 required for funding proof (plus health insurance $2,360)."
+    },
+    "sources": [
+      [
+        "Villanova MSF Admissions / Tuition",
+        "https://www.villanova.edu/university/business/academics/graduate-programs/msf/admissions.html"
+      ],
+      [
+        "Villanova MSF International Students",
+        "https://www.villanova.edu/university/business/academics/graduate-programs/msf/international-students.html"
+      ],
+      [
+        "Villanova MSF FAQs",
+        "https://www.villanova.edu/university/business/academics/graduate-programs/msf/faqs.html"
+      ]
+    ]
+  },
+  "notredame-msf": {
+    "tuition": 74618,
+    "tuitionLabel": "MSF tuition for 2026\u20132027 academic year (Summer + Fall/Spring)",
+    "fees": 2600,
+    "feesNote": "Financial Aid COA: Summer fees $400 + Fall/Spring fees $2,200 (= program fee $1,600 + student fees $600 on Mendoza breakdown) = $2,600. Mendoza page also lists Program Fee $1,600 (Fall/Spring) and Student Fees $400 summer / $600 Fall/Spring.",
+    "period": "2026\u201327",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://mendoza.nd.edu/graduate-programs/finance-msf/tuition-financial-aid/",
+    "notes": "STEM. Start Date June (summer). 38 credit hours. Tuition split on COA: Summer $21,604 + Fall/Spring $53,014 = $74,618. Total program COA published $111,298 including living.",
+    "startTerm": "Summer (June) \u2014 2027 entry",
+    "stem": true,
+    "livingCostBand": {
+      "low": 21285,
+      "high": null,
+      "basis": "ND Financial Aid MSF COA housing and food: Summer $3,465 + Fall/Spring $17,820 = $21,285. Books/supplies $400+$1,750; personal $700+$6,720; transportation $525+$2,700 also published."
+    },
+    "sources": [
+      [
+        "Mendoza MSF Tuition & Financial Aid",
+        "https://mendoza.nd.edu/graduate-programs/finance-msf/tuition-financial-aid/"
+      ],
+      [
+        "ND Financial Aid Finance (MSF) costs",
+        "https://financialaid.nd.edu/apply-or-renew/graduate-students/graduate-program-costs/finance-msf/"
+      ],
+      [
+        "Mendoza MSF overview",
+        "https://mendoza.nd.edu/graduate-programs/finance-msf/"
+      ]
+    ]
+  },
+  "utd-msf": {
+    "tuition": 50000,
+    "tuitionLabel": "MS Finance Cohort out-of-state / non-Texas total tuition and fees for the degree",
+    "fees": null,
+    "feesNote": "Published $50,000 (OOS) / $35,000 (TX resident) are total tuition and fees for the degree (includes program activities, internship/capstone, communication training, career coaching, business school per-credit fee). Living and health insurance extra. Paid in two installments (fall and spring).",
+    "period": "as published on MS Finance Cohort page (Fall 2027 cycle; subject to change)",
+    "asOf": "2026-10-26",
+    "currency": "USD",
+    "sourceUrl": "https://fin.utdallas.edu/ms-finance-cohort/",
+    "notes": "CFA-aligned cohort; ~12-month, 36 semester credit hours. Summer start of sequence (Semester 1 summer courses). High-achieving admits auto-considered for scholarship levels applied to tuition; awards do NOT create in-state tuition status. Cohort students excluded from general JSOM graduate scholarship portal \u2014 contact program director.",
+    "startTerm": "Summer start of cohort sequence (then Fall/Spring/Summer)",
+    "stem": null,
+    "livingCostBand": null,
+    "altTuition": {
+      "texasResident": 35000,
+      "nonTexasResident": 50000
+    },
+    "sources": [
+      [
+        "UTD Jindal MS Finance Cohort",
+        "https://fin.utdallas.edu/ms-finance-cohort/"
+      ],
+      [
+        "JSOM Graduate Scholarships (cohort exclusion note)",
+        "https://jindal.utdallas.edu/student-resources/scholarships/graduate-scholarships/"
+      ]
+    ]
+  }
+}
