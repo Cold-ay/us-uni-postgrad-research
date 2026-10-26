@@ -113,5 +113,13 @@ These checks corroborate selected rows, not the entire reproduced lists. Tuition
 | #6 | Brandeis IBS | [MS in Finance](../05-finance/programs/brandeis-msf.md) |
 | #7 | Utah Eccles | [MS in Finance](../05-finance/programs/utah-msf.md) |
 | #8 | Texas McCombs | [MS in Finance](../05-finance/programs/texas-msf.md) |
+| #9 | Vanderbilt Owen | [MS in Finance](../05-finance/programs/vanderbilt-msf.md) |
+| #10 | Rochester Simon | [Full-Time MS in Finance](../05-finance/programs/rochester-msf.md) |
+| #11 | Florida Warrington | [MS in Finance (UF combination)](../05-finance/programs/florida-msf.md) |
+| #12 | ASU W. P. Carey | [MS in Finance (MS-FIN)](../05-finance/programs/asu-msf.md) |
+| #13 | UC Irvine Merage | [Master of Finance (MFin)](../05-finance/programs/uci-msf.md) |
+| #14 | Villanova School of Business | [MS in Finance](../05-finance/programs/villanova-msf.md) |
+| #15 | Notre Dame Mendoza | [MS in Finance](../05-finance/programs/notredame-msf.md) |
+| #16 | UT Dallas Jindal | [MS in Finance](../05-finance/programs/utd-msf.md) |
 
 _Quant/MFE programs are not listed here; see [05-finance/README.md](../05-finance/README.md)._

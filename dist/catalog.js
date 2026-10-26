@@ -708,5 +708,85 @@ export const rankedSchools = [
     "rank": 8,
     "academic": "UT Austin McCombs MSF: summer-start, ~10-month in-residence program.",
     "programUrl": "https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-finance/"
+  },
+  {
+    "id": "vanderbilt-msf",
+    "university": "Vanderbilt University",
+    "short": "Vanderbilt Owen",
+    "degree": "MS in Finance",
+    "area": "Finance",
+    "rank": 9,
+    "academic": "Vanderbilt Owen MSF: STEM, 9 months, August start with Mod 0. Fall 2027 apps open Aug 19 2026; rounds Sep 10 / Oct 29 / Jan 13 / Feb 24 / Apr 28; intl visa final Apr 5 2027. Tuition 2026–27 $76,700.",
+    "programUrl": "https://business.vanderbilt.edu/masters-in-finance/admissions/"
+  },
+  {
+    "id": "rochester-msf",
+    "university": "University of Rochester",
+    "short": "Rochester Simon",
+    "degree": "Full-Time MS in Finance",
+    "area": "Finance",
+    "rank": 10,
+    "academic": "Rochester Simon MS in Finance (STEM): Fall start; 9-mo or 16-mo internship track. Tuition 2026–27 $78,000/year (+$5,500 internship option). Fall rounds Oct 15 / Jan 5 / Mar 1 / May 1 (years for 2027 entry).",
+    "programUrl": "https://simon.rochester.edu/programs/full-time-ms-in-finance"
+  },
+  {
+    "id": "florida-msf",
+    "university": "University of Florida",
+    "short": "Florida Warrington",
+    "degree": "MS in Finance (UF combination)",
+    "area": "Finance",
+    "rank": 11,
+    "academic": "Florida Warrington MSF: 32-credit UF undergrad combination only (not open externally). Deadlines Aug 30 / Oct 4 / Nov 11 within UF cycle. Tuition not published as flat MSF total. Related FinTech MS launches Fall 2027 for traditional applicants.",
+    "programUrl": "https://warrington.ufl.edu/graduate/masters-finance/"
+  },
+  {
+    "id": "asu-msf",
+    "university": "Arizona State University",
+    "short": "ASU W. P. Carey",
+    "degree": "MS in Finance (MS-FIN)",
+    "area": "Finance",
+    "rank": 12,
+    "academic": "ASU Carey MS-FIN: STEM; Aug start; 9–16 months. Fall 2027: Dec 1 / Feb 1 (intl priority) / Apr 1 (intl final) / Jul 1 (+ rolling to Jul 15). Est. intl tuition+fees Corporate ~$73,500 / Analytical ~$99,500.",
+    "programUrl": "https://wpcarey.asu.edu/masters-programs/finance"
+  },
+  {
+    "id": "uci-msf",
+    "university": "University of California, Irvine",
+    "short": "UC Irvine Merage",
+    "degree": "Master of Finance (MFin)",
+    "area": "Finance",
+    "rank": 13,
+    "academic": "UCI Merage MFin: STEM, 12 months, 52 units. Rounds Oct 15 / Dec 1 / Feb 1 / Apr 1 / May 15 / Jul 15 (years for Fall 2027). Program fee Fall 2026 cohort $80,848 (Fall 2027 TBD).",
+    "programUrl": "https://merage.uci.edu/programs/masters/master-finance/admissions.html"
+  },
+  {
+    "id": "villanova-msf",
+    "university": "Villanova University",
+    "short": "Villanova School of Business",
+    "degree": "MS in Finance",
+    "area": "Finance",
+    "rank": 14,
+    "academic": "Villanova MSF: STEM; summer July start (Jul 26 2027); 11 months / 30 credits. Tuition 2026–27 $57,000. Rounds Nov 15 / Jan 15 (intl) / Mar 15 / Jun 1.",
+    "programUrl": "https://www.villanova.edu/university/business/academics/graduate-programs/msf/admissions.html"
+  },
+  {
+    "id": "notredame-msf",
+    "university": "University of Notre Dame",
+    "short": "Notre Dame Mendoza",
+    "degree": "MS in Finance",
+    "area": "Finance",
+    "rank": 15,
+    "academic": "Notre Dame Mendoza MSF: STEM; June summer start; 38 credits / ~11 months. Tuition 2026–27 $74,618. Rounds Sep 10 EA / Oct 20 / Jan 7 (intl) / Mar 17.",
+    "programUrl": "https://mendoza.nd.edu/graduate-programs/finance-msf/"
+  },
+  {
+    "id": "utd-msf",
+    "university": "The University of Texas at Dallas",
+    "short": "UT Dallas Jindal",
+    "degree": "MS in Finance",
+    "area": "Finance",
+    "rank": 16,
+    "academic": "UTD Jindal MS Finance: STEM, 36 credits. Flex deadlines May 1 fall / Oct 1 spring / Mar 1 summer. Cohort ~12 mo: OOS $50k / in-state $35k; foreign deadline Apr 30. Flex COA via UTD tuition plans.",
+    "programUrl": "https://catalog.utdallas.edu/2026/graduate/programs/jsom/finance"
   }
 ];

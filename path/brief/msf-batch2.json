@@ -1,0 +1,611 @@
+{
+  "batch": "msf-batch2",
+  "as_of": "2026-10-26",
+  "degree": "msf",
+  "field": "dossier-core",
+  "notes": [
+    "Fall 2027 MSF project batch2 (TFE Times 2026 ranks 9–16).",
+    "Summer starts (not autumn Fall matriculation): Villanova MSF (July), Notre Dame MSF (June); UTD MS Finance Cohort also summer-start; Vanderbilt includes Mod 0 summer module but enrolls August/Fall.",
+    "Florida Warrington classic MS in Finance is UF-undergrad combination-only — not open to external/international Fall 2027 applicants; related MS in Finance and Technology launches a 1-year traditional track Fall 2027 (flagged under florida-msf notes).",
+    "Rochester Simon official title verified: Full-Time MS in Finance (STEM) — not an MSBA Finance track.",
+    "Professor reputation signals: deferred (not researched this pass).",
+    "US News Finance specialty not used as MSF program rank."
+  ],
+  "ranking_source_primary": {
+    "name": "TFE Times 2026 Best Master's of Finance",
+    "url": "https://tfetimes.com/best-finance-program-rankings/",
+    "as_of": "2026-03-01"
+  },
+  "items": [
+    {
+      "id": "vanderbilt-msf",
+      "school": "Vanderbilt Owen",
+      "program": "Master of Science in Finance (MSF)",
+      "as_of": "2026-10-26",
+      "tfeRank2026": 9,
+      "startTerm": "Fall 2027 (August enrollment; curriculum includes Mod 0 summer module)",
+      "openDate": "2026-08-19",
+      "openDateNote": "Owen news: Fall 2027 applications open Aug 19, 2026.",
+      "deadlines": [
+        {
+          "label": "Round 1",
+          "date": "2026-09-10",
+          "timeNote": "11:59 p.m. Central"
+        },
+        {
+          "label": "Round 2",
+          "date": "2026-10-29",
+          "timeNote": "11:59 p.m. Central"
+        },
+        {
+          "label": "Round 3",
+          "date": "2027-01-13",
+          "timeNote": "11:59 p.m. Central"
+        },
+        {
+          "label": "Round 4",
+          "date": "2027-02-24",
+          "timeNote": "11:59 p.m. Central"
+        },
+        {
+          "label": "Round 5",
+          "date": "2027-04-28",
+          "timeNote": "11:59 p.m. Central"
+        },
+        {
+          "label": "International visa final",
+          "date": "2027-04-05",
+          "dateNote": "Final date for international candidates needing visa processing (per admissions)"
+        }
+      ],
+      "tuition": 76700,
+      "tuitionLabel": "Program tuition 2026–27 (annualized)",
+      "feesNote": "Transcript $100; maintenance $1,250; student health fee $882; student services $694; health insurance $4,244 (waivable); books/supplies $500; loan fees estimate $2,110.",
+      "period": "2026–27",
+      "costNote": "Official MSF tuition page; living separate. Tuition subject to annual change.",
+      "duration": "9 months (Mod 0 summer + Mods 1–4).",
+      "credits": "At least 33 credit hours typical (modular 2-credit courses); concentrations require 12 elective hrs.",
+      "tracks": [
+        "Investment Banking concentration",
+        "Investment Management concentration",
+        "Financial Analytics concentration",
+        "General Finance concentration",
+        "JD/MSF dual"
+      ],
+      "coreNotes": "STEM-designated; Mod 0 Financial Economics I + professional development; core modeling/valuation/reporting then ~50% electives. GMAT/GRE not required for MSF this cycle.",
+      "academic": "Vanderbilt Owen MSF: STEM, 9 months, August start with Mod 0. Fall 2027 apps open Aug 19 2026; rounds Sep 10 / Oct 29 / Jan 13 / Feb 24 / Apr 28; intl visa final Apr 5 2027. Tuition 2026–27 $76,700.",
+      "orientation": "Fall (Aug) · 9 months · STEM · TFE #9 (2026)",
+      "stem": true,
+      "sources": [
+        [
+          "Admissions / deadlines",
+          "https://business.vanderbilt.edu/masters-in-finance/admissions/"
+        ],
+        [
+          "Application instructions",
+          "https://business.vanderbilt.edu/masters-in-finance/admissions/application-instructions/"
+        ],
+        [
+          "Tuition & financing",
+          "https://business.vanderbilt.edu/masters-in-finance/admissions/tuition-financial-aid/"
+        ],
+        [
+          "Curriculum / STEM",
+          "https://business.vanderbilt.edu/masters-in-finance/curriculum/"
+        ],
+        [
+          "Apps open Fall 2027",
+          "https://business.vanderbilt.edu/news/2026/08/14/vanderbilt-business-applications-fall-2027-open-august-19/"
+        ],
+        [
+          "TFE Times 2026",
+          "https://tfetimes.com/best-finance-program-rankings/"
+        ]
+      ]
+    },
+    {
+      "id": "rochester-msf",
+      "school": "Rochester Simon",
+      "program": "Full-Time MS in Finance",
+      "as_of": "2026-10-26",
+      "tfeRank2026": 10,
+      "startTerm": "Fall only (MSF; other Simon MS programs also offer January spring)",
+      "openDate": null,
+      "openDateNote": "Fall application windows begin Sep 1 (per deadlines page); exact open date for Fall 2027 cycle not separately labeled.",
+      "deadlines": [
+        {
+          "label": "Round 1",
+          "date": "2026-10-15",
+          "timeNote": "11:59 p.m. ET",
+          "decisionBy": "2026-12-15"
+        },
+        {
+          "label": "Round 2",
+          "date": "2027-01-05",
+          "timeNote": "11:59 p.m. ET",
+          "decisionBy": "2027-03-15"
+        },
+        {
+          "label": "Round 3",
+          "date": "2027-03-01",
+          "timeNote": "11:59 p.m. ET",
+          "decisionBy": "2027-04-15"
+        },
+        {
+          "label": "Round 4",
+          "date": "2027-05-01",
+          "timeNote": "11:59 p.m. ET",
+          "decisionBy": "2027-06-01"
+        }
+      ],
+      "deadlinesNote": "Years assigned for Fall 2027 entry from undated round calendar on admissions page. A separate Full-Time MS Deadlines page lists five rounds (adds Feb 15 / Mar 31 windows) without decision dates — verify which calendar Simon applies to MSF this cycle.",
+      "tuition": 78000,
+      "tuitionLabel": "Tuition per year 2026–27 (MS in Finance)",
+      "tuitionAlt": 5500,
+      "tuitionAltLabel": "Optional Internship Track fee (in addition)",
+      "feesNote": "Activity fee $800/year; mandatory health fee ~$1,027; health insurance ~$3,906 (estimates pending NYS approval); ISO fee $140; intl student programming $900 one-time.",
+      "period": "2026–27 (rates as of Nov 14, 2025)",
+      "costNote": "Official Full-Time MS tuition page; living separate. Internship track adds $5,500; 16-month path may span additional billed term — confirm final COA with admissions.",
+      "duration": "9-month non-internship track or 16-month internship track.",
+      "credits": "14 courses typical (core + 4 electives); catalog notes ~36 credit hours.",
+      "tracks": [
+        "9-month non-internship",
+        "16-month internship",
+        "Investment Management and Financial Analysis",
+        "Corporate Financial Strategy and Investment Banking",
+        "Financial Technology and Innovation"
+      ],
+      "coreNotes": "STEM-designated; GMAT/GRE optional; title verified as MS in Finance (not MSBA Finance track).",
+      "academic": "Rochester Simon MS in Finance (STEM): Fall start; 9-mo or 16-mo internship track. Tuition 2026–27 $78,000/year (+$5,500 internship option). Fall rounds Oct 15 / Jan 5 / Mar 1 / May 1 (years for 2027 entry).",
+      "orientation": "Fall · 9 or 16 months · STEM · TFE #10 (2026)",
+      "stem": true,
+      "sources": [
+        [
+          "Program hub",
+          "https://simon.rochester.edu/programs/full-time-ms-in-finance"
+        ],
+        [
+          "Curriculum / tracks",
+          "https://simon.rochester.edu/programs/full-time-ms-in-finance/curriculum"
+        ],
+        [
+          "Admissions / Fall deadlines",
+          "https://simon.rochester.edu/programs/full-time-ms/admissions"
+        ],
+        [
+          "Full-Time MS deadlines (alt calendar)",
+          "https://simon.rochester.edu/full-time-ms-deadlines"
+        ],
+        [
+          "Tuition 2026–27",
+          "https://simon.rochester.edu/programs/full-time-ms/tuition-financial-aid"
+        ],
+        [
+          "TFE Times 2026",
+          "https://tfetimes.com/best-finance-program-rankings/"
+        ]
+      ]
+    },
+    {
+      "id": "florida-msf",
+      "school": "Florida Warrington",
+      "program": "Master of Science in Finance (combination bachelor’s/master’s)",
+      "as_of": "2026-10-26",
+      "tfeRank2026": 11,
+      "startTerm": "Fall (within UF undergrad timeline; combination years 3–4)",
+      "openDate": null,
+      "openDateNote": "Pre-application after first-year spring grades; full application in second year — UF undergraduates only.",
+      "deadlines": [
+        {
+          "label": "Early application",
+          "date": null,
+          "dateNote": "August 30 (year within UF sophomore cycle — not a standalone Fall 2027 external deadline)"
+        },
+        {
+          "label": "Regular application",
+          "date": null,
+          "dateNote": "October 4"
+        },
+        {
+          "label": "Extended application",
+          "date": null,
+          "dateNote": "November 11"
+        },
+        {
+          "label": "Late",
+          "date": null,
+          "dateNote": "After Nov 11, pending space"
+        }
+      ],
+      "deadlinesNote": "CRITICAL GAP: Official MSF page states applications are only sought from current UF undergraduates. Not an external Fall 2027 MSF pathway for international applicants.",
+      "tuition": null,
+      "tuitionLabel": null,
+      "period": null,
+      "costNote": "MSF not listed with a flat program price on Warrington graduate cost page (combination structure; graduate credits billed at UF rates). Related standalone pathway: MS in Finance and Technology 1-year traditional track launches Fall 2027 (in-state $15,976 / out-of-state $43,478 on that program page) — separate degree, not the classic MSF.",
+      "duration": "32 credits; combination bachelor’s/master’s with courses in years 3–4 (typically finish both in ~4 years).",
+      "credits": "32 (16 graduate credits may be taken before finishing bachelor’s; 12 double-count).",
+      "tracks": [
+        "Combination bachelor’s/master’s (UF undergrads only)",
+        "Elective focus areas: corporate finance / markets & institutions / investments",
+        "Related: MS in Finance and Technology (traditional 1-year + combination) — Fall 2027 launch"
+      ],
+      "coreNotes": "CFA University Affiliation. STEM not stated on MSF program page (null). External Fall 2027 applicants should not treat classic MSF as open.",
+      "academic": "Florida Warrington MSF: 32-credit UF undergrad combination only (not open externally). Deadlines Aug 30 / Oct 4 / Nov 11 within UF cycle. Tuition not published as flat MSF total. Related FinTech MS launches Fall 2027 for traditional applicants.",
+      "orientation": "UF combo only · 32 credits · TFE #11 (2026) — external gap",
+      "stem": null,
+      "sources": [
+        [
+          "MS Finance program",
+          "https://warrington.ufl.edu/graduate/masters-finance/"
+        ],
+        [
+          "Graduate costs (MSF not listed)",
+          "https://warrington.ufl.edu/admissions-aid/cost-aid/graduate/"
+        ],
+        [
+          "MS Finance and Technology (related)",
+          "https://warrington.ufl.edu/graduate/masters-finance-technology/"
+        ],
+        [
+          "TFE Times 2026",
+          "https://tfetimes.com/best-finance-program-rankings/"
+        ]
+      ]
+    },
+    {
+      "id": "asu-msf",
+      "school": "ASU W. P. Carey",
+      "program": "Master of Science in Finance (MS-FIN)",
+      "as_of": "2026-10-26",
+      "tfeRank2026": 12,
+      "startTerm": "Fall 2027 (August, Tempe)",
+      "openDate": null,
+      "openDateNote": "Fall 2027 rounds posted; exact application open date not labeled on program page as of scrape.",
+      "deadlines": [
+        {
+          "label": "Round I (Early Decision)",
+          "date": "2026-12-01"
+        },
+        {
+          "label": "Round II (International priority)",
+          "date": "2027-02-01"
+        },
+        {
+          "label": "Round III (International final)",
+          "date": "2027-04-01"
+        },
+        {
+          "label": "Round IV (Final)",
+          "date": "2027-07-01"
+        },
+        {
+          "label": "Rolling close",
+          "date": "2027-07-15",
+          "dateNote": "Applications accepted rolling until July 15, 2027; decisions within ~3 weeks of complete app"
+        }
+      ],
+      "tuition": 73500,
+      "tuitionAlt": 99500,
+      "tuitionLabel": "Corporate finance track estimated total tuition+fees — International",
+      "tuitionAltLabel": "Analytical methods track estimated total tuition+fees — International",
+      "tuitionResident": 43500,
+      "tuitionResidentLabel": "Corporate finance — Resident estimate",
+      "feesNote": "$500 nonrefundable enrollment deposit. Nonresident Corporate estimate $70,000; Analytical resident $61,500 / nonresident $95,000 (program page).",
+      "period": "as published on program page (estimates; subject to ABOR change)",
+      "costNote": "Minimum estimated totals from MS-FIN program page scrape 2026-10-26. Application-process subpage previously showed lower figures — use main program page figures; confirm with ASU tuition estimator before committing.",
+      "duration": "9–16 months (Analytical methods optional third semester).",
+      "credits": null,
+      "tracks": [
+        "Corporate finance",
+        "Analytical methods (extended)",
+        "CFA Level I alignment"
+      ],
+      "coreNotes": "STEM-designated; CFA Institute University Affiliation; GMAT/GRE optional; Tempe campus.",
+      "academic": "ASU Carey MS-FIN: STEM; Aug start; 9–16 months. Fall 2027: Dec 1 / Feb 1 (intl priority) / Apr 1 (intl final) / Jul 1 (+ rolling to Jul 15). Est. intl tuition+fees Corporate ~$73,500 / Analytical ~$99,500.",
+      "orientation": "Fall (Aug) · 9–16 months · STEM · TFE #12 (2026)",
+      "stem": true,
+      "sources": [
+        [
+          "Program / cost / deadlines",
+          "https://wpcarey.asu.edu/masters-programs/finance"
+        ],
+        [
+          "Application process",
+          "https://www.wpcarey.asu.edu/masters-programs/finance/application-process"
+        ],
+        [
+          "Cost & aid",
+          "https://wpcarey.asu.edu/masters-programs/finance/cost-financial-aid"
+        ],
+        [
+          "TFE Times 2026",
+          "https://tfetimes.com/best-finance-program-rankings/"
+        ]
+      ]
+    },
+    {
+      "id": "uci-msf",
+      "school": "UC Irvine Merage",
+      "program": "Master of Finance (MFin)",
+      "as_of": "2026-10-26",
+      "tfeRank2026": 13,
+      "startTerm": "Fall only",
+      "openDate": null,
+      "openDateNote": "Rolling rounds posted without open date; Round 1 Oct 15 used as first posted deadline.",
+      "deadlines": [
+        {
+          "label": "Round 1",
+          "date": "2026-10-15"
+        },
+        {
+          "label": "Round 2",
+          "date": "2026-12-01"
+        },
+        {
+          "label": "Round 3 (UCI housing priority; recommended intl)",
+          "date": "2027-02-01"
+        },
+        {
+          "label": "Round 4 (scholarship priority; intl deadline)",
+          "date": "2027-04-01"
+        },
+        {
+          "label": "Round 5",
+          "date": "2027-05-15"
+        },
+        {
+          "label": "Round 6",
+          "date": "2027-07-15"
+        }
+      ],
+      "deadlinesNote": "Month/day from Merage admissions page; years assigned for Fall 2027 entry. Deadlines subject to change per page disclaimer.",
+      "tuition": 80848,
+      "tuitionLabel": "Program fee — cohort entering Fall 2026 (four quarters)",
+      "feesNote": "Mandatory campus fees + SHIP → total fees paid ~$90,833.13 for Fall 2026 cohort (Registrar PDF posted Aug 14, 2026). Fall 2027 cohort fee not yet posted.",
+      "period": "Fall 2026 cohort rates (proxy; Fall 2027 TBD)",
+      "costNote": "Official UCI Registrar Master of Finance fee schedule for Fall 2026 entrants. Do not treat as locked Fall 2027 quote.",
+      "duration": "12 months / four quarters.",
+      "credits": "52 units (6 core + 7 electives) + three-quarter Career Center ProSeminar.",
+      "tracks": [
+        "Asset & Wealth Management",
+        "Quantitative Finance",
+        "Investment Banking",
+        "Corporate Finance",
+        "Fintech",
+        "Real Estate"
+      ],
+      "coreNotes": "STEM-designated; CFA-aligned; GMAT/GRE optional; interview by invitation; $150 app fee.",
+      "academic": "UCI Merage MFin: STEM, 12 months, 52 units. Rounds Oct 15 / Dec 1 / Feb 1 / Apr 1 / May 15 / Jul 15 (years for Fall 2027). Program fee Fall 2026 cohort $80,848 (Fall 2027 TBD).",
+      "orientation": "Fall · 12 months · STEM · TFE #13 (2026)",
+      "stem": true,
+      "sources": [
+        [
+          "Admissions / deadlines",
+          "https://merage.uci.edu/programs/masters/master-finance/admissions.html"
+        ],
+        [
+          "Program overview",
+          "https://merage.uci.edu/programs/masters/master-finance/index.html"
+        ],
+        [
+          "FAQs",
+          "https://merage.uci.edu/programs/masters/master-finance/faqs.html"
+        ],
+        [
+          "Registrar fees Fall 2026 cohort",
+          "https://www.reg.uci.edu/fees/2026-2027/finance.pdf"
+        ],
+        [
+          "TFE Times 2026",
+          "https://tfetimes.com/best-finance-program-rankings/"
+        ]
+      ]
+    },
+    {
+      "id": "villanova-msf",
+      "school": "Villanova School of Business",
+      "program": "Master of Science in Finance (MSF)",
+      "as_of": "2026-10-26",
+      "tfeRank2026": 14,
+      "startTerm": "Summer (July) — not autumn Fall; Summer 2027 starts July 26, 2027",
+      "openDate": null,
+      "openDateNote": "Rounds posted; exact open date not labeled on admissions page.",
+      "deadlines": [
+        {
+          "label": "Round 1",
+          "date": "2026-11-15"
+        },
+        {
+          "label": "Round 2 (intl recommended)",
+          "date": "2027-01-15",
+          "dateNote": "International students encouraged to apply by Round 2 for visa timing"
+        },
+        {
+          "label": "Round 3",
+          "date": "2027-03-15"
+        },
+        {
+          "label": "Round 4",
+          "date": "2027-06-01",
+          "dateNote": "Admissions page lists 6/1; FAQ page lists 6/15 — use admissions page; verify before relying on Round 4"
+        }
+      ],
+      "tuition": 57000,
+      "tuitionLabel": "Entire program tuition 2026–27 ($1,900/credit × 30)",
+      "feesNote": "University general fee $157 each semester.",
+      "period": "2026–27",
+      "costNote": "Official admissions tuition blurb; additional coursework beyond standard curriculum costs more. Living separate.",
+      "duration": "11 months full-time (July start).",
+      "credits": "30",
+      "tracks": [
+        "Full-time MSF",
+        "MSF Fellows (assistantship / 50% tuition discount + stipend — separate app)",
+        "MSF-to-MBA credit transfer option (up to 12 credits)"
+      ],
+      "coreNotes": "STEM-designated; CFA Institute University Affiliation; July in-person start; GMAT/GRE optional if waiver criteria met.",
+      "academic": "Villanova MSF: STEM; summer July start (Jul 26 2027); 11 months / 30 credits. Tuition 2026–27 $57,000. Rounds Nov 15 / Jan 15 (intl) / Mar 15 / Jun 1.",
+      "orientation": "Summer (July) start · 11 months · STEM · TFE #14 (2026)",
+      "stem": true,
+      "sources": [
+        [
+          "Admissions / tuition / deadlines",
+          "https://www.villanova.edu/university/business/academics/graduate-programs/msf/admissions.html"
+        ],
+        [
+          "Program hub / STEM",
+          "https://www.villanova.edu/university/business/academics/graduate-programs/msf.html"
+        ],
+        [
+          "FAQs (July start)",
+          "https://www.villanova.edu/university/business/academics/graduate-programs/msf/faqs.html"
+        ],
+        [
+          "Curriculum Summer 2027",
+          "https://www.villanova.edu/university/business/academics/graduate-programs/msf/curriculum.html"
+        ],
+        [
+          "TFE Times 2026",
+          "https://tfetimes.com/best-finance-program-rankings/"
+        ]
+      ]
+    },
+    {
+      "id": "notredame-msf",
+      "school": "Notre Dame Mendoza",
+      "program": "Master of Science in Finance (MSF)",
+      "as_of": "2026-10-26",
+      "tfeRank2026": 15,
+      "startTerm": "Summer (June) — not autumn Fall",
+      "openDate": null,
+      "openDateNote": "Rounds posted for next cohort; exact open date not labeled on apply page.",
+      "deadlines": [
+        {
+          "label": "Early Action",
+          "date": "2026-09-10",
+          "decisionBy": "2026-10-16"
+        },
+        {
+          "label": "Round 1",
+          "date": "2026-10-20",
+          "decisionBy": "2026-12-11"
+        },
+        {
+          "label": "Round 2 (intl strongly encouraged)",
+          "date": "2027-01-07",
+          "decisionBy": "2027-03-05"
+        },
+        {
+          "label": "Round 3",
+          "date": "2027-03-17",
+          "decisionBy": "2027-04-30"
+        }
+      ],
+      "tuition": 74618,
+      "tuitionLabel": "MSF tuition 2026–27 academic year",
+      "feesNote": "Budget table: Summer tuition portion $21,604 + Fall/Spring $53,014; program fee $1,600 (fall/spring); student fees $400 summer / $600 fall-spring. Living separate.",
+      "period": "2026–27",
+      "costNote": "Official MSF tuition & financial aid pages; scholarships considered with admission for all citizenships.",
+      "duration": "11-month on-campus program (June start through following spring).",
+      "credits": "38",
+      "tracks": [
+        "Full-time MSF (quant-focused pivot curriculum)"
+      ],
+      "coreNotes": "STEM-designated; GMAT/GRE not required for U.S.-degree applicants; international applicants need GMAT or waiver. Video assessment + 4-slide deck required.",
+      "academic": "Notre Dame Mendoza MSF: STEM; June summer start; 38 credits / ~11 months. Tuition 2026–27 $74,618. Rounds Sep 10 EA / Oct 20 / Jan 7 (intl) / Mar 17.",
+      "orientation": "Summer (June) start · ~11 months · STEM · TFE #15 (2026)",
+      "stem": true,
+      "sources": [
+        [
+          "Program hub",
+          "https://mendoza.nd.edu/graduate-programs/finance-msf/"
+        ],
+        [
+          "Apply / deadlines",
+          "https://mendoza.nd.edu/graduate-programs/finance-msf/apply/"
+        ],
+        [
+          "Tuition & financial aid",
+          "https://mendoza.nd.edu/graduate-programs/finance-msf/tuition-financial-aid/"
+        ],
+        [
+          "TFE Times 2026",
+          "https://tfetimes.com/best-finance-program-rankings/"
+        ]
+      ]
+    },
+    {
+      "id": "utd-msf",
+      "school": "UT Dallas Jindal",
+      "program": "Master of Science in Finance (MS FIN)",
+      "as_of": "2026-10-26",
+      "tfeRank2026": 16,
+      "startTerm": "Fall / Spring / Summer (Flex); Cohort: summer (and partnership spring)",
+      "openDate": null,
+      "openDateNote": "University graduate deadlines posted; Flex accepts fall/spring/summer. Cohort has separate earlier foreign deadline.",
+      "deadlines": [
+        {
+          "label": "Flex — Fall regular",
+          "date": "2027-05-01"
+        },
+        {
+          "label": "Flex — Spring regular",
+          "date": "2026-10-01"
+        },
+        {
+          "label": "Flex — Summer regular",
+          "date": "2027-03-01"
+        },
+        {
+          "label": "Cohort — foreign applicants",
+          "date": "2027-04-30",
+          "dateNote": "MS Finance Cohort page; year assigned for next summer-start cycle — verify on cohort page each year"
+        },
+        {
+          "label": "Cohort — domestic applicants",
+          "date": "2027-05-31",
+          "dateNote": "MS Finance Cohort page"
+        }
+      ],
+      "deadlinesNote": "Catalog: late apps may be reviewed if seats remain. Cohort spring admission restricted to academic partnerships.",
+      "tuition": 50000,
+      "tuitionAlt": 35000,
+      "tuitionLabel": "Cohort program out-of-state / international tuition+fees total",
+      "tuitionAltLabel": "Cohort program in-state tuition+fees total",
+      "period": "as published on Cohort page (paid fall+spring installments)",
+      "costNote": "Cohort flat totals from fin.utdallas.edu/ms-finance-cohort. Flex MS Finance uses standard UTD graduate tuition plans (variable or 4-year guaranteed) — no single Flex program total published on FAQ; living/health extra. Confirm Flex COA via bursar tuition estimator.",
+      "duration": "Flex: typically ~1.5 years (some take 2); Cohort: ~12 months.",
+      "credits": "36 minimum",
+      "tracks": [
+        "Flex MS Finance (self-paced; multiple concentrations)",
+        "MS Finance Cohort (~12 months)",
+        "Concentrations: Financial Analyst; Corporate Finance/IB; Real Estate; FinTech; Risk Management; Energy Financial Management; Financial Management"
+      ],
+      "coreNotes": "STEM-designated (catalog). GMAT/GRE optional. Calculus/statistics prerequisites (or OPRE courses).",
+      "academic": "UTD Jindal MS Finance: STEM, 36 credits. Flex deadlines May 1 fall / Oct 1 spring / Mar 1 summer. Cohort ~12 mo: OOS $50k / in-state $35k; foreign deadline Apr 30. Flex COA via UTD tuition plans.",
+      "orientation": "Fall/Spring/Summer Flex or summer Cohort · 36 cr · STEM · TFE #16 (2026)",
+      "stem": true,
+      "sources": [
+        [
+          "2026 Graduate Catalog — Finance",
+          "https://catalog.utdallas.edu/2026/graduate/programs/jsom/finance"
+        ],
+        [
+          "MS Finance FAQ",
+          "https://jindal.utdallas.edu/ms-finance-faq/"
+        ],
+        [
+          "MS Finance Cohort (tuition)",
+          "https://fin.utdallas.edu/ms-finance-cohort/"
+        ],
+        [
+          "MS degree options",
+          "https://fin.utdallas.edu/masters-degree-options/"
+        ],
+        [
+          "TFE Times 2026",
+          "https://tfetimes.com/best-finance-program-rankings/"
+        ]
+      ]
+    }
+  ]
+}
