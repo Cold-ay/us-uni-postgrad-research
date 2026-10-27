@@ -34,6 +34,33 @@ Emory Student Accounts 2026–2027 Tuition & Fee Schedule lists Traditional MBA 
 
 Application timing: Round 2 · 6 Jan 2027 · 11:59 p.m. ET (Two-Year FT MBA 26–27 cycle; R1 passed). Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: required — Full-time MBA applicants required to take GMAT/GMAT Focus, GRE, or Executive Assessment (EA); valid MCAT or LSAT also accepted. Scores valid 5 years; submit all sittings. Official scores required for admission decision. Test Waiver Application available for 2026–27 cycle (conferred bachelor’s + ≥2 years post-undergrad full-time work); decisions ~10–14 business days. Two-Year waiver request deadlines: R1 Sep 16 2026; R2 Dec 1 2026; R3 Mar 3 2027. Codes: GRE/TOEFL 3984; GMAT Two-Year C3Q-71-17 (FAQ).
+- GMAT: required — GMAT or GMAT Focus accepted (or GRE/EA/MCAT/LSAT). Same official-score and Test Waiver rules as GRE. Prefer early testing; free Goizueta practice tests offered.
+- TOEFL: required — min 5 — TOEFL iBT 5.0 or higher recommended if English proficiency not otherwise demonstrated. Also accepts Duolingo (120+ recommended) and PTE Academic (68+ recommended). Scores are recommended proficiency levels, not automatic thresholds.
+- IELTS: required — min 7 — IELTS 7.0 or higher recommended when a proficiency test is needed.
+- English waiver: English proficiency test generally not required if bachelor’s or graduate degree from institution where English is primary language of instruction, or ≥2 years full-time professional experience within past 5 years where English was primary business communication language. Goizueta may still request a test if materials do not show readiness.
+- GPA: not_stated — Eligibility cites strong undergraduate academic record; no numeric minimum GPA on Two-Year admissions/application pages. Class of 2028 average GPA 3.43 (profile only).
+- Letters of recommendation: required — count 2 — Two professional recommendations preferred; at least one from someone who knows you in current role (direct supervisor, project manager, or client). GMAC Common Recommendation Form accepted in lieu of Goizueta form.
+- Statement of purpose: required — also known as Short answers / written essays / video essay — 3 short answers (40 words each: short-term post-MBA goals; how experience + Goizueta MBA help; fun fact) + 2 essays (300 words each: risk/pursuit prompt; lived-experience evolution prompt) + optional essay (500 words). Required video essay (small-talk prompt) in application portal.
+- Resume: required — One- or two-page résumé with employment (locations, titles, dates, most recent first) and education (attendance dates, degrees).
+- Transcripts: required — Scanned university transcripts for evaluation from all undergrad/grad institutions attended (must show institution, name, degree/date if applicable, GPA, courses/grades). Not personal downloads. Official transcripts required at enrollment deposit if admitted.
+- Interview: by_invitation — On-campus or virtual interviews by invitation only after complete application review. All admitted students have been interviewed (~30 minutes, business attire, bring résumé).
+- Fee: $175 — waivers: Automatic for U.S. military service members/veterans on submission. Forte MBA Launchers, current Peace Corps Volunteers, and Teach for America employees: email MBAapplication@emory.edu (do not pay then seek reimbursement). Getting It Done 101 workshop participants receive fee waiver. — $175 required from all MBA applicants (including re-applicants within two years).
+- Other: Fall 2027 / Class of 2029 cycle rounds: R1 Sep 30 2026; R2 Jan 6 2027; R3 Mar 17 2027; then rolling until ~2 weeks before start if seats remain (deadlines 11:59pm ET).
+- Other: Eligibility: typically ≥2 years post-undergrad full-time work (unless joint degree); bachelor’s degree; competitive test scores.
+- Other: All Goizueta MBA programs STEM-designated.
+- Other: International applicants: sealed transcripts, résumé, official GMAT/GRE, TOEFL if applicable, two recommendations, essays, fee.
+
+Prefer how-to-apply page for checklist. Request test waiver early vs round deadlines. Scholarships: apply by Round 2 for full consideration. Optional ≠ waived — waiver needs approved Test Waiver Application.
+
+- [Two-Year MBA Admissions](https://goizueta.emory.edu/full-time-mba/two-year-mba/admissions)
+- [Apply / application requirements](https://goizueta.emory.edu/full-time-mba/two-year-mba/admissions/application)
+- [Full-Time MBA FAQ (codes/fee)](https://goizueta.emory.edu/full-time-mba/two-year-mba/faq)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

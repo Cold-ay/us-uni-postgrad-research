@@ -34,6 +34,32 @@ Rice Business Full-Time MBA Tuition and Fees: Tuition for 2026–27 Full-Time MB
 
 Application timing: Round 2 · 6 Jan 2027 · 11:59 p.m. CT (Full-Time MBA Class of 2029; R1 passed; apps open). Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: required — Standardized test required for Full-Time MBA; GRE accepted alongside GMAT, GMAT Focus, and Executive Assessment. Unofficial OK to apply; official if enroll. Code GRE 7502. Full-Time candidates may request standardized test waiver (form inside started application; submit ≥10 days before apply). Deferred Enrollment: follow FT MBA process but GMAT waivers not available. No minimum / no preference.
+- GMAT: required — GMAT or GMAT Focus accepted (code 3WS-WD-92 for Full-Time). Same required-or-waiver framework as GRE. EA also accepted for Full-Time.
+- TOEFL: required — min 90 — FT MBA checklist: international applicants whose most recent degree was not primarily taught in English must show proficiency via TOEFL or IELTS. Rice Graduate Studies minima: TOEFL iBT 90 (tests before Jan 21 2026) or 4.5 (on/after Jan 21 2026). Unofficial OK to apply; official at enrollment. Code 6609 (Rice University).
+- IELTS: required — min 7 — IELTS Academic accepted; Rice Graduate Studies minimum overall 7. Report to Rice University Graduate Admissions.
+- English waiver: MBA guide/checklist: proficiency required if most recent degree not primarily taught in English. Rice Grad also waives with U.S. degree or degree from institution where English is official language of instruction / listed countries & universities. Duolingo ≥115 accepted at university level (MBA checklist PDF emphasizes TOEFL/IELTS).
+- GPA: not_stated — No numeric minimum GPA on MBA Admissions Guide; undergraduate degree required. Holistic review includes GPA among quantitative factors.
+- Letters of recommendation: required — count 1 — At least one letter required; prefer current/former supervisor. Maximum two letters. GMAC Common LOR. Deferred: one may be academic but one must be from work/extracurricular supervisor.
+- Statement of purpose: required — also known as Short answers / Creative essay — Two required short answers (100 words each) on short- and long-term career goals, plus required creative essay (≤500 words written or 1–3 min video) telling the story of a meaningful photo. Optional essay 500 words for clarifications / PMBA no-test reasoning.
+- Resume: required — Professional résumé required (generally one page). Extracurricular section also in application.
+- Transcripts: required — Unofficial transcripts for each earned/in-progress degree for application (degree name + conferral date if awarded). Undergrad degree required. If enroll: official U.S. transcripts; non-U.S. degrees require third-party evaluation (WES or The Evaluation Company).
+- Interview: by_invitation — After preliminary review, committee may invite Rice Video Interview plus conversation interview (Zoom; in-person when available)—by invite only for Deferred/FT/Professional MBA. Not receiving an invite before decision release does not automatically mean denial.
+- Fee: $200 — waivers: U.S. military (active/veteran); MLT MBA Prep Fellows; Forté MBALaunch; MD/MBA dual applicants; Rice alumni; Build the Class alumni referrals; attendees of Recruiting & Admissions events (virtual/on-campus/fairs). — US$200.00 application fee after submit before committee review.
+- Other: Class of 2029 applications open; FT rounds: Oct 16 2026 / Jan 6 2027 / Mar 31 2027 / Jun 1 2027 domestic-only (11:59 p.m. CT)
+- Other: R1–R2 complete apps get priority merit scholarship consideration (FT MBA)
+- Other: One Rice Business graduate program per cycle
+
+Start application early to access test-waiver form (≥10 days before deadline). Round 4 domestic only. Non-U.S. transcripts need evaluation at enrollment.
+
+- [MBA Admissions Guide / requirements & deadlines](https://business.rice.edu/mba-admissions/guide)
+- [FT MBA application checklist PDF](https://business.rice.edu/sites/default/files/App_checklist_FT-MBA.pdf)
+- [Rice Grad language proficiency](https://graduate.rice.edu/admissions/language-proficiency-requirements)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

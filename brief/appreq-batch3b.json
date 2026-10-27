@@ -1,0 +1,692 @@
+{
+  "batch": "appreq-batch3b",
+  "field": "applicationRequirements",
+  "degree": "mba",
+  "as_of": "2026-10-27",
+  "items": [
+    {
+      "id": "emory-mba",
+      "school": "Emory Goizueta",
+      "program": "Two-Year Full-Time MBA",
+      "applicationRequirements": {
+        "gre": {
+          "status": "required",
+          "detail": "Full-time MBA applicants required to take GMAT/GMAT Focus, GRE, or Executive Assessment (EA); valid MCAT or LSAT also accepted. Scores valid 5 years; submit all sittings. Official scores required for admission decision. Test Waiver Application available for 2026–27 cycle (conferred bachelor’s + ≥2 years post-undergrad full-time work); decisions ~10–14 business days. Two-Year waiver request deadlines: R1 Sep 16 2026; R2 Dec 1 2026; R3 Mar 3 2027. Codes: GRE/TOEFL 3984; GMAT Two-Year C3Q-71-17 (FAQ).",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "required",
+          "detail": "GMAT or GMAT Focus accepted (or GRE/EA/MCAT/LSAT). Same official-score and Test Waiver rules as GRE. Prefer early testing; free Goizueta practice tests offered.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": 5.0,
+            "detail": "TOEFL iBT 5.0 or higher recommended if English proficiency not otherwise demonstrated. Also accepts Duolingo (120+ recommended) and PTE Academic (68+ recommended). Scores are recommended proficiency levels, not automatic thresholds."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": 7.0,
+            "detail": "IELTS 7.0 or higher recommended when a proficiency test is needed."
+          },
+          "waiver": "English proficiency test generally not required if bachelor’s or graduate degree from institution where English is primary language of instruction, or ≥2 years full-time professional experience within past 5 years where English was primary business communication language. Goizueta may still request a test if materials do not show readiness."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "Eligibility cites strong undergraduate academic record; no numeric minimum GPA on Two-Year admissions/application pages. Class of 2028 average GPA 3.43 (profile only)."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 2,
+          "detail": "Two professional recommendations preferred; at least one from someone who knows you in current role (direct supervisor, project manager, or client). GMAC Common Recommendation Form accepted in lieu of Goizueta form."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "3 short answers (40 words each: short-term post-MBA goals; how experience + Goizueta MBA help; fun fact) + 2 essays (300 words each: risk/pursuit prompt; lived-experience evolution prompt) + optional essay (500 words). Required video essay (small-talk prompt) in application portal.",
+          "alsoKnownAs": "Short answers / written essays / video essay"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "One- or two-page résumé with employment (locations, titles, dates, most recent first) and education (attendance dates, degrees)."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Scanned university transcripts for evaluation from all undergrad/grad institutions attended (must show institution, name, degree/date if applicable, GPA, courses/grades). Not personal downloads. Official transcripts required at enrollment deposit if admitted."
+        },
+        "interview": {
+          "status": "by_invitation",
+          "detail": "On-campus or virtual interviews by invitation only after complete application review. All admitted students have been interviewed (~30 minutes, business attire, bring résumé)."
+        },
+        "applicationFee": {
+          "amountUsd": 175,
+          "waivers": "Automatic for U.S. military service members/veterans on submission. Forte MBA Launchers, current Peace Corps Volunteers, and Teach for America employees: email MBAapplication@emory.edu (do not pay then seek reimbursement). Getting It Done 101 workshop participants receive fee waiver.",
+          "detail": "$175 required from all MBA applicants (including re-applicants within two years)."
+        },
+        "other": [
+          "Fall 2027 / Class of 2029 cycle rounds: R1 Sep 30 2026; R2 Jan 6 2027; R3 Mar 17 2027; then rolling until ~2 weeks before start if seats remain (deadlines 11:59pm ET).",
+          "Eligibility: typically ≥2 years post-undergrad full-time work (unless joint degree); bachelor’s degree; competitive test scores.",
+          "All Goizueta MBA programs STEM-designated.",
+          "International applicants: sealed transcripts, résumé, official GMAT/GRE, TOEFL if applicable, two recommendations, essays, fee."
+        ],
+        "advice": "Prefer how-to-apply page for checklist. Request test waiver early vs round deadlines. Scholarships: apply by Round 2 for full consideration. Optional ≠ waived — waiver needs approved Test Waiver Application.",
+        "sources": [
+          [
+            "Two-Year MBA Admissions",
+            "https://goizueta.emory.edu/full-time-mba/two-year-mba/admissions"
+          ],
+          [
+            "Apply / application requirements",
+            "https://goizueta.emory.edu/full-time-mba/two-year-mba/admissions/application"
+          ],
+          [
+            "Full-Time MBA FAQ (codes/fee)",
+            "https://goizueta.emory.edu/full-time-mba/two-year-mba/faq"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "gatech-mba",
+      "school": "Georgia Tech Scheller",
+      "program": "Full-time MBA",
+      "applicationRequirements": {
+        "gre": {
+          "status": "optional",
+          "detail": "Accepts GRE (or GMAT/GMAT Focus) within past five years; highest overall score reviewed. Institute GRE code 5248. Test-optional path: applicants may apply without disclosing scores (MBA Supplemental → test-optional essay, 2,000 characters). International applicants strongly recommended to submit a score for admission/funding competitiveness. Supplemental EA/LSAT/MCAT may be provided as extra info.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "optional",
+          "detail": "GMAT or GMAT Focus accepted; Full-time MBA GMAT code HWK-54-37. Beginning Aug 2027 GMAC Superscore appears on reports—committee reviews Superscore and individual sittings. Same test-optional path as GRE.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": 95,
+            "detail": "International applicants must submit valid TOEFL or IELTS unless exempt per Georgia Tech Graduate Studies English Proficiency Requirements. TOEFL min 95 (0–120) or 5 (new 1–6 scale); scores valid 2 years."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": 7,
+            "detail": "IELTS minimum overall 7. Exceptions per Grad Studies English Proficiency Requirements."
+          },
+          "waiver": "Exceptions listed on Georgia Tech Graduate Studies English Proficiency Requirements page (U.S. permanent residents noted as exempt on Scheller international page synthesis—confirm Grad Studies list)."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "Accredited four-year bachelor’s from any academic background; no numeric minimum GPA stated on Full-time MBA admissions page."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 2,
+          "detail": "Two professional LORs expected (portal allows up to three). One should be current or former manager. Common Letter of Recommendation (GMAC) accepted."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Three required essays (2,000 characters each incl. spaces): Career goals; Community building; Ten facts. Optional essay 500 words. Reapplicant essay 250 words if applicable. Test-optional applicants also complete preparedness essay (2,000 characters).",
+          "alsoKnownAs": "MBA essays"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Up-to-date résumé required; post-graduate work experience and leadership/community experiences considered. Typically ≥2–3 years post-grad work preferred; average ~5 years."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Transcripts from undergrad and any graduate enrollment; scanned official copies OK for initial review. Official transcripts must be received/processed by Georgia Tech Graduate Education before official admission invitation."
+        },
+        "interview": {
+          "status": "by_invitation",
+          "detail": "Interviews by invitation only (virtual or in-person). May include admissions, career services, and a current MBA student. Fall 2027 interview windows listed by round on admissions page."
+        },
+        "applicationFee": {
+          "amountUsd": 95,
+          "waivers": "Institute Application Fee Waivers: U.S. veterans/military, U.S. first-generation college students, financial hardship. Department-level waivers: contact mba@scheller.gatech.edu.",
+          "detail": "$95 domestic; $105 international. Paid online."
+        },
+        "other": [
+          "Fall 2027 start only; rounds: R1 Oct 5 2026; R2 Jan 8 2027; R3 Mar 5 2027; R4 Apr 30 2027. Majority of merit funding in R1–R2; internationals encouraged by R2.",
+          "STEM-designated MBA (OPT extension eligibility).",
+          "MBA Early Admission for Undergraduates deferred path available for U.S. undergrads."
+        ],
+        "advice": "Test-optional ≠ automatic waiver of English proficiency. Internationals: submit TOEFL/IELTS unless Grad Studies exempt; strongly consider submitting GMAT/GRE for funding.",
+        "sources": [
+          [
+            "Full-time MBA Admissions",
+            "https://www.scheller.gatech.edu/explore-programs/mba-programs/full-time-mba/admissions/index.html"
+          ],
+          [
+            "International applicants / English",
+            "https://www.scheller.gatech.edu/explore-programs/mba-programs/full-time-mba/admissions/international-applicants.html"
+          ],
+          [
+            "Test-optional FAQs",
+            "https://www.scheller.gatech.edu/explore-programs/mba-programs/full-time-mba/admissions/test-optional-info.html"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "georgia-mba",
+      "school": "University of Georgia Terry",
+      "program": "Full-Time MBA",
+      "applicationRequirements": {
+        "gre": {
+          "status": "required",
+          "detail": "Self-reported GMAT, GRE, or Executive Assessment (EA); no minimum score. Official scores required only after admission. Select applicants may request test-score waiver case-by-case if meeting stated criteria (e.g., ≥2 years U.S. military or relevant progressive full-time work or current other UGA grad program PLUS strong U.S. academics / advanced degree / quantitative cert / strong quant coursework). Meeting criteria does not guarantee waiver. Strong scores help for consulting/finance recruiting and assistantships/scholarships.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "required",
+          "detail": "GMAT, GRE, or EA accepted; no minimum. Same waiver process as GRE. Official reports after admit.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": 100,
+            "detail": "Required if degree from non-U.S. accredited institution in a country where English is not primary/official language. Preferred mins: TOEFL 100 overall (exams before Jan 21 2026) or 5.0 overall (exams on/after Jan 22 2026). Official scores only after admission. International students still need TOEFL/IELTS even if GMAT/GRE waived."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": 7.0,
+            "detail": "IELTS 7.0 overall band preferred when English proficiency required."
+          },
+          "waiver": "English proficiency required for degrees from non-U.S. institutions in non-English-primary/official-language countries; see FTMBA International Student Applicants page for full list. GMAT/GRE waiver does not waive English tests."
+        },
+        "gpa": {
+          "status": "required",
+          "minimum": 3.0,
+          "scale": "4.0",
+          "detail": "Baccalaureate (or foreign equivalent) from regionally accredited institution. Candidates expected to have minimum 3.0 GPA; may still apply below 3.0 with optional written statement addressing academic performance."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 2,
+          "detail": "Two letters; professional recommendations preferred."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Three short written responses (250 words max each: career goals; persistence challenge; something classmates wouldn’t learn from résumé) + one optional written response (250 words). Optional video essay (2 minutes max).",
+          "alsoKnownAs": "Short written responses / optional video essay"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "One-page business résumé, reverse chronological; quantify impact; include education/employment dates, titles, FT/PT."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Unofficial copies from each institution attended for college credit for application; official transcripts required after admission."
+        },
+        "interview": {
+          "status": "by_invitation",
+          "detail": "By invitation after application review. Virtual available for internationals and domestics unable to travel. Campus Visit Day may include Admissions Committee interview, lunch with students, class visit."
+        },
+        "applicationFee": {
+          "amountUsd": 100,
+          "waivers": "",
+          "detail": "$100 application fee paid online at submission. Fee waiver details not enumerated on main Full-Time MBA admissions requirements list."
+        },
+        "other": [
+          "≥2 years professional post-bachelor work experience before entering program (strongly preferred for 2-Year and MBA-MSBA STEM track).",
+          "Fall 2027 rounds (11:59pm ET): R1 Oct 10 2026; R2 Jan 10 2027 (recommended intl); R3 Mar 10 2027 (final intl; recommended for merit/assistantships); R4 May 10 2027; then rolling.",
+          "Dual-degree applicants use Round 4 as final deadline."
+        ],
+        "advice": "Optional video ≠ required. Test waiver is case-by-case (not automatic). Internationals: English tests still required when criteria apply even if GMAT/GRE waived.",
+        "sources": [
+          [
+            "Full-Time MBA Admissions / How to Apply",
+            "https://www.terry.uga.edu/mba/fulltime/admissions/"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "harvard-mba",
+      "school": "Harvard Business School",
+      "program": "MBA (Full-Time)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "required",
+          "detail": "Valid GRE or GMAT required from all applicants; no waivers under any circumstances; no minimum score; no preference between tests. Must take test before submitting application. Unofficial OK at submission; official score must be sent to HBS. Highest single sitting used if multiple.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "required",
+          "detail": "GMAT accepted equally with GRE; same no-waiver / no-minimum policy. Official scores required.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": null,
+            "detail": "TOEFL, IELTS, PTE, or Duolingo required if undergraduate institution was not sole-English-instruction. No formal minimum to apply; Admissions Board discourages TOEFL below 5 (1–6 scale) or 109 (0–120), PTE below 75, Duolingo below 145. Official scores to HBS (TOEFL code 3444)."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": null,
+            "detail": "IELTS accepted; discouraged below 7.5. No formal minimum. Official scores required."
+          },
+          "waiver": "Not required if undergraduate institution’s sole language of instruction was English. Graduate degree taught in English: English test recommended but not required."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "Equivalent of U.S. bachelor’s required. No minimum GPA stated on application-process / international pages (FAQ lists GPA questions—confirm portal/FAQ answers if needed)."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 2,
+          "detail": "Two recommendations. Prefer one current/former supervisor. Prompts: compare applicant to well-qualified peers; most important constructive feedback given and applicant’s response. Due with application deadline; 48-hour grace for recommenders only."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Three short essays (Application Guide 2026–2027); exact word limits not printed on public Guide PDF—confirm in online application. Also Post-MBA Goals section. Post-interview written reflection required within 24 hours if interviewed.",
+          "alsoKnownAs": "Essays / Post-MBA Goals / Post-Interview Reflection"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Standard business resume or CV; simple format; minimize jargon. Employment section covers three most recent jobs (responsibilities, accomplishments, significant challenge). Up to three awards and three activities."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Upload transcripts from all undergrad/grad institutions where a degree was earned; unofficial OK for application. If admitted, official original-language transcripts + word-for-word English translations via WES."
+        },
+        "interview": {
+          "status": "by_invitation",
+          "detail": "30-minute interview by invitation only with MBA Admissions Board member who reviewed the application; campus, hub cities, or Zoom. Invitation is positive interest but not admission guarantee. Post-interview reflection required within 24 hours."
+        },
+        "applicationFee": {
+          "amountUsd": 250,
+          "waivers": "Need-based waiver via request form after starting application. All active-duty military applicants do not pay. 2+2 deferred application fee $100 with same military/need-based waiver paths.",
+          "detail": "Nonrefundable $250 (credit card) for regular MBA application."
+        },
+        "other": [
+          "Class of 2029 (matriculating fall 2027): Round One Sep 9 2026; Round Two Jan 5 2027 (submit by 12:00pm ET). Apply in one round only per year.",
+          "2+2 deferred: deadline Apr 28 2027; application opens Dec 2026.",
+          "Strongly recommend ≥2 years full-time work experience by enrollment; college seniors use 2+2."
+        ],
+        "advice": "No GMAT/GRE waivers. Essay word limits: confirm in apply portal (Guide says three short essays without numeric limits). Prefer application-process + Application Guide 2026–2027 PDF.",
+        "sources": [
+          [
+            "Application dates (Class of 2029)",
+            "https://www.hbs.edu/mba/admissions/application-dates"
+          ],
+          [
+            "Application process",
+            "https://www.hbs.edu/mba/admissions/application-process"
+          ],
+          [
+            "International applicants / English",
+            "https://www.hbs.edu/mba/admissions/application-process/international-applicants"
+          ],
+          [
+            "MBA Application Guide 2026–2027 PDF",
+            "https://apply.hbs.edu/www/documents/HBS%20MBA%20Application%20Guide%202026-2027.pdf"
+          ],
+          [
+            "Contact / fee FAQ",
+            "https://apply.hbs.edu/register/ContactMBAAdmissions"
+          ],
+          [
+            "Application Q&A blog (LOR count/waivers)",
+            "https://www.hbs.edu/mba/blog/answering-your-questions-about-the-hbs-mba-application"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "indiana-mba",
+      "school": "Indiana University Kelley",
+      "program": "Full-Time +Flex MBA",
+      "applicationRequirements": {
+        "gre": {
+          "status": "required",
+          "detail": "GMAT or GRE typically required (scores ≤5 years old at application). Self-report unofficial in Phase 1; official required in Phase 2 if advancing. Best scores considered; seek verbal/quant balance. GRE code IU Bloomington 1324. Candidates may apply with waiver by indicating in Phase 1 (no separate waiver application on admissions requirements page)—committee weighs strong prior academics (esp. quant), CPA/CFA or equivalents. FAQ also describes email waiver request path with resume/transcripts/300-word statement and round-tied deadlines—prefer Phase 1 indication per current admissions requirements page; confirm if portal still uses email path.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "required",
+          "detail": "GMAT accepted (code 8ZG-41-37 Full-Time MBA). Same typical-requirement + Phase 1 waiver indication as GRE. Strong scores help differentiate; some consulting/IB employers still ask for scores.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": 100,
+            "detail": "International applicants whose native language is not English: TOEFL iBT min 100 (120 scale) or 5 (6-point scale). Scores ≤2 years old. Code 1324. Required before submitting application."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": 7.0,
+            "detail": "IELTS band min 7.0, or DET 130. Scores ≤2 years old."
+          },
+          "waiver": "Automatically waived for international applicants who earned undergrad or post-grad degree from an institution where English was the language of instruction; indicate in application or optional essay."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "Transcripts with cumulative GPA from each institution required; no numeric minimum GPA stated on Full-Time MBA admissions requirements page. Baseline expectation: algebra, spreadsheets, statistics familiarity."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 1,
+          "detail": "One professional recommendation; current or recent supervisor preferred."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Personal essays in Phase 2 (if invited). Admissions requirements emphasize communication skills, unique background, and career goals; exact prompts not fully enumerated on public how-to-apply/requirements pages—confirm in Kelley Application Portal.",
+          "alsoKnownAs": "Personal essays"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Resume required to start Phase 1 (Kelley Graduate Application Form is free). Most applicants ≥2 years into career."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Unofficial during application process; official before enrollment. International: document degree as recognized U.S. bachelor’s equivalent."
+        },
+        "interview": {
+          "status": "by_invitation",
+          "detail": "Two-phase process: Phase 1 (form + resume) free. If invited to Phase 2, portal requirements may include admissions interview; full application reviewed once documentation received and interview complete."
+        },
+        "applicationFee": {
+          "amountUsd": 75,
+          "waivers": "Phase 1 is free. University application fee paid in Phase 2 if invited.",
+          "detail": "$75 university application fee in Phase 2 (how-to-apply checklist)."
+        },
+        "other": [
+          "Fall 2027 start (portal). Rounds with Phase 1 / Phase 2 deadlines: R1 Oct 1 / Oct 15; R2 Dec 15 / Jan 5; R3 Feb 15 / Mar 1; R4 Apr 1 / Apr 15 (international candidates no later than Round 2 recommended).",
+          "+Flex: decide end of Year 1 whether Year 2 on campus or Kelley Direct online (visa implications for internationals).",
+          "Consortium school; KAAP deferred admission for college seniors (U.S. citizens/PR; deadline June 1)."
+        ],
+        "advice": "Phase 1 free—resume only to start. Confirm essay prompts and any email-vs-portal waiver mechanics in portal/FAQ. English DET accepted (130).",
+        "sources": [
+          [
+            "How to apply / process timeline",
+            "https://kelley.iu.edu/programs/full-time-mba/admissions/process-timeline.html"
+          ],
+          [
+            "MBA admission requirements",
+            "https://kelley.iu.edu/programs/full-time-mba/admissions/index.html"
+          ],
+          [
+            "International applicants",
+            "https://kelley.iu.edu/programs/full-time-mba/admissions/international-applicants.html"
+          ],
+          [
+            "FAQ",
+            "https://kelley.iu.edu/programs/full-time-mba/admissions/faq.html"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "michigan-mba",
+      "school": "University of Michigan Ross",
+      "program": "Full-Time MBA",
+      "applicationRequirements": {
+        "gre": {
+          "status": "optional",
+          "detail": "May submit GMAT, GRE, or Executive Assessment, OR (not both) a Statement of Quantitative Academic Readiness—no separate pre-approval. Self-report or unofficial OK; official if accepted. Highest total sitting used (no mix-and-match). Scores must be unexpired at application. MCAT/LSAT/PCAT/DAT/OAT may be cited inside the Statement alternative.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "optional",
+          "detail": "GMAT accepted as Option 1 standardized test; same either-test-or-Statement rule as GRE.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": null,
+            "detail": "If native language is not English, demonstrate proficiency via TOEFL iBT (code 1839), PTE, IELTS, or Duolingo. Scores must be active/unexpired at enrollment. No numeric minimums posted on Full-Time MBA application-requirements page."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": null,
+            "detail": "IELTS accepted as TOEFL alternative; send to University of Michigan–Ann Arbor. No numeric minimum on Ross FT MBA requirements page."
+          },
+          "waiver": "Exempt if undergraduate degree from accredited institution where primary language of instruction was English. Alternative: essay demonstrating immersive academic/professional English use (e.g., ≥1 year job with English as primary communication within past 3 years; or English-instruction academic transcripts)."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "U.S. bachelor’s equivalent required by application time. Transcripts should include graduation GPA; no minimum GPA stated on checklist."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 1,
+          "detail": "One recommendation via GMAC Common Recommendation Form. Current/former supervisor ideal; else client, project manager, or professional mentor."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Part 1 Career Aspirations (300 words): short-term goal + how Ross MBA/program offerings help in first post-MBA role. Part 2 Impact and Growth (200 words): choose 1 of 3 prompts. Optional essay (250 words) for outliers (gaps, academic outliers, recommender choice, etc.) per Class of 2029 admissions blog; checklist page emphasizes Parts 1–2.",
+          "alsoKnownAs": "Admissions essays"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Current education and professional experience with months/years matching application; community service and hobbies/interests encouraged; strongly suggested ≤1 page."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Unofficial undergrad/grad transcripts (+ degree docs) with application; official if accepted. Internationals: diploma/degree date docs; certified translations if not English; WES authentication if admitted."
+        },
+        "interview": {
+          "status": "by_invitation",
+          "detail": "By invitation only; conducted by Ross alum or current MBA student. Timeline shared a few weeks after deadline."
+        },
+        "applicationFee": {
+          "amountUsd": 250,
+          "waivers": "Waived for: U.S. military active/veterans; Peace Corps/AmeriCorps/Teach for America/China/India/Teach for All partners who served; current U-M graduate students; UN least-developed-country citizens (verified); current Fulbright Scholars for U.S. grad school; Ross FT MBA reapplicants within past 5 years; applicants who register and attend ≥1 Michigan Ross FT MBA event before applying. No other waiver reasons.",
+          "detail": "Non-refundable $250."
+        },
+        "other": [
+          "Class of 2029 / Fall 2027: R1 Sep 8 2026; R2 Jan 4 2027; R3 Mar 29 2027 (11:59pm ET).",
+          "Consortium path: R1 Oct 15 / R2 Jan 5 (Consortium deadlines); no separate Ross app if applying via Consortium (still answer Ross essay questions plus Consortium essays).",
+          "Ross Deferred MBA pathway for graduating students.",
+          "Statement of Quantitative Academic Readiness is a fulfillment option, not a ‘waived’ badge—optional ≠ waived."
+        ],
+        "advice": "Choose either test scores or Quantitative Readiness Statement—not both. English mins not posted—plan competitive scores. Event attendance can waive $250 fee.",
+        "sources": [
+          [
+            "Full-Time MBA Admissions hub",
+            "https://michiganross.umich.edu/graduate/full-time-mba/admissions"
+          ],
+          [
+            "Application requirements",
+            "https://michiganross.umich.edu/graduate/full-time-mba/admissions/application-requirements"
+          ],
+          [
+            "Class of 2029 essays/dates blog",
+            "https://michiganross.umich.edu/graduate/full-time-mba/admissions/admissions-blog/2026/06/17/class-2029-new-essays-key-application"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "mit-mba",
+      "school": "MIT Sloan",
+      "program": "MBA",
+      "applicationRequirements": {
+        "gre": {
+          "status": "required",
+          "detail": "Valid GMAT (Focus or 10th Edition) or GRE required by deadline for all applicants; self-reported online/test-center OK; official via GRE code 3791. No preference; no minimum. EA not accepted. Evaluation focuses on single-attempt scores; GMAT Superscore appears as additional data point but should not negatively impact. Multiple complete sittings allowed (no mix-and-match sections).",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "required",
+          "detail": "GMAT Focus or 10th Edition required alternative to GRE. Send to MIT – MIT Sloan School of Management. AWA not required. Same no-EA / single-sitting evaluation policy.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "not_required",
+            "minScore": null,
+            "detail": "MIT Sloan does not accept TOEFL scores. English proficiency assessed during the interview."
+          },
+          "ielts": {
+            "status": "not_required",
+            "minScore": null,
+            "detail": "MIT Sloan does not accept IELTS scores. English proficiency assessed during the interview."
+          },
+          "waiver": "N/A — English tests not part of MBA application; proficiency evaluated at interview."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "Four-year undergrad degree or three-year non-U.S. equivalent by matriculation. No minimum GPA (FAQ)."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 1,
+          "detail": "One professional LOR preferred (ideally manager/supervisor); not family. Plus two additional professional references (contact only; may be contacted). LOR must arrive by round deadline."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Cover letter to Admissions Committee (≤300 words excl. address/salutation) with professional example(s) showing fit to MIT Sloan criteria. Video Question 1 (≤90 sec, single take). Video Question 2 (random open-ended). Interview invitees submit additional short-answer before interview.",
+          "alsoKnownAs": "Cover letter / video questions"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "One-page resume (Times New Roman 10pt; Word or PDF): education, work results bullets, extras. Employment history up to three entries with compensation; entrepreneurs provide formation/partnership/revenue details."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Scan/upload transcripts from all colleges/universities attended; certified translation if not English. No digitally signed/encrypted uploads. No hard copies at apply. Official signed/sealed if admitted. Relevant coursework/certs section (calculus, stats, CFA/CPA, MITx, etc.)."
+        },
+        "interview": {
+          "status": "by_invitation",
+          "detail": "Required if invited; invitation = advanced consideration, not admit guarantee. Virtual behavioral interview (~30 min) with Admissions Committee member; Eastern Time. Short-answer response due before interview."
+        },
+        "applicationFee": {
+          "amountUsd": 250,
+          "waivers": "Current Peace Corps members; Veteran or Active Duty U.S. Military. No retroactive waivers after online payment.",
+          "detail": "Non-refundable $250 USD online."
+        },
+        "other": [
+          "2027 entry rounds: R1 Sep 29 2026 (decision mid-Dec 2026); R2 Jan 12 2027 (early Apr 2027); due 3:00pm ET. LGO has designated round.",
+          "Organizational chart required (circle your role in red).",
+          "Dual HKS or DUSP: apply MIT Sloan in Round 2 concurrently.",
+          "Reapplicants: full new application; short-answer on changes."
+        ],
+        "advice": "No TOEFL/IELTS path—prepare for English assessment at interview. Do not omit organizational chart. EA not a substitute for GMAT/GRE.",
+        "sources": [
+          [
+            "How to Apply",
+            "https://mitsloan.mit.edu/mba/admissions/how-to-apply"
+          ],
+          [
+            "MBA Admissions FAQ",
+            "https://mitsloan.mit.edu/mba/admissions/frequently-asked-questions"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "northwestern-mba",
+      "school": "Northwestern Kellogg",
+      "program": "Full-Time MBA (Two-Year and other FT programs)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "required",
+          "detail": "How-to-apply: submit GMAT or GRE from a single sitting (no superscores); no preference; no minimum. Scores valid 5 years; complete application before score expiration. GRE code 7921. (Evening & Weekend MBA has different optional/waiver rules—this item is Full-Time.)",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "required",
+          "detail": "GMAT code 6WZ-3J-89. Single sitting only; same validity/no-minimum policy as GRE.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": null,
+            "detail": "Non-native English speakers must show proficiency. If exemption criteria not met, evaluated via application/interview plus valid TOEFL, IELTS, or Duolingo. No numeric minimums posted on FT international-candidates page. Committee may require a score from any candidate."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": null,
+            "detail": "IELTS accepted with TOEFL/DET when a score is needed; no posted minimum on FT international page."
+          },
+          "waiver": "Satisfied without test if: undergrad/grad degree from U.S. college/university; OR undergrad/grad degree where English was only language of instruction (provide URL/docs); OR worked in U.S. or English-speaking nation ≥2 consecutive years within last 5 years."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "Bachelor’s or equivalent by matriculation required. No numeric minimum GPA on how-to-apply. Encourage pre-enrollment intro calculus and statistics."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 2,
+          "detail": "Two LORs; ideally one current supervisor/manager and one other professional evaluator of performance/leadership. Additional letters neither required nor encouraged. Prompts: navigating differing perspectives (300 words); performance vs peers (300); most important constructive feedback (250)."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "One written essay for all programs (550 words max; Part I career path/why now; Part II contribution to classmates). Five video essay questions (~60 seconds each; video essays due 96 hours after application deadline; link on status page after submit+payment). Reapplicants: growth essay 250 words.",
+          "alsoKnownAs": "Written essay / video essays"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Current resume/CV plus detailed employment history section. Strongly recommend ≥2 years full-time work upon matriculation (except Kellogg Future Leaders deferred)."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "List all colleges/universities/study abroad; upload transcripts. Official hard copies only upon matriculation. Non-English records need original + authorized verbatim English translation. Conferred date or diploma required before matriculation."
+        },
+        "interview": {
+          "status": "by_invitation",
+          "detail": "All interviews virtual. Invitations emailed on rolling basis through evaluation period until decision release; timing not indicative of status. Scheduled interview time cannot be changed; cancel via Admissions if needed."
+        },
+        "applicationFee": {
+          "amountUsd": 250,
+          "waivers": "Active duty U.S. military or U.S. veterans (pay stub/command letter or DD-214). Candidates employed by Teach For America, Title 1 schools, AmeriCorps, or Peace Corps within past three years (supporting evidence). Non-refundable.",
+          "detail": "$250 via credit card in application; do not send payment directly to Kellogg."
+        },
+        "other": [
+          "2026–27 FT MBA rounds: R1 Sep 9 2026; R2 Jan 6 2027; R3 Mar 31 2027.",
+          "One full-time Kellogg program application per year; may select one alternate FT program and/or Evening & Weekend with short interest paragraph.",
+          "All Kellogg Full-Time MBA programs STEM-designated.",
+          "Internationals encouraged to apply R1 or R2 for visa timing; application name must match passport for I-20."
+        ],
+        "advice": "Use FT how-to-apply + international-candidates pages (not EW optional-test rules). Video essays are after deadline (+96h)—plan tech setup. GMAT/GRE required for Full-Time per how-to-apply.",
+        "sources": [
+          [
+            "Full-Time MBA admissions hub",
+            "https://www.kellogg.northwestern.edu/programs/full-time-mba/admissions"
+          ],
+          [
+            "How to apply — Full-Time MBA",
+            "https://www.kellogg.northwestern.edu/admissions/ft-admissions/ft-how-to-apply/"
+          ],
+          [
+            "International candidates / English",
+            "https://www.kellogg.northwestern.edu/admissions/ft-admissions/ft-international-candidates/"
+          ],
+          [
+            "Application live / essay changes blog (Jun 10 2026)",
+            "https://www.kellogg.northwestern.edu/news/blog/2026/06/10/full-time-mba-application-live/"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    }
+  ]
+}

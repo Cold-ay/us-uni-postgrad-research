@@ -34,6 +34,32 @@ UNC Kenan-Flagler Full-Time MBA Tuition & Financial Aid 2026–2027: Non-North C
 
 Application timing: Round 2 · 6 Jan 2027 · 11:59 p.m. ET (Full-Time MBA Class of 2029 / Aug 2027; R1 passed). Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: required — GMAT or GRE required unless GMAT/GRE waiver approved via in-app form by round waiver deadline. Self-report unofficial OK; official after admit/enroll before first day. No superscoring across dates. Codes: GRE 5046; GMAT D40-HL-72. Waiver criteria examples: ≥3.2 GPA with STEM/business/econ/analytical coursework from U.S. institution; advanced terminal degree; 5+ years quant/analytical work; CFA/U.S. CPA; strong EA/PCAT/MCAT.
+- GMAT: required — GMAT accepted equivalently to GRE; same waiver framework. Code D40-HL-72.
+- TOEFL: required — min 5 — Required if English is not native language unless exempt. Posted minimum total score TOEFL 5 (new scale as listed on requirements page); preferred speaking 5. Self-report + official by deadline. Code 5816. PTE Academic also accepted (min 68). DET accepted (min 120).
+- IELTS: required — min 7 — IELTS minimum overall 7.0; preferred speaking 7.5. Search University of North Carolina, Chapel Hill – Kenan-Flagler Business School – MBA when sending.
+- English waiver: Not required if (1) undergrad or graduate degree at a U.S. college/university, or (2) education completed exclusively in English in an English-speaking country. Committee may still request scores in some cases.
+- GPA: not_stated — No numeric minimum GPA as admission cutoff on requirements page. Working knowledge of financial accounting, statistics, economics, and calculus encouraged (no prerequisite courses). 3.2 GPA appears only as one GMAT/GRE waiver criterion example.
+- Letters of recommendation: required — count 1 — One professional LOR required, preferably supervisor (current/former). GMAC Common LOR. Academic LOR not recommended; if no full-time postgrad work, part-time/summer internship recommender OK. 10-business-day grace past deadline for LORs (delays processing).
+- Statement of purpose: required — also known as Essays / Video essay — Essay 1 required (250 words): MBA goals/path and unique background. Essay 2 required (250): which core value (impact/innovation/inclusion/integrity) resonates + example. Essay 3 optional (250). Essay 4 required for reapplicants only (100). Plus video essay: two on-screen questions, 2 minutes total, two attempts.
+- Resume: required — Brief professional overview; typically one page (max two); reverse chronological with titles and dates.
+- Transcripts: required — Transcripts of all baccalaureate and graduate work including transfers, summer/extension, single courses. Non-English: certified literal English translation with originals. Three-year bachelor’s eligible with diploma/degree certificate.
+- Interview: by_invitation — Select candidates invited after complete application. In-person or virtual; committee has no format preference.
+- Fee: $150 — waivers: U.S. military active/veteran; Peace Corps/AmeriCorps/Teach for America; Forté MBA Launch (incl. undergrad); MLT Fellow; Access member/Fellow. Indicate in application; docs may be requested. No fee waivers for Consortium applicants. No refunds once paid. — $150 nonrefundable, payable by credit card.
+- Other: 2026–27 rounds: Sep 30 2026 / Jan 6 2027 / Mar 3 2027 / Apr 21 2027 (11:59 p.m. ET); Round 3 final for international applicants
+- Other: Separate earlier GMAT/GRE waiver deadlines per round (e.g. R1 waiver Sep 9 2026)
+- Other: Optional Vetter Dean’s Fellows essays if applying to that fellowship
+- Other: Typical ~5 years work experience; no minimum stated
+- Other: Enrollment deposit $1,500 if admitted
+
+Meet the earlier waiver deadline if seeking to skip GMAT/GRE. Round 3 is last for internationals. Complete video essay thoughtfully—counts with written essays.
+
+- [Requirements and deadlines](https://www.kenan-flagler.unc.edu/programs/mba/full-time-mba/admissions/requirements-deadlines/)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

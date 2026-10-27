@@ -34,6 +34,32 @@ Vanderbilt Owen MBA Tuition & Financing and Student Accounts Graduate/Profession
 
 Application timing: Round 2 · 6 Jan 2027 · 11:59 p.m. CT (Fall 2027; R1 passed; apps opened 19 Aug 2026). Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: required — Official GMAT, GRE, or Executive Assessment required unless an approved test waiver is granted before the round deadline. GRE code 1871. Official score must arrive from testing service for a complete application. No numeric minimum published.
+- GMAT: required — GMAT, GRE, or EA accepted. GMAT/EA: select Vanderbilt University (no school code). Waiver via separate request form (≥~2 weeks before deadline recommended) based on quantitative coursework, quant/analytical work, CPA/CFA/other certs. Cannot waive if a score already submitted. Waiver ≠ admission decision.
+- TOEFL: required — Official English exam required for international applicants unless waiver. Accepts TOEFL (code 1871). No numeric minimum published on Application Instructions page. Scores valid 2 years.
+- IELTS: required — IELTS accepted (code 1871). DET and TOEFL Essentials also accepted. No numeric minimum published on Application Instructions.
+- English waiver: Waiver if undergraduate degree in a country where English is the official language; or lived/worked past 2+ years in such a country; or ≥90th percentile on GMAT/GRE verbal. India treated as English official language for this purpose. Mark qualifications on International Applicants page.
+- GPA: not_stated — No minimum GPA stated on Application Instructions; Class Profile lists median undergraduate GPA (e.g., 3.5 Class of 2028 profile on overview).
+- Letters of recommendation: required — count 1 — One professional recommendation due by application deadline. Prefer direct supervisor/client/project manager. Vanderbilt form or GMAC Common LOR. Non-English letters need professional translation + certification uploaded by recommender.
+- Statement of purpose: required — also known as Short written statements; video response — Two required short written statements: (1) career journey + two post-MBA paths to explore (400-word limit); (2) challenge/stressful situation response and learning (300-word limit). Optional explanatory statement for gaps/context. Required video response (unscripted small-talk prompts) in application.
+- Resume: required — One-page resume typically sufficient; detailed work history also in application. Most students ≥2 years experience; class average ~4–6 years post-baccalaureate.
+- Transcripts: required — Unofficial transcript from every college/university attended. Four-year U.S. bachelor's or equivalent required. Non-English: original + certified English translation. Official records before enrollment if admitted.
+- Interview: by_invitation — Evaluative interviews by invitation after complete application; virtual or on-campus (Discover Vanderbilt Business / weekday visit). Behavioral format. Rolling invitations.
+- Fee: $200 — waivers: Not detailed on Application Instructions checklist (fee stated as $200). — $200 MBA application fee.
+- Other: Fall 2027 deadlines: R1 Oct 1 2026; R2 Jan 6 2027; R3 Mar 10 2027; R4 May 5 2027. Due 11:59 p.m. Central.
+- Other: International final apply-by Apr 5 2027 for visa timing.
+- Other: Pathway2MBA / VU2MBA deferred paths for graduating seniors (Rounds 3–4).
+- Other: Dual-degree applicants must also apply to partner program; LSAT/MCAT not accepted in lieu of GMAT/GRE/EA.
+
+Score or approved waiver required—optional ≠ waived. Request waiver early; English numeric floors not posted—confirm portal/testing instructions.
+
+- [Vanderbilt MBA Application Instructions](https://business.vanderbilt.edu/mba/admissions/application-instructions/)
+- [Vanderbilt MBA Admissions Overview (Fall 2027 deadlines)](https://business.vanderbilt.edu/mba/admissions/)
+
 ## Internships
 
 The program describes individualized career support and preparation before internships. Placement difficulty and international-specific results have not been evaluated.

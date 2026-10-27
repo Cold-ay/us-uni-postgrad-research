@@ -34,6 +34,31 @@ USC Marshall Full-Time MBA Tuition & Fees based on 2026–2027 rates: First-year
 
 Application timing: Round 2 · 5 Jan 2027 (Full-Time MBA; R1 passed; clock time not on table). Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: optional — GMAT or GRE optional for Full-Time MBA; may submit as additional data point. No minimum score. If submitting GRE, ETS code 4852. Official score report must also be sent if scores submitted.
+- GMAT: optional — GMAT or GRE optional; GMAT code 389-9C-23. No minimum. Upload official test-taker score report and send school report if submitting.
+- TOEFL: required — TOEFL required for most international applicants (U.S. permanent residents excluded). USC Grad Admission states no university-wide admission score minimums; ISE placement thresholds for master's (Spring 2027+ apps): TOEFL iBT 90/20 each section (pre-2026-01-21) or 4.5/4 each (on/after 2026-01-21). Institution code 4852.
+- IELTS: required — IELTS Academic accepted. USC Grad Admission master's ISE placement: Overall 6.5 with 6.0 each band (not a university-wide admission floor). Send to University of Southern California.
+- English waiver: Exempt per USC English Language Proficiency Policies (U.S. citizens/PRs; qualifying Anglophone bachelor's/master's/doctorate; native English in qualifying countries). Marshall also does not require English exam if bachelor's (or equivalent) from a non-U.S. institution where sole medium of instruction is English, with official school documentation (transcript/diploma/letter).
+- GPA: not_stated — scale 4.0 — No minimum GPA required. Class Profile shows average GPA on 4.0 scale; international applicants need not convert to 4.0.
+- Letters of recommendation: optional — Marshall neither requires nor accepts letters of recommendation as part of the Full-Time MBA admissions process.
+- Statement of purpose: required — also known as Essay(s) — Essay(s) required in online application (prompts in application). Optional essay available (e.g., second MBA, reapplicant updates).
+- Resume: required — Professional résumé required in online application. Most students have work experience; minimum ~2 years recommended (not a hard floor).
+- Transcripts: required — Upload copies of official academic transcripts with application. Non-English transcripts: original plus translated copy. Bachelor's degree or equivalent required.
+- Interview: unknown — Interview not listed on Marshall Full-Time MBA Admissions requirements page.
+- Fee: $0 — waivers: No application fee charged. — There is no application fee for the Full-Time MBA.
+- Other: Fall 2027 rounds: R1 Oct 15 2026; R2 Jan 5 2027; R3 Mar 1 2027; R4 Apr 15 2027; R5 rolling after Apr 15 2027.
+- Other: Consortium for Graduate Study in Management member; eligible U.S. citizens/PRs/DACA may apply via Consortium common application.
+- Other: All majors welcome; bachelor's only educational prerequisite.
+
+Optional GMAT/GRE ≠ waived. LOR not accepted—do not send. Confirm English waiver documentation early for MOI-English non-U.S. degrees.
+
+- [USC Marshall Full-Time MBA Admissions](https://www.marshall.usc.edu/programs/graduate-programs/mba-programs/full-time-mba/admissions)
+- [USC Graduate Admission English Proficiency](https://gradadm.usc.edu/lightboxes/international-students-english-proficiency/)
+
 ## Internships
 
 Career Launchpad provides career planning and networking preparation. This is support, not a verified internship placement guarantee.

@@ -34,6 +34,33 @@ Texas McCombs Full-Time MBA Tuition & Financial Aid: Non-Texas Residents Year 1 
 
 Application timing: Round 2 · 15 Jan 2027 · 11:59 p.m. CT (Full-Time MBA; R1 passed). Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: required — All FT MBA applicants must submit GMAT, GMAT Focus, GRE, or EA unless: expired (5+ years) score submitted with proof; OR merit-based General Test Waiver approved before submit; OR dual-degree in participating program. No preference / no minimum. GRE code 6882. Self-report + official agency report for current scores. Waiver admits must enroll in Accelerated Foundations (1-week quant prep).
+- GMAT: required — GMAT/GMAT Focus/EA accepted (school code 396-44-40). Same required-or-waiver framework. Superscore received from GMAC considered for quant readiness; class-profile reporting uses highest single-sitting total.
+- TOEFL: required — min 79 — International applicants must submit TOEFL, IELTS, or DET unless McCombs waiver criteria met. UT Graduate Admissions minimum TOEFL iBT 79 (or 4 on 6-point scale). McCombs page does not post a higher program minimum. Scores in hand before submit. ETS code 6882.
+- IELTS: required — min 6.5 — IELTS Academic overall 6.5 minimum per UT Graduate Admissions. DET also accepted (min 115). Send via IELTS electronic delivery to University of Texas at Austin.
+- English waiver: U.S. citizens/PR do not submit. International waiver if: lived/worked full-time in U.S. or English-only official-language country ≥2 of past 4 years; OR hold master’s from U.S./English-only country; OR educated solely in English for undergrad/prior grad in a country where English is not the only official language. Check box in application; processed 7–10 business days after submit. Note: UT Grad exemption list (e.g. India bachelor’s) differs from McCombs-specific waiver text—follow McCombs application checkboxes.
+- GPA: not_stated — Bachelor’s from regionally accredited U.S. institution or comparable foreign degree required. No numeric minimum GPA on McCombs application-process page.
+- Letters of recommendation: required — count 1 — One recommendation from someone who supervised work and/or assessed performance; professional strongly preferred. Explain non-supervisor choice in optional statement. Form includes competency ratings + three narrative prompts.
+- Statement of purpose: required — also known as MBA essay prompts — Two required essays (250 words each) for 2025–2026 cycle refresh: (1) why McCombs MBA / how you used the program; (2) core value example and impact. Optional statement 250 words for gaps/recommender/academics.
+- Resume: required — Professional résumé in application. Typically ≥2 years full-time post-bachelor’s work experience required for admission (calculated to enrollment); teaching/military/government count.
+- Transcripts: required — Upload transcripts twice: in McCombs application before fee, then again to Office of Graduate Admissions after fee. Official from every higher-ed institution except junior/technical college. Domestic transcripts produced within past calendar year. Non-English: official English translations with originals.
+- Interview: required — Video Assessment required for all applicants shortly after submit (6 prompts, 90 seconds each; 7 days to complete after platform access)—structured consistent assessment. Separately, virtual behavioral interview with McCombs Ambassador Committee is encouraged but not required and open to all applicants (20–30 min).
+- Fee: $200 — waivers: UT Grad fee-waiver process (need-based docs) explicitly not available for MBA/MPA programs per Graduate Admissions apply page. — MBA (and dual with MBA): $200 nonrefundable via MyStatus 1–2 business days after application submission (UT Graduate Admissions).
+- Other: Rounds: Oct 15 2026 / Jan 15 2027 / Apr 1 2027 (11:59 p.m. CT)
+- Other: Only online application must meet deadline—video assessment and Ambassador interview may finish after deadline
+- Other: Re Vera employment/recommendation verification (~$85) if admitted
+- Other: Essay prompts labeled refreshed for 2025–2026 cycle on live page as of scrape
+
+Request merit test waiver before submitting if eligible; dual-degree applicants skip waiver petition. Complete Video Assessment within 7 days. Confirm English waiver path matches McCombs checkboxes, not only UT Grad country list.
+
+- [McCombs FT MBA application process](https://www.mccombs.utexas.edu/graduate/mba/full-time-mba/admissions/application-process/)
+- [UT Grad how to apply / MBA fee $200](https://graduate.utexas.edu/admissions/apply)
+- [UT Grad international English mins](https://graduate.utexas.edu/admissions/apply/international)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

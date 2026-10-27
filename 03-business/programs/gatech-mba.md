@@ -34,6 +34,32 @@ Georgia Tech Scheller Full-time MBA Tuition and Financing: Out-of-State $44,956/
 
 Application timing: Round 2 · 8 Jan 2027 (Fall 2027 Start Full-time MBA; R1 passed; clock time not on table). Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: optional — Accepts GRE (or GMAT/GMAT Focus) within past five years; highest overall score reviewed. Institute GRE code 5248. Test-optional path: applicants may apply without disclosing scores (MBA Supplemental → test-optional essay, 2,000 characters). International applicants strongly recommended to submit a score for admission/funding competitiveness. Supplemental EA/LSAT/MCAT may be provided as extra info.
+- GMAT: optional — GMAT or GMAT Focus accepted; Full-time MBA GMAT code HWK-54-37. Beginning Aug 2027 GMAC Superscore appears on reports—committee reviews Superscore and individual sittings. Same test-optional path as GRE.
+- TOEFL: required — min 95 — International applicants must submit valid TOEFL or IELTS unless exempt per Georgia Tech Graduate Studies English Proficiency Requirements. TOEFL min 95 (0–120) or 5 (new 1–6 scale); scores valid 2 years.
+- IELTS: required — min 7 — IELTS minimum overall 7. Exceptions per Grad Studies English Proficiency Requirements.
+- English waiver: Exceptions listed on Georgia Tech Graduate Studies English Proficiency Requirements page (U.S. permanent residents noted as exempt on Scheller international page synthesis—confirm Grad Studies list).
+- GPA: not_stated — Accredited four-year bachelor’s from any academic background; no numeric minimum GPA stated on Full-time MBA admissions page.
+- Letters of recommendation: required — count 2 — Two professional LORs expected (portal allows up to three). One should be current or former manager. Common Letter of Recommendation (GMAC) accepted.
+- Statement of purpose: required — also known as MBA essays — Three required essays (2,000 characters each incl. spaces): Career goals; Community building; Ten facts. Optional essay 500 words. Reapplicant essay 250 words if applicable. Test-optional applicants also complete preparedness essay (2,000 characters).
+- Resume: required — Up-to-date résumé required; post-graduate work experience and leadership/community experiences considered. Typically ≥2–3 years post-grad work preferred; average ~5 years.
+- Transcripts: required — Transcripts from undergrad and any graduate enrollment; scanned official copies OK for initial review. Official transcripts must be received/processed by Georgia Tech Graduate Education before official admission invitation.
+- Interview: by_invitation — Interviews by invitation only (virtual or in-person). May include admissions, career services, and a current MBA student. Fall 2027 interview windows listed by round on admissions page.
+- Fee: $95 — waivers: Institute Application Fee Waivers: U.S. veterans/military, U.S. first-generation college students, financial hardship. Department-level waivers: contact mba@scheller.gatech.edu. — $95 domestic; $105 international. Paid online.
+- Other: Fall 2027 start only; rounds: R1 Oct 5 2026; R2 Jan 8 2027; R3 Mar 5 2027; R4 Apr 30 2027. Majority of merit funding in R1–R2; internationals encouraged by R2.
+- Other: STEM-designated MBA (OPT extension eligibility).
+- Other: MBA Early Admission for Undergraduates deferred path available for U.S. undergrads.
+
+Test-optional ≠ automatic waiver of English proficiency. Internationals: submit TOEFL/IELTS unless Grad Studies exempt; strongly consider submitting GMAT/GRE for funding.
+
+- [Full-time MBA Admissions](https://www.scheller.gatech.edu/explore-programs/mba-programs/full-time-mba/admissions/index.html)
+- [International applicants / English](https://www.scheller.gatech.edu/explore-programs/mba-programs/full-time-mba/admissions/international-applicants.html)
+- [Test-optional FAQs](https://www.scheller.gatech.edu/explore-programs/mba-programs/full-time-mba/admissions/test-optional-info.html)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

@@ -34,6 +34,31 @@ WashU Olin Full-Time MBA Cost, Aid and Scholarships (posted Spring 2026) for can
 
 Application timing: Round 2 · 7 Jan 2027 · 11:59 p.m. CT (Full-Time MBA Fall 2027; R1 passed). Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: optional — GRE recommended but not required. GRE code 6929. Online GRE accepted. No separate waiver needed—applications may be submitted without scores. Committee weighs undergraduate GPA, quant academic/professional evidence, advanced degrees, CPA/CFA, military officer rank, or expired GMAT/GRE if no score submitted.
+- GMAT: optional — GMAT recommended but not required (code R4T-WG-61). Online GMAT accepted. Entirely optional per FT MBA FAQ; scores can strengthen admission/scholarship competitiveness.
+- TOEFL: required — min 5 — Most international (non-U.S. citizen/PR) applicants must submit TOEFL iBT/Home: 5.0 overall new scale OR ≥90 overall old scale (also notes 4.5 threshold language on page—use posted table). ETS code 6929. Scores valid through application deadline; expired not accepted.
+- IELTS: required — min 6.5 — IELTS Academic 6.5. Gateway English 495 and Duolingo 125 also accepted. Send electronically to Washington University in St. Louis Graduate Programs/Admissions.
+- English waiver: Exemption possible per WashU official exemptions list; request in application portal (Office of the Provost reviews). Citizens of countries listed in FT MBA English proficiency policy section may not need scores. Committee may still request a score.
+- GPA: not_stated — No minimum GPA stated on How to Apply page.
+- Letters of recommendation: optional — Letters of recommendation are not required (official FT MBA FAQ).
+- Statement of purpose: required — also known as Personal statement; Career Prompt — Required personal statement (500-word max) on life experiences shaping graduate school decision and how Olin helps long-term goals; Career Prompt (100-word max) on ideal immediate post-MBA career. Optional essay (250-word max).
+- Resume: required — One-page resume required (longer accepted but concision encouraged). No minimum work experience years; median ~4.3 years cited in FAQ.
+- Transcripts: required — Unofficial academic transcripts for review; U.S. bachelor's equivalent required at enrollment (most international 3-year degrees OK). Official transcripts before orientation if enrolling. Non-English: original language + English translation. WES/ECE not required.
+- Interview: unknown — Interview/video interview not listed on current How to Apply required items or FT MBA FAQ PDF as of research date.
+- Fee: $0 — waivers: No application fee; no waiver needed. — Full-Time MBA charges no application fee.
+- Other: Fall 2027 deadlines: R1 Oct 8 2026; R2 Jan 7 2027; R3 Feb 25 2027; R4 Apr 15 2027; then rolling (11:59 p.m. CT).
+- Other: Holistic review; intentionally small class.
+- Other: Up to 9 transfer credits possible post-enrollment under AACSB/B-or-better rules (separate from admissions).
+
+GMAT/GRE optional ≠ waived requirement—there is no hard test requirement. Confirm English exemption early in portal. Do not rely on older news posts that listed LOR/KIRA if current apply checklist omits them.
+
+- [WashU Olin Full-Time MBA How to Apply](https://olin.washu.edu/programs/mbas/full-time-mba/apply.php)
+- [WashU Olin Full-Time MBA Application FAQ (PDF)](https://olin.washu.edu/docs/programs/ftmba-faqs.pdf)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

@@ -34,6 +34,32 @@ Published figure includes the mandatory $2,200 annual MBA program fee. Living co
 
 Application timing: Round 2 · 12 Jan 2027 · 3:00 p.m. ET (2027 entry; R1 passed). Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: required — Valid GMAT (Focus or 10th Edition) or GRE required by deadline for all applicants; self-reported online/test-center OK; official via GRE code 3791. No preference; no minimum. EA not accepted. Evaluation focuses on single-attempt scores; GMAT Superscore appears as additional data point but should not negatively impact. Multiple complete sittings allowed (no mix-and-match sections).
+- GMAT: required — GMAT Focus or 10th Edition required alternative to GRE. Send to MIT – MIT Sloan School of Management. AWA not required. Same no-EA / single-sitting evaluation policy.
+- TOEFL: not_required — MIT Sloan does not accept TOEFL scores. English proficiency assessed during the interview.
+- IELTS: not_required — MIT Sloan does not accept IELTS scores. English proficiency assessed during the interview.
+- English waiver: N/A — English tests not part of MBA application; proficiency evaluated at interview.
+- GPA: not_stated — Four-year undergrad degree or three-year non-U.S. equivalent by matriculation. No minimum GPA (FAQ).
+- Letters of recommendation: required — count 1 — One professional LOR preferred (ideally manager/supervisor); not family. Plus two additional professional references (contact only; may be contacted). LOR must arrive by round deadline.
+- Statement of purpose: required — also known as Cover letter / video questions — Cover letter to Admissions Committee (≤300 words excl. address/salutation) with professional example(s) showing fit to MIT Sloan criteria. Video Question 1 (≤90 sec, single take). Video Question 2 (random open-ended). Interview invitees submit additional short-answer before interview.
+- Resume: required — One-page resume (Times New Roman 10pt; Word or PDF): education, work results bullets, extras. Employment history up to three entries with compensation; entrepreneurs provide formation/partnership/revenue details.
+- Transcripts: required — Scan/upload transcripts from all colleges/universities attended; certified translation if not English. No digitally signed/encrypted uploads. No hard copies at apply. Official signed/sealed if admitted. Relevant coursework/certs section (calculus, stats, CFA/CPA, MITx, etc.).
+- Interview: by_invitation — Required if invited; invitation = advanced consideration, not admit guarantee. Virtual behavioral interview (~30 min) with Admissions Committee member; Eastern Time. Short-answer response due before interview.
+- Fee: $250 — waivers: Current Peace Corps members; Veteran or Active Duty U.S. Military. No retroactive waivers after online payment. — Non-refundable $250 USD online.
+- Other: 2027 entry rounds: R1 Sep 29 2026 (decision mid-Dec 2026); R2 Jan 12 2027 (early Apr 2027); due 3:00pm ET. LGO has designated round.
+- Other: Organizational chart required (circle your role in red).
+- Other: Dual HKS or DUSP: apply MIT Sloan in Round 2 concurrently.
+- Other: Reapplicants: full new application; short-answer on changes.
+
+No TOEFL/IELTS path—prepare for English assessment at interview. Do not omit organizational chart. EA not a substitute for GMAT/GRE.
+
+- [How to Apply](https://mitsloan.mit.edu/mba/admissions/how-to-apply)
+- [MBA Admissions FAQ](https://mitsloan.mit.edu/mba/admissions/frequently-asked-questions)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.
