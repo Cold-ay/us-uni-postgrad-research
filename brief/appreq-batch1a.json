@@ -1,0 +1,817 @@
+{
+  "batch": "appreq-batch1a",
+  "field": "applicationRequirements",
+  "degree": "msf",
+  "as_of": "2026-10-27",
+  "items": [
+    {
+      "id": "mit-msf",
+      "school": "MIT Sloan",
+      "program": "Master of Finance (MFin)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "optional",
+          "detail": "GRE optional for 2027 entry; strongly encouraged if available; no negative inference if omitted. School code 3845."
+        },
+        "gmat": {
+          "status": "optional",
+          "detail": "GMAT Focus or 10th Edition optional; strongly encouraged if available. Send to MIT Sloan School of Management. Evaluation focuses on single-attempt scores."
+        },
+        "english": {
+          "toefl": {
+            "status": "not_required",
+            "detail": "MIT Sloan does not require an English proficiency exam and does not accept TOEFL or IELTS."
+          },
+          "ielts": {
+            "status": "not_required",
+            "detail": "MIT Sloan does not require an English proficiency exam and does not accept TOEFL or IELTS."
+          },
+          "waiver": "English ability assessed during the interview process; TOEFL/IELTS not accepted."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "No minimum GPA stated on how-to-apply page."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 3,
+          "detail": "Three letters. Current students: 2 academic + 1 professional (internship); working professionals: 1 professional + 1 academic + 1 either. At least one must address quantitative abilities. Online submission; max 2 pages."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Three short-answer questions, each ≤200 words: (1) academic/professional experiences for MFin success; (2) short- and long-term goals and how MFin helps; (3) personal qualities advancing program mission. Also two video questions (90-sec story + random open-ended).",
+          "alsoKnownAs": "Short-answer questions / video questions"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "One-page resume; Times New Roman 10pt; Word or PDF; reverse chronological education, FT work (>4 months), internships, other experience."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Scan/upload transcripts from all colleges/universities attended. 4-year bachelor’s or 3-year non-US equivalent by matriculation. Non-English: original + certified translation. Official sealed transcripts required if admitted."
+        },
+        "interview": {
+          "status": "by_invitation",
+          "detail": "Interviews required and by invitation only; virtual; scheduled in Eastern Time. Early denial possible without interview."
+        },
+        "applicationFee": {
+          "amountUsd": 150,
+          "waivers": "Possible for current Peace Corps members and Veteran or Active Duty U.S. Military Personnel; no retroactive waivers.",
+          "detail": "Non-refundable $150 USD paid online before submit."
+        },
+        "other": [
+          "List coursework in linear algebra, multivariable calculus, probability, statistics",
+          "Python proficiency preferred; expected prior to matriculation if admitted without it",
+          "Professional certifications / non-degree coursework optional",
+          "Summer (July) start for 2027 entry — not autumn Fall"
+        ],
+        "advice": "Intl applicants: no TOEFL/IELTS accepted—English judged at interview. Deadline Jan 5, 2027 3pm ET. Strong quant + Python readiness. Apply early enough for recommenders.",
+        "sources": [
+          [
+            "How to apply",
+            "https://mitsloan.mit.edu/mfin/admissions/how-to-apply"
+          ],
+          [
+            "Admissions hub",
+            "https://mitsloan.mit.edu/mfin/admissions"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "princeton-msf",
+      "school": "Princeton Bendheim Center for Finance",
+      "program": "Master in Finance (M.Fin.)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "optional",
+          "detail": "GRE General Test optional/not required for Finance field (AY 2026–27). Code 2672; no department code."
+        },
+        "gmat": {
+          "status": "optional",
+          "detail": "GMAT accepted instead of GRE; optional/not required. Code WC1-L5-59."
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "detail": "Required if primary language is not English and no exemption. Grad School sets no overall minimum; department-specific mins not listed on Finance field page. TOEFL iBT (center or Home); institution 2672."
+          },
+          "ielts": {
+            "status": "required",
+            "detail": "IELTS Academic (incl. Online) accepted; Indicator and One Skill Retake not accepted. No overall Grad School minimum stated."
+          },
+          "waiver": "Exempt if primary language is English; or undergrad instruction entirely in English with degree before enrollment; or ≥2 academic years full-time graduate study entirely in English as of application open. DET also accepted. BCF page: required unless undergrad entirely in English or ≥1 year full-time graduate instruction entirely in English."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "No minimum GPA stated on BCF apply or Grad School Finance field pages."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 3,
+          "detail": "Three required. With ≥2 years FT work: two may be employers, at least one academic. Without FT work: two academic references required. Grad field page notes one may be from current/former employer."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Personal statement and academic statement of purpose required (per BCF apply page). Grad School also lists Academic Statement of Purpose and Personal Statement as application elements.",
+          "alsoKnownAs": "Personal statement / academic statement of purpose"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Resume/CV listed among Grad School application elements (employment, service, education, honors, activities)."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Academic transcripts including math courses taken. Upload via Grad School application; Finance Course List also required."
+        },
+        "interview": {
+          "status": "unknown",
+          "detail": "Interview not described on BCF apply or Grad School Finance field pages as of scrape."
+        },
+        "applicationFee": {
+          "amountUsd": 90,
+          "waivers": "See Grad School application fee / waiver pages (not fully scraped this pass).",
+          "detail": "Fee $90 per Grad School Finance field page."
+        },
+        "other": [
+          "Apply via Princeton Graduate School portal",
+          "Finance (FIN) Course List required in application",
+          "Statement of Financial Resources required",
+          "Fall 2027 deadline Dec 15, 2026 11:59pm EST",
+          "Responses by March 15; reply by April 15"
+        ],
+        "advice": "Intl: plan TOEFL/IELTS/DET early; scores must be valid as of application open (Fall 2026+ policy). Highly selective (~40 of 800+). Strong math/quant prep. Iran residency OFAC note on Grad School eligibility page (as of Aug 24, 2026).",
+        "sources": [
+          [
+            "BCF Apply",
+            "https://bcf.princeton.edu/academic-programs/master-in-finance/apply-for-the-master-in-finance-program/"
+          ],
+          [
+            "Grad School Finance field",
+            "https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/finance"
+          ],
+          [
+            "English proficiency",
+            "https://gradschool.princeton.edu/admission-onboarding/prepare/english-proficiency"
+          ],
+          [
+            "Prepare application",
+            "https://gradschool.princeton.edu/admission-onboarding/prepare"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "washu-msf",
+      "school": "WashU Olin",
+      "program": "MS in Finance (Corporate / Quantitative / Wealth & Asset Management)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "optional",
+          "detail": "GMAT or GRE not required but recommended for most candidates. GRE code 6929. Online GMAT/GRE accepted."
+        },
+        "gmat": {
+          "status": "optional",
+          "detail": "Not required but recommended. MS Finance GMAT code R4T-WG-53. Official scores released when submitting application."
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "detail": "Intl applicants must submit official English scores valid through application deadline. TOEFL iBT/Home: 5.0 overall (new scale) OR ≥90 old scale (page also lists 4.5). ETS code 6929.",
+            "minScore": 90
+          },
+          "ielts": {
+            "status": "required",
+            "detail": "IELTS Academic minimum 6.5. Send electronically selecting Washington University in St. Louis Graduate Programs.",
+            "minScore": 6.5
+          },
+          "waiver": "Exemption possible per university exemption criteria; request in application portal; Office of the Provost reviews. Also accept GATEWAY English (495) and Duolingo (125)."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "No numeric minimum GPA on on-campus SMP apply page; committee considers strong undergraduate GPA among factors if omitting test."
+        },
+        "lettersOfRecommendation": {
+          "status": "not_stated",
+          "count": null,
+          "detail": "Official on-campus specialized master’s checklist does not list letters of recommendation."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Personal statement (500-word max) on life experiences shaping decision to apply and how Olin helps long-term goals. Plus required career essay (100-word max) on ideal post-graduation career. Optional essay 250 words.",
+          "alsoKnownAs": "Personal statement / career essay"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "One-page resume required."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Unofficial transcripts accepted for decision; official required before orientation if enrolling. Bachelor’s equivalent at enrollment; most intl 3-year degrees OK. Non-English: original + English translation. WES/ECE not required."
+        },
+        "interview": {
+          "status": "not_stated",
+          "detail": "On-campus SMP apply page does not list an interview (online SMP lists application video interview)."
+        },
+        "applicationFee": {
+          "amountUsd": 0,
+          "waivers": "N/A — no fee charged.",
+          "detail": "No application fee for on-campus specialized master’s programs."
+        },
+        "other": [
+          "Prerequisites vary by concentration: Quant Finance & Wealth/Asset Management need Statistics + Calculus I; Corporate Finance reviewed holistically",
+          "Fall 2027 rounds: Oct 8 2026, Jan 7, Feb 25, Apr 15 2027 then rolling"
+        ],
+        "advice": "Intl: English scores by deadline; apply earlier rounds for visa time. No app fee. Confirm concentration prerequisites (esp. Quant). Optional GMAT/GRE still recommended for many.",
+        "sources": [
+          [
+            "On-campus SMP apply",
+            "https://olin.washu.edu/programs/specialized-masters/on-campus-smp-apply.php"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "gsu-msf",
+      "school": "Georgia State Robinson",
+      "program": "MS in Finance",
+      "applicationRequirements": {
+        "gre": {
+          "status": "not_required",
+          "detail": "GMAT or GRE score is not required for admission. Strongly encouraged if transcripts/work do not show quantitative readiness; may help scholarships. GRE code 5251."
+        },
+        "gmat": {
+          "status": "not_required",
+          "detail": "Not required. Optional for quant signal/scholarships. GMAT code QCK-ZW-99."
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "detail": "Robinson international page states TOEFL 101+ for master’s (also elsewhere lists 90+). Code 5251. Page has conflicting 101 vs 90 figures—use higher/confirm with admissions.",
+            "minScore": 101
+          },
+          "ielts": {
+            "status": "required",
+            "detail": "Robinson international page states IELTS 7.5+ (also elsewhere lists 6.5+). Confirm with admissions.",
+            "minScore": 7.5
+          },
+          "waiver": "Waiver if baccalaureate/graduate degree from accredited US institution or country where English is official language of instruction per GSU exemption list; or birth country on English-speaking exemption list."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "No minimum GPA stated on MS Finance application-process page."
+        },
+        "lettersOfRecommendation": {
+          "status": "optional",
+          "count": null,
+          "detail": "Not required; welcome to submit via online application or sealed envelope from recommender."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Required personal statement/essay ≤750 words: why Robinson and this program for short- and long-term goals, and why you are a good fit. Optional essay ≤250 words for extenuating circumstances.",
+          "alsoKnownAs": "Required essay / personal statement"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Updated résumé required; work experience preferred but not required."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Unofficial OK at application; one official copy from each prior institution if admitted."
+        },
+        "interview": {
+          "status": "required",
+          "detail": "Mandatory video interview in online application (one recording opportunity). Second in-person/Skype interview only if admissions notifies."
+        },
+        "applicationFee": {
+          "amountUsd": 50,
+          "waivers": "Not stated on MS Finance application-process page.",
+          "detail": "$50 application fee with online application."
+        },
+        "other": [
+          "Evening weekday STEM program (Buckhead)",
+          "Intl F-1 applicants must apply by Round 3 (Mar 15, 2027) for Fall 2027",
+          "Demonstrate quantitative readiness in application"
+        ],
+        "advice": "Intl: hard Round 3 deadline for visa seekers; English mins listed inconsistently (101/7.5 vs 90/6.5)—verify with rcbgradadmissions@gsu.edu. Quant background critical without GRE/GMAT.",
+        "sources": [
+          [
+            "MS Finance application process",
+            "https://robinson.gsu.edu/masters-programs/ms-finance-application-process/"
+          ],
+          [
+            "Program page",
+            "https://www.gsu.edu/program/finance-ms/"
+          ],
+          [
+            "International applicants",
+            "https://robinson.gsu.edu/admissions/international-applicants/"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "usc-msf",
+      "school": "USC Marshall",
+      "program": "MS in Finance (MSF)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "optional",
+          "detail": "Submission of GRE or GMAT optional per MSF admissions FAQ."
+        },
+        "gmat": {
+          "status": "optional",
+          "detail": "Optional per MSF admissions page/FAQ."
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "detail": "Intl applicants: TOEFL or IELTS required unless USC English waiver. Grad Admission placement guidelines for master’s (not hard admit mins): TOEFL iBT ≥90 with ≥20 each section (pre-Jan 21 2026) or ≥4.5 with ≥4 each (new scale). Code 4852. Programs may set higher.",
+            "minScore": 90
+          },
+          "ielts": {
+            "status": "required",
+            "detail": "IELTS Academic/Online: master’s placement guideline 6.5 overall with 6 each band. Select University of Southern California — Graduate Admission.",
+            "minScore": 6.5
+          },
+          "waiver": "Exempt if degree from USC; bachelor’s from US or qualifying Anglophone country; completed master’s/doctoral from country where English is sole official language and language of instruction; or native English from listed countries. Not waived for English-taught programs in non-Anglophone countries or work experience."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "No minimum GPA stated for standard MSF (PDP pathway notes ≥3.0 USC GPA for USC undergrads only)."
+        },
+        "lettersOfRecommendation": {
+          "status": "not_stated",
+          "count": null,
+          "detail": "Standard MSF admissions criteria list does not include letters of recommendation (PDP pathway requires ≥1 from USC faculty)."
+        },
+        "statementOfPurpose": {
+          "status": "not_stated",
+          "detail": "Standard MSF admissions criteria list does not include a statement/essay (PDP requires ≤500-word essay).",
+          "alsoKnownAs": null
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Resume listed among application criteria."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Official transcripts from all colleges/universities attended. USC does not accept WES in lieu of official institutional records. Country-specific rules for foreign degrees."
+        },
+        "interview": {
+          "status": "by_invitation",
+          "detail": "KIRA video interview by invitation only after application submitted."
+        },
+        "applicationFee": {
+          "amountUsd": 175,
+          "waivers": "Not stated on MSF admissions page.",
+          "detail": "$175 application fee."
+        },
+        "other": [
+          "Fall start only",
+          "Intl strongly encouraged Round 1 or 2 (Round 3 decision not guaranteed for intl)",
+          "Financial docs + passport for I-20 after admission (not for admit decision itself per page notes)",
+          "STEM OPT extension eligible"
+        ],
+        "advice": "Intl: apply Round 1/2 for visa; meet USC English policy or waiver. No LOR/essay on standard checklist—confirm in portal. Official scores/transcripts by deadline for timely decision.",
+        "sources": [
+          [
+            "MSF Admissions",
+            "https://www.marshall.usc.edu/programs/graduate-programs/specialized-masters/ms-finance/admissions"
+          ],
+          [
+            "USC English proficiency",
+            "https://gradadm.usc.edu/prospective-international-students/english-proficiency/"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "brandeis-msf",
+      "school": "Brandeis IBS / School of Business and Economics",
+      "program": "Master of Science in Finance (MSF)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "optional",
+          "detail": "GRE entirely optional. Unofficial OK at apply; official if enroll. Valid 5 years. Code 3092."
+        },
+        "gmat": {
+          "status": "optional",
+          "detail": "GMAT entirely optional. Select Brandeis University — Office of Graduate Admissions — All Graduate Programs."
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "detail": "Required unless waiver. Recommend TOEFL iBT ≥5.0 (new scale; equiv. ≥100 pre-Jan 21 2026) or TOEFL ITP ≥627. Code 3122.",
+            "minScore": 100
+          },
+          "ielts": {
+            "status": "required",
+            "detail": "Recommend IELTS ≥7.0 (Indicator and Online accepted).",
+            "minScore": 7.0
+          },
+          "waiver": "Waiver if: on-campus bachelor’s with ≥3 full-time academic years English-only instruction; or ≥1 full-time academic year on-campus graduate study English-only; or FT US work ≥2 consecutive years within last 4 years (≥35 hrs/wk post-bachelor’s). Duolingo ≥130 or PTE ≥68 also accepted as alternatives."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "No minimum GPA stated on Graduate Admissions master’s requirements page."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 1,
+          "detail": "One required (up to two). Professional or academic. If 2+ years FT work, professional letter strongly encouraged. Second letter should arrive within 5 days of complete for guaranteed evaluation."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Statement of Purpose required; program-specific prompt and word count in online application.",
+          "alsoKnownAs": "Statement of Purpose"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Current résumé with education and employment; include internships/part-time if little FT experience."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Bachelor’s (or equivalent 3-year intl). Unofficial for review; official upon enrollment. Institutions with degree or ≥12 credits not on another transcript; max 4 schools listed."
+        },
+        "interview": {
+          "status": "unknown",
+          "detail": "Interview not listed on master’s application requirements page."
+        },
+        "applicationFee": {
+          "amountUsd": 75,
+          "waivers": "Fee waiver available if eligible (see fees-waivers page).",
+          "detail": "$75 online application fee unless waiver."
+        },
+        "other": [
+          "MSF prerequisites: Financial Management + Quantitative Methods (B or better, ≥3 credits each) OR CFA Level I OR approved Coursera/EdX",
+          "9-month MSF: meaningful finance work experience expected (often ≥2 years FT or significant finance internships); otherwise consider 16-month",
+          "Spring 2027 or Fall 2027 entry available"
+        ],
+        "advice": "Intl: meet English waiver or submit TOEFL/IELTS/Duolingo/PTE; recommended floors are guidance not hard cutoffs. Complete MSF prereqs before/after apply as allowed. Choose 9- vs 16-month track based on experience.",
+        "sources": [
+          [
+            "Master’s application requirements",
+            "https://www.brandeis.edu/graduate-admissions/apply/masters.html"
+          ],
+          [
+            "International applicants / English",
+            "https://www.brandeis.edu/graduate-admissions/apply/international.html"
+          ],
+          [
+            "IBS admissions FAQ",
+            "https://www.brandeis.edu/global/admissions/faq.html"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "utah-msf",
+      "school": "Utah Eccles",
+      "program": "Master of Science in Finance",
+      "applicationRequirements": {
+        "gre": {
+          "status": "not_required",
+          "detail": "Official admissions requirements and FAQ list do not include GRE/GMAT; not listed among required materials."
+        },
+        "gmat": {
+          "status": "not_required",
+          "detail": "Not listed among required admissions materials on MSF admissions or FAQ pages."
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "detail": "Intl: TOEFL iBT min 90 (pre-Jan 21 2026) or 5 (on/after Jan 21 2026). Program mins higher than general Admissions Office.",
+            "minScore": 90
+          },
+          "ielts": {
+            "status": "required",
+            "detail": "IELTS Academic (in-person) minimum 7.0.",
+            "minScore": 7.0
+          },
+          "waiver": "Exemptions per University of Utah Admissions Office site. Duolingo English Test min 120 also accepted. Official score required before final decision."
+        },
+        "gpa": {
+          "status": "required",
+          "minimum": 3.0,
+          "scale": "4.0",
+          "detail": "Bachelor’s with cumulative undergraduate GPA ≥3.0 from accredited college/university (or equivalent). Optional essay recommended if below."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 2,
+          "detail": "Two letters required (not family/friends). Prefer professional if FT experience; faculty/advisors/internship OK. Fast Track (GPA ≥3.5 + prereqs B+) and Express Admit can forgo LORs."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Two short essays 300–750 words: (1) overcoming adversity; (2) why MSF and career goals. Optional essay for weaknesses. Plus required video essay ≤2 minutes. Express Admit: no written essays/LORs if apply by Oct 31, 2026.",
+          "alsoKnownAs": "Written essays / video essay"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Chronological career history with dates, duties; education and certifications; international travel for school/work/residence (not vacations)."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Unofficial from all HE institutions at apply (must show name, courses, grades, GPAs). Official after admission. Intl: NACES course-by-course eval (university covers cost after English score received)."
+        },
+        "interview": {
+          "status": "unknown",
+          "detail": "Live interview not listed as required on admissions page; required video essay. Scholarship page notes interviews may factor scholarship decisions."
+        },
+        "applicationFee": {
+          "amountUsd": 65,
+          "waivers": "Not stated on MSF admissions page.",
+          "detail": "$55 domestic / $65 international; non-refundable."
+        },
+        "other": [
+          "Prerequisites (B or better) before admit decision: Intro Accounting + Financial Management (or Series 7 / CFA L1 for finance prereq); Sophia Learning alternatives",
+          "Fall 2027: Priority Feb 1 2027; Intl Apr 1 2027; Scholarship Jun 1; Final Aug 1",
+          "Fast Track and Express Admit pathways"
+        ],
+        "advice": "Intl: Apr 1 2027 intl deadline for Fall 2027 F-1; allow time for transcript eval + official English. Complete prereqs early. Hybrid/evening options exist.",
+        "sources": [
+          [
+            "MSF Admissions",
+            "https://eccles.utah.edu/programs/master-of-science-in-finance/admissions/"
+          ],
+          [
+            "MSF FAQ",
+            "https://eccles.utah.edu/programs/master-of-science-in-finance/faq/"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "texas-msf",
+      "school": "UT Austin McCombs",
+      "program": "Master of Science in Finance (MSF)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "optional",
+          "detail": "GRE/GMAT optional for all applicants; no disadvantage if omitted. If submitting, upload official score report and send official scores (GRE code 6882)."
+        },
+        "gmat": {
+          "status": "optional",
+          "detail": "Optional. MSF GMAT code 396-44-78."
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "detail": "Intl must submit official TOEFL, IELTS, or DET unless exempt. Grad Admissions minimum TOEFL 79 iBT (or 4 on 6-point scale). Code 6882.",
+            "minScore": 79
+          },
+          "ielts": {
+            "status": "required",
+            "detail": "IELTS Academic overall band 6.5 minimum (General Training not accepted). Electronic delivery to University of Texas at Austin.",
+            "minScore": 6.5
+          },
+          "waiver": "Exempt if from qualifying country list or hold bachelor’s from US or qualifying country (master’s alone does not waive). DET min 115. Qualifying countries include India, Singapore, UK, Australia, Canada (except Quebec), etc."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "No minimum GPA stated on MSF application-process page."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 2,
+          "detail": "Two letters; at least one from professor/academic connection. If undergrad completed >3 years ago, professional-only may be appropriate. No personal/family."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Required essay max 500 words: personal/academic/professional path to MSF, short- and long-term goals, post-grad employment vision, how MSF helps. Optional second essay max 500 words for concerns.",
+          "alsoKnownAs": "MSF application essay questions"
+        },
+        "resume": {
+          "status": "not_stated",
+          "detail": "Employment history section collects post-bac FT employers/internships; standalone résumé not explicitly labeled on application-process page."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Upload transcripts all higher-ed institutions in Step 1; Grad School requires unique official transcript from every senior college attended (Step 2). Translations if not English."
+        },
+        "interview": {
+          "status": "required",
+          "detail": "Step 3: required McCombs MS Video Assessment via Kira within 7 days of fee payment (all applicants). Page also notes interviewing selected applicants before decisions."
+        },
+        "applicationFee": {
+          "amountUsd": 90,
+          "waivers": "Managed by Office of Graduate Admissions (not MS Programs); see Grad School waiver info.",
+          "detail": "$65 domestic / $90 international; invoice 1–3 business days after Step 1 submit."
+        },
+        "other": [
+          "Three steps: McCombs app + Grad School checklist + Kira video assessment",
+          "Round 2 is final deadline for international students",
+          "Summer (July) start ~10-month program — not autumn Fall",
+          "Academic supplements section to clarify quantitative coursework titles"
+        ],
+        "advice": "Intl: apply by Round 2 (Jan 2027); English score unless exempt (India on qualifying list). Complete Kira within 7 days of fee. Official transcripts promptly to avoid delay.",
+        "sources": [
+          [
+            "MSF Application Process",
+            "https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-finance/admissions/application-process/"
+          ],
+          [
+            "MSF FAQ",
+            "https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-finance/admissions/faq/"
+          ],
+          [
+            "UT Graduate International",
+            "https://graduate.utexas.edu/admissions/apply/international"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "vanderbilt-msf",
+      "school": "Vanderbilt Owen",
+      "program": "Master of Science in Finance (MSF)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "optional",
+          "detail": "Test-optional specialized master’s; may submit GRE if it adds value."
+        },
+        "gmat": {
+          "status": "optional",
+          "detail": "Test-optional; may submit GMAT if it adds value."
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "detail": "Official English exam or approved waiver required. Accepts TOEFL, IELTS, Duolingo, TOEFL Essentials. Code 1871 for TOEFL/IELTS. No numeric floor stated on application-instructions page."
+          },
+          "ielts": {
+            "status": "required",
+            "detail": "IELTS accepted; school code 1871. No numeric minimum stated on application-instructions page."
+          },
+          "waiver": "Waiver if: undergrad degree in country where English is official language (India counted); OR lived/worked past 2+ years in such country; OR ≥90th percentile verbal on GMAT/GRE. Mark qualifications on International Applicants page."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "No minimum GPA stated on application-instructions page. Four-year U.S. bachelor’s or equivalent required."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 1,
+          "detail": "One letter required by deadline. Prefer online form. Managers, professors, or professional colleagues OK; native-language letter + professional translation acceptable."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Required personal statement on purpose for MSF and alignment of background/skills/interests. Optional second statement for gaps/concerns. Plus required video essay (unscripted small-talk prompts).",
+          "alsoKnownAs": "Personal statement / essays / video essay"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Current professional resume (employer-ready format) with education, work/internships, activities, interests."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Unofficial from every college/university at apply (name, institution, courses, grades, GPA, scale, degree date). Official prior to enrollment. Translations if not English. 3-year degrees: strongly recommend IEE/TEC course-by-course equivalency."
+        },
+        "interview": {
+          "status": "by_invitation",
+          "detail": "Essential; by invitation on rolling basis after complete application. Asynchronous Kira: 4 oral + 1 written response. Denial/waitlist possible without interview; offer of admission requires evaluative interview."
+        },
+        "applicationFee": {
+          "amountUsd": 100,
+          "waivers": "Not detailed on application-instructions page (check FAQ/admissions for exceptions).",
+          "detail": "$100 application fee for MS Finance."
+        },
+        "other": [
+          "Apr 5, 2027 final deadline for international applicants (visa processing)",
+          "Complete apps due 11:59pm Central on round deadline",
+          "Preliminary Financial Declaration for intl (no bank statements at apply)"
+        ],
+        "advice": "Intl: Apr 5 2027 hard final; English waiver or official scores early (10–14 days to post). 3-year degree holders: get credential eval ready. Interview invitation needed for admit.",
+        "sources": [
+          [
+            "Application instructions",
+            "https://business.vanderbilt.edu/masters-in-finance/admissions/application-instructions/"
+          ],
+          [
+            "Admissions overview",
+            "https://business.vanderbilt.edu/masters-in-finance/admissions/"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "rochester-msf",
+      "school": "Rochester Simon",
+      "program": "Full-Time MS in Finance",
+      "applicationRequirements": {
+        "gre": {
+          "status": "optional",
+          "detail": "Option to apply without GMAT/GRE. Encouraged to review standardized test guidance / class profile middle 80% if deciding whether to submit. GRE code 2972."
+        },
+        "gmat": {
+          "status": "optional",
+          "detail": "Optional. Full-Time MS in Finance GMAT code WX9-8R-36. Single test-date scores; Superscore considered only as additional data."
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "detail": "Required for intl whose native language is not English (TOEFL iBT / Home / Essentials). Preferred minimum referenced on admissions page but numeric value not clearly extractable from page text this pass. Code 7260."
+          },
+          "ielts": {
+            "status": "required",
+            "detail": "IELTS (incl. Indicator) accepted. Preferred minimum referenced but numeric not clearly extractable from admissions page text."
+          },
+          "waiver": "Waived if attended ≥3 academic years post-secondary taught solely in English AND received bachelor’s or master’s from English-instruction college/university. Upload supporting waiver documentation. Duolingo also accepted. Proof of English proficiency required for visa issuance."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "No hard minimum GPA on admissions checklist; scholarship guidance example mentions 3.2+ as one factor among many."
+        },
+        "lettersOfRecommendation": {
+          "status": "not_stated",
+          "count": null,
+          "detail": "Official FAQ: Simon does not accept letters of recommendation."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "One required essay for MS (word count on checklist 400–700; 2026 sneak-peek blog lists 250–500 for goals/backup/fit prompts—confirm live application). Video essay is MBA-only / not in MS application per 2026 requirements blog.",
+          "alsoKnownAs": "Required essay"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Business-formatted résumé (not CV), recommend ≤2 pages; quantify accomplishments."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "School-issued transcripts scanned/uploaded for each college; undergrad and graduate if applicable. English or certified translation. Proof of degree conferral."
+        },
+        "interview": {
+          "status": "not_used",
+          "detail": "Per 2026 application-requirements blog, optional video essay is for MBA candidates only and not included in MS application. FAQ/checklist do not list a live MS interview."
+        },
+        "applicationFee": {
+          "amountUsd": 90,
+          "waivers": "Active-duty military/veterans; University of Rochester alumni; official US community/country service (e.g., TFA, Peace Corps); live webinar/event attendees. Request ≥5 business days before deadline and before submit.",
+          "detail": "Non-refundable $90 USD by credit card in application."
+        },
+        "other": [
+          "Fall entry only for MS Finance",
+          "No official academic prerequisites for MS Finance",
+          "3-year bachelor’s accepted",
+          "Merit scholarships automatic with application review (>90% of incoming MS get merit aid per site)"
+        ],
+        "advice": "Intl: English test or documented waiver; scores needed for visa. No LORs accepted—strengthen essay/resume/quant profile. Apply early rounds for faster decision and scholarship pools.",
+        "sources": [
+          [
+            "Full-Time MS Admissions",
+            "https://simon.rochester.edu/programs/full-time-ms/admissions"
+          ],
+          [
+            "Admissions FAQs",
+            "https://simon.rochester.edu/programs/full-time-ms/admissions/admissions-faqs"
+          ],
+          [
+            "Fee waiver",
+            "https://simon.rochester.edu/programs/full-time-ms/admissions/admissions-faqs/fee-waiver"
+          ],
+          [
+            "Standardized tests",
+            "https://simon.rochester.edu/programs/full-time-ms/admissions/admissions-faqs/standardized-tests"
+          ],
+          [
+            "2026 application requirements blog",
+            "https://simon.rochester.edu/blog/admissions-blog/sneak-peek-2026-full-time-application-requirements"
+          ],
+          [
+            "MS Finance hub",
+            "https://simon.rochester.edu/programs/full-time-ms-in-finance"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    }
+  ]
+}

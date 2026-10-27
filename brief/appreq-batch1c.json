@@ -1,0 +1,1006 @@
+{
+  "batch": "appreq-batch1c",
+  "field": "applicationRequirements",
+  "degree": "msf",
+  "as_of": "2026-10-27",
+  "items": [
+    {
+      "id": "ohio-msf",
+      "school": "Ohio State Fisher",
+      "program": "Specialized Master in Finance (SMF)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "optional",
+          "detail": "GMAT or GRE optional (no preference). Scores valid 5 years. From Oct 1, 2024 only GRE taken at an ETS testing center accepted (not at-home); valid at-home GRE before that date still accepted. Apply without scores by answering YES to the no-score question.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "optional",
+          "detail": "GMAT or GRE optional (no preference). Scores valid 5 years. Holistic review; test scores may strengthen application if submitted.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": 79,
+            "detail": "TOEFL iBT or Home Edition minimum 79 (4.0 on updated TOEFL launched Jan 2026). MyBest not accepted. Official scores ≤2 years old. ETS code 1592."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": 7.0,
+            "detail": "IELTS Academic or Online minimum 7.0. One Skill Retake not accepted. Fisher international page lists 7.0 (university GPAdmissions general page lists 6.5)."
+          },
+          "waiver": "Exempt if citizen of, or bachelor’s+ from, listed English-speaking countries/territories (Fisher international applicants page / gpadmissions.osu.edu). Duolingo also accepted (min 120). Degree from U.S. university also commonly cited for TOEFL waiver in Fisher FAQs."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "No numeric minimum GPA stated on SMF applying page. Four-year bachelor’s (or equivalent) required; OSU generally does not treat 3-year bachelor’s as equivalent."
+        },
+        "lettersOfRecommendation": {
+          "status": "optional",
+          "count": null,
+          "detail": "Two references required (Admissions may contact). Formal letters of recommendation are optional; if supplied, recommenders email to FCOB-grad_apps@osu.edu with application ID. Apps may be reviewed before optional letters arrive."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Required essay: short- and long-term goals and how/why SMF helps achieve them. Recommended max 750 words. Optional supplemental essay (max ~500 words).",
+          "alsoKnownAs": "Essay"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Resume required; may exceed one page covering employment, extracurriculars, languages, military if applicable."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Official transcripts from each undergrad/grad institution where credit earned (scanned official for review; verified electronic to GPADOCS@osu.edu or mailed). International: original language + certified English translation."
+        },
+        "interview": {
+          "status": "required",
+          "detail": "Required Kira online recorded video interview for every applicant; application not reviewed until complete. Live interviews on a need-basis only."
+        },
+        "applicationFee": {
+          "amountUsd": 60,
+          "waivers": "International applicants pay $70.",
+          "detail": "Nonrefundable $60 USD domestic (U.S. citizens/permanent residents/asylees); $70 international. Paid by credit card with online application."
+        },
+        "other": [
+          "No prerequisite courses; no post-undergrad work experience required (~75% of admits have <1 year).",
+          "Quantitative aptitude valued via coursework or GMAT/GRE.",
+          "AI policy: original voice required; limited AI for proofreading/brainstorming with disclosure; AI-generated content may disqualify.",
+          "Autumn 2027 application open; rolling review; priority/final deadlines posted on applying page."
+        ],
+        "advice": "Complete Kira video early; optional GMAT/GRE can help if quant background is thin. Apply early for merit aid (Priority 1 Dec 11, 2026).",
+        "sources": [
+          [
+            "Applying & deadlines",
+            "https://fisher.osu.edu/graduate/smf/admissions/applying-fisher"
+          ],
+          [
+            "International applicants / English minima",
+            "https://fisher.osu.edu/graduate/international-applicants"
+          ],
+          [
+            "Program hub",
+            "https://fisher.osu.edu/graduate/smf"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "msu-msf",
+      "school": "Michigan State Broad",
+      "program": "Master of Science in Finance (MS Finance)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "required",
+          "detail": "GRE minimum 310 verbal+quantitative combined, or GMAT. Scores <5 years old. Waiver may be requested at application; current MSU undergrads in good academic standing eligible to waive.",
+          "minScore": 310
+        },
+        "gmat": {
+          "status": "required",
+          "detail": "GMAT minimum 600 (code QH0-5P-69) or GRE. Waiver may be requested; current MSU undergrads in good standing eligible to waive.",
+          "minScore": 600
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": 100,
+            "detail": "International: TOEFL iBT minimum 100 (paper 600 / computer 250). School code 1465, dept 4102. Lower/no scores may allow provisional admission per university rules."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": 7.0,
+            "detail": "IELTS band minimum 7."
+          },
+          "waiver": "Not detailed beyond provisional admission language for lower/missing scores; confirm with program."
+        },
+        "gpa": {
+          "status": "required",
+          "minimum": 3.0,
+          "scale": "4.0",
+          "detail": "Four-year undergrad degree with cumulative GPA 3.0 or higher expected."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 2,
+          "detail": "Two letters required; at least one desirably from a faculty member (course or research). Address listed on admissions page for mailed letters."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Statement of objectives included in overall record review (cited under Admission Criteria).",
+          "alsoKnownAs": "Statement of objectives"
+        },
+        "resume": {
+          "status": "not_stated",
+          "detail": "Resume/CV not listed in Application Requirements checklist on MS Finance admissions page (work experience is an admission criterion)."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Scanned transcripts and degree certificates in online application; original/certified required if recommended for admission."
+        },
+        "interview": {
+          "status": "unknown",
+          "detail": "Interview not mentioned on MS Finance admissions page."
+        },
+        "applicationFee": {
+          "amountUsd": 50,
+          "waivers": "",
+          "detail": "$50 due at application submission."
+        },
+        "other": [
+          "At least two years full-time post-bachelor work experience normally expected; waivable for exceptional candidates.",
+          "Prerequisites: equivalents of MTH 124 Survey of Calculus I and STT 315 Intro Probability and Statistics for Business.",
+          "Major code 6016, Major: Finance.",
+          "Working knowledge of Internet, word processing, spreadsheets."
+        ],
+        "advice": "Incapsula often blocks automated fetches of broad.msu.edu — verify live page before applying. Request GMAT/GRE waiver only if clearly eligible.",
+        "sources": [
+          [
+            "Admissions (official)",
+            "https://broad.msu.edu/masters/finance/admissions/"
+          ],
+          [
+            "Program hub",
+            "https://broad.msu.edu/masters/finance/"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "auburn-msf",
+      "school": "Auburn Harbert",
+      "program": "Master of Science in Finance (MSF)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "required",
+          "detail": "Official GMAT (preferred) or GRE required unless waiver granted. Waiver: bachelor’s from regionally accredited institution plus (2+ yrs exp & 3.50+ GPA) OR (4+ yrs & 3.25+) OR (6+ yrs & 3.0+) OR (8+ yrs) OR terminal degree. Case-by-case additional waivers. Waiver ≠ admission.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "required",
+          "detail": "Official GMAT preferred or GRE, unless waiver (same criteria as GRE). Online waiver request available; advisor appointment advised.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": 79,
+            "detail": "International: TOEFL iBT 79+ with ≥16 each section (pre-Jan 21, 2026); after Jan 21, 2026 iBT26 total 4.5+ with ≥4.0 each section. ETS code 1005. DET also accepted (115+ with 110+ sections)."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": 6.5,
+            "detail": "IELTS overall band 6.5 or higher."
+          },
+          "waiver": "Prior degree from regionally accredited U.S. institution may remove English score requirement once official transcript with degree received; other exemptions case-by-case after official transcript."
+        },
+        "gpa": {
+          "status": "recommended",
+          "minimum": 2.75,
+          "scale": "4.0",
+          "detail": "MSF program page states bachelor’s required but no program-specific GPA floor. Auburn Graduate School typically expects ≥2.75 undergrad GPA (or ≥3.0 grad GPA or acceptable GRE/GMAT). Competitive admission; class size limited."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 2,
+          "detail": "Two letters of recommendation on checklist."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Personal Statement required on application checklist.",
+          "alsoKnownAs": "Personal Statement"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Résumé required."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Official undergraduate university transcript(s). International: original language + certified English translation; diploma/certificate."
+        },
+        "interview": {
+          "status": "unknown",
+          "detail": "Interview not listed on MS Finance admissions checklist."
+        },
+        "applicationFee": {
+          "amountUsd": 60,
+          "waivers": "Active military: Graduate School application fee waiver with confirmation letter. International pay $70.",
+          "detail": "Graduate School: $60 domestic / $70 international (nonrefundable), paid online with application."
+        },
+        "other": [
+          "Bachelor’s from recognized university/college required.",
+          "Apply via Graduate School as Finance (Non-Thesis); fall admit only; 31 credit hours non-thesis.",
+          "Duolingo English Test accepted for internationals."
+        ],
+        "advice": "If seeking GMAT/GRE waiver, schedule admissions advisor appointment before submitting waiver. International deadline earlier (Apr 1) than domestic (Jun 1).",
+        "sources": [
+          [
+            "MS Finance admissions",
+            "https://harbert.auburn.edu/degrees-programs/graduate/ms-finance/admissions.html"
+          ],
+          [
+            "Graduate School international instructions",
+            "https://graduate.auburn.edu/admissions/international-instructions.php"
+          ],
+          [
+            "Graduate School bulletin admissions",
+            "https://bulletin.auburn.edu/thegraduateschool/admissions/"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "ucsd-msf",
+      "school": "UC San Diego Rady",
+      "program": "Master of Quantitative Finance (MQF)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "required",
+          "detail": "GRE or GMAT required; application incomplete until scores verified. GRE code 4836. Waiver consideration if: bachelor’s from accredited U.S. university physically in U.S.; quantitative major; college Calculus with A/B (not Pass); cumulative GPA ≥3.00/4.00 (below 3.00 exceptional only). Request to MQF@rady.ucsd.edu with transcripts+resume.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "required",
+          "detail": "GMAT or GRE required. GMAT code 3NS-ZK-27. Single-sitting GMAT considered; Superscore may be supplemental. Same U.S.-degree waiver criteria as GRE.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": 85,
+            "detail": "University-wide TOEFL iBT minimum 85 (new scale 4.5); Rady competitive scores above 100. Institution code 4836. MyBest not accepted. DET min 120; PTE Academic min 65 also accepted."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": 7.0,
+            "detail": "IELTS Academic Band 7 minimum. Official results from test center to Rady/UCSD."
+          },
+          "waiver": "Exempt if bachelor’s/master’s/doctoral with grades B (3.0)+ from regionally accredited U.S. institution with English sole instruction, or foreign institution listed in WHED as English sole language of instruction. No other documentation substitutes for WHED."
+        },
+        "gpa": {
+          "status": "recommended",
+          "minimum": 3.0,
+          "scale": "4.0",
+          "detail": "No hard MQF GPA floor stated for admission; GRE/GMAT waiver requires ≥3.00 cumulative undergrad GPA. Calculus (B+) required background; Linear Algebra (B+) highly recommended."
+        },
+        "lettersOfRecommendation": {
+          "status": "optional",
+          "count": null,
+          "detail": "Recommendations not required; applicants without one not disadvantaged. Optional if recommender adds meaningful context."
+        },
+        "statementOfPurpose": {
+          "status": "optional",
+          "detail": "Statement of Purpose optional; ≤500 words, double-spaced, 12-pt. Why good MQF candidate and how Rady features benefit career; other academic/personal info welcome.",
+          "alsoKnownAs": "Statement of Purpose"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Up-to-date resume/CV; highlight quantitative/technical prep, coursework, MOOCs, research, programming, portfolios (e.g. GitHub), internships."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Unofficial PDF transcripts (front/back) in application; official after offer. International: certified English translation; admitted internationals must submit WES or TEC course-by-course evaluation after provisional admission."
+        },
+        "interview": {
+          "status": "by_invitation",
+          "detail": "Interviews required for admission and by invitation only; online asynchronous platform; live interview reserved in some cases. Reviewed 4–8 weeks after complete application."
+        },
+        "applicationFee": {
+          "amountUsd": 150,
+          "waivers": "",
+          "detail": "$150 non-refundable for all applicants; credit card online or check (app held until check received)."
+        },
+        "other": [
+          "Strong quant foundation required; high GRE/GMAT quant expected.",
+          "Programming/stats experience favorably considered (Python, SAS, STATA, MatLab, R, etc.).",
+          "Fall 2027 rounds posted on admissions page (R1 Oct 15, 2026 through R5 Jul 15, 2027 domestic)."
+        ],
+        "advice": "Do not rely on optional SoP/LOR alone if quant evidence is thin—submit strong GRE/GMAT unless clearly waiver-eligible. Round 4 is fellowship & international deadline.",
+        "sources": [
+          [
+            "MQF admissions",
+            "https://rady.ucsd.edu/programs/master-quantitative-finance/admissions/"
+          ],
+          [
+            "MQF program hub",
+            "https://rady.ucsd.edu/programs/master-quantitative-finance/"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "iit-msf",
+      "school": "Illinois Tech Stuart",
+      "program": "Master of Science in Finance (M.S. Finance)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "not_required",
+          "detail": "Program page: No GMAT or GRE scores required. University graduate checklist: master’s applicants may optionally submit GRE.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "not_required",
+          "detail": "Program page: No GMAT or GRE scores required.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": 80,
+            "detail": "International: TOEFL iBT 80+ (pre-Jan 21, 2026: 80 overall with 15 each subsection; on/after Jan 21, 2026: 4.5 overall with 4.5 each subsection). Conditional admission possible below minima."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": 6.5,
+            "detail": "IELTS 6.5 overall with 6.0 each subsection. DET 115 overall (110 each subsection) also accepted."
+          },
+          "waiver": "Degree from listed English-speaking countries with ≥2 years attendance; intensive English (ELS 112 / NCUK EAP); or 60 semester hours at U.S. institution within last 36 months (per IIT English page pathways)."
+        },
+        "gpa": {
+          "status": "required",
+          "minimum": 3.0,
+          "scale": "4.0",
+          "detail": "Official transcripts with minimum cumulative undergrad GPA 3.0/4.0 for regular admission (program and university)."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 1,
+          "detail": "Program page silent on LOR count; Illinois Tech graduate checklist: most master’s require one letter (up to three). Contact Graduate Admission to confirm Stuart MS Finance exact count."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "One-page statement of purpose with goals and objectives (program page). University portal may also prompt short professional-statement questions (~150–200 words).",
+          "alsoKnownAs": "Statement of purpose / Professional statement"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "All Illinois Tech graduate applicants required to submit a résumé (university checklist)."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Official transcript submission; scan official PDFs of all post-secondary institutions; degree certificate if completed."
+        },
+        "interview": {
+          "status": "unknown",
+          "detail": "Interview not listed on MS Finance program admissions requirements."
+        },
+        "applicationFee": {
+          "amountUsd": 100,
+          "waivers": "Current Illinois Tech students or alumni eligible for fee waiver via enrollment history on application.",
+          "detail": "Graduate application fee $100 (credit card only); exceptions for Design/Law/IELP."
+        },
+        "other": [
+          "Completed online application required.",
+          "STEM-designated; on-campus Chicago.",
+          "Catalog notes LORs strongly encouraged for master’s even where optional by unit—confirm Stuart expectation."
+        ],
+        "advice": "Program explicitly drops GRE/GMAT; emphasize quant coursework and SoP. Confirm whether Stuart requires the default 1 LOR.",
+        "sources": [
+          [
+            "Finance MS program / admissions",
+            "https://www.iit.edu/academics/programs/finance-ms"
+          ],
+          [
+            "Graduate admission checklist",
+            "https://www.iit.edu/admissions-aid/graduate-admission/domestic-students/admission-requirements-and-checklist"
+          ],
+          [
+            "International English requirements",
+            "https://www.iit.edu/admissions-aid/graduate-admission/international-students/admission-and-english-language-requirements"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "temple-msf",
+      "school": "Temple Fox",
+      "program": "Master of Science in Financial Analysis (MS)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "optional",
+          "detail": "Standardized test scores optional. If submitted, GRE code 2906; scores within last 5 years. Official scores from GRE or GMAT.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "optional",
+          "detail": "Optional; GMAT code 72S3T52; within last 5 years if submitted.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": 79,
+            "detail": "Required if no bachelor’s/graduate degree from a U.S. institution. Temple Graduate School minima: TOEFL iBT 79 (4.5 on/after Jan 21, 2026); PTE 53; Duolingo 110; LanguageCert 70. Fox program page does not state higher Fox-specific floors."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": 6.5,
+            "detail": "IELTS Academic 6.5 (Temple Graduate School minimum)."
+          },
+          "waiver": "May be waived if undergrad/grad degree from a country where English is commonly used; admissions auto-reviews waiver eligibility from academic history. Also waived with U.S. bachelor’s/graduate degree."
+        },
+        "gpa": {
+          "status": "required",
+          "minimum": 3.0,
+          "scale": "4.0",
+          "detail": "Bachelor’s degree; should have minimum overall 3.0 GPA. Prerequisites: semester of statistics, finance, accounting, micro and macroeconomics. Quant background scrutinized."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 1,
+          "detail": "One letter required; professional references from immediate supervisor preferred; academic acceptable. Enter contact in app; recommenders upload."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "One 500-word Statement of Goals covering past experiences/motivation, expected change, values/skills beyond academics, and career goals. Evaluated for content, clarity, professionalism.",
+          "alsoKnownAs": "Statement of Goals"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Current résumé/CV detailing professional experience required regardless of employment status."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Transcripts from each institution with credit; copies OK for review; officials required if admitted. Extra docs (marksheet/diploma) for non-U.S. institutions per Grad School guidelines."
+        },
+        "interview": {
+          "status": "by_invitation",
+          "detail": "Once complete, candidates invited to a virtual interview (invite only)."
+        },
+        "applicationFee": {
+          "amountUsd": 60,
+          "waivers": "",
+          "detail": "$60 application fee after submitting Fox online application."
+        },
+        "other": [
+          "Rolling admissions; Fall: opens Aug 1; early Dec 15; scholarship & international Mar 1; final Jun 30.",
+          "Select Fox School of Business (FSOB) in portal."
+        ],
+        "advice": "Apply by Mar 1 for scholarship and international visa timing. Optional GMAT/GRE only if it strengthens a thin quant profile.",
+        "sources": [
+          [
+            "Financial Analysis MS admissions",
+            "https://www.temple.edu/academics/degree-programs/financial-analysis-ms-bu-fian-ms/admissions"
+          ],
+          [
+            "Program hub",
+            "https://www.temple.edu/academics/degree-programs/financial-analysis-ms-bu-fian-ms"
+          ],
+          [
+            "Temple Grad School international documents / English minima",
+            "https://grad.temple.edu/admissions/international-applicants/required-application-documents"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "lsu-msf",
+      "school": "LSU Ourso",
+      "program": "Master of Science in Finance (MS Finance)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "unknown",
+          "detail": "Department page discusses GMAT (target 600) and a Fall 2021 GMAT waiver for well-qualified candidates (>3.5 GPA + good references). GRE not mentioned on department MS Finance page; Graduate School says aptitude tests are department-determined.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "required",
+          "detail": "Department targets GMAT 600+ (code 6373) with balanced verbal/quant. Page still states: For Fall 2021, GMAT waived for well-qualified candidates (>3.5 GPA and good references)—reconfirm whether waiver remains for Fall 2027. Holistic review of full package.",
+          "minScore": 600
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": 79,
+            "detail": "Department: TOEFL ≥550 PBT / 213 CBT / 79 iBT (code 6373). Graduate School also accepts IELTS 6.5, PTE 59, Duolingo 110, Michigan English Test 53."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": 6.5,
+            "detail": "Graduate School international admissions minimum IELTS 6.5 (department page only cites TOEFL explicitly)."
+          },
+          "waiver": "Exempt if native English and/or educated in U.S. or listed English-official countries per LSU Graduate School international page; bachelor’s from accredited U.S. institution."
+        },
+        "gpa": {
+          "status": "recommended",
+          "minimum": 3.2,
+          "scale": "4.0",
+          "detail": "Department targets ~3.2 undergrad GPA. Graduate School requires ≥3.0 undergrad (and ≥3.0 on any completed graduate work)."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": null,
+          "detail": "Letters of recommendation required (important for success assessment); no specific count or form stated on department page—use letterhead. Confirm count in Grad School application portal."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Statement of purpose on Grad School application must include career goal and reasons for MS Finance (used to tailor program of study).",
+          "alsoKnownAs": "Statement of purpose"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Résumé listed among materials to send / Grad School requires CV/resume with application."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Transcripts via Pinkie Gordon Lane Graduate School; unofficial OK for review, official for enrollment. International: official transcripts + degree certificates + certified translations."
+        },
+        "interview": {
+          "status": "unknown",
+          "detail": "Interview not stated on department MS Finance admissions section."
+        },
+        "applicationFee": {
+          "amountUsd": 50,
+          "waivers": "Limited domestic waivers (service orgs, need-based, military); international applicants do not qualify for Grad School fee waivers.",
+          "detail": "$50 domestic/permanent resident; $70 international; nonrefundable; per application."
+        },
+        "other": [
+          "Work experience encouraged but not required.",
+          "Undergrad should approximate business core (calc, micro/macro, accounting year, stats through regression, business law, marketing, management, finance, production/OR) + office software proficiency.",
+          "Small program (~25 census; ~5–10 admits/semester); fall and spring entry.",
+          "Fall 2021 GMAT-waiver wording on live page may be stale—email finance@lsu.edu / advisor before relying on it."
+        ],
+        "advice": "Treat GMAT as expected unless department confirms current waiver. Apply early (intl advised ~10 months ahead; Grad School Fall intl deadline May 1 university-level / department cites May 15).",
+        "sources": [
+          [
+            "MS Finance department admissions",
+            "https://www.lsu.edu/business/finance/master-finance.php"
+          ],
+          [
+            "Graduate School before you apply / fee",
+            "https://www.lsu.edu/graduateschool/admissions/before_you_apply.php"
+          ],
+          [
+            "International admissions / English",
+            "https://www.lsu.edu/graduateschool/admissions/international_admissions.php"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "santaclara-msf",
+      "school": "Santa Clara Leavey",
+      "program": "Master of Science in Finance & Analytics (MSFA)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "required",
+          "detail": "GMAT/GRE scores or test waiver required in application materials. No preference GMAT vs GRE. No minimum; MS programs averages cited ~GRE 309 / GMAT 650. Valid 5 years. Strong quant/technical applicants may request waiver; waiver applicants risk less merit scholarship eligibility.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "required",
+          "detail": "GMAT or GRE or approved waiver. Code BV3-WB-51. Same waiver/scholarship notes as GRE.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": 90,
+            "detail": "Non-native English: TOEFL old iBT min 90 (pre-2026) or new TOEFL 4.5 (2026 iBT); DET 110. Code 4851 / BusinessCAS B888. Valid 2 years."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": 6.5,
+            "detail": "IELTS 6.5 minimum (page typo shows 'ELTS')."
+          },
+          "waiver": "May meet via ≥50th percentile verbal on GMAT/GRE, or degree from accredited U.S. university, or degree in last 4 years from Australia, Anglophone Canada, Ireland, New Zealand, UK, or U.S. with English sole instruction."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "No minimum GPA stated; class profile average GPA 3.18. Bachelor’s required (all majors)."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 2,
+          "detail": "2 letters of recommendation (*waived for SCU Alumni Pathway). Prefer professional network; academic/volunteer OK especially for recent grads."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Personal statement required among application materials.",
+          "alsoKnownAs": "Personal statement"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Resume/CV required."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Official transcripts (*waived for Alumni Pathway). International bachelor’s: NACES course-by-course evaluation with cumulative GPA and U.S. equivalency required even if English transcript."
+        },
+        "interview": {
+          "status": "by_invitation",
+          "detail": "Qualified applicants invited to interview in person or via Zoom; decision typically within ~2 weeks after final interview."
+        },
+        "applicationFee": {
+          "amountUsd": 100,
+          "waivers": "Waived for Santa Clara University Alumni Pathway applicants. Bulletin lists non-refundable application fee $100.",
+          "detail": "Non-refundable application fee $100 (Leavey Graduate Business Bulletin Other Fees)."
+        },
+        "other": [
+          "No prerequisites; Calculus I & Statistics recommended.",
+          "Work experience not required.",
+          "On-campus MSFA is STEM/F-1 eligible; Online MSFA not F-1/STEM OPT.",
+          "Fall on-campus priority Apr 1 / final Jun 1 (table on program page).",
+          "Pre-courses: Intro Financial Accounting and Getting Started with R (may be waived with prior coursework)."
+        ],
+        "advice": "For F-1, use on-campus MSFA only. Submitting GMAT/GRE improves merit scholarship odds vs waiver path.",
+        "sources": [
+          [
+            "MSFA program / application steps",
+            "https://www.scu.edu/business/ms/ms-finance-and-analytics/"
+          ],
+          [
+            "Leavey Graduate Business Bulletin financial / fees",
+            "https://www.scu.edu/bulletin/graduate/leavey-school-of-business/chapter-3/index.html"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "rit-msf",
+      "school": "RIT Saunders",
+      "program": "Master of Science in Finance (Finance MS)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "optional",
+          "detail": "GRE or GMAT optional, but recommended for individuals with degrees from international universities.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "optional",
+          "detail": "GRE or GMAT optional; recommended for international-university degree holders.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": 88,
+            "detail": "Program table: TOEFL 88 / 4.5 (new scale). Also DET 130, LanguageCert Academic 74, PTE Academic 60. Some internationals may get English test waiver per RIT policy. Conditional admission possible below minimum."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": 6.5,
+            "detail": "IELTS 6.5. Balanced subscores expected."
+          },
+          "waiver": "May be considered if worked/studied in U.S. last two years; bachelor’s/master’s from English-medium university in RIT waiver territory list; or citizen of listed territories with English-medium secondary school. See RIT graduate apply page."
+        },
+        "gpa": {
+          "status": "recommended",
+          "minimum": 3.0,
+          "scale": "4.0",
+          "detail": "Baccalaureate from accredited university; minimum cumulative GPA 3.0 (or equivalent) recommended."
+        },
+        "lettersOfRecommendation": {
+          "status": "optional",
+          "count": null,
+          "detail": "Letters of recommendation are optional for Finance MS. (RIT College of Business master’s generally excepted from required LOR rule on university apply page.)"
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Personal statement of educational objectives required (open-ended; may address why program, career goals, non-academic qualities, prior experience, why RIT).",
+          "alsoKnownAs": "Personal statement of educational objectives"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Current resume or curriculum vitae required."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Copies of official transcripts (English) of all prior undergrad/grad coursework including transfer credit."
+        },
+        "interview": {
+          "status": "unknown",
+          "detail": "Interview not listed on Finance MS admissions details."
+        },
+        "applicationFee": {
+          "amountUsd": 65,
+          "waivers": "Current RIT students and RIT alumni not required to pay; fee waived within 24 hours of submission for them. Other waiver categories per Grad FAQ.",
+          "detail": "Non-refundable $65 graduate application fee (RIT Graduate How to Apply)."
+        },
+        "other": [
+          "STEM-OPT eligible; on-campus only.",
+          "Fall priority Jan 15 / standard Mar 1; Spring rolling.",
+          "International F-1 must study full-time."
+        ],
+        "advice": "International-degree applicants should strongly consider submitting GRE/GMAT despite optional status.",
+        "sources": [
+          [
+            "Finance MS admissions",
+            "https://www.rit.edu/study/finance-ms"
+          ],
+          [
+            "Graduate how to apply / fee / English",
+            "https://www.rit.edu/admissions/graduate/apply"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "arizona-msf",
+      "school": "Arizona Eller",
+      "program": "Master of Science in Finance (MSF)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "waived",
+          "detail": "GMAT/GRE requirement waived for Fall 2027 (stated on admissions page Application Strengths and Required Materials). Historical note on page also describes alternate waiver paths (Finance/Accounting/STEM degree with ≥3.3 GPA, CFA levels, Charter)—but Fall 2027 policy is explicit waiver.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "waived",
+          "detail": "GMAT (or GRE) waived Fall 2027. School code 4832 if somehow submitting. Page still mentions older waiver alternatives; treat Fall 2027 as waived.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": 100,
+            "detail": "International / non-native: Eller FAQ requires iBT TOEFL ≥100. Score <2 years old at first MSF class unless living/studying in U.S. since test. Code 4832."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": 7.0,
+            "detail": "IELTS overall ≥7.0 with ≥6.0 each section (Eller FAQ / UA Grad College)."
+          },
+          "waiver": "Waived if completed a four-year bachelor’s from a U.S. college/university and have not returned home for an extended period (FAQ); also if completed a degree program in the U.S. Check country requirements on UA Graduate College site."
+        },
+        "gpa": {
+          "status": "required",
+          "minimum": 3.0,
+          "scale": "4.0",
+          "detail": "Minimum GPA 3.00. UA Grad College enforces ≥3.0 on last 60 undergrad units or 12 grad credits (rare exception >2.95 with strong credentials)."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 2,
+          "detail": "2 Letters of Reference: names and contact information. Academia or industry; should address study/quantitative skills."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Statement of Purpose: academic/professional goals in finance; typically 1–2 typed double-spaced pages to Finance Department Admissions Committee.",
+          "alsoKnownAs": "Statement of Purpose"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Resume required in application package."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Transcripts from all colleges/universities except UA (include grade key if not 4.0 scale). International: original language + English translation; official sealed."
+        },
+        "interview": {
+          "status": "unknown",
+          "detail": "Interview not listed among Required Application Materials."
+        },
+        "applicationFee": {
+          "amountUsd": 90,
+          "waivers": "UA Graduate College does not waive application fees (general email requests not considered).",
+          "detail": "UA Graduate College degree-seeking application fee $90 nonrefundable."
+        },
+        "other": [
+          "No work experience required.",
+          "Prefer B.S./B.A. in business-related field; other fields may need summer FinPrep/prereq modules.",
+          "International: financial guarantee; affidavit of domicile for AZ residents.",
+          "Fall deadlines include Oct 15 early; May 15 international; Aug 1 final."
+        ],
+        "advice": "Fall 2027 GMAT/GRE waived—do not delay for a test. Non-finance majors should plan FinPrep if notified.",
+        "sources": [
+          [
+            "MSF admissions",
+            "https://eller.arizona.edu/programs/masters/finance/ms-finance/admissions"
+          ],
+          [
+            "MSF FAQs (English / GPA)",
+            "https://eller.arizona.edu/programs/masters/finance/ms-finance/faqs"
+          ],
+          [
+            "UA Grad application fees",
+            "https://grad.arizona.edu/admissions/procedures/application-fees"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "chicago-booth-mif",
+      "school": "Chicago Booth",
+      "program": "Asness and Liew Master in Finance (MiF)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "required",
+          "detail": "Valid GMAT or GRE required; no preference. Test waiver if current UChicago undergraduate or graduated from a UChicago program. Current students in UChicago graduate programs NOT eligible for waiver.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "required",
+          "detail": "GMAT or GRE required except UChicago undergrad/alumni waiver (not for current UChicago grad students).",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": null,
+            "detail": "International non-native English speakers: TOEFL, IELTS Academic, or PTE. TOEFL code 1832-02. Scores valid 2 years. At-home/online proctored accepted. No numeric minimum published on how-to-apply page."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": null,
+            "detail": "IELTS Academic accepted; no numeric minimum on how-to-apply page."
+          },
+          "waiver": "Exempt if undergrad/postgrad degree from listed countries (incl. Antigua & Barbuda, Australia, Bahamas, Barbados, Canada, Dominica, Grenada, Guyana, Hong Kong, Ireland, Jamaica, New Zealand, St. Kitts & Nevis, St. Lucia, St. Vincent & Grenadines, Singapore, South Africa, Trinidad & Tobago, UK, US); OR degree outside those countries with English as only language of instruction; OR living and working full-time in U.S. ≥2 years. Citizenship alone does not exempt. Committee may still require a score."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "No minimum GPA stated. Holistic review of background, experiences, grades, and tests."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 2,
+          "detail": "Two letters from people who know you well with specific examples of academic performance/contributions; prefer substance over title. Online form only (no mail/fax)."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Two essays: (1) How Booth MiF helps immediate and long-term career goals (max 300 words); (2) Something about who you are outside classroom/work—activity pursued for its own sake (max 400 words). Optional clarification section. Plus required video essay ≤60 seconds introducing yourself and a non-career pursuit.",
+          "alsoKnownAs": "Essay questions + video essay"
+        },
+        "resume": {
+          "status": "not_stated",
+          "detail": "Resume/CV not listed on MiF How to Apply checklist."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Unofficial scans of all postsecondary transcripts (both sides) with application; official transcripts upon admission. Non-English records need official record + authorized English translation."
+        },
+        "interview": {
+          "status": "by_invitation",
+          "detail": "Invitation-only after application evaluation; 100% virtual with admissions staff; required for admission (interview ≠ guarantee). Also brief video simulation exercise with interview invite."
+        },
+        "applicationFee": {
+          "amountUsd": null,
+          "waivers": "",
+          "detail": "How-to-apply checklist does not state an application fee amount; confirm in online application system."
+        },
+        "other": [
+          "Recommended advanced quantitative coursework and coding exposure (e.g., Linear Algebra, Statistics, Multivariable Calculus, Python, C++).",
+          "Early Review from Oct 1, 2026 (rolling to mid-Dec); Round One Jan 7, 2027.",
+          "Submit by 11:59 p.m. CT on deadline day."
+        ],
+        "advice": "Prepare for video essay and possible interview simulation. UChicago undergrads/alumni should claim test waiver; others must submit GMAT/GRE.",
+        "sources": [
+          [
+            "How to apply",
+            "https://www.chicagobooth.edu/master-in-finance/admissions/how-to-apply"
+          ],
+          [
+            "MiF FAQ",
+            "https://www.chicagobooth.edu/master-in-finance/faq"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "columbia-msfe",
+      "school": "Columbia Business School",
+      "program": "Master of Science in Financial Economics (MSFE)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "required",
+          "detail": "Self-reported valid GRE or GMAT required with application; no exceptions. Valid 5 years; submit ≥1 week before expiry. Official scores if admitted. GRE code 7432. Highest score used; no superscoring across sittings. Accepts GMAT 10th Edition and Focus.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "required",
+          "detail": "GMAT or GRE required (no preference). MS Admissions GMAT code QF8-N6-46. Same validity/official-score rules as GRE.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": null,
+            "detail": "International students without bachelor’s/master’s/doctoral degree from English-instruction institution must take TOEFL, PTE, or IELTS. Self-report/scan with application; official if admitted. TOEFL ETS code 2141. No numeric minimum on requirements page. Scores must be valid at submission (typically 2 years per FAQ)."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": null,
+            "detail": "IELTS accepted; select Columbia Business School. No numeric minimum on requirements page."
+          },
+          "waiver": "Exempt only if degree from institution where English is the language of instruction; no exception requests accepted."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "No minimum GPA. Class profile (entering 2025) average undergrad GPA 3.9 for context only."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 2,
+          "detail": "Two letters required from professors or managers who know your work; preferably one professor and one manager/supervisor. Up to four allowed. Applicant must not draft letters. Submit via online application."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "MSFE: short answer — immediate post-MS professional goal (max 50 characters); Essay 1 — educational goals and academic/professional achievements most contributory to development (max 500 words); Essay 2 — expected career track and how MSFE helps attain goals, be specific (max 500 words).",
+          "alsoKnownAs": "Essays / short answer"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Resume or CV required covering academic credentials and relevant experience since high school (employment, campus paid/volunteer, other business/academic experience)."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Bachelor’s or equivalent required. Scan/PDF transcripts from each undergrad/grad institution attended; encrypted digital officials if admitted."
+        },
+        "interview": {
+          "status": "unknown",
+          "detail": "Interview not listed on MS Application Requirements checklist."
+        },
+        "applicationFee": {
+          "amountUsd": 100,
+          "waivers": "Active duty U.S. military; current Peace Corps, Teach for America, Teach for China, or Teach for India with proof of service. Email apply@gsb.columbia.edu after submitting application.",
+          "detail": "Nonrefundable US$100 via online application."
+        },
+        "other": [
+          "NOT the IEOR MFE — this is CBS MSFE.",
+          "Prerequisites (complete before program start at advanced undergrad level): Linear Algebra & Matrix Theory; two semesters Calculus (multivariable preferred); computer programming (Python preferred); Probability; Statistics; Macroeconomics preferred.",
+          "AI: idea generation/editing allowed; generating complete responses violates Honor Code.",
+          "MSFE deadline Jan 14, 2027 noon ET; applications open Aug 5, 2026 per deadlines page."
+        ],
+        "advice": "Ensure prereq coursework plan before matriculation. Distinguish CBS MSFE from Columbia IEOR MFE when researching.",
+        "sources": [
+          [
+            "MS application requirements",
+            "https://academics.business.columbia.edu/admissions/ms/application-requirements"
+          ],
+          [
+            "MS FAQ",
+            "https://academics.business.columbia.edu/admissions/ms/frequently-asked-questions"
+          ],
+          [
+            "MSFE hub",
+            "https://academics.business.columbia.edu/msfe"
+          ],
+          [
+            "MS application deadlines",
+            "https://academics.business.columbia.edu/admissions/ms/application-deadlines"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    }
+  ]
+}

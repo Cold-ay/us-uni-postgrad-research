@@ -63,4 +63,4 @@ Shape (omit keys that do not apply): `gre` / `gmat` `{ status, detail, minScore?
 
 Status values: GRE/GMAT `required|optional|waived|not_accepted|not_required|unknown`; English tests `required|optional|waived|not_required|unknown`; GPA `required|recommended|not_stated|unknown`; letters, statement, resume, and transcripts `required|optional|not_stated|unknown`; interview `required|by_invitation|not_used|unknown`.
 
-`mit-msf` holds a schema fixture only: every status is `unknown`, `sources` is empty, `as_of` is `2026-10-27`, and detail strings say `SCHEMA FIXTURE — replace with brief research`. That block is not live admissions data. Real Finance / MSF + Quant requirements land later, when brief JSON arrives under `brief-handoffs`.
+Finance / MSF + Quant batch 1 is ingested from `brief/appreq-batch1a.json` through `brief/appreq-batch1d.json` (42 catalog ids, `as_of` 2026-10-27) by `scripts/merge-appreq-batch1-research-details.mjs`. The merge writes only `applicationRequirements`. A `SCHEMA FIXTURE` string still triggers the dossier placeholder banner for demos; live rows do not use that marker.

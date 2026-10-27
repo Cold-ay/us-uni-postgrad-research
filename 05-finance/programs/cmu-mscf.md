@@ -34,6 +34,32 @@ Mandatory fees reference: $1,040. Pittsburgh AY required fees: Student Activitie
 
 Application timing: Round 1 application · 2026-12-01. Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: required — Official valid GRE or GMAT required (not both). Scores within 5 years and valid at application; accept arrival within 2 weeks of deadline. Self-report highest; GRE program code 7383. Application not reviewed without official score.
+- GMAT: required — GMAT accepted in lieu of GRE (code MSCF/Tepper 69H-XH-17). Either GRE or GMAT required.
+- TOEFL: required — International candidates must take Duolingo, TOEFL (code B522 Carnegie Mellon–MSCF), or IELTS unless waiver criteria met. Scores valid 2 years at application. No numeric minimum posted on MSCF admissions page.
+- IELTS: required — Accepted; select Carnegie Mellon University and Computational Finance. Minimum not posted on MSCF admissions page.
+- English waiver: Waiver if ≥2 years at undergrad institution earning bachelor’s where sole language of instruction was English (by Jul 31 of entry-year context per page wording—verify cycle year) OR graduate degree taught entirely in English. Documentation rules apply for non-U.S./non-English-official-language countries.
+- GPA: not_stated — No minimum GPA on MSCF admissions page; class profile shows average GPA 3.80 (descriptive, not a cutoff).
+- Letters of recommendation: required — count 3 — Three LORs; prefer ability to speak to math/stats/CS/applied finance, English communication, teamwork. Recent students: ≥1 academic; prefer ≥1 professional. App not forwarded until all 3 received.
+- Statement of purpose: required — also known as essays / video essay — Two short-answer essays (350 words max each) after selecting post-MSCF career path; plus required 90-second video essay; optional essay ≤2 pages.
+- Resume: required — 1–2 pages; standard 12-pt font; must include month/year start and end for each position.
+- Transcripts: required — Upload legible scans of official transcripts/degree certificates for ALL institutions (incl. exchange/transfer). Internet printouts/unofficial copies not accepted for upload standard stated. Non-English: official translation; WES evaluations not accepted (WES standards as guideline only). Official sealed upon admit.
+- Interview: by_invitation — Invite-only on-campus or Zoom; requests for interview not considered. Clarifies quant prep, career fit, professional communication.
+- Fee: $125 — waivers: Fee waived for reapplicants who applied for 2026 when reapplying for Fall 2027. — $125 payable online by credit card at submission.
+- Other: Prerequisites: Calc I–II, linear algebra, calculus-based probability, ≥1 semester OOP (C++/Java/Python/C#); remediation before enrollment possible.
+- Other: Four-year bachelor’s or foreign equivalent required before start.
+- Other: Fall-only; mandatory on-campus Orientation from Aug 1.
+- Other: Fall 2027 rounds: R1 Dec 1 2026; R2 Mar 1 2027.
+
+Fall-only with Aug 1 orientation and required summer internship path. GRE/GMAT hard required.
+
+- [MSCF Admissions](https://www.cmu.edu/mscf/admissions)
+- [MSCF Admissions FAQ](https://www.cmu.edu/mscf/admissions/faq)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

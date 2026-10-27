@@ -34,6 +34,32 @@ Alternate format: Program tuition 18-month format (2026–27 AY) $133,007. Requi
 
 Application timing: Application deadline (2027 entry) · 2027-01-05 · 3:00 p.m. ET. Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: optional — GRE optional for 2027 entry; strongly encouraged if available; no negative inference if omitted. School code 3845.
+- GMAT: optional — GMAT Focus or 10th Edition optional; strongly encouraged if available. Send to MIT Sloan School of Management. Evaluation focuses on single-attempt scores.
+- TOEFL: not_required — MIT Sloan does not require an English proficiency exam and does not accept TOEFL or IELTS.
+- IELTS: not_required — MIT Sloan does not require an English proficiency exam and does not accept TOEFL or IELTS.
+- English waiver: English ability assessed during the interview process; TOEFL/IELTS not accepted.
+- GPA: not_stated — No minimum GPA stated on how-to-apply page.
+- Letters of recommendation: required — count 3 — Three letters. Current students: 2 academic + 1 professional (internship); working professionals: 1 professional + 1 academic + 1 either. At least one must address quantitative abilities. Online submission; max 2 pages.
+- Statement of purpose: required — also known as Short-answer questions / video questions — Three short-answer questions, each ≤200 words: (1) academic/professional experiences for MFin success; (2) short- and long-term goals and how MFin helps; (3) personal qualities advancing program mission. Also two video questions (90-sec story + random open-ended).
+- Resume: required — One-page resume; Times New Roman 10pt; Word or PDF; reverse chronological education, FT work (>4 months), internships, other experience.
+- Transcripts: required — Scan/upload transcripts from all colleges/universities attended. 4-year bachelor’s or 3-year non-US equivalent by matriculation. Non-English: original + certified translation. Official sealed transcripts required if admitted.
+- Interview: by_invitation — Interviews required and by invitation only; virtual; scheduled in Eastern Time. Early denial possible without interview.
+- Fee: $150 — waivers: Possible for current Peace Corps members and Veteran or Active Duty U.S. Military Personnel; no retroactive waivers. — Non-refundable $150 USD paid online before submit.
+- Other: List coursework in linear algebra, multivariable calculus, probability, statistics
+- Other: Python proficiency preferred; expected prior to matriculation if admitted without it
+- Other: Professional certifications / non-degree coursework optional
+- Other: Summer (July) start for 2027 entry — not autumn Fall
+
+Intl applicants: no TOEFL/IELTS accepted—English judged at interview. Deadline Jan 5, 2027 3pm ET. Strong quant + Python readiness. Apply early enough for recommenders.
+
+- [How to apply](https://mitsloan.mit.edu/mfin/admissions/how-to-apply)
+- [Admissions hub](https://mitsloan.mit.edu/mfin/admissions)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

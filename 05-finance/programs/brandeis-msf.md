@@ -34,6 +34,32 @@ Alternate format: MSF 16-month tuition total (Y1 $40,040 + Y2 fall $17,160) $57,
 
 Application timing: Fall Priority Deadline 1 (Business & Economics) · 2026-11-01. Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: optional — GRE entirely optional. Unofficial OK at apply; official if enroll. Valid 5 years. Code 3092.
+- GMAT: optional — GMAT entirely optional. Select Brandeis University — Office of Graduate Admissions — All Graduate Programs.
+- TOEFL: required — min 100 — Required unless waiver. Recommend TOEFL iBT ≥5.0 (new scale; equiv. ≥100 pre-Jan 21 2026) or TOEFL ITP ≥627. Code 3122.
+- IELTS: required — min 7 — Recommend IELTS ≥7.0 (Indicator and Online accepted).
+- English waiver: Waiver if: on-campus bachelor’s with ≥3 full-time academic years English-only instruction; or ≥1 full-time academic year on-campus graduate study English-only; or FT US work ≥2 consecutive years within last 4 years (≥35 hrs/wk post-bachelor’s). Duolingo ≥130 or PTE ≥68 also accepted as alternatives.
+- GPA: not_stated — No minimum GPA stated on Graduate Admissions master’s requirements page.
+- Letters of recommendation: required — count 1 — One required (up to two). Professional or academic. If 2+ years FT work, professional letter strongly encouraged. Second letter should arrive within 5 days of complete for guaranteed evaluation.
+- Statement of purpose: required — also known as Statement of Purpose — Statement of Purpose required; program-specific prompt and word count in online application.
+- Resume: required — Current résumé with education and employment; include internships/part-time if little FT experience.
+- Transcripts: required — Bachelor’s (or equivalent 3-year intl). Unofficial for review; official upon enrollment. Institutions with degree or ≥12 credits not on another transcript; max 4 schools listed.
+- Interview: unknown — Interview not listed on master’s application requirements page.
+- Fee: $75 — waivers: Fee waiver available if eligible (see fees-waivers page). — $75 online application fee unless waiver.
+- Other: MSF prerequisites: Financial Management + Quantitative Methods (B or better, ≥3 credits each) OR CFA Level I OR approved Coursera/EdX
+- Other: 9-month MSF: meaningful finance work experience expected (often ≥2 years FT or significant finance internships); otherwise consider 16-month
+- Other: Spring 2027 or Fall 2027 entry available
+
+Intl: meet English waiver or submit TOEFL/IELTS/Duolingo/PTE; recommended floors are guidance not hard cutoffs. Complete MSF prereqs before/after apply as allowed. Choose 9- vs 16-month track based on experience.
+
+- [Master’s application requirements](https://www.brandeis.edu/graduate-admissions/apply/masters.html)
+- [International applicants / English](https://www.brandeis.edu/graduate-admissions/apply/international.html)
+- [IBS admissions FAQ](https://www.brandeis.edu/global/admissions/faq.html)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

@@ -8,13 +8,56 @@ function financeRankLabel(p) {
   if (p.track === 'quant-mfe') return p.quantNetRank2026 == null ? 'Unranked' : `#${p.quantNetRank2026}`;
   return rankLabel(p);
 }
+function requirementLine(label, field) {
+  if (!field) return '';
+  const bits = [];
+  if (field.status) bits.push(field.status);
+  if (field.minScore != null && field.minScore !== '') bits.push(`min ${field.minScore}`);
+  if (field.minimum != null && field.minimum !== '') bits.push(`minimum ${field.minimum}`);
+  if (field.scale != null && field.scale !== '') bits.push(`scale ${field.scale}`);
+  if (Number.isFinite(field.count)) bits.push(`count ${field.count}`);
+  if (field.alsoKnownAs) bits.push(`also known as ${field.alsoKnownAs}`);
+  if (field.detail) bits.push(field.detail);
+  return bits.length ? `- ${label}: ${bits.join(' — ')}` : '';
+}
+function applicationRequirementsMarkdown(req) {
+  if (!req) return '';
+  const lines = ['## Application requirements', ''];
+  if (req.as_of) lines.push(`As of ${req.as_of}.`, '');
+  for (const line of [
+    requirementLine('GRE', req.gre),
+    requirementLine('GMAT', req.gmat),
+    requirementLine('TOEFL', req.english?.toefl),
+    requirementLine('IELTS', req.english?.ielts),
+    req.english?.waiver ? `- English waiver: ${req.english.waiver}` : '',
+    requirementLine('GPA', req.gpa),
+    requirementLine('Letters of recommendation', req.lettersOfRecommendation),
+    requirementLine('Statement of purpose', req.statementOfPurpose),
+    requirementLine('Resume', req.resume),
+    requirementLine('Transcripts', req.transcripts),
+    requirementLine('Interview', req.interview),
+  ]) if (line) lines.push(line);
+  if (req.applicationFee) {
+    const fee = req.applicationFee;
+    const bits = [];
+    if (typeof fee.amountUsd === 'number') bits.push(`$${fee.amountUsd}`);
+    if (fee.waivers) bits.push(`waivers: ${fee.waivers}`);
+    if (fee.detail) bits.push(fee.detail);
+    if (bits.length) lines.push(`- Fee: ${bits.join(' — ')}`);
+  }
+  if (Array.isArray(req.other)) for (const item of req.other) if (item) lines.push(`- Other: ${item}`);
+  if (req.advice) lines.push('', req.advice);
+  if (Array.isArray(req.sources) && req.sources.length) lines.push('', ...req.sources.map(([label, url]) => `- [${label}](${url})`));
+  lines.push('');
+  return `${lines.join('\n')}\n`;
+}
 export async function generateResearch() {
   for (const p of programs) {
     const shownRank = p.track === 'quant-mfe' ? financeRankLabel(p) : rankLabel(p);
     const rankingBlock = p.area === 'Finance'
       ? `${shownRank} in ${p.ranking.category} (as of 2026-10-26).\n\n${p.ranking.note}\n\nRanking provenance: [${p.ranking.reproductionName}](${p.ranking.reproduction}).`
       : `${rankLabel(p)} in U.S. News ${p.ranking.category}, ${rankingEdition}.\n\n${p.ranking.note}\n\nRanking provenance: [${p.ranking.reproductionName}](${p.ranking.reproduction}). The publisher’s direct table was inaccessible; the position is secondary-source reported.`;
-    const content = `# ${p.short} — ${p.kind}\n\nChecked: ${checked}. Preliminary program research.\n\n## Ranking and degree route\n\n${rankingBlock}\n\nUniversity: ${p.university}\n\nDegree route: ${p.degree}\n\nApplication status: ${p.availability}\n\n## Academic direction\n\n${p.academic}\n\nOrientation: ${p.orientation}\n\nFaculty and supervision: ${p.faculty}\n\n## Tuition and application timing\n\n${formatTuition(p.tuition)} — ${p.tuitionLabel}; ${p.period}.\n\n${p.costNote}\n\n${p.costDetail}\n\nApplication timing: ${p.deadline}. Confirm deadline time zone and personal requirements on the official page.\n\n## Internships\n\n${p.internship}\n\n## Funding\n\n${p.funding}\n\nShared scholarship IDs: ${p.scholarships.join(', ') || 'No verified award links yet'}. See the [scholarship library](../../04-scholarships/README.md).\n\n## Sources\n\n${p.sources.map(([label,url]) => `- [${label}](${url})`).join('\n')}\n\n## Outstanding evidence\n\n- Fall 2027 tuition, mandatory fees and total degree budget\n- Individual faculty fit and availability for master’s supervision\n- Internship outcomes with cohort, denominator and international-student breakdown\n- Personal scholarship eligibility and deadlines\n- THE / QS comparison in the correct category\n`;
+    const content = `# ${p.short} — ${p.kind}\n\nChecked: ${checked}. Preliminary program research.\n\n## Ranking and degree route\n\n${rankingBlock}\n\nUniversity: ${p.university}\n\nDegree route: ${p.degree}\n\nApplication status: ${p.availability}\n\n## Academic direction\n\n${p.academic}\n\nOrientation: ${p.orientation}\n\nFaculty and supervision: ${p.faculty}\n\n## Tuition and application timing\n\n${formatTuition(p.tuition)} — ${p.tuitionLabel}; ${p.period}.\n\n${p.costNote}\n\n${p.costDetail}\n\nApplication timing: ${p.deadline}. Confirm deadline time zone and personal requirements on the official page.\n\n${applicationRequirementsMarkdown(p.applicationRequirements)}## Internships\n\n${p.internship}\n\n## Funding\n\n${p.funding}\n\nShared scholarship IDs: ${p.scholarships.join(', ') || 'No verified award links yet'}. See the [scholarship library](../../04-scholarships/README.md).\n\n## Sources\n\n${p.sources.map(([label,url]) => `- [${label}](${url})`).join('\n')}\n\n## Outstanding evidence\n\n- Fall 2027 tuition, mandatory fees and total degree budget\n- Individual faculty fit and availability for master’s supervision\n- Internship outcomes with cohort, denominator and international-student breakdown\n- Personal scholarship eligibility and deadlines\n- THE / QS comparison in the correct category\n`;
     await mkdir(path.dirname(path.join(root,p.note)), { recursive: true });
     await writeFile(path.join(root,p.note), content);
   }

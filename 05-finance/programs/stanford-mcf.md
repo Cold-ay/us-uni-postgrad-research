@@ -34,6 +34,36 @@ No flat program tuition (tuition null). Graduate Engineering quarterly rates 202
 
 Application timing: ICME MS external applicants Autumn 2027–28 · 2027-01-29 · 11:59 p.m. PST. Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: not_accepted — GRE not required; GRE scores will not be accepted or considered for MS or PhD application packets (ICME application + FAQ).
+- GMAT: not_accepted — GMAT not mentioned as an accepted substitute; ICME explicitly rejects GRE consideration. Treat GMAT as not part of ICME packet.
+- TOEFL: required — min 90 — Per Stanford Graduate Admissions: TOEFL iBT ≥90 (tests before Jan 21 2026) or ≥4.5 (on/after Jan 21 2026) unless exempt. ICME defers to central Grad Admissions.
+- IELTS: required — min 7 — IELTS Academic minimum 7 for admission consideration unless exempt.
+- English waiver: Exempt if U.S. citizen/PR; first language English; U.S. bachelor’s/master’s/doctoral or international equivalent from university where all instruction in English; OR ≥2 consecutive years full-time professional/educational experience in English in past 10 years.
+- GPA: not_stated — Enter GPA as on transcript; do not convert scales. No ICME minimum stated.
+- Letters of recommendation: required — count 3 — Three required (optional 4th backup). Strongly recommend ≥1 from university professor; Interfolio not accepted; letters may arrive up to 1 week after deadline.
+- Statement of purpose: required — also known as statement / short answers / enriching the learning community — MS track: short-answer career goals / how CME-MS helps (program supplemental). Also Enriching the Learning Community ≤500 words. PhD-oriented SOP prompt on page is for PhD; MS uses supplemental short answers + academic interest MCF track selection.
+- Resume: required — ICME requires CV/resume upload for complete application.
+- Transcripts: required — Unofficial transcript uploads for institutions attended ≥1 year full-time; official upon accept.
+- Interview: unknown — No interview listed among ICME MS application components on official application/FAQ pages.
+- Fee: $125 — waivers: GRE Fee Reduction, Program Participation, and School-Based waivers via Stanford Grad Admissions (request ≥10 business days before deadline). School of Engineering graduate fee waiver also referenced from ICME page. — Stanford graduate application fee $125 nonrefundable.
+- Other: Apply to ICME MS and select MCF track in program supplemental Academic Interest.
+- Other: Required course-preparation form (list advanced math/CS/stats/etc.).
+- Other: External MS Autumn 2027-28 deadline Jan 29 2027 11:59pm PST; admission Autumn only for external applicants.
+- Other: HCP part-time option available for MS via SCPD.
+
+GRE not accepted. Select MCF track inside ICME MS application. Autumn-only for external applicants.
+
+- [ICME graduate program application](https://icme.stanford.edu/academics-admission/icme-graduate-program-application)
+- [ICME admissions & application FAQ](https://icme.stanford.edu/academics-admission/admissions-application-faq)
+- [ICME application deadlines](https://icme.stanford.edu/academics-admission/icme-application-deadlines)
+- [MCF admissions hub](https://mcf.stanford.edu/admissions)
+- [Stanford Grad Admissions application fee](https://gradadmissions.stanford.edu/apply/application-fee)
+- [Stanford Grad Admissions test scores (English)](https://gradadmissions.stanford.edu/apply/test-scores)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

@@ -34,6 +34,33 @@ Non-refundable $2,000 pre-enrollment tuition fee required to secure seat (includ
 
 Application timing: Round 2 Step1 / Steps2-3 (FINAL for international) · 2027-01-12. Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: optional — GRE/GMAT optional for all applicants; no disadvantage if omitted. If submitting, upload official score report and send official scores (GRE code 6882).
+- GMAT: optional — Optional. MSF GMAT code 396-44-78.
+- TOEFL: required — min 79 — Intl must submit official TOEFL, IELTS, or DET unless exempt. Grad Admissions minimum TOEFL 79 iBT (or 4 on 6-point scale). Code 6882.
+- IELTS: required — min 6.5 — IELTS Academic overall band 6.5 minimum (General Training not accepted). Electronic delivery to University of Texas at Austin.
+- English waiver: Exempt if from qualifying country list or hold bachelor’s from US or qualifying country (master’s alone does not waive). DET min 115. Qualifying countries include India, Singapore, UK, Australia, Canada (except Quebec), etc.
+- GPA: not_stated — No minimum GPA stated on MSF application-process page.
+- Letters of recommendation: required — count 2 — Two letters; at least one from professor/academic connection. If undergrad completed >3 years ago, professional-only may be appropriate. No personal/family.
+- Statement of purpose: required — also known as MSF application essay questions — Required essay max 500 words: personal/academic/professional path to MSF, short- and long-term goals, post-grad employment vision, how MSF helps. Optional second essay max 500 words for concerns.
+- Resume: not_stated — Employment history section collects post-bac FT employers/internships; standalone résumé not explicitly labeled on application-process page.
+- Transcripts: required — Upload transcripts all higher-ed institutions in Step 1; Grad School requires unique official transcript from every senior college attended (Step 2). Translations if not English.
+- Interview: required — Step 3: required McCombs MS Video Assessment via Kira within 7 days of fee payment (all applicants). Page also notes interviewing selected applicants before decisions.
+- Fee: $90 — waivers: Managed by Office of Graduate Admissions (not MS Programs); see Grad School waiver info. — $65 domestic / $90 international; invoice 1–3 business days after Step 1 submit.
+- Other: Three steps: McCombs app + Grad School checklist + Kira video assessment
+- Other: Round 2 is final deadline for international students
+- Other: Summer (July) start ~10-month program — not autumn Fall
+- Other: Academic supplements section to clarify quantitative coursework titles
+
+Intl: apply by Round 2 (Jan 2027); English score unless exempt (India on qualifying list). Complete Kira within 7 days of fee. Official transcripts promptly to avoid delay.
+
+- [MSF Application Process](https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-finance/admissions/application-process/)
+- [MSF FAQ](https://www.mccombs.utexas.edu/graduate/specialized-masters/ms-finance/admissions/faq/)
+- [UT Graduate International](https://graduate.utexas.edu/admissions/apply/international)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

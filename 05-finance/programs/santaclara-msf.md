@@ -34,6 +34,33 @@ Enrollment deposit MSFA $1,000 (credited to first-quarter tuition). Graduate Bus
 
 Application timing: Fall on-campus — Priority · 2027-04-01. Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: required — GMAT/GRE scores or test waiver required in application materials. No preference GMAT vs GRE. No minimum; MS programs averages cited ~GRE 309 / GMAT 650. Valid 5 years. Strong quant/technical applicants may request waiver; waiver applicants risk less merit scholarship eligibility.
+- GMAT: required — GMAT or GRE or approved waiver. Code BV3-WB-51. Same waiver/scholarship notes as GRE.
+- TOEFL: required — min 90 — Non-native English: TOEFL old iBT min 90 (pre-2026) or new TOEFL 4.5 (2026 iBT); DET 110. Code 4851 / BusinessCAS B888. Valid 2 years.
+- IELTS: required — min 6.5 — IELTS 6.5 minimum (page typo shows 'ELTS').
+- English waiver: May meet via ≥50th percentile verbal on GMAT/GRE, or degree from accredited U.S. university, or degree in last 4 years from Australia, Anglophone Canada, Ireland, New Zealand, UK, or U.S. with English sole instruction.
+- GPA: not_stated — No minimum GPA stated; class profile average GPA 3.18. Bachelor’s required (all majors).
+- Letters of recommendation: required — count 2 — 2 letters of recommendation (*waived for SCU Alumni Pathway). Prefer professional network; academic/volunteer OK especially for recent grads.
+- Statement of purpose: required — also known as Personal statement — Personal statement required among application materials.
+- Resume: required — Resume/CV required.
+- Transcripts: required — Official transcripts (*waived for Alumni Pathway). International bachelor’s: NACES course-by-course evaluation with cumulative GPA and U.S. equivalency required even if English transcript.
+- Interview: by_invitation — Qualified applicants invited to interview in person or via Zoom; decision typically within ~2 weeks after final interview.
+- Fee: $100 — waivers: Waived for Santa Clara University Alumni Pathway applicants. Bulletin lists non-refundable application fee $100. — Non-refundable application fee $100 (Leavey Graduate Business Bulletin Other Fees).
+- Other: No prerequisites; Calculus I & Statistics recommended.
+- Other: Work experience not required.
+- Other: On-campus MSFA is STEM/F-1 eligible; Online MSFA not F-1/STEM OPT.
+- Other: Fall on-campus priority Apr 1 / final Jun 1 (table on program page).
+- Other: Pre-courses: Intro Financial Accounting and Getting Started with R (may be waived with prior coursework).
+
+For F-1, use on-campus MSFA only. Submitting GMAT/GRE improves merit scholarship odds vs waiver path.
+
+- [MSFA program / application steps](https://www.scu.edu/business/ms/ms-finance-and-analytics/)
+- [Leavey Graduate Business Bulletin financial / fees](https://www.scu.edu/bulletin/graduate/leavey-school-of-business/chapter-3/index.html)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

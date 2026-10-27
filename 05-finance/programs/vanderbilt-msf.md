@@ -34,6 +34,31 @@ Mandatory fees reference: $2,926. Mandatory direct fees from Owen MSF tuition pa
 
 Application timing: Round 1 · 2026-09-10 · 11:59 p.m. Central. Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: optional — Test-optional specialized master’s; may submit GRE if it adds value.
+- GMAT: optional — Test-optional; may submit GMAT if it adds value.
+- TOEFL: required — Official English exam or approved waiver required. Accepts TOEFL, IELTS, Duolingo, TOEFL Essentials. Code 1871 for TOEFL/IELTS. No numeric floor stated on application-instructions page.
+- IELTS: required — IELTS accepted; school code 1871. No numeric minimum stated on application-instructions page.
+- English waiver: Waiver if: undergrad degree in country where English is official language (India counted); OR lived/worked past 2+ years in such country; OR ≥90th percentile verbal on GMAT/GRE. Mark qualifications on International Applicants page.
+- GPA: not_stated — No minimum GPA stated on application-instructions page. Four-year U.S. bachelor’s or equivalent required.
+- Letters of recommendation: required — count 1 — One letter required by deadline. Prefer online form. Managers, professors, or professional colleagues OK; native-language letter + professional translation acceptable.
+- Statement of purpose: required — also known as Personal statement / essays / video essay — Required personal statement on purpose for MSF and alignment of background/skills/interests. Optional second statement for gaps/concerns. Plus required video essay (unscripted small-talk prompts).
+- Resume: required — Current professional resume (employer-ready format) with education, work/internships, activities, interests.
+- Transcripts: required — Unofficial from every college/university at apply (name, institution, courses, grades, GPA, scale, degree date). Official prior to enrollment. Translations if not English. 3-year degrees: strongly recommend IEE/TEC course-by-course equivalency.
+- Interview: by_invitation — Essential; by invitation on rolling basis after complete application. Asynchronous Kira: 4 oral + 1 written response. Denial/waitlist possible without interview; offer of admission requires evaluative interview.
+- Fee: $100 — waivers: Not detailed on application-instructions page (check FAQ/admissions for exceptions). — $100 application fee for MS Finance.
+- Other: Apr 5, 2027 final deadline for international applicants (visa processing)
+- Other: Complete apps due 11:59pm Central on round deadline
+- Other: Preliminary Financial Declaration for intl (no bank statements at apply)
+
+Intl: Apr 5 2027 hard final; English waiver or official scores early (10–14 days to post). 3-year degree holders: get credential eval ready. Interview invitation needed for admit.
+
+- [Application instructions](https://business.vanderbilt.edu/masters-in-finance/admissions/application-instructions/)
+- [Admissions overview](https://business.vanderbilt.edu/masters-in-finance/admissions/)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

@@ -34,6 +34,35 @@ Mandatory fees reference: $7,099. Illustrative 3-semester fee stack from 2026–
 
 Application timing: Fall MS Financial Engineering deadline · 2027-01-15. Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: optional — Columbia Engineering: GRE not required for 2027 admission cycle (Spring 2027 and Fall 2027). Scores may be submitted optionally; non-submitters not penalized. Official scores required if admitted and scores were provided. School code 2111. IEOR FAQ still advises preparing GRE historically—policy for 2027 is optional.
+- GMAT: optional — IEOR FAQ: GMAT not a requirement; may be included as supplementary material with personal statement file.
+- TOEFL: required — Required if undergrad degree earned outside Australia, Canada, Ghana, Ireland, Kenya, New Zealand, Nigeria, Singapore, UK, USA (incl. transfers/joint programs). TOEFL iBT/Home, IELTS Academic, PTE Academic, or Duolingo accepted (one test). No hard minimum to apply; IEOR notes may need to improve English if TOEFL ≤4.5 (post-Jan 21 2026 scale) or ≤99 (pre), IELTS ≤7.5, PTE ≤68, DET ≤130.
+- IELTS: required — Accepted as one of the English options under Engineering rules above.
+- English waiver: Exception if master’s earned/will be completed in Australia, Canada, Ghana, Ireland, Kenya, New Zealand, Nigeria, Singapore, UK, or USA. Application also guides based on background. IEOR: waive if entirety of undergrad or graduate degree in an English-speaking country (per FAQ).
+- GPA: recommended — minimum 3 — scale 4.0 — IEOR FAQ: 3.0/4.0 GPA preferred; most successful applicants above 3.0. Not a hard stated cutoff.
+- Letters of recommendation: required — count 3 — Three LORs. ≥2 academic unless bachelor’s earned >5 years before application (then academic strongly encouraged but not required).
+- Statement of purpose: required — also known as personal statement — Personal statement required (Engineering application materials).
+- Resume: required — Résumé or CV required.
+- Transcripts: required — Transcripts from every post-secondary institution attended; translations if not issued in English.
+- Interview: required — Mandatory Video Interview for MS applications after submit + fee paid (Status Portal): 3 random behavioral questions; 90 seconds to consider; 3 minutes to record answers to all three. Engineering overview also notes an additional interview may be requested.
+- Fee: $85 — waivers: Possible for U.S. citizens/PR enrolled in U.S. school with financial need and U.S. military/veterans via Application Fee Waiver Request Form. — $85 non-refundable via online application.
+- Other: ≠ columbia-msfe (CBS). This id is IEOR Engineering MSFE.
+- Other: MSFE Fall start only (IEOR FAQ).
+- Other: MSFE prep: calculus, linear algebra, probability, statistics; differential equations helpful; Python essential; finance concepts (derivatives, risk, portfolio, markets).
+- Other: Publications optional.
+- Other: Only one Columbia Engineering program application per term.
+
+Distinguish from CBS columbia-msfe. Video interview is mandatory for MS. GRE optional for Fall 2027 Engineering cycle.
+
+- [Columbia Engineering application requirements](https://www.engineering.columbia.edu/admissions-aid/graduate-admissions/how-apply/application-requirements)
+- [IEOR Master of Science Admissions FAQs](https://ieor.columbia.edu/masters-admissions-faqs)
+- [IEOR MSFE program](https://ieor.columbia.edu/financial-engineering-msfe)
+- [Engineering Fall 2027 brochure (PDF)](https://www.engineering.columbia.edu/sites/default/files/2026-09/Tri-fold_9-22-26.pdf)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

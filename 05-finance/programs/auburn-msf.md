@@ -34,6 +34,32 @@ Estimate only: non-resident graduate tuition for 30-credit non-thesis MSF assumi
 
 Application timing: Fall — International · April 1 (year not labeled on table — use April 1 of entry year, e.g. 2027-04-01 for Fall 2027). Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: required — Official GMAT (preferred) or GRE required unless waiver granted. Waiver: bachelor’s from regionally accredited institution plus (2+ yrs exp & 3.50+ GPA) OR (4+ yrs & 3.25+) OR (6+ yrs & 3.0+) OR (8+ yrs) OR terminal degree. Case-by-case additional waivers. Waiver ≠ admission.
+- GMAT: required — Official GMAT preferred or GRE, unless waiver (same criteria as GRE). Online waiver request available; advisor appointment advised.
+- TOEFL: required — min 79 — International: TOEFL iBT 79+ with ≥16 each section (pre-Jan 21, 2026); after Jan 21, 2026 iBT26 total 4.5+ with ≥4.0 each section. ETS code 1005. DET also accepted (115+ with 110+ sections).
+- IELTS: required — min 6.5 — IELTS overall band 6.5 or higher.
+- English waiver: Prior degree from regionally accredited U.S. institution may remove English score requirement once official transcript with degree received; other exemptions case-by-case after official transcript.
+- GPA: recommended — minimum 2.75 — scale 4.0 — MSF program page states bachelor’s required but no program-specific GPA floor. Auburn Graduate School typically expects ≥2.75 undergrad GPA (or ≥3.0 grad GPA or acceptable GRE/GMAT). Competitive admission; class size limited.
+- Letters of recommendation: required — count 2 — Two letters of recommendation on checklist.
+- Statement of purpose: required — also known as Personal Statement — Personal Statement required on application checklist.
+- Resume: required — Résumé required.
+- Transcripts: required — Official undergraduate university transcript(s). International: original language + certified English translation; diploma/certificate.
+- Interview: unknown — Interview not listed on MS Finance admissions checklist.
+- Fee: $60 — waivers: Active military: Graduate School application fee waiver with confirmation letter. International pay $70. — Graduate School: $60 domestic / $70 international (nonrefundable), paid online with application.
+- Other: Bachelor’s from recognized university/college required.
+- Other: Apply via Graduate School as Finance (Non-Thesis); fall admit only; 31 credit hours non-thesis.
+- Other: Duolingo English Test accepted for internationals.
+
+If seeking GMAT/GRE waiver, schedule admissions advisor appointment before submitting waiver. International deadline earlier (Apr 1) than domestic (Jun 1).
+
+- [MS Finance admissions](https://harbert.auburn.edu/degrees-programs/graduate/ms-finance/admissions.html)
+- [Graduate School international instructions](https://graduate.auburn.edu/admissions/international-instructions.php)
+- [Graduate School bulletin admissions](https://bulletin.auburn.edu/thegraduateschool/admissions/)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

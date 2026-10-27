@@ -34,6 +34,36 @@ Mandatory fees reference: $1,827. Activity Fee $800/year + Mandatory Health Fee 
 
 Application timing: Round 1 · 2026-10-15 · 11:59 p.m. ET. Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: optional — Option to apply without GMAT/GRE. Encouraged to review standardized test guidance / class profile middle 80% if deciding whether to submit. GRE code 2972.
+- GMAT: optional — Optional. Full-Time MS in Finance GMAT code WX9-8R-36. Single test-date scores; Superscore considered only as additional data.
+- TOEFL: required — Required for intl whose native language is not English (TOEFL iBT / Home / Essentials). Preferred minimum referenced on admissions page but numeric value not clearly extractable from page text this pass. Code 7260.
+- IELTS: required — IELTS (incl. Indicator) accepted. Preferred minimum referenced but numeric not clearly extractable from admissions page text.
+- English waiver: Waived if attended ≥3 academic years post-secondary taught solely in English AND received bachelor’s or master’s from English-instruction college/university. Upload supporting waiver documentation. Duolingo also accepted. Proof of English proficiency required for visa issuance.
+- GPA: not_stated — No hard minimum GPA on admissions checklist; scholarship guidance example mentions 3.2+ as one factor among many.
+- Letters of recommendation: not_stated — Official FAQ: Simon does not accept letters of recommendation.
+- Statement of purpose: required — also known as Required essay — One required essay for MS (word count on checklist 400–700; 2026 sneak-peek blog lists 250–500 for goals/backup/fit prompts—confirm live application). Video essay is MBA-only / not in MS application per 2026 requirements blog.
+- Resume: required — Business-formatted résumé (not CV), recommend ≤2 pages; quantify accomplishments.
+- Transcripts: required — School-issued transcripts scanned/uploaded for each college; undergrad and graduate if applicable. English or certified translation. Proof of degree conferral.
+- Interview: not_used — Per 2026 application-requirements blog, optional video essay is for MBA candidates only and not included in MS application. FAQ/checklist do not list a live MS interview.
+- Fee: $90 — waivers: Active-duty military/veterans; University of Rochester alumni; official US community/country service (e.g., TFA, Peace Corps); live webinar/event attendees. Request ≥5 business days before deadline and before submit. — Non-refundable $90 USD by credit card in application.
+- Other: Fall entry only for MS Finance
+- Other: No official academic prerequisites for MS Finance
+- Other: 3-year bachelor’s accepted
+- Other: Merit scholarships automatic with application review (>90% of incoming MS get merit aid per site)
+
+Intl: English test or documented waiver; scores needed for visa. No LORs accepted—strengthen essay/resume/quant profile. Apply early rounds for faster decision and scholarship pools.
+
+- [Full-Time MS Admissions](https://simon.rochester.edu/programs/full-time-ms/admissions)
+- [Admissions FAQs](https://simon.rochester.edu/programs/full-time-ms/admissions/admissions-faqs)
+- [Fee waiver](https://simon.rochester.edu/programs/full-time-ms/admissions/admissions-faqs/fee-waiver)
+- [Standardized tests](https://simon.rochester.edu/programs/full-time-ms/admissions/admissions-faqs/standardized-tests)
+- [2026 application requirements blog](https://simon.rochester.edu/blog/admissions-blog/sneak-peek-2026-full-time-application-requirements)
+- [MS Finance hub](https://simon.rochester.edu/programs/full-time-ms-in-finance)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

@@ -34,6 +34,31 @@ Alternate format: US resident tuition+campus fees estimate — 3 semesters (2026
 
 Application timing: Fall 2027 — Round 1 · 2026-10-28. Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: optional — GMAT or GRE optional. Committee may request official scores if unable to decide from submitted materials. Institution code 1836. Upload unofficial score to portal while awaiting official.
+- GMAT: optional — Optional; same policy as GRE. Official to UIUC code 1836.
+- TOEFL: required — min 103 — Non-native speakers without Graduate College exemption: Full-status TOEFL iBT 103 (scores prior to 1/21/26) or 5.0 (scores after 1/20/26). Limited-status: 79 / 4.0. Official scores required; dated after Aug 1, 2025. Code 1836.
+- IELTS: required — min 7.5 — Full-status IELTS Academic 7.5; limited-status 6.5. Also Duolingo full 135 / limited 115.
+- English waiver: Graduate College English proficiency exemptions apply (see Grad College English Proficiency Requirements). Limited-status admits take English Placement Test on arrival; may require ESL coursework.
+- GPA: required — minimum 3 — scale 4.0 — Illinois Graduate College minimum: GPA 3.0 (A=4.0) for last two years of undergraduate study. Programs may require higher; MSF page does not state a higher floor. Optional essay strongly recommended if GPA ≤3.0.
+- Letters of recommendation: required — count 2 — Two references from academic and/or professional sources; signed and dated. Late LORs (>7 days after deadline) move application to next round.
+- Statement of purpose: required — also known as Academic Statement of Purpose + personal statements — Academic Statement of Purpose 300–500 words total (background prep; how program helps goals; academic interests). Plus two short personal statements ≤250 words each.
+- Resume: required — Professional résumé ≤2 pages (education, work, internships, training, associations, leadership).
+- Transcripts: required — Most recent unofficial transcripts with name, institution, legend/scale. Diploma/certificate of degree if bachelor's earned. Official upon arrival if admitted. Check Grad College country requirements for U.S. bachelor's equivalence.
+- Interview: by_invitation — Required video essay component (3 randomly assigned questions, ~3 minutes). Live interview by invitation only if materials insufficient; decisions may be made with or without interview.
+- Fee: $90 — Non-refundable $90 for domestic and international. Cannot be processed without payment.
+- Other: Select program Finance → Finance - MS in Grad College portal.
+- Other: Optional essay available; scholarship acknowledgment in Financial Aid section for merit/need consideration.
+- Other: Passport/funding proof for internationals only after admission offer.
+
+Fall 2027 Round 4 May 5, 2027 is final deadline for international applicants needing a new visa. Apply early for scholarship consideration.
+
+- [MSF Admissions](https://giesbusiness.illinois.edu/msf/admissions)
+- [Illinois Graduate College minimum requirements](https://grad.illinois.edu/admissions/graduate-admissions-minimum-requirements)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

@@ -34,6 +34,31 @@ No flat program sticker. Graduate billing: $2,690/credit when under 12 credits p
 
 Application timing: Fall / Spring — Rolling · Program page: Application Deadline = Rolling for full-time and part-time. Apply early for visa timing; no fixed final date published on program page.. Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: optional — GRE or GMAT optional, but recommended for individuals with degrees from international universities.
+- GMAT: optional — GRE or GMAT optional; recommended for international-university degree holders.
+- TOEFL: required — min 88 — Program table: TOEFL 88 / 4.5 (new scale). Also DET 130, LanguageCert Academic 74, PTE Academic 60. Some internationals may get English test waiver per RIT policy. Conditional admission possible below minimum.
+- IELTS: required — min 6.5 — IELTS 6.5. Balanced subscores expected.
+- English waiver: May be considered if worked/studied in U.S. last two years; bachelor’s/master’s from English-medium university in RIT waiver territory list; or citizen of listed territories with English-medium secondary school. See RIT graduate apply page.
+- GPA: recommended — minimum 3 — scale 4.0 — Baccalaureate from accredited university; minimum cumulative GPA 3.0 (or equivalent) recommended.
+- Letters of recommendation: optional — Letters of recommendation are optional for Finance MS. (RIT College of Business master’s generally excepted from required LOR rule on university apply page.)
+- Statement of purpose: required — also known as Personal statement of educational objectives — Personal statement of educational objectives required (open-ended; may address why program, career goals, non-academic qualities, prior experience, why RIT).
+- Resume: required — Current resume or curriculum vitae required.
+- Transcripts: required — Copies of official transcripts (English) of all prior undergrad/grad coursework including transfer credit.
+- Interview: unknown — Interview not listed on Finance MS admissions details.
+- Fee: $65 — waivers: Current RIT students and RIT alumni not required to pay; fee waived within 24 hours of submission for them. Other waiver categories per Grad FAQ. — Non-refundable $65 graduate application fee (RIT Graduate How to Apply).
+- Other: STEM-OPT eligible; on-campus only.
+- Other: Fall priority Jan 15 / standard Mar 1; Spring rolling.
+- Other: International F-1 must study full-time.
+
+International-degree applicants should strongly consider submitting GRE/GMAT despite optional status.
+
+- [Finance MS admissions](https://www.rit.edu/study/finance-ms)
+- [Graduate how to apply / fee / English](https://www.rit.edu/admissions/graduate/apply)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

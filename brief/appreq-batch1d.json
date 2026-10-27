@@ -1,0 +1,892 @@
+{
+  "batch": "appreq-batch1d",
+  "as_of": "2026-10-27",
+  "degree": "msf",
+  "field": "applicationRequirements",
+  "notes": [
+    "Quant/MFE + OPEN UF/TAMU adds applicationRequirements batch for Fall 2027 cycle research (as_of 2026-10-27 Asia/Hong_Kong).",
+    "degree remains msf for site catalog even for quant/MFE track ids.",
+    "SPRING-ONLY: berkeley-mfe (January start; no Fall admit).",
+    "DISTINCTIONS: florida-msft ≠ florida-msf; tamu-qfin ≠ tamu-msf; columbia-ieor-mfe ≠ columbia-msfe (CBS).",
+    "OPEN adds: florida-msft traditional track open external; tamu-qfin catalog open to non-TAMU graduates (many checklist fields still unknown).",
+    "Never invent; unknown used where official program page silent.",
+    "Enums: gre/gmat optional≠waived; interview required|by_invitation|not_used|unknown."
+  ],
+  "items": [
+    {
+      "id": "florida-msft",
+      "school": "University of Florida Warrington",
+      "program": "MS in Finance and Technology",
+      "applicationRequirements": {
+        "gre": {
+          "status": "optional",
+          "detail": "Official page: test scores are not required but applicants may submit GMAT or GRE to enhance the application. UF code 5812.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "optional",
+          "detail": "Same as GRE: not required; optional submission of GMAT or GRE allowed (UF code 5812).",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": 4.5,
+            "detail": "UF Admissions international graduate page lists TOEFL iBT & Home Edition minimum 4.5 overall; subsections Reading/Listening/Speaking/Writing each 4.0 (new TOEFL scale as posted). School code 5812. Required for international applicants unless exemption applies."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": 6.5,
+            "detail": "IELTS Academic minimum 6.5 via IELTS Results Service E-Delivery to University of Florida."
+          },
+          "waiver": "UF may exempt applicants from countries where English is the only official language; those who attended non-U.S. institutions where English is the only official language of instruction; or who earned a degree in the U.S. / English-only-official-language country / English-only-instruction institution (see UF Grad International exemptions list). Warrington FinTech page also refers applicants to UF international English requirements."
+        },
+        "gpa": {
+          "status": "required",
+          "minimum": 3.0,
+          "scale": "4.0",
+          "detail": "3.0 upper-division undergraduate GPA required (U.S. degrees only, per FinTech application requirements)."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 2,
+          "detail": "Two recommenders who have supervised the applicant (professor, employer, adviser, volunteer coordinator). Letters from students, peer leaders, or relatives not accepted. Contacts entered in application; recommenders emailed after submission."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Statement of purpose 400–600 words: motivations, candidacy, how program advances career goals.",
+          "alsoKnownAs": "statement of purpose"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "1–2 page resume/CV covering post-high school education and employment, international affiliations/research funding, experience, accomplishments, leadership, and outside commitments (Florida Statute / UF graduate requirement also applies)."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Upload transcripts (English and native language) from all post-secondary institutions. Unofficial OK for review; official required in first term if admitted. UF students: do not submit UF transcript."
+        },
+        "interview": {
+          "status": "by_invitation",
+          "detail": "Warrington interviews candidates who attended a non-U.S. institution as part of admissions."
+        },
+        "applicationFee": {
+          "amountUsd": 30,
+          "waivers": "UF Office of Admissions does not provide graduate application fee waivers.",
+          "detail": "$30 non-refundable Graduate School application fee per program (UF Admissions how-to-apply)."
+        },
+        "other": [
+          "Bachelor’s from accredited institution; business major preferred (other majors case-by-case).",
+          "Graduate School application + Information for Residency Classification.",
+          "International: UF does not recognize 3-year bachelor’s from India, Australia, Bangladesh, Canada (excl. Quebec), Nepal, Pakistan; other 3-year degrees reviewed individually.",
+          "International: upload diploma/degree certification (English + native); letter of expected graduation if diploma not yet received.",
+          "DISTINCT from florida-msf (classic MS Finance / combo-restricted)."
+        ],
+        "advice": "OPEN external/intl traditional 1-year track launching Fall 2027 (early Mar 1 / final May 1, 2027). Do not conflate with florida-msf. STEM/CIP not stated on FinTech pages.",
+        "sources": [
+          [
+            "MS Finance and Technology application requirements",
+            "https://warrington.ufl.edu/graduate/masters-finance-technology/"
+          ],
+          [
+            "UF Graduate Admissions how to apply (fee)",
+            "https://admissions.ufl.edu/apply/graduate/"
+          ],
+          [
+            "UF Grad International English proficiency",
+            "https://admissions.ufl.edu/apply/graduate/international/"
+          ],
+          [
+            "Classic MSF DISTINCT",
+            "https://warrington.ufl.edu/graduate/masters-finance/"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "tamu-qfin",
+      "school": "Texas A&M Mays",
+      "program": "MS Quantitative Finance (MS-QFIN)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "unknown",
+          "detail": "No MS-QFIN-specific GRE policy found on official catalog or Artsci Math QFIN page as of scrape. Do not reuse classic tamu-msf 4+1 GRE rules. Confirm via Adam C. Sinn Department of Finance / BusinessCAS.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "unknown",
+          "detail": "Not stated on MS-QFIN catalog or Artsci QFIN page.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "unknown",
+            "minScore": null,
+            "detail": "No MS-QFIN-specific English minima posted on catalog/Artsci QFIN pages. Mays master’s applications generally use BusinessCAS; confirm TOEFL/IELTS rules on the live QFIN/BusinessCAS materials."
+          },
+          "ielts": {
+            "status": "unknown",
+            "minScore": null,
+            "detail": "Not stated on MS-QFIN-specific official pages reviewed."
+          },
+          "waiver": "Unknown for MS-QFIN; not invented from other Mays programs."
+        },
+        "gpa": {
+          "status": "unknown",
+          "minimum": null,
+          "scale": null,
+          "detail": "No minimum GPA stated on MS-QFIN catalog page. Classic tamu-msf GPA floors must not be copied here."
+        },
+        "lettersOfRecommendation": {
+          "status": "unknown",
+          "count": null,
+          "detail": "Not listed on MS-QFIN catalog / Artsci pages."
+        },
+        "statementOfPurpose": {
+          "status": "unknown",
+          "detail": "Not listed on MS-QFIN catalog / Artsci pages.",
+          "alsoKnownAs": ""
+        },
+        "resume": {
+          "status": "unknown",
+          "detail": "Not listed on MS-QFIN catalog / Artsci pages."
+        },
+        "transcripts": {
+          "status": "unknown",
+          "detail": "Not itemized on MS-QFIN catalog page; expect standard graduate transcript upload via application system—confirm BusinessCAS checklist."
+        },
+        "interview": {
+          "status": "unknown",
+          "detail": "Not stated on MS-QFIN official pages reviewed."
+        },
+        "applicationFee": {
+          "amountUsd": null,
+          "waivers": "",
+          "detail": "Fee not posted on MS-QFIN catalog/Artsci pages; Mays master’s applications processed via BusinessCAS (mays.tamu.edu/apply)—confirm current BusinessCAS fee at submission."
+        },
+        "other": [
+          "Catalog eligibility OPEN to current TAMU sophomores/juniors/seniors OR non-Texas A&M graduates with equivalent prerequisites (ACCT 209 or 229/640; ECON 202 or 203; MATH 171+172 or 151+152 or equivalents) with B or higher by end of TAMU spring immediately following admission.",
+          "Highly recommended: Linear Algebra, Differential Equations, Statistics, coding experience.",
+          "36-hour non-thesis joint Finance + Mathematics (“STEM to Stocks”).",
+          "DISTINCT from tamu-msf (classic 4+1 MS Finance = TAMU-undergrad-only)."
+        ],
+        "advice": "OPEN external/intl per catalog. Fall 2027 application dates/requirements checklist not posted on dedicated QFIN marketing page as of 2026-10-27—flag gap; contact Finance (Jose Quiros) / BusinessCAS before applicant-facing claims. Never conflate with restricted tamu-msf.",
+        "sources": [
+          [
+            "MS Quantitative Finance catalog (eligibility)",
+            "https://catalog.tamu.edu/graduate/colleges-schools-interdisciplinary/business/finance/quantitative-finance-ms/"
+          ],
+          [
+            "Arts & Sciences Quantitative Finance M.S.",
+            "https://artsci.tamu.edu/mathematics/academics/graduate/quantitative-finance-ms.html"
+          ],
+          [
+            "Mays Apply — master’s via BusinessCAS",
+            "https://mays.tamu.edu/apply/"
+          ],
+          [
+            "Classic 4+1 MS Finance DISTINCT",
+            "https://mays.tamu.edu/graduate/masters/4plus1/ms-finance/"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "berkeley-mfe",
+      "school": "UC Berkeley Haas",
+      "program": "Master of Financial Engineering (MFE)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "required",
+          "detail": "Require GMAT, GMAT Focus, GRE, or GRE General Test at home (valid 5 years; for Spring 2027 entry not older than Jan 1, 2022). Optional only if (a) PhD earned/will earn before MFE start, OR (b) U.S. four-year bachelor with final cumulative GPA ≥3.70/4.00 (no rounding; non-U.S. bachelor and non-4.0 scales ineligible). Committee may still request a score. GRE codes 4833 / dept 4399.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "required",
+          "detail": "GMAT or GMAT Focus accepted interchangeably with GRE under same required/optional-eligibility rules above. Send to UC Berkeley Haas MFE.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": 90,
+            "detail": "TOEFL iBT/Home Edition minimum 90 (institution 4833, dept 82). MyBest and TOEFL ITP/Duolingo not accepted. Haas Knowledge also notes revised TOEFL scale ≥4.5 for exams after January 2026—confirm which scale applies to Spring 2028 entry when registering."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": 7.0,
+            "detail": "IELTS Academic overall BAND ≥7; TOEFL preferred. Send TRF electronically to UC Berkeley Graduate Division."
+          },
+          "waiver": "Degree from country where official language is English; OR ≥1 year full-time coursework with grades B or better at a U.S. university (ESL/non-English/nonacademic/future courses excluded). Degrees from listed regions (e.g. India, PRC, Taiwan, most of Europe, etc.) do not meet country waiver even if instruction was English."
+        },
+        "gpa": {
+          "status": "required",
+          "minimum": 3.0,
+          "scale": "4.0",
+          "detail": "Satisfactory scholastic average, usually minimum 3.0 in upper-division work (Haas MFE requirements)."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 2,
+          "detail": "Two letters from academic or professional evaluators of quantitative ability. Co-workers/tutors/friends/family inadmissible. Professional email required (no free personal providers per Haas Knowledge)."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Series of essay questions in application; anti-plagiarism screening. Supplemental Information questions required (N/A if not applicable). Reapplicants within 2 years have special instructions.",
+          "alsoKnownAs": "essays"
+        },
+        "resume": {
+          "status": "not_stated",
+          "detail": "Resume/CV not separately named on the requirements overview; work experience preferred but not required—confirm checklist in online application."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Scans of official transcripts from all undergraduate and graduate programs attended. Degree from accredited institution before MFE start."
+        },
+        "interview": {
+          "status": "by_invitation",
+          "detail": "Invitation-only; do not request. May cover prerequisites/resume topics; sometimes more than one interview. Interviewers are not the admissions committee."
+        },
+        "applicationFee": {
+          "amountUsd": 275,
+          "waivers": "Not detailed on MFE requirements page beyond ETS GRE fee reduction partnership context.",
+          "detail": "Non-refundable $275 application fee (credit card preferred; check/money order to UC Regents)."
+        },
+        "other": [
+          "Video essay required (webcam/mic; up to 2 attempts; ≤2 minutes).",
+          "Prerequisites: strong quant background (linear algebra, multivariate calculus, differential equations, numerical analysis, advanced stats/probability); programming exposure (C++, Python); stats/econometrics (e.g. R); ML concepts.",
+          "SPRING-ONLY start (January); no Fall admission. Full-time 1-year and Flex 2-year both spring start.",
+          "Spring 2028 rounds: Dec 1 2026; Jan 27; Apr 1; Jul 1 2027 (late to Jul 15 space-available)."
+        ],
+        "advice": "Spring-only — do not list as Fall admit. Spring 2027 apps closed; Spring 2028 cycle opens later in 2026 per admissions hub.",
+        "sources": [
+          [
+            "Admissions hub (Spring-only + Spring 2028 rounds)",
+            "https://mfe.haas.berkeley.edu/admissions"
+          ],
+          [
+            "Application requirements",
+            "https://mfe.haas.berkeley.edu/admissions/requirements"
+          ],
+          [
+            "International applicants English",
+            "https://mfe.haas.berkeley.edu/admissions/international"
+          ],
+          [
+            "Haas Knowledge: admissions requirements",
+            "https://knowledge.haas.berkeley.edu/knowledge/mfe/what-are-the-admissions-requirements"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "cmu-mscf",
+      "school": "Carnegie Mellon University",
+      "program": "Master of Science in Computational Finance (MSCF)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "required",
+          "detail": "Official valid GRE or GMAT required (not both). Scores within 5 years and valid at application; accept arrival within 2 weeks of deadline. Self-report highest; GRE program code 7383. Application not reviewed without official score.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "required",
+          "detail": "GMAT accepted in lieu of GRE (code MSCF/Tepper 69H-XH-17). Either GRE or GMAT required.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": null,
+            "detail": "International candidates must take Duolingo, TOEFL (code B522 Carnegie Mellon–MSCF), or IELTS unless waiver criteria met. Scores valid 2 years at application. No numeric minimum posted on MSCF admissions page."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": null,
+            "detail": "Accepted; select Carnegie Mellon University and Computational Finance. Minimum not posted on MSCF admissions page."
+          },
+          "waiver": "Waiver if ≥2 years at undergrad institution earning bachelor’s where sole language of instruction was English (by Jul 31 of entry-year context per page wording—verify cycle year) OR graduate degree taught entirely in English. Documentation rules apply for non-U.S./non-English-official-language countries."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "No minimum GPA on MSCF admissions page; class profile shows average GPA 3.80 (descriptive, not a cutoff)."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 3,
+          "detail": "Three LORs; prefer ability to speak to math/stats/CS/applied finance, English communication, teamwork. Recent students: ≥1 academic; prefer ≥1 professional. App not forwarded until all 3 received."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Two short-answer essays (350 words max each) after selecting post-MSCF career path; plus required 90-second video essay; optional essay ≤2 pages.",
+          "alsoKnownAs": "essays / video essay"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "1–2 pages; standard 12-pt font; must include month/year start and end for each position."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Upload legible scans of official transcripts/degree certificates for ALL institutions (incl. exchange/transfer). Internet printouts/unofficial copies not accepted for upload standard stated. Non-English: official translation; WES evaluations not accepted (WES standards as guideline only). Official sealed upon admit."
+        },
+        "interview": {
+          "status": "by_invitation",
+          "detail": "Invite-only on-campus or Zoom; requests for interview not considered. Clarifies quant prep, career fit, professional communication."
+        },
+        "applicationFee": {
+          "amountUsd": 125,
+          "waivers": "Fee waived for reapplicants who applied for 2026 when reapplying for Fall 2027.",
+          "detail": "$125 payable online by credit card at submission."
+        },
+        "other": [
+          "Prerequisites: Calc I–II, linear algebra, calculus-based probability, ≥1 semester OOP (C++/Java/Python/C#); remediation before enrollment possible.",
+          "Four-year bachelor’s or foreign equivalent required before start.",
+          "Fall-only; mandatory on-campus Orientation from Aug 1.",
+          "Fall 2027 rounds: R1 Dec 1 2026; R2 Mar 1 2027."
+        ],
+        "advice": "Fall-only with Aug 1 orientation and required summer internship path. GRE/GMAT hard required.",
+        "sources": [
+          [
+            "MSCF Admissions",
+            "https://www.cmu.edu/mscf/admissions"
+          ],
+          [
+            "MSCF Admissions FAQ",
+            "https://www.cmu.edu/mscf/admissions/faq"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "baruch-mfe",
+      "school": "Baruch College Weissman",
+      "program": "Master of Science in Financial Engineering (MFE)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "not_accepted",
+          "detail": "GRE/GMAT no longer required; no place on application to submit scores; if attached separately they will not be taken into account. All applicants take Quantitative Background Assessment (QBA) instead.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "not_accepted",
+          "detail": "Same as GRE: not accepted / not considered; QBA replaces standardized tests.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "not_required",
+            "minScore": null,
+            "detail": "TOEFL scores are not required. English communication assessed at admission interviews."
+          },
+          "ielts": {
+            "status": "not_required",
+            "minScore": null,
+            "detail": "Not required per MFE application-process page."
+          },
+          "waiver": "N/A — English tests not required; assessed in interviews."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "No minimum GPA stated; baccalaureate from accredited 4-year U.S. college or foreign equivalent required."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 3,
+          "detail": "Three letters from individuals who can comment on skills for MFE success; no requirement that one be professor or industry."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Personal essay must answer: why Financial Engineering; why Baruch MFE; envisioned career path after graduating.",
+          "alsoKnownAs": "personal essay"
+        },
+        "resume": {
+          "status": "unknown",
+          "detail": "Not explicitly listed on current Fall 2027 application-process page (older Weissman PDF mentioned resume). Confirm live application checklist."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Scan transcripts from ALL schools attended into one file and upload. Official transcripts required only after admission offer."
+        },
+        "interview": {
+          "status": "by_invitation",
+          "detail": "Two virtual Zoom interview rounds before offer; primarily technical (math, finance, C++). Selected applicants contacted; cannot request interview."
+        },
+        "applicationFee": {
+          "amountUsd": null,
+          "waivers": "",
+          "detail": "Current Fall 2027 MFE application-process page does not state fee amount. Older Weissman graduate application instructions PDF listed $75 non-refundable (also contained outdated GRE language)—treat fee as unconfirmed until live portal/Weissman confirms."
+        },
+        "other": [
+          "Mandatory Quantitative Background Assessment (QBA): Calculus, Linear Algebra, Probability, Finance, Brainteasers; online timed; open book; no internet/AI; honor code.",
+          "Prerequisites (B or better): Calc 2 semesters; Probability 1; Linear Algebra 1; C++ 1 semester/certificate; Finance 1 semester or relevant work.",
+          "Fall-only admission; Fall 2027 rounds Nov 1 / Dec 1 / Jan 15 / Mar 15 (plus Apr 1 for Spring Pre-MFE seminar students only).",
+          "Apply in only one round per year."
+        ],
+        "advice": "GRE/GMAT not accepted—prepare for QBA + technical interviews. English tests not required.",
+        "sources": [
+          [
+            "Application process Fall 2027",
+            "https://mfe.baruch.cuny.edu/application-process/"
+          ],
+          [
+            "Weissman Graduate Admissions deadlines hub",
+            "https://weissman.baruch.cuny.edu/graduate-studies/admissions-requirements/"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "columbia-ieor-mfe",
+      "school": "Columbia IEOR (Engineering)",
+      "program": "MS in Financial Engineering (MSFE)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "optional",
+          "detail": "Columbia Engineering: GRE not required for 2027 admission cycle (Spring 2027 and Fall 2027). Scores may be submitted optionally; non-submitters not penalized. Official scores required if admitted and scores were provided. School code 2111. IEOR FAQ still advises preparing GRE historically—policy for 2027 is optional.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "optional",
+          "detail": "IEOR FAQ: GMAT not a requirement; may be included as supplementary material with personal statement file.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": null,
+            "detail": "Required if undergrad degree earned outside Australia, Canada, Ghana, Ireland, Kenya, New Zealand, Nigeria, Singapore, UK, USA (incl. transfers/joint programs). TOEFL iBT/Home, IELTS Academic, PTE Academic, or Duolingo accepted (one test). No hard minimum to apply; IEOR notes may need to improve English if TOEFL ≤4.5 (post-Jan 21 2026 scale) or ≤99 (pre), IELTS ≤7.5, PTE ≤68, DET ≤130."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": null,
+            "detail": "Accepted as one of the English options under Engineering rules above."
+          },
+          "waiver": "Exception if master’s earned/will be completed in Australia, Canada, Ghana, Ireland, Kenya, New Zealand, Nigeria, Singapore, UK, or USA. Application also guides based on background. IEOR: waive if entirety of undergrad or graduate degree in an English-speaking country (per FAQ)."
+        },
+        "gpa": {
+          "status": "recommended",
+          "minimum": 3.0,
+          "scale": "4.0",
+          "detail": "IEOR FAQ: 3.0/4.0 GPA preferred; most successful applicants above 3.0. Not a hard stated cutoff."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 3,
+          "detail": "Three LORs. ≥2 academic unless bachelor’s earned >5 years before application (then academic strongly encouraged but not required)."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Personal statement required (Engineering application materials).",
+          "alsoKnownAs": "personal statement"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Résumé or CV required."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Transcripts from every post-secondary institution attended; translations if not issued in English."
+        },
+        "interview": {
+          "status": "required",
+          "detail": "Mandatory Video Interview for MS applications after submit + fee paid (Status Portal): 3 random behavioral questions; 90 seconds to consider; 3 minutes to record answers to all three. Engineering overview also notes an additional interview may be requested."
+        },
+        "applicationFee": {
+          "amountUsd": 85,
+          "waivers": "Possible for U.S. citizens/PR enrolled in U.S. school with financial need and U.S. military/veterans via Application Fee Waiver Request Form.",
+          "detail": "$85 non-refundable via online application."
+        },
+        "other": [
+          "≠ columbia-msfe (CBS). This id is IEOR Engineering MSFE.",
+          "MSFE Fall start only (IEOR FAQ).",
+          "MSFE prep: calculus, linear algebra, probability, statistics; differential equations helpful; Python essential; finance concepts (derivatives, risk, portfolio, markets).",
+          "Publications optional.",
+          "Only one Columbia Engineering program application per term."
+        ],
+        "advice": "Distinguish from CBS columbia-msfe. Video interview is mandatory for MS. GRE optional for Fall 2027 Engineering cycle.",
+        "sources": [
+          [
+            "Columbia Engineering application requirements",
+            "https://www.engineering.columbia.edu/admissions-aid/graduate-admissions/how-apply/application-requirements"
+          ],
+          [
+            "IEOR Master of Science Admissions FAQs",
+            "https://ieor.columbia.edu/masters-admissions-faqs"
+          ],
+          [
+            "IEOR MSFE program",
+            "https://ieor.columbia.edu/financial-engineering-msfe"
+          ],
+          [
+            "Engineering Fall 2027 brochure (PDF)",
+            "https://www.engineering.columbia.edu/sites/default/files/2026-09/Tri-fold_9-22-26.pdf"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "gt-qcf",
+      "school": "Georgia Tech",
+      "program": "MS in Quantitative and Computational Finance (MS-QCF)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "required",
+          "detail": "Official GRE or GMAT required unless waived: 4-year U.S. undergrad GPA ≥3.7 OR Ph.D. Scores valid 5 years; higher quant score used if multiple. Institute GRE/TOEFL code 5248. Unofficial OK to evaluate; official needed before offer.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "required",
+          "detail": "GMAT accepted (code HWK-54-37) but applicants with GMAT must apply through College of Business home unit. Same waiver rules as GRE.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": 4.5,
+            "detail": "TOEFL or IELTS only (Duolingo not accepted per QCF FAQ). GT Catalog: TOEFL iBT overall ≥4.5 (Speaking ≥3.5; Writing/Listening/Reading ≥4) on new scale; page notes prior iBT 90 ≈ 4.5. Also degree-from-approved-country or English-medium institution pathways."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": 7.0,
+            "detail": "IELTS Academic overall 7.0 (Writing 5.5; Speaking/Listening/Reading 6.5) per GT Catalog."
+          },
+          "waiver": "GT Catalog approved methods: degree from approved-country institution; degree from English-medium institution (MOI letter may be required); USG campus ESL completion; or meeting TOEFL/IELTS minima. QCF international page highlights collegiate degree where English was sole official language of instruction."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "No minimum GPA; holistic review with emphasis on quantitative coursework and quant test scores (QCF FAQ)."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 3,
+          "detail": "Three recommenders (academic and/or professional). Minimum 2 of 3 needed for Grad Education to forward application."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Essay ≤750 words on academic/professional motivation and post-degree career vision; plus short-answers (project ≤750; programming ≤500; optional weaknesses ≤250).",
+          "alsoKnownAs": "essay / short-answer questions"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Resume required (QCF Admissions FAQ)."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Unofficial transcripts uploaded; official may be required if admitted. International: native + English translations of transcripts and degree docs."
+        },
+        "interview": {
+          "status": "by_invitation",
+          "detail": "Competitive candidates invited to ~30-minute behavioral Zoom interview with Associate Director (resume/projects/academic history)."
+        },
+        "applicationFee": {
+          "amountUsd": 95,
+          "waivers": "QCF states it does not provide application fee waivers.",
+          "detail": "$95 domestic / $105 international (e-check or credit card)."
+        },
+        "other": [
+          "U.S.-equivalent 4-year bachelor’s required.",
+          "Quant background: Calc I–III, linear algebra, probability & statistics, differential equations; programming preferred (Python/R/C++/SAS).",
+          "Fall and Spring enrollment; Fall traditional ~1.5 yr with summer internship.",
+          "Fall 2027 deadlines: Early Oct 15 2026; Standard Dec 5 2026; Final intl outside US Mar 15 2027; Final US/PR/intl-in-US May 1 2027 (closes May 15)."
+        ],
+        "advice": "GRE/GMAT required except U.S. 3.7+/PhD waiver. Duolingo not accepted.",
+        "sources": [
+          [
+            "QCF application requirements / deadlines",
+            "https://qcf.gatech.edu/prospective-students/application-requirements"
+          ],
+          [
+            "QCF admissions FAQ",
+            "https://qcf.gatech.edu/prospective-students/admissions-faq"
+          ],
+          [
+            "QCF international students",
+            "https://qcf.gatech.edu/prospective-students/international-students"
+          ],
+          [
+            "GT Catalog English Language Proficiency",
+            "https://catalog.gatech.edu/admissions/grad/english-language-proficiency/"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "chicago-finmath",
+      "school": "University of Chicago",
+      "program": "MS in Financial Mathematics (MSFM)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "optional",
+          "detail": "GRE not required; welcome to enhance application. Self-report then official ETS (institution 1832; dept 0799 Mathematical Science–Other). Valid if exam within 5 years of deadline.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "not_accepted",
+          "detail": "Do not submit GMAT scores (or high school transcripts, theses, publications)—not considered.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": 90,
+            "detail": "TOEFL iBT or IELTS Academic required unless exception. PSD policy minimum TOEFL 90 or IELTS 7; FinMath prefers significantly higher. Exams within 2 years of deadline. TOEFL code 1832 / dept 72."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": 7.0,
+            "detail": "IELTS Academic (not General Training) accepted; minimum 7 per PSD policy."
+          },
+          "waiver": "Waived if (a) English primary language of communication/schooling since childhood; OR (b) ≥1 academic year full-time at accredited English-medium post-secondary in listed countries/territories within past 10 years (incl. Antigua, Australia, Bahamas, Barbados, Canada, Dominica, Grenada, Guyana, Hong Kong, Ireland, Jamaica, NZ, St. Kitts/Nevis, St. Lucia, St. Vincent, Singapore, South Africa, Trinidad & Tobago, UK, USA). English-medium elsewhere / high school / part-time-research-only do not qualify."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "No minimum GPA stated on application-requirements page."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 3,
+          "detail": "Three letters; at least one professional reference."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Three candidate statements ≤250 words each (shortcoming/steps; program-city-career alignment; additional profile info).",
+          "alsoKnownAs": "candidate statements"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Resume/CV with entire work history including start/end dates, locations, full- vs part-time."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Transcripts from all previous colleges/universities. Unofficial uploads for review; official final with degree conferral before enrollment if admitted."
+        },
+        "interview": {
+          "status": "not_used",
+          "detail": "No live interview listed among required documents. Two video statements are required application components (not a live interview)."
+        },
+        "applicationFee": {
+          "amountUsd": 90,
+          "waivers": "Not stated on Apply page.",
+          "detail": "$90 per application submitted (Apply page)."
+        },
+        "other": [
+          "Two video statements required.",
+          "Math prereqs: multivariable calculus, linear algebra, probability; programming ideally C++/Python/OOP.",
+          "Work experience encouraged but not required.",
+          "In-person Autumn 2027 rounds: Nov 2 2026; Feb 1 2027. Online also January/June starts."
+        ],
+        "advice": "In-person is Autumn start; online has Jan/June starts. GMAT not accepted. GRE optional.",
+        "sources": [
+          [
+            "Application requirements",
+            "https://finmath.uchicago.edu/admissions/application-requirements/"
+          ],
+          [
+            "Apply / deadlines / fee",
+            "https://finmath.uchicago.edu/admissions/apply/"
+          ],
+          [
+            "Admission FAQ",
+            "https://finmath.uchicago.edu/admissions/admission-faq/"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "nyu-courant-mf",
+      "school": "NYU Courant",
+      "program": "MS in Mathematics in Finance",
+      "applicationRequirements": {
+        "gre": {
+          "status": "required",
+          "detail": "Official general GRE required for M.S. (FT and PT). Subject GRE in math/physics/other quant encouraged. Highly quantitative PhD holders may email cims-mathfin-app@nyu.edu with transcript to request GRE waiver. GSAS code 2596. Most accepted students >90th percentile quant (descriptive).",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "not_accepted",
+          "detail": "GMAT not accepted for standard M.S. (Courant admissions page). Dual MathFin/MBA may use GMAT or GRE for GSAS; GMAT otherwise not a substitute for GRE per GSAS test-scores page.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": 100,
+            "detail": "TOEFL/IELTS/Duolingo required unless native English, U.S. citizen/PR, or baccalaureate/master’s at English-instruction institution. GSAS recommends TOEFL ≥100 (legacy) / ≥5 (new scale from Jan 2026), DET ≥130, IELTS ≥7; lower scores may still apply. Code 2596; TOEFL Essentials/ITP not accepted."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": 7.0,
+            "detail": "IELTS accepted; GSAS recommends overall band ≥7."
+          },
+          "waiver": "Native English speaker; OR U.S. citizen/PR; OR completed/will complete baccalaureate or master’s where language of instruction is English (supporting letter if transcript unclear)."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "No required minimum GPA (Courant admissions FAQ)."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 3,
+          "detail": "Three LORs; ≥2 from instructors of advanced math/quant/CS/engineering. FT: ≥1 math-focused and ≥1 CS/programming-focused preferred. Manager letter OK if significant work experience."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Three topics ≤150 words each (career motivation; interesting math/science fact; research/class/internship). Optional separate Personal Statement for extra info.",
+          "alsoKnownAs": "statement of purpose / statement of academic purpose"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Professional CV/resume with education, employment (company/division/dates/location/responsibilities), non-academic activities."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "One official academic transcript from each post-secondary institution (upload in online application); official scores/transcripts needed to complete review."
+        },
+        "interview": {
+          "status": "required",
+          "detail": "Full-time applicants must submit a short video statement (≤5 minutes) addressing a challenging experience/project relevance to quant finance OR a preferred quant-finance area and fit. Not a live interview; required application video."
+        },
+        "applicationFee": {
+          "amountUsd": 150,
+          "waivers": "Not stated on Courant admissions page.",
+          "detail": "Non-refundable $150 (Courant admissions FAQ)."
+        },
+        "other": [
+          "FT Fall-only (deadline Feb 12); PT Aug 1 Fall / Dec 1 Spring.",
+          "After submit: no updated grades/resumes/experience accepted.",
+          "Apply to only one Courant Math Finance program at a time."
+        ],
+        "advice": "GRE required (GMAT not accepted for standard MS). Required video statement for FT/PT MS.",
+        "sources": [
+          [
+            "Courant Math Finance admissions",
+            "https://math-finance.cims.nyu.edu/admissions/"
+          ],
+          [
+            "GSAS Mathematics in Finance requirements",
+            "https://gsas.nyu.edu/admissions/arc/programs/mathematics-in-finance.html"
+          ],
+          [
+            "GSAS Test Scores",
+            "https://gsas.nyu.edu/admissions/arc/test-scores.html"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "stanford-mcf",
+      "school": "Stanford ICME",
+      "program": "MS Mathematical and Computational Finance (MCF track)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "not_accepted",
+          "detail": "GRE not required; GRE scores will not be accepted or considered for MS or PhD application packets (ICME application + FAQ).",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "not_accepted",
+          "detail": "GMAT not mentioned as an accepted substitute; ICME explicitly rejects GRE consideration. Treat GMAT as not part of ICME packet.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": 90,
+            "detail": "Per Stanford Graduate Admissions: TOEFL iBT ≥90 (tests before Jan 21 2026) or ≥4.5 (on/after Jan 21 2026) unless exempt. ICME defers to central Grad Admissions."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": 7.0,
+            "detail": "IELTS Academic minimum 7 for admission consideration unless exempt."
+          },
+          "waiver": "Exempt if U.S. citizen/PR; first language English; U.S. bachelor’s/master’s/doctoral or international equivalent from university where all instruction in English; OR ≥2 consecutive years full-time professional/educational experience in English in past 10 years."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "Enter GPA as on transcript; do not convert scales. No ICME minimum stated."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 3,
+          "detail": "Three required (optional 4th backup). Strongly recommend ≥1 from university professor; Interfolio not accepted; letters may arrive up to 1 week after deadline."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "MS track: short-answer career goals / how CME-MS helps (program supplemental). Also Enriching the Learning Community ≤500 words. PhD-oriented SOP prompt on page is for PhD; MS uses supplemental short answers + academic interest MCF track selection.",
+          "alsoKnownAs": "statement / short answers / enriching the learning community"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "ICME requires CV/resume upload for complete application."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Unofficial transcript uploads for institutions attended ≥1 year full-time; official upon accept."
+        },
+        "interview": {
+          "status": "unknown",
+          "detail": "No interview listed among ICME MS application components on official application/FAQ pages."
+        },
+        "applicationFee": {
+          "amountUsd": 125,
+          "waivers": "GRE Fee Reduction, Program Participation, and School-Based waivers via Stanford Grad Admissions (request ≥10 business days before deadline). School of Engineering graduate fee waiver also referenced from ICME page.",
+          "detail": "Stanford graduate application fee $125 nonrefundable."
+        },
+        "other": [
+          "Apply to ICME MS and select MCF track in program supplemental Academic Interest.",
+          "Required course-preparation form (list advanced math/CS/stats/etc.).",
+          "External MS Autumn 2027-28 deadline Jan 29 2027 11:59pm PST; admission Autumn only for external applicants.",
+          "HCP part-time option available for MS via SCPD."
+        ],
+        "advice": "GRE not accepted. Select MCF track inside ICME MS application. Autumn-only for external applicants.",
+        "sources": [
+          [
+            "ICME graduate program application",
+            "https://icme.stanford.edu/academics-admission/icme-graduate-program-application"
+          ],
+          [
+            "ICME admissions & application FAQ",
+            "https://icme.stanford.edu/academics-admission/admissions-application-faq"
+          ],
+          [
+            "ICME application deadlines",
+            "https://icme.stanford.edu/academics-admission/icme-application-deadlines"
+          ],
+          [
+            "MCF admissions hub",
+            "https://mcf.stanford.edu/admissions"
+          ],
+          [
+            "Stanford Grad Admissions application fee",
+            "https://gradadmissions.stanford.edu/apply/application-fee"
+          ],
+          [
+            "Stanford Grad Admissions test scores (English)",
+            "https://gradadmissions.stanford.edu/apply/test-scores"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    }
+  ]
+}

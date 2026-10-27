@@ -1,0 +1,845 @@
+{
+  "batch": "appreq-batch1b",
+  "field": "applicationRequirements",
+  "degree": "msf",
+  "as_of": "2026-10-27",
+  "items": [
+    {
+      "id": "florida-msf",
+      "school": "Florida Warrington",
+      "program": "Master of Science in Finance (combination bachelor's/master's)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "not_required",
+          "detail": "MSF Program does not require a GMAT nor GRE score. SAT/ACT from UF undergrad record are electronically accessible; minimum expected SAT combined math+reading 1350/1600 or ACT math 31/36.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "optional",
+          "detail": "Applicants may submit a GMAT score to enhance the application; any GMAT received is included in comprehensive review. Program does not require GMAT.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "not_required",
+            "minScore": null,
+            "detail": "Applications sought only from current UF undergraduates; English proficiency not listed on MSF page for this pathway."
+          },
+          "ielts": {
+            "status": "not_required",
+            "minScore": null,
+            "detail": "Same as TOEFL — UF undergrad combo pathway only."
+          },
+          "waiver": "N/A for eligible UF undergraduates (program does not admit external/international applicants)."
+        },
+        "gpa": {
+          "status": "required",
+          "minimum": 3.6,
+          "scale": "4.0",
+          "detail": "Keep overall GPA above a 3.6; minimum 3.6 overall GPA expected for application. Average application GPA for MSF classes of 2026 and 2027 was 3.91."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 2,
+          "detail": "Two letters of recommendation emailed directly to Mrs. Hunt (Tayla.Hunt@warrington.ufl.edu) by recommenders."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Statement of purpose describing chosen career path and firms of interest; focus on junior summer internship targets with accompanying Excel/Word table of firms, caliber criteria, and recruitment process.",
+          "alsoKnownAs": "Statement of purpose"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Resume formatted for finance industry; must include all post-high school education and employment and ongoing international affiliations/research funding per Florida Statute."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "UF transcripts available electronically to MSF Admissions Committee from Student Information System; applicants do not need to order/email transcripts."
+        },
+        "interview": {
+          "status": "by_invitation",
+          "detail": "Candidates selected to interview should demonstrate characteristics appropriate for graduate business courses and qualifications expected by firms in their statement of purpose."
+        },
+        "applicationFee": {
+          "amountUsd": null,
+          "waivers": "",
+          "detail": "MSF program page does not state an application fee. Warrington specialized master's materials reference the UF Graduate School application; MBA section of masters-admissions page cites $30, but MSF combo page itself is silent."
+        },
+        "other": [
+          "RESTRICTED: applications only sought from current UF undergraduates (combination bachelor's/master's).",
+          "Pre-application form after first-year spring grades; full application in second year.",
+          "SAT/ACT used from UF record (not GRE/GMAT).",
+          "Complete required summer credits before third year; FIN/general business majors must complete 4000-level FIN prerequisites."
+        ],
+        "advice": "External and international applicants are not eligible for classic florida-msf; see florida-msft (MS Finance and Technology) for an open path. Documented here for eligible UF undergrads only.",
+        "sources": [
+          [
+            "MS Finance program / how to apply",
+            "https://warrington.ufl.edu/graduate/masters-finance/"
+          ],
+          [
+            "Warrington Master's & MBA Admissions",
+            "https://warrington.ufl.edu/admissions-aid/masters-admissions/"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "asu-msf",
+      "school": "ASU W. P. Carey",
+      "program": "Master of Science in Finance (MS-FIN)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "optional",
+          "detail": "Test scores not required for admission. Applicants may submit GRE to demonstrate potential; ASU does not accept GRE General Test at-home exam. Institution code 4007.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "optional",
+          "detail": "Test scores not required. Optional GMAT may be submitted; W. P. Carey GMAT code 0GZ-1R-80.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": 80,
+            "detail": "Required for non-native English speakers. ASU graduate minimum: TOEFL iBT 80 if taken before Jan 21, 2026; minimum 4 on new scale if on/after Jan 21, 2026. W. P. Carey states its graduate minimums may be higher than ASU but does not publish a program-specific number on the MS-FIN page. Does not accept TOEFL iBT Home Edition if taken prior to Jan 21, 2026, Paper Edition, or Essentials."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": 6.5,
+            "detail": "IELTS Academic overall band at least 6.5 (ASU graduate minimum). W. P. Carey may set higher unpublished program minimums."
+          },
+          "waiver": "ASU English proficiency exemptions (citizenship list, U.S. degree, medium-of-instruction, etc.) via Admission Services forms after applying. See admission.asu.edu English proficiency page."
+        },
+        "gpa": {
+          "status": "required",
+          "minimum": 3.0,
+          "scale": "4.0",
+          "detail": "ASU Degree Search: minimum cumulative GPA of 3.00 in last 60 semester / 90 quarter hours of first bachelor's, or 3.00 in applicable master's."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 1,
+          "detail": "One letter of recommendation; provide recommender name, affiliation, and work email. Should comment on motivation, commitment, achievements, work experience, and likely success (Degree Search)."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Admission essay / short-answer question responses in graduate application. Personal statements will not be accepted and will delay review. Essay prompts are in the graduate application.",
+          "alsoKnownAs": "Admission essay / short-answer question responses"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Current resume must include positions held and clearly indicate dates of employment in Month/Year format."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Unofficial OK at application; if admitted, official transcripts from every college/university awarding bachelor's or higher required. ASU attendees need not submit ASU transcripts. International: original language + official English translation."
+        },
+        "interview": {
+          "status": "unknown",
+          "detail": "Interview not mentioned on MS-FIN application-process page."
+        },
+        "applicationFee": {
+          "amountUsd": 115,
+          "waivers": "Military and Citizen Service: U.S. Military, Teach for America, Peace Corps, or AmeriCorps — email wpcareymasters@asu.edu before applying. Domestic fee $70.",
+          "detail": "$70 domestic; $115 international. Non-refundable; applications not processed until fee received."
+        },
+        "other": [
+          "Bachelor's or master's from regionally accredited institution in business/management, economics, statistics, CS, or other STEM areas (Degree Search).",
+          "Three-year undergraduate degree with no additional coursework may qualify — contact wpcareymasters@asu.edu.",
+          "$500 non-refundable enrollment deposit after admission."
+        ],
+        "advice": "International priority Round II Feb 1, 2027; international final Round III Apr 1, 2027. Submit English proof and allow visa/financial guarantee time after admission.",
+        "sources": [
+          [
+            "MS-FIN application process",
+            "https://www.wpcarey.asu.edu/masters-programs/finance/application-process"
+          ],
+          [
+            "MS-FIN program hub",
+            "https://wpcarey.asu.edu/masters-programs/finance"
+          ],
+          [
+            "ASU Degree Search Finance MS",
+            "https://degrees.asu.edu/masters-phd/major/ASU00/BAFINMS/finance-ms/"
+          ],
+          [
+            "ASU graduate English proficiency",
+            "https://admission.asu.edu/apply/international/graduate/english-proficiency"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "uci-msf",
+      "school": "UC Irvine Merage",
+      "program": "Master of Finance (MFin)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "optional",
+          "detail": "GMAT or GRE is not required. Optional; strongly recommended if GPA under 3.0 per FAQs. Scores valid up to five years. GRE code 4859.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "optional",
+          "detail": "Not required; optional additional data point. GMAT code 0DP-7R-40.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": 80,
+            "detail": "International students if applicable. Minimum TOEFL iBT 80/120 or 4.0/6.0 (new scale). Valid up to two years. Institution code 4859."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": 7.0,
+            "detail": "IELTS Academic minimum overall 7, with no individual module less than 6. Electronic scores only from test center."
+          },
+          "waiver": "Waived if undergraduate or graduate degree from a U.S. institution or institution where English was the sole language of instruction per World Higher Education Database (WHED)."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "No minimum GPA published on admissions page. FAQs recommend GMAT/GRE if GPA under 3.0 as evidence of quantitative/verbal skills."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 2,
+          "detail": "Two references (academic or professional)."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Two essays (one video and one written).",
+          "alsoKnownAs": "Essays (written + video)"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Résumé required."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Official transcripts from all institutions attended to earn an undergraduate degree (English translation if applicable). WES evaluations not accepted (FAQ)."
+        },
+        "interview": {
+          "status": "by_invitation",
+          "detail": "Interview by invitation only."
+        },
+        "applicationFee": {
+          "amountUsd": 150,
+          "waivers": "Available for attending select recruitment events. Fees paid prior to waiver approval are non-refundable.",
+          "detail": "$150 application fee."
+        },
+        "other": [
+          "3-year bachelor's (except UK) generally needs additional master's/PGD for U.S. 4-year equivalence — see FAQs.",
+          "Recommended: quantitative coursework (calculus, statistics, economics), accounting exposure, strong analytics."
+        ],
+        "advice": "International students must submit all materials including LORs by applicable deadline for visa processing. Round 3 Feb 1 priority for UCI housing / recommended for internationals; Round 4 Apr 1 international student deadline.",
+        "sources": [
+          [
+            "MFin Admissions",
+            "https://merage.uci.edu/programs/masters/master-finance/admissions.html"
+          ],
+          [
+            "MFin FAQs",
+            "https://merage.uci.edu/programs/masters/master-finance/faqs.html"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "villanova-msf",
+      "school": "Villanova School of Business",
+      "program": "Master of Science in Finance (MSF)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "optional",
+          "detail": "Not required if: undergrad GPA ≥3.3 with quantitative major; OR master's in technical/quantitative field with GPA ≥3.0; OR advanced degree (MBA, JD, MD, PhD). Otherwise GMAT or GRE required. Waiver form available.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "optional",
+          "detail": "Same conditional policy as GRE — optional if waiver criteria met; otherwise required. Contact Shea McCormick with questions.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": 90,
+            "detail": "For applicants whose native language is not English and who graduated from a non-U.S. institution in a country where English is not official. Minimum 90 on 120 scale or 4.5 on 1–6 scale. VSB TOEFL code 2959."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": 7.0,
+            "detail": "IELTS Academic minimum 7. Send to Villanova University – Villanova School of Business."
+          },
+          "waiver": "U.S. institution graduates not required. Also: undergraduate degree in the U.S. or lived in the U.S. for the past two years — contact Grad Business Office for waiver."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "No absolute minimum GPA published for admission. Undergrad GPA ≥3.3 (quantitative major) is one path to GMAT/GRE optional status."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 1,
+          "detail": "One letter; professional preferred (current/previous supervisor; internships OK). Academic OK if no work experience. No personal/family recommendations."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "One essay on short- and long-term career plans; how Villanova MSF meets professional goals; academic/personal/professional motivation.",
+          "alsoKnownAs": "Essay"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Business resume with educational and professional information."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "One official transcript from each postsecondary institution with ≥9 credit hours. Unofficial OK for review; official degree-bearing before classes. Non-U.S. studies: WES or ECE course-by-course evaluation required (no other services)."
+        },
+        "interview": {
+          "status": "unknown",
+          "detail": "Interview not listed on MSF admissions page."
+        },
+        "applicationFee": {
+          "amountUsd": 65,
+          "waivers": "",
+          "detail": "Non-refundable $65, paid by credit card on online application."
+        },
+        "other": [
+          "Program starts in July (full-time ~11 months).",
+          "International deadline Round 2 Jan 15 recommended for visa.",
+          "Econometrics / macro / math of economics recommended prerequisites (not required)."
+        ],
+        "advice": "Apply by Round 2 (Jan 15) as international. WES/ECE course-by-course required before review for non-U.S. credentials. STEM OPT extension eligible after program.",
+        "sources": [
+          [
+            "MSF Admissions",
+            "https://www.villanova.edu/university/business/academics/graduate-programs/msf/admissions.html"
+          ],
+          [
+            "MSF International Students",
+            "https://www.villanova.edu/university/business/academics/graduate-programs/msf/international-students.html"
+          ],
+          [
+            "MSF FAQs",
+            "https://www.villanova.edu/university/business/academics/graduate-programs/msf/faqs.html"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "notredame-msf",
+      "school": "Notre Dame Mendoza",
+      "program": "Master of Science in Finance (MSF)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "optional",
+          "detail": "GMAT or GRE not required if applicant has or will have undergraduate degree from a U.S. college/university prior to enrollment. Applicants from colleges/universities outside the U.S. must submit valid GMAT or apply for GMAT waiver. Scores ≤5 years. GRE code 6998.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "optional",
+          "detail": "Not required for U.S. bachelor's holders/expected graduates. Required for non-U.S. institution applicants unless waiver granted via waiver form. GMAT code XM7-2D-68.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": null,
+            "detail": "Non-U.S. citizen applicants (and U.S. citizens with extensive international study) must submit English proficiency. Mendoza MSF page accepts TOEFL; does not publish a minimum score. Mendoza TOEFL code 2456. ND Graduate School publishes TOEFL iBT 80 (pre-Feb 2026; Speaking ≥23) or 4.5 avg / no section <4.0 (updated) — cite Grad School separately; confirm with Mendoza if program-specific floor differs."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": null,
+            "detail": "IELTS accepted on Mendoza MSF page; minimum not published there. ND Graduate School lists IELTS 7.0 composite."
+          },
+          "waiver": "May be waived if completed at least six full-time semesters or nine full-time quarters at a university where English is the primary language (transcripts verify; committee may request more)."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "No minimum GPA stated on MSF apply page."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 1,
+          "detail": "One recommendation; someone familiar with professional or academic background who can offer detailed assessment."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Written statement ≤500 words: detailed post-master's career plans; how background + Notre Dame studies equip you; short- and long-term goals with industry and function.",
+          "alsoKnownAs": "Written statement"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "One-page resume summarizing education, work experience, skills, accomplishments."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "From all colleges/universities attended including summer and graduate study. International transcripts need official English translation. Unofficial OK for application; official final with proof of graduation before enrollment if admitted. Degree audits not accepted."
+        },
+        "interview": {
+          "status": "required",
+          "detail": "Video assessment required after application submission (Admissions Committee questions); must complete to move forward. Not framed as optional invitation-only live interview."
+        },
+        "applicationFee": {
+          "amountUsd": 50,
+          "waivers": "U.S. Active Duty Military or Veterans; current/former Peace Corps; current/former Teach for America — contact msf.business@nd.edu.",
+          "detail": "$50 non-refundable; pay via application status page after submit. Application incomplete until paid."
+        },
+        "other": [
+          "Applicant Snapshot: required 4-slide PDF deck (no audio/video).",
+          "Optional supplemental essay for additional context.",
+          "Also accepts PTE Academic and Duolingo for English (mins not on Mendoza MSF page)."
+        ],
+        "advice": "International applicants strongly encouraged to apply by Round 2 for visa timing. Non-U.S. undergrad degree holders: plan GMAT or GMAT waiver early.",
+        "sources": [
+          [
+            "MSF Application",
+            "https://mendoza.nd.edu/graduate-programs/finance-msf/apply/"
+          ],
+          [
+            "MSF program hub",
+            "https://mendoza.nd.edu/graduate-programs/finance-msf/"
+          ],
+          [
+            "ND Graduate School international English (mins reference)",
+            "https://graduateschool.nd.edu/admissions/international-students/"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "utd-msf",
+      "school": "UT Dallas Jindal",
+      "program": "Master of Science in Finance (MS FIN)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "optional",
+          "detail": "GMAT/GRE not required; optional submission. Score used only if provided. GRE school code R6897.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "optional",
+          "detail": "Optional; use listed GMAT program codes when submitting.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": 80,
+            "detail": "International applicants: TOEFL minimum 80 iBT; score ≤2 years from application date. Institutional code 6897 (FAQ)."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": 6.5,
+            "detail": "IELTS minimum 6.5. Also accepts PTE minimum 67."
+          },
+          "waiver": "Waived if bachelor's or master's earned through instruction/examination in English, or native country's primary language is English (UTD list). U.S. degree holders waived."
+        },
+        "gpa": {
+          "status": "recommended",
+          "minimum": null,
+          "scale": "4.0",
+          "detail": "No hard minimum published. Cumulative GPA used in holistic review; currently average admitted GPA is 3.3 (FAQ / MS admissions)."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 1,
+          "detail": "MS Finance FAQ and MS Finance Cohort page: one letter of recommendation (professional; no specific format). Note: general Jindal MS Programs Admission page states three LORs (or one if ≥2 years post-baccalaureate experience) — program-specific MS Finance materials say one."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Personal objectives statement — one-page typed essay outlining academic interests and goals (cohort page: one-page typed; general MS page: one-page double-spaced).",
+          "alsoKnownAs": "Personal objectives statement"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Detailed résumé of work history; work experience not required for MS degrees."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Official transcripts from all colleges/universities; international degree certificate if applicable. Unofficial OK for decision; official before enrollment."
+        },
+        "interview": {
+          "status": "unknown",
+          "detail": "Interview not mentioned on MS Finance FAQ or Cohort application section."
+        },
+        "applicationFee": {
+          "amountUsd": 75,
+          "waivers": "UT Dallas students/alumni automatic waiver; military and listed Graduate Application Fee Waiver Program (U.S. citizens/PRs) per Graduate Admissions deadlines-and-fees page.",
+          "detail": "$75 non-refundable via application/Applicant Portal (UTD Graduate Admissions)."
+        },
+        "other": [
+          "Calculus knowledge required for MS Finance; OPRE 6303 available if missing.",
+          "Fall deadline May 1 (FAQ); Cohort page notes Apr 30 foreign / May 31 domestic for cohort track — confirm track.",
+          "Also accepts PTE (min 67)."
+        ],
+        "advice": "International: submit English scores and credentials early; May 1 fall deadline (or cohort foreign Apr 30). STEM program; ISSO handles I-20.",
+        "sources": [
+          [
+            "MS Finance FAQ",
+            "https://jindal.utdallas.edu/ms-finance-faq/"
+          ],
+          [
+            "MS Finance Cohort application",
+            "https://fin.utdallas.edu/ms-finance-cohort/"
+          ],
+          [
+            "Jindal MS Programs Admission",
+            "https://jindal.utdallas.edu/admission-requirements/masters/"
+          ],
+          [
+            "UTD Graduate Admissions deadlines and fees",
+            "https://graduate-admissions.utdallas.edu/apply-to-ut-dallas/deadlines-and-fees/"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "bc-msf",
+      "school": "Boston College Carroll",
+      "program": "Master of Science in Finance (MSF)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "required",
+          "detail": "Applicants must submit GMAT or GRE from within past five years. Full-time and part-time MSF applicants may request GMAT/GRE waiver consideration before completing application. GRE school code 3033. Class profile Fall 2026 avg GRE 319 (context only).",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "required",
+          "detail": "GMAT Exam or GMAT Focus accepted. School code 44x-J5-96. Waiver request available for FT and PT MSF. No preference between GMAT/GRE. Fall 2026 FT avg GMAT Focus 644 (context).",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": 100,
+            "detail": "Non-U.S. citizens/PRs: TOEFL iBT traditional minimum 100; TOEFL iBT (New) minimum 5. Scores within past two years. MyBest not accepted."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": 7.5,
+            "detail": "IELTS minimum 7.5. Also PTE 68; Duolingo 130."
+          },
+          "waiver": "Completed four-year bachelor's or two-year master's (or higher) entirely at English-medium institution (MOI on transcript or official letter); OR ≥2 years full-time post-degree work in U.S. or country where English is official language. No separate waiver form required if eligible."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "No minimum GPA required (FAQ). Fall 2026 FT average undergrad GPA 3.58 (profile)."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 1,
+          "detail": "One required; up to three accepted. Academic (professors) or professional (supervisors/managers). Online recommendation forms."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Required essay ≤500 words: past experiences, short- and long-term goals, why MSF at Boston College. Optional essay for uncovered aspects.",
+          "alsoKnownAs": "Required essay"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Resume or CV outlining education and professional experience including part-time/internships with months and years; recommend 1–2 pages."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Four-year bachelor's (or equivalent) required. Self-reported transcript at application; official if admitted. Non-U.S.: English translation + third-party degree verification (SpanTran/TEC or WES) if admitted."
+        },
+        "interview": {
+          "status": "not_used",
+          "detail": "MSF application materials page does not list an interview. FAQ interview-by-invitation applies to Ph.D. programs, not MSF."
+        },
+        "applicationFee": {
+          "amountUsd": 100,
+          "waivers": "Reapplicants: contact Graduate Admissions before submitting for fee waiver (FAQ).",
+          "detail": "Nonrefundable $100 USD."
+        },
+        "other": [
+          "Quantitative Finance STEM track selected on enrollment form after admission (not separate application).",
+          "Spring 2027 entry available for Quantitative Track only.",
+          "Fifth-year BC undergrad pathway exists with separate requirements page."
+        ],
+        "advice": "International applicants strongly encouraged to apply by starred early deadlines for visa. Part-time not F-1 sponsored. Quant track STEM OPT extension path.",
+        "sources": [
+          [
+            "MS in Finance (application & requirements)",
+            "https://www.bc.edu/bc-web/schools/carroll-school/graduate/ms-programs/ms-in-finance.html"
+          ],
+          [
+            "Graduate Admission FAQ",
+            "https://www.bc.edu/bc-web/schools/carroll-school/graduate/admission/graduate-admission-faq.html"
+          ],
+          [
+            "Admission deadlines hub",
+            "https://www.bc.edu/bc-web/schools/carroll-school/graduate/admission.html"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "cgu-msf",
+      "school": "Claremont Graduate (Drucker)",
+      "program": "Master of Science in Finance (MSF)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "required",
+          "detail": "GRE or GMAT required (waivers available). Scores within past five years. ETS/GRE code 4053. Waiver paths include business bachelor's from AACSB/EQUIS school; BS in finance/accounting/business analytics/STEM; ≥4 units stats/calculus B+ or better; certain professional licenses; 5+ years quantitative work; partner-institution alumni — email admissions@cgu.edu when application started.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "required",
+          "detail": "GMAT or GRE required with same waiver policy. GMAT code DZK-QS-08.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": 95,
+            "detail": "Non-native English speakers: TOEFL minimum 95 (old scale) / 5 (new score scale) for direct entry. Code 4053. Lower scores may enter via International Scholars Program (TOEFL 75/4)."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": 7.0,
+            "detail": "IELTS 7.0 with no sub-score less than 6.5 for direct entry. Also PTE 66; Duolingo 125 for direct entry."
+          },
+          "waiver": "Citizens/PRs of English sole-official-language countries; degree from U.S. or those countries; recent U.S. academic English pre-master's/bridge; or degree where English is a primary language of instruction for majority of courses with documentation."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "No GPA minimum published on MSF page or Drucker 2027 how-to-apply news (Associate Dean: no score cutoffs / no GPA minimums)."
+        },
+        "lettersOfRecommendation": {
+          "status": "optional",
+          "count": null,
+          "detail": "Optional. If submitting, recommender emails letter to admissions@cgu.edu with applicant full name. News post: no longer required."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Applicant questionnaire: five short responses ≤100 words each (motivation; goals; alignment with Drucker ideals; contribution; biggest challenge). Upload to status page after online application.",
+          "alsoKnownAs": "Applicant questionnaire"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Up-to-date resume required."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Sealed official transcript from every undergrad/grad institution that granted a degree; electronic to admissions@cgu.edu OK. Unofficial for review; official upon admission. Bachelor's from regionally accredited college required."
+        },
+        "interview": {
+          "status": "required",
+          "detail": "Required for admission upon review of application; decision not issued until interview complete. Drucker news: every applicant who completes an application is interviewed."
+        },
+        "applicationFee": {
+          "amountUsd": 80,
+          "waivers": "",
+          "detail": "$80 non-refundable (university requirements on MSF page)."
+        },
+        "other": [
+          "Prerequisite: Financial Accounting (coursework B or better at accredited institution or approved equivalent) before entering.",
+          "Fall 2027: priority Feb 1, 2027; international final June 1, 2027 (program page) / June 5, 2027 (Drucker news table — slight date conflict; verify closer to cycle).",
+          "STEM designated."
+        ],
+        "advice": "International final deadline earlier than domestic for visa. Reach out to Drucker recruiters early; interview is mandatory after complete file.",
+        "sources": [
+          [
+            "MS Finance program / application guidelines",
+            "https://www.cgu.edu/academics/program/ms-finance/"
+          ],
+          [
+            "Drucker 2027 deadlines how to apply",
+            "https://www.cgu.edu/news/2026/08/drucker-school-application-deadlines-for-2027-how-to-apply/"
+          ],
+          [
+            "CGU International Applicants (English mins)",
+            "https://www.cgu.edu/admissions/international-applicants/"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "illinois-msf",
+      "school": "Illinois Gies",
+      "program": "Master of Science in Finance (MSF)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "optional",
+          "detail": "GMAT or GRE optional. Committee may request official scores if unable to decide from submitted materials. Institution code 1836. Upload unofficial score to portal while awaiting official.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "optional",
+          "detail": "Optional; same policy as GRE. Official to UIUC code 1836.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": 103,
+            "detail": "Non-native speakers without Graduate College exemption: Full-status TOEFL iBT 103 (scores prior to 1/21/26) or 5.0 (scores after 1/20/26). Limited-status: 79 / 4.0. Official scores required; dated after Aug 1, 2025. Code 1836."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": 7.5,
+            "detail": "Full-status IELTS Academic 7.5; limited-status 6.5. Also Duolingo full 135 / limited 115."
+          },
+          "waiver": "Graduate College English proficiency exemptions apply (see Grad College English Proficiency Requirements). Limited-status admits take English Placement Test on arrival; may require ESL coursework."
+        },
+        "gpa": {
+          "status": "required",
+          "minimum": 3.0,
+          "scale": "4.0",
+          "detail": "Illinois Graduate College minimum: GPA 3.0 (A=4.0) for last two years of undergraduate study. Programs may require higher; MSF page does not state a higher floor. Optional essay strongly recommended if GPA ≤3.0."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 2,
+          "detail": "Two references from academic and/or professional sources; signed and dated. Late LORs (>7 days after deadline) move application to next round."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Academic Statement of Purpose 300–500 words total (background prep; how program helps goals; academic interests). Plus two short personal statements ≤250 words each.",
+          "alsoKnownAs": "Academic Statement of Purpose + personal statements"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Professional résumé ≤2 pages (education, work, internships, training, associations, leadership)."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Most recent unofficial transcripts with name, institution, legend/scale. Diploma/certificate of degree if bachelor's earned. Official upon arrival if admitted. Check Grad College country requirements for U.S. bachelor's equivalence."
+        },
+        "interview": {
+          "status": "by_invitation",
+          "detail": "Required video essay component (3 randomly assigned questions, ~3 minutes). Live interview by invitation only if materials insufficient; decisions may be made with or without interview."
+        },
+        "applicationFee": {
+          "amountUsd": 90,
+          "waivers": "",
+          "detail": "Non-refundable $90 for domestic and international. Cannot be processed without payment."
+        },
+        "other": [
+          "Select program Finance → Finance - MS in Grad College portal.",
+          "Optional essay available; scholarship acknowledgment in Financial Aid section for merit/need consideration.",
+          "Passport/funding proof for internationals only after admission offer."
+        ],
+        "advice": "Fall 2027 Round 4 May 5, 2027 is final deadline for international applicants needing a new visa. Apply early for scholarship consideration.",
+        "sources": [
+          [
+            "MSF Admissions",
+            "https://giesbusiness.illinois.edu/msf/admissions"
+          ],
+          [
+            "Illinois Graduate College minimum requirements",
+            "https://grad.illinois.edu/admissions/graduate-admissions-minimum-requirements"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "tamu-msf",
+      "school": "Texas A&M Mays",
+      "program": "Master of Science in Finance (4+1 / combination)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "required",
+          "detail": "Minimum 50th percentile on quantitative portion. Waived for those with GPA of 3.5 or higher in STEM, Business, or ECON majors. Program details: Sophomore Start also notes minimum 50th percentile GRE Q with minimum GPA 3.0 emphasis.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "unknown",
+          "detail": "GMAT not mentioned on 4+1 MS Finance hub or program-details pages; GRE is the listed standardized test.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "not_required",
+            "minScore": null,
+            "detail": "Program restricted to current Texas A&M undergraduates; English proficiency exams not listed among admission requirements."
+          },
+          "ielts": {
+            "status": "not_required",
+            "minScore": null,
+            "detail": "Same — TAMU undergrad 4+1 pathway only."
+          },
+          "waiver": "N/A for eligible TAMU undergraduates (external/international N/A)."
+        },
+        "gpa": {
+          "status": "required",
+          "minimum": 3.25,
+          "scale": "4.0",
+          "detail": "Minimum GPA 3.25 overall; 3.5 for FINC majors (hub). Program-details Sophomore Start text also cites minimum GPA 3.0 with GRE Q ≥50th percentile — hub list is the primary published requirement set."
+        },
+        "lettersOfRecommendation": {
+          "status": "not_stated",
+          "count": null,
+          "detail": "LOR not listed among published admission requirements on hub or program-details pages."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Essay required (listed on admission requirements).",
+          "alsoKnownAs": "Essay"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Resume required."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Unofficial transcript required at application."
+        },
+        "interview": {
+          "status": "by_invitation",
+          "detail": "Program-details: Apply through April 15 to be interviewed in the spring semester. Not stated whether every applicant is interviewed."
+        },
+        "applicationFee": {
+          "amountUsd": null,
+          "waivers": "",
+          "detail": "Application fee not stated on 4+1 MS Finance hub or program-details pages."
+        },
+        "other": [
+          "RESTRICTED: all applicants must currently be enrolled as undergraduates at Texas A&M University (College Station).",
+          "Attend information session (listed requirement).",
+          "Prerequisites (B or better) due after admission by end of spring following application: ACCT 209/229/640 and ECON 202 or 203.",
+          "Sophomore Start and Senior Start pathways; few spots for seniors (senior start needs ≥1 commercial internship)."
+        ],
+        "advice": "External and international applicants are not eligible for classic tamu-msf 4+1; see tamu-qfin for a separate open quantitative path. Pages currently emphasize Fall 2026 entry cycles; 2027–28 cycle opens Apr 1, 2027.",
+        "sources": [
+          [
+            "4+1 MS Finance hub",
+            "https://mays.tamu.edu/graduate/masters/4plus1/ms-finance/"
+          ],
+          [
+            "Program details",
+            "https://mays.tamu.edu/graduate/masters/4plus1/ms-finance/program-details/"
+          ],
+          [
+            "TAMU catalog MS Finance",
+            "https://catalog.tamu.edu/graduate/colleges-schools-interdisciplinary/business/finance/ms/"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    }
+  ]
+}

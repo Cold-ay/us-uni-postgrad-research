@@ -34,6 +34,32 @@ Mandatory fees reference: $196. Graduate Student Activity Fee $73/semester × 2 
 
 Application timing: Fall 2027 — Round 1 · 2026-10-13. Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: required — Applicants must submit GMAT or GRE from within past five years. Full-time and part-time MSF applicants may request GMAT/GRE waiver consideration before completing application. GRE school code 3033. Class profile Fall 2026 avg GRE 319 (context only).
+- GMAT: required — GMAT Exam or GMAT Focus accepted. School code 44x-J5-96. Waiver request available for FT and PT MSF. No preference between GMAT/GRE. Fall 2026 FT avg GMAT Focus 644 (context).
+- TOEFL: required — min 100 — Non-U.S. citizens/PRs: TOEFL iBT traditional minimum 100; TOEFL iBT (New) minimum 5. Scores within past two years. MyBest not accepted.
+- IELTS: required — min 7.5 — IELTS minimum 7.5. Also PTE 68; Duolingo 130.
+- English waiver: Completed four-year bachelor's or two-year master's (or higher) entirely at English-medium institution (MOI on transcript or official letter); OR ≥2 years full-time post-degree work in U.S. or country where English is official language. No separate waiver form required if eligible.
+- GPA: not_stated — No minimum GPA required (FAQ). Fall 2026 FT average undergrad GPA 3.58 (profile).
+- Letters of recommendation: required — count 1 — One required; up to three accepted. Academic (professors) or professional (supervisors/managers). Online recommendation forms.
+- Statement of purpose: required — also known as Required essay — Required essay ≤500 words: past experiences, short- and long-term goals, why MSF at Boston College. Optional essay for uncovered aspects.
+- Resume: required — Resume or CV outlining education and professional experience including part-time/internships with months and years; recommend 1–2 pages.
+- Transcripts: required — Four-year bachelor's (or equivalent) required. Self-reported transcript at application; official if admitted. Non-U.S.: English translation + third-party degree verification (SpanTran/TEC or WES) if admitted.
+- Interview: not_used — MSF application materials page does not list an interview. FAQ interview-by-invitation applies to Ph.D. programs, not MSF.
+- Fee: $100 — waivers: Reapplicants: contact Graduate Admissions before submitting for fee waiver (FAQ). — Nonrefundable $100 USD.
+- Other: Quantitative Finance STEM track selected on enrollment form after admission (not separate application).
+- Other: Spring 2027 entry available for Quantitative Track only.
+- Other: Fifth-year BC undergrad pathway exists with separate requirements page.
+
+International applicants strongly encouraged to apply by starred early deadlines for visa. Part-time not F-1 sponsored. Quant track STEM OPT extension path.
+
+- [MS in Finance (application & requirements)](https://www.bc.edu/bc-web/schools/carroll-school/graduate/ms-programs/ms-in-finance.html)
+- [Graduate Admission FAQ](https://www.bc.edu/bc-web/schools/carroll-school/graduate/admission/graduate-admission-faq.html)
+- [Admission deadlines hub](https://www.bc.edu/bc-web/schools/carroll-school/graduate/admission.html)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.
