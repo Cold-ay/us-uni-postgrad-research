@@ -34,6 +34,36 @@ Duke Graduate School Tuition, Fees, and Ph.D. Stipend Schedule 2026–27: Master
 
 Application timing: 1 Feb 2027 · 11:59:59 p.m. EST (MS Computer Science — Fall 2027). Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: required — GRE General required for Computer Science (MS) per Grad School GRE list and CS MS program page. GRE Subject optional (CS subject discontinued). Institution 5156; no dept code. Scores ≤5 years from Aug 1 of application year.
+- GMAT: not_accepted — CS MS requires GRE General; GMAT not listed as accepted alternate for CS MS.
+- TOEFL: required — min 90 — TOEFL/IELTS/Duolingo required if first language is not English (*waiver may apply). Grad School generally seeks TOEFL iBT ≥90 (pre–Jan 21 2026) or ≥5 (on/after Jan 21 2026). Code 5156.
+- IELTS: required — min 7 — IELTS Academic generally ≥7.0; Duolingo generally ≥125 with subscores. E-delivery to Duke University Graduate School.
+- English waiver: Test waiver may apply for some applicants; Grad School English page / email grad-admissions@duke.edu — CS FAQ notes waiver granted only after admittance in some cases.
+- GPA: required — scale 4 — Undergraduate GPA calculated on 4.0 scale required on application. No numeric cutoff stated; admitted CS students typically have very strong GPAs (CS FAQ).
+- Letters of recommendation: required — count 3 — 3 letters required (CS MS Grad School program page).
+- Statement of purpose: required — also known as Statement of Purpose / Life Experiences Statement — Statement of Purpose required; Grad School instructions also list Life Experiences Statement.
+- Resume: required — Résumé required (CS MS program page / Grad School instructions).
+- Transcripts: required — Unofficial with application; official upon admission.
+- Interview: unknown — Interview not described on CS MS Grad School or CS FAQ pages.
+- Fee: $105 — waivers: Built into application for eligible U.S. citizens/PR with financial need, veterans/active duty, or qualifying pipeline programs (see Application Fee page). — Nonrefundable $105 (Visa/Discover/Mastercard).
+- Other: Fall only; deadline February 1
+- Other: No departmental financial aid for MS
+- Other: PhD GRE optional but MS GRE required—if switching PhD→MS, GRE must be in by MS deadline
+- Other: Optional concentrations: Cybersecurity; AI/ML
+
+GRE General is required for MS (unlike CS PhD optional). Plan English test early; fee $105.
+
+- [Grad School CS MS program page](https://gradschool.duke.edu/academics/programs-degrees/computer-science-ms/)
+- [Grad School GRE requirements (CS MS required)](https://gradschool.duke.edu/admissions/application-instructions/gre-scores/)
+- [Grad School application fee](https://gradschool.duke.edu/admissions/application-instructions/application-fee/)
+- [Grad School English proficiency](https://gradschool.duke.edu/admissions/application-instructions/english-language-proficiency-test-scores/)
+- [CS Graduate FAQ](https://cs.duke.edu/graduate/faq)
+- [Application instructions](https://gradschool.duke.edu/admissions/application-instructions/)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

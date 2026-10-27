@@ -34,6 +34,32 @@ Princeton CS department: will not accept applications to the master’s degree p
 
 Application timing: No Fall 2027 MS deadline — CS will not accept master's applications for Fall 2027 (MSE closed). Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: not_accepted — Princeton Graduate School Computer Science field page: GRE General Test — Not Accepted (AY 2026–2027).
+- GMAT: not_required — Pure CS; GMAT not part of CS graduate admissions materials.
+- TOEFL: required — MSE English policy (still posted): applicants whose primary language is not English and without complete undergrad education in English must submit TOEFL or IELTS. MSE requires TOEFL speaking ≥28 legacy / 6 new scale. Ph.D. also accepts DET. Exemptions: primary language English; undergrad entirely in English (degree before enrollment); or ≥2 years full-time graduate study entirely in English.
+- IELTS: required — IELTS accepted for MSE; speaking subsection equivalent 8 (per department MSE English requirement). Same exemption rules as TOEFL.
+- English waiver: Exemptions per Grad School/department rules above; department does not control/approve exemptions—contact gsadmit@princeton.edu.
+- GPA: not_stated — No minimum GPA stated on CS admissions-requirements or Grad School CS field page.
+- Letters of recommendation: required — count 3 — Princeton Graduate School CS FAQ/admissions materials require three letters for CS graduate applications (Ph.D. path still open). MSE applications not accepted Fall 2027.
+- Statement of purpose: required — also known as Academic Statement of Purpose — Academic Statement of Purpose required for Princeton graduate applications (≤1000 words per Grad School guidance). Writing sample/policy memo not required for CS.
+- Resume: required — Résumé/CV required per Princeton Graduate School application materials.
+- Transcripts: required — Upload transcripts with online application; do not mail to department. Incomplete applications disadvantaged.
+- Interview: unknown — Interview not stated on CS admissions-requirements page.
+- Fee: $90 — waivers: Fee waiver requests for financial hardship, qualifying programs, or recruiting-event codes via Grad School Application Fee Waiver Request. — $90 per Grad School Computer Science field page (AY 2026–2027).
+- Other: FLAG: Computer Science will NOT accept master's (MSE) applications for Fall 2027 admission (resource uncertainty). Ph.D. remains open (deadline Dec 15, 2026).
+- Other: When open, all admits start MSE thesis track; may switch to M.Eng. non-thesis in spring Y1; funded via TA typically.
+- Other: Fall admission only; no evening/weekend/summer courses.
+
+NO EXTERNAL MS for Fall 2027. Do not apply to MSE this cycle. Revisit later or consider Ph.D. only if research-bound. Requirements above are from still-posted official pages for when MS reopens / Ph.D. parallel materials.
+
+- [CS Master's Degree (suspension notice)](https://www.cs.princeton.edu/grad/masters-degree-requirements)
+- [CS Admissions Requirements](https://www.cs.princeton.edu/grad/admissions-requirements)
+- [Princeton Grad School Computer Science field (AY 2026–2027)](https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/computer-science)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

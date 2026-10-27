@@ -34,6 +34,33 @@ UCSD Graduate Registration Fees 2026–27: California Nonresidents annual total 
 
 Application timing: Apps open 2 Sep 2026 · Deadline 16 Dec 2026 · 11:59 p.m. PST (Fall 2027). Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: optional — GRE not required for PhD and MS applications for Fall 2027; applicants may still submit valid scores (ETS code 4836).
+- GMAT: not_required — GMAT not part of CSE graduate admissions materials.
+- TOEFL: required — min 85 — GEPA university-wide minimum TOEFL iBT 85 (prior scale) or 4.5 (new iBT scale). CSE checklist points to GEPA English page; code 4836. Required for international applicants unless WHED/U.S. exemption.
+- IELTS: required — min 7 — GEPA university-wide minimum IELTS Academic Band Score 7.
+- English waiver: Exempt if earned/will earn bachelor's, master's, or doctoral degree with grades of B (3.0) or better from a regionally accredited U.S. institution where English is sole language of instruction, or a foreign institution listing English as sole language of instruction on IAU WHED. DET (min 120) and PTE Academic (min 65) also accepted per GEPA.
+- GPA: required — minimum 3 — scale 4.0 — At least a B average (3.0 GPA) or equivalent required for admission; bachelor's or equivalent from accredited/recognized institution.
+- Letters of recommendation: required — count 3 — Three letters required (additional allowed); typically academic/research advisors; professional/industry referees also acceptable.
+- Statement of purpose: required — also known as Statement of Purpose — SoP submitted online; no specific word limit—address CS/CE accomplishments, qualifications, and graduate goals. Updates after submission not granted.
+- Resume: required — Resume/CV upload required under Resume/CV section; post-submission updates not granted.
+- Transcripts: required — Unofficial transcripts uploaded for review; official transcripts to Graduate Division if offered admission.
+- Interview: unknown — Interview not listed on CSE Admissions or Application Checklist pages.
+- Fee: $135 — waivers: GEPA need-based waivers for U.S. citizens/PRs/undocumented; international applicants not eligible for GEPA waiver. CSE offers limited fee waivers for international PhD applicants only (not MS)—request by Dec 2, 2026 3pm PST for Fall 2027 cycle. — $135 U.S. citizens/PRs/undocumented; $155 international. Fall 2027 application window Sep 2–Dec 16, 2026 11:59pm PST.
+- Other: Fall quarter only; MS and PhD mutually exclusive (apply to one).
+- Other: BS preferred in CS/CE/EE/math but not required if minimum CSE background completed.
+- Other: Duplication of advanced degrees normally not permitted.
+
+Use CSE Admissions + Application Checklist for Fall 2027; do not rely on MS curriculum page alone. Optional ≠ waived for GRE.
+
+- [UCSD CSE Graduate Admissions (Fall 2027)](https://cse.ucsd.edu/graduate/admissions)
+- [CSE Graduate Application Checklist](https://cse.ucsd.edu/graduate/cse-graduate-application-checklist)
+- [UCSD GEPA English Language Proficiency](https://grad.ucsd.edu/admissions/requirements/international-students/english-proficiency.html)
+- [UCSD GEPA Application Fee](https://grad.ucsd.edu/admissions/requirements/application-fee-and-fee-waiver/)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

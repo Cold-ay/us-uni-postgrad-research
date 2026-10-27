@@ -11,7 +11,7 @@ import {
 } from '../dist/application-requirements.js';
 import { dictionaries } from '../dist/translations.js';
 
-const EXPECTED = [
+const FINANCE = [
   'mit-msf', 'princeton-msf', 'washu-msf', 'gsu-msf', 'usc-msf', 'brandeis-msf', 'utah-msf', 'texas-msf',
   'vanderbilt-msf', 'rochester-msf', 'florida-msf', 'asu-msf', 'uci-msf', 'villanova-msf', 'notredame-msf',
   'utd-msf', 'bc-msf', 'cgu-msf', 'illinois-msf', 'tamu-msf', 'ohio-msf', 'msu-msf', 'auburn-msf', 'ucsd-msf',
@@ -19,15 +19,27 @@ const EXPECTED = [
   'columbia-msfe', 'florida-msft', 'tamu-qfin', 'berkeley-mfe', 'cmu-mscf', 'baruch-mfe', 'columbia-ieor-mfe',
   'gt-qcf', 'chicago-finmath', 'nyu-courant-mf', 'stanford-mcf',
 ];
+const CS = [
+  'berkeley-cs', 'brown-cs', 'caltech-cs', 'chicago-cs', 'cmu-mscs', 'columbia-cs', 'cornell-cs', 'duke-cs',
+  'gatech-cs', 'harvard-cs', 'illinois-cs', 'jhu-cs', 'maryland-cs', 'michigan-cs', 'mit-cs', 'northwestern-cs',
+  'nyu-cs', 'penn-cs', 'princeton-cs', 'purdue-cs', 'rice-cs', 'stanford-cs', 'texas-cs', 'uci-cs', 'ucla-cs',
+  'ucsb-cs', 'ucsd-cs', 'umass-cs', 'unc-cs', 'usc-cs', 'washington-cs', 'wisconsin-cs', 'yale-cs',
+];
+const EXPECTED = [...FINANCE, ...CS];
 const handoff = new Map();
-for (const name of ['appreq-batch1a', 'appreq-batch1b', 'appreq-batch1c', 'appreq-batch1d']) {
+for (const name of ['appreq-batch1a', 'appreq-batch1b', 'appreq-batch1c', 'appreq-batch1d', 'appreq-batch2a', 'appreq-batch2b', 'appreq-batch2c', 'appreq-batch2d']) {
   const data = JSON.parse(readFileSync(new URL(`../brief/${name}.json`, import.meta.url), 'utf8'));
-  for (const item of data.items) handoff.set(item.id, item.applicationRequirements);
+  for (const item of data.items) {
+    if (handoff.has(item.id)) throw new Error(`duplicate handoff id ${item.id}`);
+    handoff.set(item.id, item.applicationRequirements);
+  }
 }
 const catalogIds = new Set(rankedSchools.map(row => row.id));
 
-test('batch1 applicationRequirements copies onto all 42 catalog ids and nowhere else', () => {
-  assert.equal(handoff.size, 42);
+test('batch1 and CS batch2 applicationRequirements copy onto 75 catalog ids and nowhere else', () => {
+  assert.equal(FINANCE.length, 42);
+  assert.equal(CS.length, 33);
+  assert.equal(handoff.size, 75);
   for (const id of EXPECTED) {
     assert.ok(catalogIds.has(id), id);
     assert.ok(researchDetails[id], id);
@@ -37,8 +49,8 @@ test('batch1 applicationRequirements copies onto all 42 catalog ids and nowhere 
   }
   const carriers = Object.entries(researchDetails).filter(([, detail]) => detail.applicationRequirements).map(([id]) => id);
   assert.deepEqual(carriers.sort(), [...EXPECTED].sort());
-  assert.equal(programs.filter(p => p.applicationRequirements).length, 42);
-  for (const id of ['cmu-mscs', 'stanford-mba', 'princeton-cs']) {
+  assert.equal(programs.filter(p => p.applicationRequirements).length, 75);
+  for (const id of ['stanford-mba', 'harvard-mba']) {
     const program = programs.find(p => p.id === id);
     assert.equal(program.applicationRequirements, undefined);
     assert.equal(Object.hasOwn(program, 'applicationRequirements'), false);
@@ -51,6 +63,18 @@ test('batch1 applicationRequirements copies onto all 42 catalog ids and nowhere 
   assert.equal(mit.tuition, 96884);
   assert.equal(researchDetails['arizona-msf'].applicationRequirements.gre.status, 'waived');
   assert.equal(researchDetails['arizona-msf'].applicationRequirements.gmat.status, 'waived');
+  assert.equal(researchDetails['cmu-mscs'].applicationRequirements.gre.status, 'optional');
+  assert.equal(researchDetails['cmu-mscs'].applicationRequirements.gmat.status, 'not_accepted');
+  assert.equal(researchDetails['princeton-cs'].availabilityType, 'closed');
+  assert.match(researchDetails['princeton-cs'].availability, /suspended/);
+  assert.equal(researchDetails['mit-cs'].availabilityType, 'restricted');
+  assert.match(researchDetails['mit-cs'].availability, /No external terminal/);
+  assert.match(researchDetails['caltech-cs'].availability, /No standard terminal/);
+  assert.equal(researchDetails['washington-cs'].availabilityType, 'restricted');
+  assert.match(researchDetails['washington-cs'].availability, /F-1/);
+  for (const id of ['princeton-cs', 'mit-cs', 'caltech-cs', 'washington-cs']) {
+    assert.equal(researchDetails[id].accessRestricted, undefined);
+  }
 });
 
 test('dossier section mounts for ingested rows, hides when absent, and still flags a schema fixture', () => {
@@ -74,7 +98,10 @@ test('dossier section mounts for ingested rows, hides when absent, and still fla
   assert.match(unknown, /Gap: status is unknown\. This is not a published requirement\./);
   const arizona = applicationRequirementsSection(programs.find(p => p.id === 'arizona-msf'));
   assert.match(arizona, />Waived</);
-  assert.equal(applicationRequirementsSection(programs.find(p => p.id === 'cmu-mscs')), '');
+  const cmu = applicationRequirementsSection(programs.find(p => p.id === 'cmu-mscs'));
+  assert.match(cmu, />Optional</);
+  assert.match(cmu, />Not accepted</);
+  assert.equal(applicationRequirementsSection(programs.find(p => p.id === 'stanford-mba')), '');
   assert.equal(applicationRequirementsSection({}), '');
   assert.equal(applicationRequirementsSection({ applicationRequirements: null }), '');
 

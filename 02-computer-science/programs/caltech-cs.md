@@ -34,6 +34,34 @@ Caltech Graduate Studies Estimated Budget 2026–27: Tuition $68,574 annual ($22
 
 Application timing: No external Fall 2027 MS deadline — CMS admits PhD-track only; MS by petition after courses (not open terminal MS). Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: not_required — CMS Graduate Programs FAQ: GRE not required for application for the 2026–2027 academic year.
+- GMAT: not_accepted — PhD STEM route; GMAT not used.
+- TOEFL: optional — Grad Studies FAQ: English proficiency exams not required for admission; applicants whose native language is not English or who lack English-medium degree should demonstrate strong English. TOEFL recognized; self-report OK. Institution code 4034. No published minimum.
+- IELTS: optional — IELTS, PTE, Duolingo and other certified exams recognized; not required for admission; no published minimum.
+- English waiver: Exemptions noted for applicants who studied in the U.S. ≥2 years or received a degree where English is primary language of instruction (Grad Studies FAQ). ESL placement may occur after arrival.
+- GPA: not_stated — scale 4 — No minimum GPA. Most successful applicants have U.S. GPA ≥3.5/4.0 and/or top 5–10% of class (Grad Studies FAQ).
+- Letters of recommendation: required — count 3 — Three letters required; online application accepts three maximum (Grad Studies FAQ / checklist).
+- Statement of purpose: required — also known as Essays / statement — Essays required components of application (Grad Studies checklist: transcripts, 3 LORs, CV, essays).
+- Resume: required — CV required (Grad Studies application checklist).
+- Transcripts: required — Transcripts from each college/university attended required; upload most recent available with application.
+- Interview: by_invitation — Most options host visit days for select applicants; online interviews may be conducted when in-person visits not feasible (Grad Studies FAQ).
+- Fee: $100 — waivers: Limited waivers for financial need or affiliated organizations; request in online application payment options with hardship documentation. — $100 USD application fee (Graduate Studies Apply Online).
+- Other: NO EXTERNAL TERMINAL MS: CMS catalog — only students who expect to pursue the Ph.D. are admitted; master’s awarded only in exceptional cases
+- Other: CMS FAQ: traditionally do not offer Master’s as a terminal degree
+- Other: Apply to PhD (CS / CMS / ACM / CDS options); deadline Dec 15 (CMS pages also mention Dec 1 review start)
+- Other: Full-time only; funding typically with PhD admission
+
+Do not treat as an external MS target—PhD-route only. Terminal MS not offered. GRE not required 2026–27.
+
+- [CMS Graduate Programs FAQ](https://www.cms.caltech.edu/academics/grad)
+- [Catalog CMS special regulations (MS exceptional)](https://www.catalog.caltech.edu/current/information-for-graduate-students/special-regulations-for-graduate-options/computing-and-mathematical-science-cms/)
+- [Grad Studies Apply Online (fee)](https://gradoffice.caltech.edu/admissions/applyonline)
+- [Grad Studies FAQ for applicants](https://gradoffice.caltech.edu/admissions/faq-applicants)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

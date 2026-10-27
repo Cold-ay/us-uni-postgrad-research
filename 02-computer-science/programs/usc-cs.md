@@ -34,6 +34,33 @@ USC Viterbi Graduate Tuition Fall 2026–Summer 2027: $2,742 per unit (same for 
 
 Application timing: Fall 2027 final 15 Jan 2027 · 11:59 p.m. PT · Scholarship consideration 15 Dec (Fall 2027 row; year not printed on that cell). Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: not_required — GRE not required for 2027 Master's applications to Viterbi (including MSCS). Official pages do not invite optional GRE submission for 2027 MS.
+- GMAT: not_required — GMAT not part of Viterbi MSCS admissions materials.
+- TOEFL: required — International applicants must demonstrate English proficiency (TOEFL/IELTS/etc.). USC does not set university-wide admission score minimums; ISE exam exemption typically at TOEFL iBT ≥90 with ≥20 each section (pre-2026-01-21) or ≥4.5 with ≥4 each section (on/after 2026-01-21) for master's. Code 4852. Scores within 24 months of application submit.
+- IELTS: required — IELTS Academic accepted; ISE exemption typically overall ≥6.5 with ≥6 each band for master's (placement guideline, not a university-wide admission cutoff).
+- English waiver: Exempt if USC degree holder/enrolled; bachelor's from U.S. or qualifying Anglophone country (English only official language + language of instruction)—Spring 2027+ policy: entire program need not be Anglophone but degree must be issued by institution in U.S./qualifying Anglophone country (dual-degree exception); completed master's/doctoral from qualifying Anglophone country; or native English speaker from qualifying countries. No waiver for English-taught programs in non-Anglophone countries.
+- GPA: not_stated — No numeric minimum GPA stated on Viterbi MSCS program page; bachelor's required or in progress; holistic review. Eligibility coursework listed for non-CS bachelor's.
+- Letters of recommendation: optional — Letter of Recommendation listed as Optional on Viterbi MSCS Application Requirements.
+- Statement of purpose: required — also known as Personal Statement — Personal Statement required with online application.
+- Resume: required — Resume/CV required.
+- Transcripts: required — Registrar-issued transcripts (electronic/scanned) from all colleges/universities; unofficial student-portal transcripts not acceptable for Viterbi. Hard copies after admission if instructed.
+- Interview: unknown — Interview not listed on Viterbi MSCS or Ready to Apply pages.
+- Fee: $120 — waivers: Not detailed on Ready to Apply page for Viterbi master's; confirm USC Graduate Admission waiver policy if needed. — $120 application fee (Ready to Apply). Fall deadlines: Dec 15 scholarship consideration; Jan 15 final. Spring Oct 15.
+- Other: OPT STEM eligible.
+- Other: 32-unit general MSCS; thesis option adds units.
+- Other: Also available via DEN@Viterbi online.
+
+Use Viterbi Grad Admission MSCS page (not department curriculum page alone). Optional LOR ≠ waived requirement elsewhere.
+
+- [USC Viterbi MS in Computer Science admissions](https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/ms-computer-science/)
+- [USC Viterbi Ready to Apply (fee)](https://viterbigradadmission.usc.edu/programs/masters/apply/ready-to-apply/)
+- [USC Viterbi Master's FAQ (GRE/English)](https://viterbigradadmission.usc.edu/programs/masters/faq/)
+- [USC Graduate Admission English Proficiency (Spring 2027+)](https://gradadm.usc.edu/prospective-international-students/english-proficiency/)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

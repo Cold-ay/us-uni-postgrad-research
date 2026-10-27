@@ -34,6 +34,34 @@ Graduate School of Engineering quarterly rate for 11–18 units is $23,239 (2026
 
 Application timing: Apps open 15 Sep 2026 · Deadline 8 Dec 2026 · 11:59 p.m. PT (Autumn / Fall 2027 entry). Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: not_required — CS Graduate Application Checklists: GRE not required for PhD or MS. MS FAQ: GRE scores are not required and not considered from MS applicants.
+- GMAT: not_required — Pure CS MS; GMAT not accepted/listed.
+- TOEFL: required — min 90 — TOEFL required unless exemption. University minima for admission consideration: TOEFL 90 (before Jan 21, 2026) or 4.5 (on/after). Institution code 4704. Scores within 24 months of deadline. Autumn 2027 earliest valid test date Sep 1, 2024 per Grad Admissions.
+- IELTS: required — min 7 — IELTS Academic accepted as TOEFL substitute; university minimum 7. Deliver via IELTS Results Service to Stanford University Graduate. Within 24 months of deadline.
+- English waiver: Not required if: U.S. citizen/PR; self-declared first language English; earned U.S. bachelor’s/master’s/doctoral (or intl equiv) from university where all instruction in English; or ≥2 consecutive years professional/educational experience in English in past 10 years.
+- GPA: not_stated — No minimum GPA on CS Master's Admissions or checklist. Bachelor’s (or equivalent) required; strong quantitative/analytical skills; CS bachelor’s not required.
+- Letters of recommendation: required — count 3 — Exactly three online letters (min=max). Prefer ≥2 academic. No Interfolio; no mailed/emailed/faxed letters.
+- Statement of purpose: required — also known as Statement of Purpose — SoP ≤2 pages single-spaced: reasons for applying, preparation, research interests, career plans, background aiding evaluation of aptitude/motivation.
+- Resume: required — Submit resume in online application; include publications. Also supplemental form for publications/website.
+- Transcripts: required — Upload unofficial transcripts/e-transcripts for all institutions attended ≥1 year full-time (incl. Stanford NDO). Do not mail official unless contacted.
+- Interview: unknown — Interview not listed on CS graduate application checklist or MS FAQ.
+- Fee: $125 — waivers: Stanford Grad Admissions fee waiver process (not detailed on CS checklist); see central Grad Admissions. — $125 paid in online application by credit card.
+- Other: Autumn 2027 only for MS (incl. HCP): applications open Sep 15, 2026; deadline Dec 8, 2026; decisions ~Mar 2027.
+- Other: HCP (part-time) same admissions requirements; U.S. residence/employment constraints for eligibility.
+- Other: MS admission is not a path guarantee to Stanford PhD.
+
+Degree-requirements page is curriculum only—use Admissions checklist + MS FAQ. GRE not considered. Confirm English exemption boxes carefully on Personal Background.
+
+- [CS Graduate Application Checklists](https://www.cs.stanford.edu/admissions/graduate-application-checklists)
+- [CS Master's Admissions](https://www.cs.stanford.edu/admissions/masters-admissions)
+- [CS Master's Admissions FAQ (GRE/English)](https://www.cs.stanford.edu/admissions/masters-admissions-frequently-asked-questions)
+- [Stanford Grad Admissions Test Scores](https://gradadmissions.stanford.edu/apply/test-scores)
+- [CS Graduate Application Deadlines](https://www.cs.stanford.edu/admissions-graduate-application-deadlines)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

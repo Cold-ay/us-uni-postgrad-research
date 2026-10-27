@@ -34,6 +34,34 @@ Graduate Nonresident Natural Sciences: 9 semester hours = $9,081 per semester �
 
 Application timing: Apps open 15 Oct · Deadline 15 Dec (Fall only; month-day as posted — year not labeled on UTCS apply page). Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: optional — CS Apply page Optional Materials: GRE General Score may be submitted if it would strengthen the application; opting out does not adversely impact. Official scores if submitting.
+- GMAT: not_required — Pure CS; GMAT not listed on CS Apply page.
+- TOEFL: required — min 79 — International applicants must submit official TOEFL, IELTS, or DET unless exempt. Grad Admissions minima: TOEFL 79 (120 scale) or 4 (6-point scale) iBT. ETS code 6882. Institutional TOEFL ITP not accepted.
+- IELTS: required — min 6.5 — IELTS Academic overall band 6.5 minimum. General Training not accepted. Electronic delivery to University of Texas at Austin.
+- English waiver: Exempt if from a qualifying country list, or hold a bachelor’s from a U.S. or qualifying-country institution. Master’s-only from such institution does not waive. India is on UT qualifying-country list (bachelor’s from India can exempt).
+- GPA: required — minimum 3 — scale 4.0 — GPA ≥3.0 in upper-division courses and any graduate work completed required for eligibility. Competitive applicants typically have above-average GPA in CS coursework.
+- Letters of recommendation: required — count 3 — At least three recommendation letters via MyStatus; supervisors or academic references. LOR deadline Dec 20 (application Dec 15).
+- Statement of purpose: required — also known as Statement of Purpose — SoP on intellectual motivation, goals, experiences; why graduate study and why UTCS. See department Statement of Purpose Guidelines.
+- Resume: not_stated — Current CS Apply page lists required materials (Grad Office materials, ≥3 LORs, SoP) and optional GRE only; does not name resume/CV as required or optional. Older department checklist PDFs mentioned optional CV—left not_stated for current cycle.
+- Transcripts: required — Official transcripts from every senior college per UT Graduate Admissions how-to-apply (MyStatus upload / SPEEDE / Parchment, etc.). Bachelor’s from regionally accredited U.S. institution or comparable foreign degree.
+- Interview: unknown — Interview not mentioned on CS Apply page.
+- Fee: $90 — waivers: Need-based waivers for U.S. citizens/PR first-time graduate applicants only (documentation via gradfeewaiver@austin.utexas.edu). Not available for international citizens. — UT Graduate Admissions: U.S. graduate $65 / International graduate $90 (non-MBA/MPA). amountUsd = international rate.
+- Other: Application opens Oct 15; deadline Dec 15; LORs Dec 20; MS decisions ~Apr 1.
+- Other: On-campus research MS (thesis or coursework) distinct from 100% online MSCS.
+- Other: DET accepted university-wide (min 115) unless program prefers otherwise—CS Apply page silent on DET preference.
+- Other: Must also complete UT Office of Graduate & Postdoctoral Studies required application materials.
+
+Research-degrees page is curriculum/overview—use /graduate/apply for checklist. Optional GRE ≠ waived. Confirm resume upload expectations in live portal.
+
+- [UTCS Apply (materials, GRE optional, GPA, LORs, SoP)](https://www.cs.utexas.edu/graduate/apply)
+- [UT Graduate Admissions How to Apply (fee)](https://graduate.utexas.edu/admissions/apply)
+- [UT Graduate Admissions International English](https://graduate.utexas.edu/admissions/apply/international)
+- [UTCS Research Degrees overview](https://www.cs.utexas.edu/graduate/research-degrees)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

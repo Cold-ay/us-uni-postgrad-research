@@ -124,7 +124,6 @@ for (const id of EXPECTED) {
   }
 }
 const carriers = Object.entries(details).filter(([, detail]) => detail.applicationRequirements).map(([id]) => id);
-if (carriers.length !== EXPECTED.length) {
-  throw new Error(`expected ${EXPECTED.length} applicationRequirements entries, found ${carriers.length}: ${carriers.join(', ')}`);
-}
-console.log(`Merged applicationRequirements onto ${EXPECTED.length} programs.`);
+const missing = EXPECTED.filter(id => !carriers.includes(id));
+if (missing.length) throw new Error(`applicationRequirements missing after merge: ${missing.join(', ')}`);
+console.log(`Merged applicationRequirements onto ${EXPECTED.length} programs (${carriers.length} total).`);

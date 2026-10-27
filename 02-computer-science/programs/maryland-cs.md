@@ -34,6 +34,33 @@ UMD Student Financial Services Fall 2026 & Spring 2027: graduate Non-Resident tu
 
 Application timing: 4 Dec 2026 · MS application page. Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: not_required — CS Applying for Admission: GRE scores are not required. Holistic review.
+- GMAT: not_required — Not part of UMD CS graduate application materials.
+- TOEFL: required — min 96 — Applicants whose native language is not English must submit official TOEFL or IELTS from the testing agency (self-reported not accepted). Grad School full-enrollment TOEFL iBT: Total 96 with section minima Reading 26 / Listening 24 / Speaking 22 / Writing 24 for tests on/before 2026-01-20; Overall 5 with section minima Reading/Listening/Writing 5 and Speaking 4.5 for tests on/after 2026-01-21. Code 5814.
+- IELTS: required — min 7 — IELTS Academic full enrollment: Overall 7; Reading/Listening/Writing 7; Speaking 6.5 (Graduate School). Electronic scores to UMD Graduate School e-download account.
+- English waiver: Exempt if degree from regionally accredited U.S. institution or recognized institution in Grad School English-speaking countries list (must have studied in-country, not online/branch campus). CS apply page points to Grad School admissions for details.
+- GPA: not_stated — No numeric minimum GPA stated on CS apply page; holistic review. Competitive applicants typically show strong academic record / bachelor's in CS or closely related field.
+- Letters of recommendation: required — count 3 — Three letters from individuals qualified to assess academic or research potential. Letter writers have two weeks past Dec 4, 2026 deadline to submit.
+- Statement of purpose: required — also known as statement of purpose / personal statement — Personal statement describing academic background, research interests, and goals.
+- Resume: required — Current CV detailing academic and professional experience.
+- Transcripts: required — Official transcripts from all colleges attended; upload unofficial initially; official upon admission. Abroad: unofficial translations with application; certified official upon admission.
+- Interview: unknown — Interview not listed on CS Applying for Admission checklist.
+- Fee: $75 — waivers: Department does not offer fee waivers; may be available through UMD Graduate School for eligible applicants. — $75 non-refundable per program application.
+- Other: Program code CSMS (M.S.) vs CMSC (Ph.D.). Portal opens Jul 1, 2026; closes Dec 4, 2026; Fall entry only.
+- Other: Given URL ms-policy-manual is degree/policy for enrolled MS students—not admissions checklist; admissions facts taken from /grad/apply.
+- Other: Local note flagged PhD-en-route MS in catalog; CSMS remains listed as MS application code on admissions page—confirm route with department.
+- Other: Recommended prereq coursework includes algorithms, data structures, advanced CS (e.g. CMSC 330/420/451) and calculus/linear algebra.
+
+Use /grad/apply for applicationRequirements; treat ms-policy-manual as degree rules only.
+
+- [UMD CS Applying for Admission](https://www.cs.umd.edu/grad/apply)
+- [UMD CS M.S. Degree Requirements (policy manual)](https://www.cs.umd.edu/grad/ms-policy-manual)
+- [UMD Graduate School English Language Proficiency](https://gradschool.umd.edu/admissions/english-language-proficiency-requirements)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

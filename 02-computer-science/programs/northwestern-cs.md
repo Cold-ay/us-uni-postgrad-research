@@ -34,6 +34,36 @@ Northwestern Evanston Graduate Financial Aid / TGS Master’s COA 2026–27: ful
 
 Application timing: Apps open 15 Sep 2026 · MS Fall 2027 staged: by 30 Nov · 31 Dec · 28 Feb · 15 Jun (portal may close when full). Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: not_accepted — CS Admissions: GRE scores are neither required nor reviewed for the 2026–2027 masters program application (GRE required for PhD). FAQ: GRE not required for master's.
+- GMAT: not_required — Not used for Northwestern CS MS (TGS); GRE is the only optional/required standardized exam discussed by department.
+- TOEFL: required — min 80 — TGS: all applicants must prove English proficiency via TOEFL iBT / IELTS Academic / MET unless waiver approved. Master's TOEFL iBT minimum 80 for exams before 2026-01-21; all applicants minimum 4.5 after 2026-01-21. School code 1565. CS FAQ notes median TOEFL among offers was 108 (descriptive, not a published floor).
+- IELTS: required — min 7 — TGS minimum IELTS Academic score = 7. At-home Indicator accepted when organization Northwestern University - The Graduate School is selected.
+- English waiver: Waiver may be requested if undergraduate or graduate degree from institution that instructs primarily in English; request after application submission; approval at program/TGS discretion. DuoLingo and TOEFL Essentials not accepted by TGS.
+- GPA: not_stated — No published minimum beyond TGS. FAQ: average GPA for offers ~3.82 (descriptive). Leave GPA in home-institution scale; department converts.
+- Letters of recommendation: required — count 2 — CS Admissions Tips: minimum of two letters required; three highly recommended. TGS application requirements list two letters.
+- Statement of purpose: required — also known as Academic Statement; Personal Statement — Academic Statement required (TGS description); Personal Statement also per TGS. CS tips emphasize clear focus on specialization and faculty interest.
+- Resume: required — Resume/CV required among supplemental materials and McCormick/TGS checklists.
+- Transcripts: required — Upload scanned unofficial transcripts/PDFs with application; official may be required upon admission. Do not mail hard copies unless asked.
+- Interview: not_used — CS Admissions: primarily for PhD applicants, faculty may conduct interviews; not described as part of MS review.
+- Fee: $95 — waivers: CS FAQ: application fee waivers are not available for master's applicants. TGS waivers mainly for eligible PhD/MFA domestic applicants. — TGS application fee $95 non-refundable (credit/debit with card logo).
+- Other: Fall quarter only; terminal MS option distinct from PhD (select MS only if seeking terminal master's).
+- Other: Fall 2027 entry applications opened Sep 15, 2026; rolling decision windows (e.g. submit by Nov 30 → decision by Jan 10; portal may close early when cohort full).
+- Other: No financial aid for terminal MS.
+- Other: Competitive background: CS degree or equivalent of at least a minor (multiple languages, data structures, discrete math).
+
+MS GRE is not_accepted (not reviewed), unlike PhD where GRE is required for 2026–2027.
+
+- [Northwestern CS Graduate Admissions](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/admissions/)
+- [Northwestern CS Admissions FAQ](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/admissions/faq.html)
+- [Northwestern CS Master's overview](https://www.mccormick.northwestern.edu/computer-science/academics/graduate/masters/)
+- [TGS Application Fee](https://www.tgs.northwestern.edu/admission/application-procedures/application-requirements/fee.html)
+- [TGS Test Scores / English](https://www.tgs.northwestern.edu/admission/application-procedures/application-requirements/test-scores.html)
+- [TGS Application Requirements](https://www.tgs.northwestern.edu/admission/application-procedures/application-requirements/)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.
