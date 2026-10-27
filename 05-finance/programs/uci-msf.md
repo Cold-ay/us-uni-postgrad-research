@@ -34,6 +34,30 @@ Mandatory fees reference: $9,985. Mandatory campus fees on Fall 2026 cohort sche
 
 Application timing: Round 1 · 2026-10-15. Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: optional — GMAT or GRE is not required. Optional; strongly recommended if GPA under 3.0 per FAQs. Scores valid up to five years. GRE code 4859.
+- GMAT: optional — Not required; optional additional data point. GMAT code 0DP-7R-40.
+- TOEFL: required — min 80 — International students if applicable. Minimum TOEFL iBT 80/120 or 4.0/6.0 (new scale). Valid up to two years. Institution code 4859.
+- IELTS: required — min 7 — IELTS Academic minimum overall 7, with no individual module less than 6. Electronic scores only from test center.
+- English waiver: Waived if undergraduate or graduate degree from a U.S. institution or institution where English was the sole language of instruction per World Higher Education Database (WHED).
+- GPA: not_stated — No minimum GPA published on admissions page. FAQs recommend GMAT/GRE if GPA under 3.0 as evidence of quantitative/verbal skills.
+- Letters of recommendation: required — count 2 — Two references (academic or professional).
+- Statement of purpose: required — also known as Essays (written + video) — Two essays (one video and one written).
+- Resume: required — Résumé required.
+- Transcripts: required — Official transcripts from all institutions attended to earn an undergraduate degree (English translation if applicable). WES evaluations not accepted (FAQ).
+- Interview: by_invitation — Interview by invitation only.
+- Fee: $150 — waivers: Available for attending select recruitment events. Fees paid prior to waiver approval are non-refundable. — $150 application fee.
+- Other: 3-year bachelor's (except UK) generally needs additional master's/PGD for U.S. 4-year equivalence — see FAQs.
+- Other: Recommended: quantitative coursework (calculus, statistics, economics), accounting exposure, strong analytics.
+
+International students must submit all materials including LORs by applicable deadline for visa processing. Round 3 Feb 1 priority for UCI housing / recommended for internationals; Round 4 Apr 1 international student deadline.
+
+- [MFin Admissions](https://merage.uci.edu/programs/masters/master-finance/admissions.html)
+- [MFin FAQs](https://merage.uci.edu/programs/masters/master-finance/faqs.html)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

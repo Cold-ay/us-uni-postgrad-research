@@ -34,6 +34,32 @@ Nonrefundable seat deposit $250. Published figures are program costs; GA residen
 
 Application timing: Round 2 · 2027-01-25. Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: not_required — GMAT or GRE score is not required for admission. Strongly encouraged if transcripts/work do not show quantitative readiness; may help scholarships. GRE code 5251.
+- GMAT: not_required — Not required. Optional for quant signal/scholarships. GMAT code QCK-ZW-99.
+- TOEFL: required — min 101 — Robinson international page states TOEFL 101+ for master’s (also elsewhere lists 90+). Code 5251. Page has conflicting 101 vs 90 figures—use higher/confirm with admissions.
+- IELTS: required — min 7.5 — Robinson international page states IELTS 7.5+ (also elsewhere lists 6.5+). Confirm with admissions.
+- English waiver: Waiver if baccalaureate/graduate degree from accredited US institution or country where English is official language of instruction per GSU exemption list; or birth country on English-speaking exemption list.
+- GPA: not_stated — No minimum GPA stated on MS Finance application-process page.
+- Letters of recommendation: optional — Not required; welcome to submit via online application or sealed envelope from recommender.
+- Statement of purpose: required — also known as Required essay / personal statement — Required personal statement/essay ≤750 words: why Robinson and this program for short- and long-term goals, and why you are a good fit. Optional essay ≤250 words for extenuating circumstances.
+- Resume: required — Updated résumé required; work experience preferred but not required.
+- Transcripts: required — Unofficial OK at application; one official copy from each prior institution if admitted.
+- Interview: required — Mandatory video interview in online application (one recording opportunity). Second in-person/Skype interview only if admissions notifies.
+- Fee: $50 — waivers: Not stated on MS Finance application-process page. — $50 application fee with online application.
+- Other: Evening weekday STEM program (Buckhead)
+- Other: Intl F-1 applicants must apply by Round 3 (Mar 15, 2027) for Fall 2027
+- Other: Demonstrate quantitative readiness in application
+
+Intl: hard Round 3 deadline for visa seekers; English mins listed inconsistently (101/7.5 vs 90/6.5)—verify with rcbgradadmissions@gsu.edu. Quant background critical without GRE/GMAT.
+
+- [MS Finance application process](https://robinson.gsu.edu/masters-programs/ms-finance-application-process/)
+- [Program page](https://www.gsu.edu/program/finance-ms/)
+- [International applicants](https://robinson.gsu.edu/admissions/international-applicants/)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

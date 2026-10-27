@@ -34,6 +34,32 @@ Mandatory fees reference: $314. University general fee $157 each semester. Two s
 
 Application timing: Round 1 · 2026-11-15. Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: optional — Not required if: undergrad GPA ≥3.3 with quantitative major; OR master's in technical/quantitative field with GPA ≥3.0; OR advanced degree (MBA, JD, MD, PhD). Otherwise GMAT or GRE required. Waiver form available.
+- GMAT: optional — Same conditional policy as GRE — optional if waiver criteria met; otherwise required. Contact Shea McCormick with questions.
+- TOEFL: required — min 90 — For applicants whose native language is not English and who graduated from a non-U.S. institution in a country where English is not official. Minimum 90 on 120 scale or 4.5 on 1–6 scale. VSB TOEFL code 2959.
+- IELTS: required — min 7 — IELTS Academic minimum 7. Send to Villanova University – Villanova School of Business.
+- English waiver: U.S. institution graduates not required. Also: undergraduate degree in the U.S. or lived in the U.S. for the past two years — contact Grad Business Office for waiver.
+- GPA: not_stated — No absolute minimum GPA published for admission. Undergrad GPA ≥3.3 (quantitative major) is one path to GMAT/GRE optional status.
+- Letters of recommendation: required — count 1 — One letter; professional preferred (current/previous supervisor; internships OK). Academic OK if no work experience. No personal/family recommendations.
+- Statement of purpose: required — also known as Essay — One essay on short- and long-term career plans; how Villanova MSF meets professional goals; academic/personal/professional motivation.
+- Resume: required — Business resume with educational and professional information.
+- Transcripts: required — One official transcript from each postsecondary institution with ≥9 credit hours. Unofficial OK for review; official degree-bearing before classes. Non-U.S. studies: WES or ECE course-by-course evaluation required (no other services).
+- Interview: unknown — Interview not listed on MSF admissions page.
+- Fee: $65 — Non-refundable $65, paid by credit card on online application.
+- Other: Program starts in July (full-time ~11 months).
+- Other: International deadline Round 2 Jan 15 recommended for visa.
+- Other: Econometrics / macro / math of economics recommended prerequisites (not required).
+
+Apply by Round 2 (Jan 15) as international. WES/ECE course-by-course required before review for non-U.S. credentials. STEM OPT extension eligible after program.
+
+- [MSF Admissions](https://www.villanova.edu/university/business/academics/graduate-programs/msf/admissions.html)
+- [MSF International Students](https://www.villanova.edu/university/business/academics/graduate-programs/msf/international-students.html)
+- [MSF FAQs](https://www.villanova.edu/university/business/academics/graduate-programs/msf/faqs.html)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

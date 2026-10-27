@@ -34,6 +34,32 @@ Mandatory fees reference: $4,425. GSAS Registration & Services Fee $503/semester
 
 Application timing: Full-time Fall (all materials to GSAS) · 2027-02-12 · Program page lists February 12 without year; assigned to Fall 2027 cycle — re-confirm on GSAS for 2027. Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: required — Official general GRE required for M.S. (FT and PT). Subject GRE in math/physics/other quant encouraged. Highly quantitative PhD holders may email cims-mathfin-app@nyu.edu with transcript to request GRE waiver. GSAS code 2596. Most accepted students >90th percentile quant (descriptive).
+- GMAT: not_accepted — GMAT not accepted for standard M.S. (Courant admissions page). Dual MathFin/MBA may use GMAT or GRE for GSAS; GMAT otherwise not a substitute for GRE per GSAS test-scores page.
+- TOEFL: required — min 100 — TOEFL/IELTS/Duolingo required unless native English, U.S. citizen/PR, or baccalaureate/master’s at English-instruction institution. GSAS recommends TOEFL ≥100 (legacy) / ≥5 (new scale from Jan 2026), DET ≥130, IELTS ≥7; lower scores may still apply. Code 2596; TOEFL Essentials/ITP not accepted.
+- IELTS: required — min 7 — IELTS accepted; GSAS recommends overall band ≥7.
+- English waiver: Native English speaker; OR U.S. citizen/PR; OR completed/will complete baccalaureate or master’s where language of instruction is English (supporting letter if transcript unclear).
+- GPA: not_stated — No required minimum GPA (Courant admissions FAQ).
+- Letters of recommendation: required — count 3 — Three LORs; ≥2 from instructors of advanced math/quant/CS/engineering. FT: ≥1 math-focused and ≥1 CS/programming-focused preferred. Manager letter OK if significant work experience.
+- Statement of purpose: required — also known as statement of purpose / statement of academic purpose — Three topics ≤150 words each (career motivation; interesting math/science fact; research/class/internship). Optional separate Personal Statement for extra info.
+- Resume: required — Professional CV/resume with education, employment (company/division/dates/location/responsibilities), non-academic activities.
+- Transcripts: required — One official academic transcript from each post-secondary institution (upload in online application); official scores/transcripts needed to complete review.
+- Interview: required — Full-time applicants must submit a short video statement (≤5 minutes) addressing a challenging experience/project relevance to quant finance OR a preferred quant-finance area and fit. Not a live interview; required application video.
+- Fee: $150 — waivers: Not stated on Courant admissions page. — Non-refundable $150 (Courant admissions FAQ).
+- Other: FT Fall-only (deadline Feb 12); PT Aug 1 Fall / Dec 1 Spring.
+- Other: After submit: no updated grades/resumes/experience accepted.
+- Other: Apply to only one Courant Math Finance program at a time.
+
+GRE required (GMAT not accepted for standard MS). Required video statement for FT/PT MS.
+
+- [Courant Math Finance admissions](https://math-finance.cims.nyu.edu/admissions/)
+- [GSAS Mathematics in Finance requirements](https://gsas.nyu.edu/admissions/arc/programs/mathematics-in-finance.html)
+- [GSAS Test Scores](https://gsas.nyu.edu/admissions/arc/test-scores.html)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

@@ -34,6 +34,33 @@ Columbia Engineering Graduate Tuition bulletin and SFS Graduate Engineering COA 
 
 Application timing: Fall priority 15 Jan · Fall final/regular 15 Feb 2027 (CVN year-labeled for Fall 2027) · Spring 15 Oct. Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: optional — Fall 2027 Engineering brochure: GRE scores optional for 2027. CS FAQ points to SEAS application-requirements for official GRE policy. Code 2111.
+- GMAT: not_required — CS MS uses GRE optional policy; GMAT not listed among CS/SEAS MS materials.
+- TOEFL: required — min 101 — TOEFL, IELTS, or PTE Academic required per CS FAQ unless SEAS exception. Recommended TOEFL iBT total 101 (recommended, not hard floor in FAQ). DET also listed on 2027 brochure. Code 2111. Scores must remain valid through start of classes.
+- IELTS: required — min 7 — Recommended IELTS 7 for admission (CS FAQ). Enter TRF / e-download to Columbia.
+- English waiver: See SEAS policy for exceptions (e.g., degree from exempt countries); contact seasgradmit@columbia.edu. Brochure lists TOEFL/IELTS/DET/PTE if applicable.
+- GPA: not_stated — No minimum GPA to apply; successful applicants typically GPA ≥3.5 (CS FAQ).
+- Letters of recommendation: required — count 3 — Three letters of recommendation (SEAS Fall 2027 brochure Application Requirements). Electronic submission required.
+- Statement of purpose: required — also known as Personal Statement — Personal Statement (CS FAQ: typically 250–1000 words preferred; topics include reasons for program, experience, career goals). Listed on SEAS brochure.
+- Resume: required — Resume or CV required (SEAS Fall 2027 brochure).
+- Transcripts: required — University transcripts required (SEAS brochure). Non-English transcript policy administered by SEAS GSA.
+- Interview: required — Video Interview required for MS programs (SEAS Fall 2027 brochure).
+- Fee: $85 — waivers: Confirm current SEAS waiver policy on application portal / admissions FAQs. — $85 application fee (SEAS Fall 2027 brochure).
+- Other: Fall priority Jan 15 / final Feb 15; Spring Oct 15
+- Other: Non-CS undergrad: typically ≥4 CS foundation/programming courses + 2 math, or Bridge pathway
+- Other: No Summer admit; Columbia does not defer admission
+
+Complete video interview. GRE optional for 2027. Prefer Jan 15 priority deadline.
+
+- [CS MS Application FAQ](https://www.cs.columbia.edu/education/ms/appfaq/)
+- [SEAS Fall 2027 brochure (PDF)](https://www.engineering.columbia.edu/sites/default/files/2026-09/Tri-fold_9-22-26.pdf)
+- [SEAS application requirements (official pointer)](https://www.gradengineering.columbia.edu/graduate-admissions/application-requirements)
+- [CS MS program](https://www.cs.columbia.edu/education/ms/)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

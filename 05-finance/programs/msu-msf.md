@@ -34,6 +34,32 @@ Alternate format: In-state program tuition 2026–27 (indexed tuition page) $46,
 
 Application timing: Round 1 · 2027-02-01 · Month/day from indexed Broad admissions page; year assigned for Fall 2027 entry — verify on live page. Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: required — min 310 — GRE minimum 310 verbal+quantitative combined, or GMAT. Scores <5 years old. Waiver may be requested at application; current MSU undergrads in good academic standing eligible to waive.
+- GMAT: required — min 600 — GMAT minimum 600 (code QH0-5P-69) or GRE. Waiver may be requested; current MSU undergrads in good standing eligible to waive.
+- TOEFL: required — min 100 — International: TOEFL iBT minimum 100 (paper 600 / computer 250). School code 1465, dept 4102. Lower/no scores may allow provisional admission per university rules.
+- IELTS: required — min 7 — IELTS band minimum 7.
+- English waiver: Not detailed beyond provisional admission language for lower/missing scores; confirm with program.
+- GPA: required — minimum 3 — scale 4.0 — Four-year undergrad degree with cumulative GPA 3.0 or higher expected.
+- Letters of recommendation: required — count 2 — Two letters required; at least one desirably from a faculty member (course or research). Address listed on admissions page for mailed letters.
+- Statement of purpose: required — also known as Statement of objectives — Statement of objectives included in overall record review (cited under Admission Criteria).
+- Resume: not_stated — Resume/CV not listed in Application Requirements checklist on MS Finance admissions page (work experience is an admission criterion).
+- Transcripts: required — Scanned transcripts and degree certificates in online application; original/certified required if recommended for admission.
+- Interview: unknown — Interview not mentioned on MS Finance admissions page.
+- Fee: $50 — $50 due at application submission.
+- Other: At least two years full-time post-bachelor work experience normally expected; waivable for exceptional candidates.
+- Other: Prerequisites: equivalents of MTH 124 Survey of Calculus I and STT 315 Intro Probability and Statistics for Business.
+- Other: Major code 6016, Major: Finance.
+- Other: Working knowledge of Internet, word processing, spreadsheets.
+
+Incapsula often blocks automated fetches of broad.msu.edu — verify live page before applying. Request GMAT/GRE waiver only if clearly eligible.
+
+- [Admissions (official)](https://broad.msu.edu/masters/finance/admissions/)
+- [Program hub](https://broad.msu.edu/masters/finance/)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

@@ -34,6 +34,35 @@ Yale Graduate School of Arts and Sciences Tuition and Fees 2026–27: full-time 
 
 Application timing: Apps open (Fall 2027 application available) · Deadline 2 Jan 2027 · 11:59 p.m. ET (CS MS). Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: required — GRE General Test required for Computer Science MS (GSAS standardized testing table, 2026–2027 cycle). PhD: GRE not accepted. Institution code 3987. Program FAQ: no absolute cut-offs; accepted students generally ~90th percentile.
+- GMAT: not_required — GMAT not used for Yale CS MS (GMAT only noted for Management PhD at GSAS).
+- TOEFL: required — TOEFL iBT required of most non-native English speakers (or IELTS Academic). No published hard minimum on GSAS testing page; CS MS FAQ states if TOEFL required they generally look for totals well above 100. Code 3987.
+- IELTS: required — IELTS Academic accepted via E-Delivery to Yale GSAS; no hard minimum published on GSAS testing page. IELTS Online / One Skill Retake / General Training not accepted.
+- English waiver: Exempt if undergraduate degree from college/university where English is primary language of instruction and studied in residence ≥3 years. No exemption based on advanced degree (MA/MS/PhD) alone.
+- GPA: not_stated — No numeric minimum GPA on GSAS CS program page or Engineering MS program page; FAQ says GPA considered with scores, recommendations, personal statement.
+- Letters of recommendation: required — count 3 — Three letters of recommendation via GSAS application (standard for all PhD/Master's applicants).
+- Statement of purpose: required — also known as Statement of academic purpose / personal statement — Statement of academic purpose required (GSAS prompt; typically 500–1000 words per GSAS application guidance). FAQ: research experience not required for this professional MS.
+- Resume: required — Resume/CV required for all GSAS PhD/Master's applicants.
+- Transcripts: required — Unofficial transcripts from all prior colleges/universities uploaded with application; official later if needed.
+- Interview: unknown — Interview not listed on GSAS application process or Engineering MS program pages.
+- Fee: $105 — waivers: Fee waivers for PhD/Master's applicants via special program/status or documented financial hardship; request form deadline Jan 2; U.S. and non-U.S. citizens eligible to request. — US $105 non-refundable for degree-seeking applicants. MS deadline January 2, 11:59pm ET. Fall entry only.
+- Other: Apply via Yale GSAS (not Engineering department portal).
+- Other: One-year terminal MS most common; selective two-year MS with teaching fellowship + thesis also offered.
+- Other: Need CS coursework beyond basic programming/data structures (advanced algorithms, systems/architecture); MOOCs not accepted as formal preparation.
+- Other: No financial aid for one-year MS; two-year has tuition fellowship + small stipend.
+
+GRE required for MS only (opposite of PhD). Confirm 2026–2027 GSAS testing table each cycle.
+
+- [Yale Engineering CS Master of Science Program](https://engineering.yale.edu/academic-study/departments/computer-science/graduate-study/master-science-program)
+- [Yale GSAS Computer Science program page](https://gsas.yale.edu/programs-of-study/computer-science)
+- [Yale GSAS Standardized Testing Requirements](https://gsas.yale.edu/admissions/phdmasters-application-process/standardized-testing-requirements)
+- [Yale GSAS PhD/Master's Application Process](https://gsas.yale.edu/admissions/phdmasters-application-process)
+- [Yale GSAS Application Fees & Fee Waivers](https://gsas.yale.edu/admissions/phdmasters-application-process/application-fees-fee-waivers)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

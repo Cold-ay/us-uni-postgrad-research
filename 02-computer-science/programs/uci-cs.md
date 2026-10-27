@@ -34,6 +34,34 @@ UCI Registrar Graduate/Credential Student Fees 2026–27: Total Nonresident annu
 
 Application timing: MCS international: 15 Jan 2027; MS not verified. Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: optional — MCS How to Apply: GRE Optional (not required). ICS research MS/PhD FAQ directs to Grad Division GRE list; third-party/portal summaries list Computer Science and Master of Computer Science as Not Required (verify live GRE portal—portal inactive at scrape). Neither route requires GRE; MCS explicitly allows optional submission.
+- GMAT: not_required — Pure CS routes; GMAT not listed.
+- TOEFL: required — min 80 — All graduate applicants must demonstrate English proficiency unless waived. Grad Division: TOEFL overall min 80 traditional / 4 new scale (Jan 2026+). Institution code 4859. No MyBest; Home Edition OK; ITP Plus/Essentials not accepted. Scores <2 years old.
+- IELTS: required — min 7 — IELTS Academic overall min 7 with no module <6. Electronic from test center only; Online/Indicator OK; One Skill Retake not accepted.
+- English waiver: Waived if undergraduate or master’s degree from institution where English was sole language of instruction per World Higher Education Database (WHED).
+- GPA: required — minimum 3 — scale 4.0 — UCI Grad Division / ICS FAQ: university minimum cumulative undergrad GPA 3.0/4.0. Holistic review if below.
+- Letters of recommendation: required — count 3 — MCS: 3 letters (highly recommend ≥2 academic professors). ICS research FAQ: Letters of Recommendation required component; Grad Division lists LOR for most programs—use count 3 as MCS-stated and typical Grad Division default.
+- Statement of purpose: required — also known as Statement of Purpose (+ Personal History Statement for MCS required; research optional/highly recommended) — MCS: SoP on personal/academic/professional goals and fit. Research MS: SoP required (academic/research focus); Personal History Statement optional but highly recommended.
+- Resume: not_stated — MCS How to Apply checklist does not list resume/CV. Research FAQ lists supplemental materials generically—resume not explicitly required on pages reviewed.
+- Transcripts: required — Unofficial transcripts from all post-secondary institutions for review; official if admitted. MCS: all institutions after high school.
+- Interview: unknown — Interview not stated on MCS how-to-apply or ICS research admissions FAQ.
+- Fee: $155 — waivers: Fee waivers for certain U.S. citizens/PR per Grad Division; see Applying to UCI fee-waiver details. — UCI Grad Division / MCS: $135 domestic (U.S. citizens & lawful PR) / $155 all other applicants. amountUsd = international rate.
+- Other: TWO ROUTES: research MS (catalogue CS MS; Dec 15 deadline with PhD) vs professional MCS (intl Jan 15, 2027; domestic Feb 15, 2027).
+- Other: MCS also requires Personal History Statement; recommends programming/algorithms/discrete+linear algebra + ≥1 year internship/professional experience.
+- Other: Cannot apply to different degree levels (MS and PhD) in same program; separate apps/fees if applying to multiple ICS programs.
+- Other: Fall quarter admission only for ICS.
+
+Pick research MS vs MCS before applying—deadlines and emphasis differ. Catalogue page is degree requirements only. Confirm live GRE portal status for research CS when portal is active.
+
+- [MCS How to Apply (Fall 2027)](https://mcs.ics.uci.edu/how-to-apply/)
+- [ICS Graduate Research Admissions FAQ](https://ics.uci.edu/admissions-information-and-computer-science/graduate-admissions/graduate-research-admissions-faq/)
+- [UCI Grad Division Applying to UCI](https://grad.uci.edu/admissions/applying-to-uci/)
+- [UCI Catalogue Computer Science MS](https://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/departmentofcomputerscience/computerscience_ms/)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

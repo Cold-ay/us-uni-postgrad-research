@@ -1,0 +1,709 @@
+{
+  "batch": "appreq-batch2d",
+  "field": "applicationRequirements",
+  "degree": "cs",
+  "as_of": "2026-10-27",
+  "items": [
+    {
+      "id": "ucsb-cs",
+      "school": "UC Santa Barbara",
+      "program": "MS in Computer Science",
+      "applicationRequirements": {
+        "gre": {
+          "status": "not_accepted",
+          "detail": "CS department does not require GRE and is prohibited from reviewing GRE scores for any applicants; do not upload GRE scores.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "not_required",
+          "detail": "GMAT not part of UCSB CS graduate admissions materials.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": 5.0,
+            "detail": "CS department minimum TOEFL iBT total 5.0 (new scale, exams on/after 2026-01-21) or 100 (exams before 2026-01-21); higher than UCSB university minimum 4.0/80. Institution code 4835."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": 7,
+            "detail": "IELTS Overall Band 7 (department/Grad Division CS listing)."
+          },
+          "waiver": "Exempt if completed undergraduate or graduate degree at an institution where verified sole official language of instruction is English (U.S. regionally accredited or WHED sole-English listing). DET also accepted: CS department minimum 130 (university minimum 120)."
+        },
+        "gpa": {
+          "status": "required",
+          "minimum": 3.0,
+          "scale": "4.0",
+          "detail": "Minimum 3.0 cumulative undergraduate GPA; non-4.0 scales re-calculated in context during review. Bachelor's in science, engineering, or mathematics required by department."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 3,
+          "detail": "Three letters of recommendation submitted online via Grad Division application."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Statement of Purpose (academic/research background and interests) plus separate Personal History Statement (minimum 250 words, narrative form, no duplication of SoP).",
+          "alsoKnownAs": "Statement of Purpose; Personal History Statement"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Resume or CV submitted in online application (Grad Division CS checklist)."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Unofficial transcripts from all post-secondary institutions uploaded online; official/final required after SIR if admitted."
+        },
+        "interview": {
+          "status": "unknown",
+          "detail": "Interview not listed on CS How to Apply or Grad Division CS requirements pages."
+        },
+        "applicationFee": {
+          "amountUsd": 135,
+          "waivers": "Fee waiver request available via Grad Division for eligible applicants after Academic Program and Citizenship pages; see Requesting an Application Fee Waiver.",
+          "detail": "$135 U.S. citizens/permanent residents; $155 all other applicants. Non-refundable."
+        },
+        "other": [
+          "Fall-only admissions (deadline listed on Grad Division CS directory; Dec 15 cycle commonly posted—confirm live directory for Fall 2027).",
+          "Duolingo English Test accepted (CS minimum 130).",
+          "External MS open; Five-Year MS is current UCSB undergraduates only.",
+          "PhD Application Support Program is PhD-focused; MS uses standard Grad Division portal."
+        ],
+        "advice": "Prefer Grad Division CS department directory + CS How to Apply over degree-requirements-only masters page. GRE uploads will not be reviewed.",
+        "sources": [
+          [
+            "UCSB CS How to Apply",
+            "https://cs.ucsb.edu/education/graduate/how-to-apply"
+          ],
+          [
+            "UCSB Grad Division Computer Science program requirements",
+            "https://www.graddiv.ucsb.edu/graduate-programs/departments/computer-science"
+          ],
+          [
+            "UCSB Grad Division How to Complete Online Application (fee/English)",
+            "https://www.graddiv.ucsb.edu/admissions/how-complete-online-application"
+          ],
+          [
+            "UCSB CS Master's Degree (curriculum; not admissions checklist)",
+            "https://www.cs.ucsb.edu/education/graduate/masters-degree"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "ucsd-cs",
+      "school": "UC San Diego",
+      "program": "MS in Computer Science and Engineering",
+      "applicationRequirements": {
+        "gre": {
+          "status": "optional",
+          "detail": "GRE not required for PhD and MS applications for Fall 2027; applicants may still submit valid scores (ETS code 4836).",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "not_required",
+          "detail": "GMAT not part of CSE graduate admissions materials.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": 85,
+            "detail": "GEPA university-wide minimum TOEFL iBT 85 (prior scale) or 4.5 (new iBT scale). CSE checklist points to GEPA English page; code 4836. Required for international applicants unless WHED/U.S. exemption."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": 7,
+            "detail": "GEPA university-wide minimum IELTS Academic Band Score 7."
+          },
+          "waiver": "Exempt if earned/will earn bachelor's, master's, or doctoral degree with grades of B (3.0) or better from a regionally accredited U.S. institution where English is sole language of instruction, or a foreign institution listing English as sole language of instruction on IAU WHED. DET (min 120) and PTE Academic (min 65) also accepted per GEPA."
+        },
+        "gpa": {
+          "status": "required",
+          "minimum": 3.0,
+          "scale": "4.0",
+          "detail": "At least a B average (3.0 GPA) or equivalent required for admission; bachelor's or equivalent from accredited/recognized institution."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 3,
+          "detail": "Three letters required (additional allowed); typically academic/research advisors; professional/industry referees also acceptable."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "SoP submitted online; no specific word limit—address CS/CE accomplishments, qualifications, and graduate goals. Updates after submission not granted.",
+          "alsoKnownAs": "Statement of Purpose"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Resume/CV upload required under Resume/CV section; post-submission updates not granted."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Unofficial transcripts uploaded for review; official transcripts to Graduate Division if offered admission."
+        },
+        "interview": {
+          "status": "unknown",
+          "detail": "Interview not listed on CSE Admissions or Application Checklist pages."
+        },
+        "applicationFee": {
+          "amountUsd": 135,
+          "waivers": "GEPA need-based waivers for U.S. citizens/PRs/undocumented; international applicants not eligible for GEPA waiver. CSE offers limited fee waivers for international PhD applicants only (not MS)—request by Dec 2, 2026 3pm PST for Fall 2027 cycle.",
+          "detail": "$135 U.S. citizens/PRs/undocumented; $155 international. Fall 2027 application window Sep 2–Dec 16, 2026 11:59pm PST."
+        },
+        "other": [
+          "Fall quarter only; MS and PhD mutually exclusive (apply to one).",
+          "BS preferred in CS/CE/EE/math but not required if minimum CSE background completed.",
+          "Duplication of advanced degrees normally not permitted."
+        ],
+        "advice": "Use CSE Admissions + Application Checklist for Fall 2027; do not rely on MS curriculum page alone. Optional ≠ waived for GRE.",
+        "sources": [
+          [
+            "UCSD CSE Graduate Admissions (Fall 2027)",
+            "https://cse.ucsd.edu/graduate/admissions"
+          ],
+          [
+            "CSE Graduate Application Checklist",
+            "https://cse.ucsd.edu/graduate/cse-graduate-application-checklist"
+          ],
+          [
+            "UCSD GEPA English Language Proficiency",
+            "https://grad.ucsd.edu/admissions/requirements/international-students/english-proficiency.html"
+          ],
+          [
+            "UCSD GEPA Application Fee",
+            "https://grad.ucsd.edu/admissions/requirements/application-fee-and-fee-waiver/"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "umass-cs",
+      "school": "UMass Amherst",
+      "program": "MS in Computer Science (on-campus)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "optional",
+          "detail": "Official GRE optional for MS; choosing not to submit will not harm chances. ETS code 3917. UMass graduates exempt from GRE requirement.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "not_required",
+          "detail": "GMAT not part of CICS MS admissions materials.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": 80,
+            "detail": "Graduate School minimum: TOEFL combined 80 (tests before Jan 2026) or 4.0 (tests Jan 2026 or later). CICS how-to-apply defers to Grad School International Applicants page. Code 3917."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": 6.5,
+            "detail": "IELTS Academic minimum combined 6.5 (Graduate School). DET 115 and PTE Academic 53 also accepted."
+          },
+          "waiver": "May be waived for citizenship in listed English-speaking countries; bachelor's/master's from U.S. or listed countries; certain American University campuses; or currently enrolled full-time completing two academic years of U.S. college coursework before entrance (see Grad School International Applicants)."
+        },
+        "gpa": {
+          "status": "required",
+          "minimum": 2.75,
+          "scale": "4.0",
+          "detail": "Graduate School minimum undergraduate GPA 2.75/4.00; programs may expect higher. CICS emphasizes strong CS undergraduate preparation (listed core CS/math courses)."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 2,
+          "detail": "Two letters; choose writers who can speak to research, community service, or work experience. Requested via Grad School application after submit."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Personal statement; suggestions include research/industry experience, computing for common good, and diversity/STEM impact. Grad School also requires a Short Essay (≤600 words) on community/group contribution.",
+          "alsoKnownAs": "Personal statement"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Resume/CV required for MS application."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Unofficial for application review; official required by Graduate School if admitted. Missing transcripts block evaluation."
+        },
+        "interview": {
+          "status": "unknown",
+          "detail": "Interview not listed on CICS on-campus MS How to Apply page."
+        },
+        "applicationFee": {
+          "amountUsd": 90,
+          "waivers": "Current Five College undergraduates applying to master's-only programs do not pay admission fee; other Grad School waiver categories (McNair, GRE fee reduction, etc.).",
+          "detail": "Nonrefundable $90 application fee payable online by credit card (UMass Graduate School)."
+        },
+        "other": [
+          "Target on-campus MS (not online MS) for this catalog id.",
+          "Terminal MS students ineligible for campus assistantships (Fall 2016+ cohort rule); grader/hourly roles possible after first semester.",
+          "Undergraduate preparation checklist of CICS/MATH core courses strongly expected."
+        ],
+        "advice": "Use CICS How to Apply — MS Program (on Campus); degree-requirements page alone lacks admissions checklist.",
+        "sources": [
+          [
+            "CICS How to Apply — MS Program (on Campus)",
+            "https://www.cics.umass.edu/academics/ms-computer-science-campus/how-apply-ms-program-campus"
+          ],
+          [
+            "UMass Graduate School How to Apply (fee)",
+            "https://www.umass.edu/graduate/apply/how-apply"
+          ],
+          [
+            "UMass Graduate School International Applicants (English)",
+            "https://www.umass.edu/graduate/apply/international-applicants"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "unc-cs",
+      "school": "UNC Chapel Hill",
+      "program": "MS in Computer Science",
+      "applicationRequirements": {
+        "gre": {
+          "status": "optional",
+          "detail": "GRE not required but recommended; no penalty for omitting scores; no minimum GRE score. Holistic review.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "not_required",
+          "detail": "GMAT not part of UNC CS graduate admissions materials.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": 90,
+            "detail": "Graduate School recommended minimum TOEFL iBT 90 (tests before 2026-01-26) or 5 (tests on/after 2026-01-26). Code 5816. Required for international applicants unless exemption. CS FAQ: no score automatically disqualifies review."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": 7,
+            "detail": "Graduate School recommended minimum IELTS 7; Duolingo English Test also accepted (recommended minimum 110)."
+          },
+          "waiver": "Exemptions for applicants from sole-official-English countries (listed); degree from accredited U.S. university; or degree from university where English is sole language of instruction with official verification (see Grad School Instructions)."
+        },
+        "gpa": {
+          "status": "required",
+          "minimum": 3.0,
+          "scale": "4.0",
+          "detail": "Graduate School minimum: bachelor's (four-year or equivalent) and average grade of B (cumulative GPA 3.0) or better."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 3,
+          "detail": "Three current letters via Grad School application (email addresses of recommenders required)."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "1–2 pages: objectives; CS fields of interest; relevant qualifications not elsewhere; titles for vague transcript courses; list of courses taken/planned not yet on transcript.",
+          "alsoKnownAs": "Statement of Purpose"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Resume/CV with degrees, work/volunteer, research, publications, awards; optional international standardized tests (e.g., GATE) may be listed."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Unofficial transcripts from each university attended uploaded in application; official only if admitted."
+        },
+        "interview": {
+          "status": "unknown",
+          "detail": "CS admissions pages do not list a required interview; Grad School notes some programs may require on-site pre-admission interview—CS MS not specified."
+        },
+        "applicationFee": {
+          "amountUsd": 95,
+          "waivers": "Grad School fee waiver categories available; request within online application with documentation.",
+          "detail": "Non-refundable $95.00 per program. Fall-only CS entry. Deadlines for Fall 2027 cycle posted: fellowship consideration Dec 15, 2026; RA/TA Jan 5, 2027; final Mar 9, 2027."
+        },
+        "other": [
+          "Cannot apply for both MS and PhD in same semester.",
+          "Select up to five Areas of Interest and list up to five faculty (or 'Any faculty').",
+          "MS program page (cs.unc.edu/graduate/ms/) is degree requirements, not the admissions checklist."
+        ],
+        "advice": "Use CS Graduate Admissions + UNC Grad School Instructions; confirm Fall 2027 deadline page for final dates.",
+        "sources": [
+          [
+            "UNC CS Admission to Graduate Programs",
+            "https://cs.unc.edu/graduate/graduate-admissions/"
+          ],
+          [
+            "UNC CS Admissions Deadline",
+            "https://cs.unc.edu/graduate/graduate-admissions/admissions-deadline/"
+          ],
+          [
+            "UNC CS Graduate Admissions FAQ",
+            "https://cs.unc.edu/graduate/graduate-admissions/admissions-faq/"
+          ],
+          [
+            "UNC Graduate School Instructions for Graduate Applicants",
+            "https://gradschool.unc.edu/admissions/instructions/"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "usc-cs",
+      "school": "University of Southern California",
+      "program": "MS in Computer Science (General)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "not_required",
+          "detail": "GRE not required for 2027 Master's applications to Viterbi (including MSCS). Official pages do not invite optional GRE submission for 2027 MS.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "not_required",
+          "detail": "GMAT not part of Viterbi MSCS admissions materials.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": null,
+            "detail": "International applicants must demonstrate English proficiency (TOEFL/IELTS/etc.). USC does not set university-wide admission score minimums; ISE exam exemption typically at TOEFL iBT ≥90 with ≥20 each section (pre-2026-01-21) or ≥4.5 with ≥4 each section (on/after 2026-01-21) for master's. Code 4852. Scores within 24 months of application submit."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": null,
+            "detail": "IELTS Academic accepted; ISE exemption typically overall ≥6.5 with ≥6 each band for master's (placement guideline, not a university-wide admission cutoff)."
+          },
+          "waiver": "Exempt if USC degree holder/enrolled; bachelor's from U.S. or qualifying Anglophone country (English only official language + language of instruction)—Spring 2027+ policy: entire program need not be Anglophone but degree must be issued by institution in U.S./qualifying Anglophone country (dual-degree exception); completed master's/doctoral from qualifying Anglophone country; or native English speaker from qualifying countries. No waiver for English-taught programs in non-Anglophone countries."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "No numeric minimum GPA stated on Viterbi MSCS program page; bachelor's required or in progress; holistic review. Eligibility coursework listed for non-CS bachelor's."
+        },
+        "lettersOfRecommendation": {
+          "status": "optional",
+          "count": null,
+          "detail": "Letter of Recommendation listed as Optional on Viterbi MSCS Application Requirements."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Personal Statement required with online application.",
+          "alsoKnownAs": "Personal Statement"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Resume/CV required."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Registrar-issued transcripts (electronic/scanned) from all colleges/universities; unofficial student-portal transcripts not acceptable for Viterbi. Hard copies after admission if instructed."
+        },
+        "interview": {
+          "status": "unknown",
+          "detail": "Interview not listed on Viterbi MSCS or Ready to Apply pages."
+        },
+        "applicationFee": {
+          "amountUsd": 120,
+          "waivers": "Not detailed on Ready to Apply page for Viterbi master's; confirm USC Graduate Admission waiver policy if needed.",
+          "detail": "$120 application fee (Ready to Apply). Fall deadlines: Dec 15 scholarship consideration; Jan 15 final. Spring Oct 15."
+        },
+        "other": [
+          "OPT STEM eligible.",
+          "32-unit general MSCS; thesis option adds units.",
+          "Also available via DEN@Viterbi online."
+        ],
+        "advice": "Use Viterbi Grad Admission MSCS page (not department curriculum page alone). Optional LOR ≠ waived requirement elsewhere.",
+        "sources": [
+          [
+            "USC Viterbi MS in Computer Science admissions",
+            "https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/ms-computer-science/"
+          ],
+          [
+            "USC Viterbi Ready to Apply (fee)",
+            "https://viterbigradadmission.usc.edu/programs/masters/apply/ready-to-apply/"
+          ],
+          [
+            "USC Viterbi Master's FAQ (GRE/English)",
+            "https://viterbigradadmission.usc.edu/programs/masters/faq/"
+          ],
+          [
+            "USC Graduate Admission English Proficiency (Spring 2027+)",
+            "https://gradadm.usc.edu/prospective-international-students/english-proficiency/"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "washington-cs",
+      "school": "University of Washington (Seattle)",
+      "program": "Professional Master's Program (PMP) in Computer Science & Engineering",
+      "applicationRequirements": {
+        "gre": {
+          "status": "not_accepted",
+          "detail": "PMP does not require GRE; no benefit to providing scores—any scores received will not be referenced during reviews.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "not_required",
+          "detail": "GMAT not part of PMP admissions materials.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": 92,
+            "detail": "Non-native English speakers must prove proficiency. TOEFL ≥92 (on/before 2026-01-20) or ≥4.5 (on/after 2026-01-21). UW ETS code 4854. Or degree with English as language of all instruction per Grad Policy 3.2."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": 7.0,
+            "detail": "Academic IELTS ≥7.0 via E-TRF to UW organization ID 365. DET ≥130 also accepted."
+          },
+          "waiver": "Degree for which English was language of all instruction (documentation required except degrees in Policy 3.2.1 countries). Residence-during-enrollment rules apply depending on whether country is English-speaking."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "No numeric minimum GPA stated on PMP Admissions/How to Apply; report cumulative GPA from each school; Scholaro conversion suggested for international GPAs."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 2,
+          "detail": "Two letters required; optional third. Prefer supervisors/leads familiar with technical work; due by application deadline."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "~one page / ~750 words personal statement: academic/professional backgrounds, areas of interest, how PMP advances professional goals.",
+          "alsoKnownAs": "Personal statement / statement of purpose"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Current resume/CV with detailed job tasks and technical skills; no length/format limit."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Unofficial transcripts for all higher-ed institutions during application; official only after accepting offer."
+        },
+        "interview": {
+          "status": "not_used",
+          "detail": "Complete How to Apply checklist does not include an interview; decisions 3–4 weeks after deadline."
+        },
+        "applicationFee": {
+          "amountUsd": 90,
+          "waivers": "UW Graduate School fee waivers for some domestic students with financial need; PMP does not offer department-level waivers.",
+          "detail": "$90 non-refundable UW Graduate School application fee."
+        },
+        "other": [
+          "FLAG: PMP-ONLY route on this catalog id; PMP unable to accept applicants requiring F-1 or J-1 student visas.",
+          "Must physically reside in Seattle/Puget Sound at application and for program duration; part-time study eligibility in U.S.",
+          "Established professional background in computing required.",
+          "Academic background form (hardware/software/theory/applications) required upload.",
+          "Three entry quarters: Autumn (Jul 1), Winter (Nov 1; Winter 2027 extended to Nov 2), Spring (Feb 1); no summer."
+        ],
+        "advice": "PMP ≠ full-time research MS; no F-1/J-1. Confirm eligibility before applying. Catalog id maps to PMP admissions page as specified.",
+        "sources": [
+          [
+            "Allen School PMP Admissions",
+            "https://www.cs.washington.edu/academics/graduate/pmp/admissions/"
+          ],
+          [
+            "Allen School PMP How to Apply",
+            "https://www.cs.washington.edu/academics/graduate/pmp/admissions/how-apply/"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "wisconsin-cs",
+      "school": "University of Wisconsin–Madison",
+      "program": "MS in Computer Sciences (Computer Sciences named option / traditional)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "optional",
+          "detail": "GRE not required but may be considered if available (Guide + CS Admissions FAQ).",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "not_accepted",
+          "detail": "Guide Other Test(s) field: n/a for this named option.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": 92,
+            "detail": "Refer to Grad School Minimum Requirements (UW-1241): TOEFL ≥92 (tests before 2026-01-21) or ≥5.0 (on/after 2026-01-21). Institution code 1846. Conditional ranges with ESLAT exist with program approval."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": 7.0,
+            "detail": "IELTS / IELTS Indicator minimum 7.0; Duolingo minimum 125 (Grad School)."
+          },
+          "waiver": "Exempt via U.S. bachelor's; U.S. master's/PhD/professional within 5 years of start; equivalent bachelor's abroad with English exclusive language of instruction documented; or ≥2 full-time graded semesters in English-exclusive instruction within 5 years (no ESL classes)."
+        },
+        "gpa": {
+          "status": "required",
+          "minimum": 3.0,
+          "scale": "4.0",
+          "detail": "Grad School minimum: undergraduate GPA 3.00 on last 60 semester hours (or master's with ≥3.00); international applicants must show comparable achievement."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 3,
+          "detail": "Three letters required (Guide). Prefer academic recommenders; at most one work recommendation suggested if out of school."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Essay form; ~1–1.5 pages sufficient; background in CS and potential for traditional MS/PhD. Must complete supplemental application sections.",
+          "alsoKnownAs": "Statement of purpose / reasons for graduate study"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Resume/CV required."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Most up-to-date unofficial transcripts from all prior higher-ed institutions; international records original language + official English translation. Official if recommended for admission."
+        },
+        "interview": {
+          "status": "unknown",
+          "detail": "Interview not listed on Guide Admissions table or CS Admissions FAQs."
+        },
+        "applicationFee": {
+          "amountUsd": 75,
+          "waivers": "Department does not offer fee waivers; Grad School fee grants for eligible U.S. citizens/PRs; some program-purchased grants elsewhere.",
+          "detail": "$75 application fee (up to three programs same term); international applicants pay additional $6 processing fee. Fall only; deadline Dec 15. Spring/summer not admitted for this option."
+        },
+        "other": [
+          "Traditional MS/PhD single applicant pool—do not apply to both MS and PhD separately.",
+          "DISTINCT from Professional MS (PMP) named option (separate admissions, Feb 15 deadline).",
+          "Minimum background: some programming, data structures, machine organization; year of college calculus-level math.",
+          "Contact admissions@cs.wisc.edu for traditional MS/PhD."
+        ],
+        "advice": "Guide named option Computer Sciences MS is traditional track; do not conflate with CS PMP. Optional GRE ≠ waived.",
+        "sources": [
+          [
+            "UW–Madison Guide: Computer Sciences MS (Computer Sciences option) Admissions",
+            "https://guide.wisc.edu/graduate/computer-sciences/computer-sciences-ms/computer-sciences-computer-sciences-ms/"
+          ],
+          [
+            "UW–Madison CS Graduate Admissions",
+            "https://www.cs.wisc.edu/grad/programs/admissions/"
+          ],
+          [
+            "UW–Madison Grad School Requirements (English/GPA)",
+            "https://grad.wisc.edu/apply/requirements/"
+          ],
+          [
+            "UW–Madison Grad School Apply (fee)",
+            "https://grad.wisc.edu/apply/"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "yale-cs",
+      "school": "Yale University",
+      "program": "MS in Computer Science",
+      "applicationRequirements": {
+        "gre": {
+          "status": "required",
+          "detail": "GRE General Test required for Computer Science MS (GSAS standardized testing table, 2026–2027 cycle). PhD: GRE not accepted. Institution code 3987. Program FAQ: no absolute cut-offs; accepted students generally ~90th percentile.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "not_required",
+          "detail": "GMAT not used for Yale CS MS (GMAT only noted for Management PhD at GSAS).",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": null,
+            "detail": "TOEFL iBT required of most non-native English speakers (or IELTS Academic). No published hard minimum on GSAS testing page; CS MS FAQ states if TOEFL required they generally look for totals well above 100. Code 3987."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": null,
+            "detail": "IELTS Academic accepted via E-Delivery to Yale GSAS; no hard minimum published on GSAS testing page. IELTS Online / One Skill Retake / General Training not accepted."
+          },
+          "waiver": "Exempt if undergraduate degree from college/university where English is primary language of instruction and studied in residence ≥3 years. No exemption based on advanced degree (MA/MS/PhD) alone."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "No numeric minimum GPA on GSAS CS program page or Engineering MS program page; FAQ says GPA considered with scores, recommendations, personal statement."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 3,
+          "detail": "Three letters of recommendation via GSAS application (standard for all PhD/Master's applicants)."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Statement of academic purpose required (GSAS prompt; typically 500–1000 words per GSAS application guidance). FAQ: research experience not required for this professional MS.",
+          "alsoKnownAs": "Statement of academic purpose / personal statement"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Resume/CV required for all GSAS PhD/Master's applicants."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Unofficial transcripts from all prior colleges/universities uploaded with application; official later if needed."
+        },
+        "interview": {
+          "status": "unknown",
+          "detail": "Interview not listed on GSAS application process or Engineering MS program pages."
+        },
+        "applicationFee": {
+          "amountUsd": 105,
+          "waivers": "Fee waivers for PhD/Master's applicants via special program/status or documented financial hardship; request form deadline Jan 2; U.S. and non-U.S. citizens eligible to request.",
+          "detail": "US $105 non-refundable for degree-seeking applicants. MS deadline January 2, 11:59pm ET. Fall entry only."
+        },
+        "other": [
+          "Apply via Yale GSAS (not Engineering department portal).",
+          "One-year terminal MS most common; selective two-year MS with teaching fellowship + thesis also offered.",
+          "Need CS coursework beyond basic programming/data structures (advanced algorithms, systems/architecture); MOOCs not accepted as formal preparation.",
+          "No financial aid for one-year MS; two-year has tuition fellowship + small stipend."
+        ],
+        "advice": "GRE required for MS only (opposite of PhD). Confirm 2026–2027 GSAS testing table each cycle.",
+        "sources": [
+          [
+            "Yale Engineering CS Master of Science Program",
+            "https://engineering.yale.edu/academic-study/departments/computer-science/graduate-study/master-science-program"
+          ],
+          [
+            "Yale GSAS Computer Science program page",
+            "https://gsas.yale.edu/programs-of-study/computer-science"
+          ],
+          [
+            "Yale GSAS Standardized Testing Requirements",
+            "https://gsas.yale.edu/admissions/phdmasters-application-process/standardized-testing-requirements"
+          ],
+          [
+            "Yale GSAS PhD/Master's Application Process",
+            "https://gsas.yale.edu/admissions/phdmasters-application-process"
+          ],
+          [
+            "Yale GSAS Application Fees & Fee Waivers",
+            "https://gsas.yale.edu/admissions/phdmasters-application-process/application-fees-fee-waivers"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    }
+  ]
+}

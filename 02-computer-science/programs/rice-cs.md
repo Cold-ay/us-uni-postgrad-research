@@ -34,6 +34,33 @@ Rice Bursar Engineering graduate rates 2026–27: Masters & PhD Full-Time Tuitio
 
 Application timing: 10 Feb 2027 · Early scholarship consideration. Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: optional — MCS program page: GRE recommended, but not required. CS Graduate Program Application: applicants may optionally submit GRE general (not required). ETS code 6609. Subject GRE not required.
+- GMAT: not_required — Pure CS MCS; GMAT not listed.
+- TOEFL: required — min 90 — Foreign nationals / non-native English speakers must show proficiency. CS app page: ≥90 iBT TOEFL or Home Edition (code 6609). Grad School: exams before Jan 21, 2026 min 90; on/after that date min 4.5. Alternatives: IELTS ≥7, Duolingo ≥115, U.S. degree, or post-secondary degree where official language of instruction is English (approved list).
+- IELTS: required — min 7 — Academic IELTS minimum overall 7. Report to “Rice University Graduate Admissions.”
+- English waiver: Proof of degree from accredited U.S. high school/college/university; or completion/expected completion of post-secondary degree from institution where official language of instruction is English (Grad School country/university lists).
+- GPA: required — minimum 3 — scale 4.0 — MCS admissions: 3.0+ GPA listed among what applicants should prepare.
+- Letters of recommendation: required — count 3 — At least three letters via online application system (names/emails; recommenders upload).
+- Statement of purpose: required — also known as Statement of Purpose — Statement of Purpose required (PDF upload per CS Graduate Program Application).
+- Resume: required — CV/Resume required (PDF; most current version).
+- Transcripts: required — Electronic transcripts from each college/university via application; official mailed transcripts required if offered admission.
+- Interview: unknown — Interview not listed on MCS or CS graduate application pages.
+- Fee: $85 — waivers: Waivers rarely granted; contact gradapp@rice.edu if potentially eligible. Ph.D. has no fee (not MCS). — $85 for MCS/MDS (on-campus and online) via online application credit card.
+- Other: On-campus MCS Fall 2027: early scholarship Feb 10, 2027; international deadline May 1, 2027; domestic Jul 1, 2027; rolling review continues.
+- Other: Spring 2027 also offered (early Oct 1 / final Nov 1, 2026).
+- Other: Non-thesis 30-hour professional degree; internship required; CPT after two full-time semesters for intl.
+- Other: Distinct from Online MCS / MAI / MDS.
+
+Prefer CS Graduate Program Application page over marketing MCS page for fee/English/deadlines. GRE optional≠waived. Early Feb 10 for scholarship consideration.
+
+- [MCS program (admissions summary + Fall 2027 deadlines)](https://csweb.rice.edu/academics/graduate-programs/master-computer-science)
+- [CS Graduate Program Application](https://csweb.rice.edu/academics/graduate-programs/admission/graduate-program-application)
+- [Rice Grad School Language Proficiency](https://graduate.rice.edu/admissions/language-proficiency-requirements)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

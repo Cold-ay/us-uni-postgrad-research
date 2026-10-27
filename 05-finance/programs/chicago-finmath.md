@@ -34,6 +34,33 @@ Published in-person rate: $8,017 per 100 units. Catalog tuition $100,213 is illu
 
 Application timing: In-person Autumn 2027 Round 1 · 2026-11-02. Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: optional — GRE not required; welcome to enhance application. Self-report then official ETS (institution 1832; dept 0799 Mathematical Science–Other). Valid if exam within 5 years of deadline.
+- GMAT: not_accepted — Do not submit GMAT scores (or high school transcripts, theses, publications)—not considered.
+- TOEFL: required — min 90 — TOEFL iBT or IELTS Academic required unless exception. PSD policy minimum TOEFL 90 or IELTS 7; FinMath prefers significantly higher. Exams within 2 years of deadline. TOEFL code 1832 / dept 72.
+- IELTS: required — min 7 — IELTS Academic (not General Training) accepted; minimum 7 per PSD policy.
+- English waiver: Waived if (a) English primary language of communication/schooling since childhood; OR (b) ≥1 academic year full-time at accredited English-medium post-secondary in listed countries/territories within past 10 years (incl. Antigua, Australia, Bahamas, Barbados, Canada, Dominica, Grenada, Guyana, Hong Kong, Ireland, Jamaica, NZ, St. Kitts/Nevis, St. Lucia, St. Vincent, Singapore, South Africa, Trinidad & Tobago, UK, USA). English-medium elsewhere / high school / part-time-research-only do not qualify.
+- GPA: not_stated — No minimum GPA stated on application-requirements page.
+- Letters of recommendation: required — count 3 — Three letters; at least one professional reference.
+- Statement of purpose: required — also known as candidate statements — Three candidate statements ≤250 words each (shortcoming/steps; program-city-career alignment; additional profile info).
+- Resume: required — Resume/CV with entire work history including start/end dates, locations, full- vs part-time.
+- Transcripts: required — Transcripts from all previous colleges/universities. Unofficial uploads for review; official final with degree conferral before enrollment if admitted.
+- Interview: not_used — No live interview listed among required documents. Two video statements are required application components (not a live interview).
+- Fee: $90 — waivers: Not stated on Apply page. — $90 per application submitted (Apply page).
+- Other: Two video statements required.
+- Other: Math prereqs: multivariable calculus, linear algebra, probability; programming ideally C++/Python/OOP.
+- Other: Work experience encouraged but not required.
+- Other: In-person Autumn 2027 rounds: Nov 2 2026; Feb 1 2027. Online also January/June starts.
+
+In-person is Autumn start; online has Jan/June starts. GMAT not accepted. GRE optional.
+
+- [Application requirements](https://finmath.uchicago.edu/admissions/application-requirements/)
+- [Apply / deadlines / fee](https://finmath.uchicago.edu/admissions/apply/)
+- [Admission FAQ](https://finmath.uchicago.edu/admissions/admission-faq/)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

@@ -34,6 +34,33 @@ UW Allen School PMP Costs & Fees: as of autumn 2026, per-credit instructional fe
 
 Application timing: PMP Autumn: 1 Jul (month-day; year not labeled) · Winter: 2 Nov 2026 (winter 2027 extension) · Spring: 1 Feb. Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: not_accepted — PMP does not require GRE; no benefit to providing scores—any scores received will not be referenced during reviews.
+- GMAT: not_required — GMAT not part of PMP admissions materials.
+- TOEFL: required — min 92 — Non-native English speakers must prove proficiency. TOEFL ≥92 (on/before 2026-01-20) or ≥4.5 (on/after 2026-01-21). UW ETS code 4854. Or degree with English as language of all instruction per Grad Policy 3.2.
+- IELTS: required — min 7 — Academic IELTS ≥7.0 via E-TRF to UW organization ID 365. DET ≥130 also accepted.
+- English waiver: Degree for which English was language of all instruction (documentation required except degrees in Policy 3.2.1 countries). Residence-during-enrollment rules apply depending on whether country is English-speaking.
+- GPA: not_stated — No numeric minimum GPA stated on PMP Admissions/How to Apply; report cumulative GPA from each school; Scholaro conversion suggested for international GPAs.
+- Letters of recommendation: required — count 2 — Two letters required; optional third. Prefer supervisors/leads familiar with technical work; due by application deadline.
+- Statement of purpose: required — also known as Personal statement / statement of purpose — ~one page / ~750 words personal statement: academic/professional backgrounds, areas of interest, how PMP advances professional goals.
+- Resume: required — Current resume/CV with detailed job tasks and technical skills; no length/format limit.
+- Transcripts: required — Unofficial transcripts for all higher-ed institutions during application; official only after accepting offer.
+- Interview: not_used — Complete How to Apply checklist does not include an interview; decisions 3–4 weeks after deadline.
+- Fee: $90 — waivers: UW Graduate School fee waivers for some domestic students with financial need; PMP does not offer department-level waivers. — $90 non-refundable UW Graduate School application fee.
+- Other: FLAG: PMP-ONLY route on this catalog id; PMP unable to accept applicants requiring F-1 or J-1 student visas.
+- Other: Must physically reside in Seattle/Puget Sound at application and for program duration; part-time study eligibility in U.S.
+- Other: Established professional background in computing required.
+- Other: Academic background form (hardware/software/theory/applications) required upload.
+- Other: Three entry quarters: Autumn (Jul 1), Winter (Nov 1; Winter 2027 extended to Nov 2), Spring (Feb 1); no summer.
+
+PMP ≠ full-time research MS; no F-1/J-1. Confirm eligibility before applying. Catalog id maps to PMP admissions page as specified.
+
+- [Allen School PMP Admissions](https://www.cs.washington.edu/academics/graduate/pmp/admissions/)
+- [Allen School PMP How to Apply](https://www.cs.washington.edu/academics/graduate/pmp/admissions/how-apply/)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

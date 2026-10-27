@@ -34,6 +34,31 @@ Mandatory fees reference: $750. One-time program fee $750 in term of admission (
 
 Application timing: Early admissions · 2026-12-15. Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: optional — Standardized test scores optional. If submitted, GRE code 2906; scores within last 5 years. Official scores from GRE or GMAT.
+- GMAT: optional — Optional; GMAT code 72S3T52; within last 5 years if submitted.
+- TOEFL: required — min 79 — Required if no bachelor’s/graduate degree from a U.S. institution. Temple Graduate School minima: TOEFL iBT 79 (4.5 on/after Jan 21, 2026); PTE 53; Duolingo 110; LanguageCert 70. Fox program page does not state higher Fox-specific floors.
+- IELTS: required — min 6.5 — IELTS Academic 6.5 (Temple Graduate School minimum).
+- English waiver: May be waived if undergrad/grad degree from a country where English is commonly used; admissions auto-reviews waiver eligibility from academic history. Also waived with U.S. bachelor’s/graduate degree.
+- GPA: required — minimum 3 — scale 4.0 — Bachelor’s degree; should have minimum overall 3.0 GPA. Prerequisites: semester of statistics, finance, accounting, micro and macroeconomics. Quant background scrutinized.
+- Letters of recommendation: required — count 1 — One letter required; professional references from immediate supervisor preferred; academic acceptable. Enter contact in app; recommenders upload.
+- Statement of purpose: required — also known as Statement of Goals — One 500-word Statement of Goals covering past experiences/motivation, expected change, values/skills beyond academics, and career goals. Evaluated for content, clarity, professionalism.
+- Resume: required — Current résumé/CV detailing professional experience required regardless of employment status.
+- Transcripts: required — Transcripts from each institution with credit; copies OK for review; officials required if admitted. Extra docs (marksheet/diploma) for non-U.S. institutions per Grad School guidelines.
+- Interview: by_invitation — Once complete, candidates invited to a virtual interview (invite only).
+- Fee: $60 — $60 application fee after submitting Fox online application.
+- Other: Rolling admissions; Fall: opens Aug 1; early Dec 15; scholarship & international Mar 1; final Jun 30.
+- Other: Select Fox School of Business (FSOB) in portal.
+
+Apply by Mar 1 for scholarship and international visa timing. Optional GMAT/GRE only if it strengthens a thin quant profile.
+
+- [Financial Analysis MS admissions](https://www.temple.edu/academics/degree-programs/financial-analysis-ms-bu-fian-ms/admissions)
+- [Program hub](https://www.temple.edu/academics/degree-programs/financial-analysis-ms-bu-fian-ms)
+- [Temple Grad School international documents / English minima](https://grad.temple.edu/admissions/international-applicants/required-application-documents)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

@@ -34,6 +34,32 @@ $31,100 per fall/spring semester. The SCS budget lists $37,374 in additional ann
 
 Application timing: Apps open 9 Sep 2026 · Early 18 Nov 2026 · 3 p.m. EST · Final 9 Dec 2026 · 3 p.m. EST (Fall 2027 SCS). Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: optional — Strongly recommended, especially without clear documentation of strong mathematical proficiency; if unable to provide scores, briefly explain in Statement of Purpose. Waived for applicants who graduated from or are enrolled at CMU. GRE at Home generally not accepted except limited historical windows. Institution 2074; dept 0402 (SCS).
+- GMAT: not_accepted — MSCS uses GRE policy; GMAT not part of CSD MSCS requirements.
+- TOEFL: required — If F-1/J-1 and English not native (spoken at home from birth): TOEFL preferred (iBT/Home). No ITP Plus for China. No waivers for non-native speakers (including prior U.S. study). Recent admits often TOEFL 105–114 (SCS Grad Admissions). Code 4256; dept 78.
+- IELTS: required — IELTS accepted; mainland China applicants encouraged to take IELTS. Recent admits often 7–8. Duolingo also accepted (often 130–155 for admits). No minimum published as hard cutoff.
+- English waiver: CSD/Griffin SCS does not issue English waivers for non-native speakers—prior U.S. or English-medium study does not waive.
+- GPA: not_stated — No minimum GPA stated on CSD MSCS admissions page.
+- Letters of recommendation: required — count 3 — Three letters required (up to five allowed in application); at least two from faculty or recent employers.
+- Statement of purpose: required — also known as Statement of Purpose — Concise 1–2 page essay: primary research interests, related experiences, and objective in pursuing MSCS.
+- Resume: required — Resume/CV in PDF format.
+- Transcripts: required — PDF of most recent transcript from each college/university attended, even if no degree granted.
+- Interview: unknown — Interview not described on CSD MSCS admissions page.
+- Fee: $100 — waivers: Financial or program-participant fee waiver info displayed when selecting program in online application. — Early deadline fee $80/program if by Nov 18 2026 3pm EST; after that $100/program. Fall 2027 cycle: app opens Sep 9 2026; early Nov 18; final Dec 9 2026 3pm EST.
+- Other: Fall admit only (no Spring start for MSCS)
+- Other: Distinct from Fifth Year MS (CMU CS undergrads only; no fee)
+- Other: Program does not offer scholarships/financial assistance for MSCS at this time
+
+GRE strongly recommended≠required; explain if omitting. No English waivers. Prefer early deadline for $80 fee.
+
+- [CSD Master’s admissions (MSCS)](https://csd.cmu.edu/academics/masters/admissions)
+- [SCS Graduate Admissions (fee/GRE/English)](https://www.cs.cmu.edu/education/graduate-admissions)
+- [MSCS program page](https://csd.cmu.edu/academics/masters/ms-in-computer-science)
+
 ## Internships
 
 The SCS comparison page provides general internship timing. Program-specific placement, availability and outcomes have not been verified.

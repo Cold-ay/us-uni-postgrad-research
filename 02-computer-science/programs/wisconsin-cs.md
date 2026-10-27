@@ -34,6 +34,34 @@ UW System Tuition Schedule 2026–27 UW–Madison Graduate full-time Nonresident
 
 Application timing: Traditional MS/PhD Fall: 15 Dec (month-day; year not labeled) · PMP separate: 15 Feb (month-day). Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: optional — GRE not required but may be considered if available (Guide + CS Admissions FAQ).
+- GMAT: not_accepted — Guide Other Test(s) field: n/a for this named option.
+- TOEFL: required — min 92 — Refer to Grad School Minimum Requirements (UW-1241): TOEFL ≥92 (tests before 2026-01-21) or ≥5.0 (on/after 2026-01-21). Institution code 1846. Conditional ranges with ESLAT exist with program approval.
+- IELTS: required — min 7 — IELTS / IELTS Indicator minimum 7.0; Duolingo minimum 125 (Grad School).
+- English waiver: Exempt via U.S. bachelor's; U.S. master's/PhD/professional within 5 years of start; equivalent bachelor's abroad with English exclusive language of instruction documented; or ≥2 full-time graded semesters in English-exclusive instruction within 5 years (no ESL classes).
+- GPA: required — minimum 3 — scale 4.0 — Grad School minimum: undergraduate GPA 3.00 on last 60 semester hours (or master's with ≥3.00); international applicants must show comparable achievement.
+- Letters of recommendation: required — count 3 — Three letters required (Guide). Prefer academic recommenders; at most one work recommendation suggested if out of school.
+- Statement of purpose: required — also known as Statement of purpose / reasons for graduate study — Essay form; ~1–1.5 pages sufficient; background in CS and potential for traditional MS/PhD. Must complete supplemental application sections.
+- Resume: required — Resume/CV required.
+- Transcripts: required — Most up-to-date unofficial transcripts from all prior higher-ed institutions; international records original language + official English translation. Official if recommended for admission.
+- Interview: unknown — Interview not listed on Guide Admissions table or CS Admissions FAQs.
+- Fee: $75 — waivers: Department does not offer fee waivers; Grad School fee grants for eligible U.S. citizens/PRs; some program-purchased grants elsewhere. — $75 application fee (up to three programs same term); international applicants pay additional $6 processing fee. Fall only; deadline Dec 15. Spring/summer not admitted for this option.
+- Other: Traditional MS/PhD single applicant pool—do not apply to both MS and PhD separately.
+- Other: DISTINCT from Professional MS (PMP) named option (separate admissions, Feb 15 deadline).
+- Other: Minimum background: some programming, data structures, machine organization; year of college calculus-level math.
+- Other: Contact admissions@cs.wisc.edu for traditional MS/PhD.
+
+Guide named option Computer Sciences MS is traditional track; do not conflate with CS PMP. Optional GRE ≠ waived.
+
+- [UW–Madison Guide: Computer Sciences MS (Computer Sciences option) Admissions](https://guide.wisc.edu/graduate/computer-sciences/computer-sciences-ms/computer-sciences-computer-sciences-ms/)
+- [UW–Madison CS Graduate Admissions](https://www.cs.wisc.edu/grad/programs/admissions/)
+- [UW–Madison Grad School Requirements (English/GPA)](https://grad.wisc.edu/apply/requirements/)
+- [UW–Madison Grad School Apply (fee)](https://grad.wisc.edu/apply/)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

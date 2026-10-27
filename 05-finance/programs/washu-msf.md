@@ -34,6 +34,29 @@ Alternate format: Quantitative OR Wealth & Asset Management total tuition (Fall 
 
 Application timing: Concentration-specific deadlines not fully captured this pass — site/brief to fill on next scrape of apply pages.. Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: optional — GMAT or GRE not required but recommended for most candidates. GRE code 6929. Online GMAT/GRE accepted.
+- GMAT: optional — Not required but recommended. MS Finance GMAT code R4T-WG-53. Official scores released when submitting application.
+- TOEFL: required — min 90 — Intl applicants must submit official English scores valid through application deadline. TOEFL iBT/Home: 5.0 overall (new scale) OR ≥90 old scale (page also lists 4.5). ETS code 6929.
+- IELTS: required — min 6.5 — IELTS Academic minimum 6.5. Send electronically selecting Washington University in St. Louis Graduate Programs.
+- English waiver: Exemption possible per university exemption criteria; request in application portal; Office of the Provost reviews. Also accept GATEWAY English (495) and Duolingo (125).
+- GPA: not_stated — No numeric minimum GPA on on-campus SMP apply page; committee considers strong undergraduate GPA among factors if omitting test.
+- Letters of recommendation: not_stated — Official on-campus specialized master’s checklist does not list letters of recommendation.
+- Statement of purpose: required — also known as Personal statement / career essay — Personal statement (500-word max) on life experiences shaping decision to apply and how Olin helps long-term goals. Plus required career essay (100-word max) on ideal post-graduation career. Optional essay 250 words.
+- Resume: required — One-page resume required.
+- Transcripts: required — Unofficial transcripts accepted for decision; official required before orientation if enrolling. Bachelor’s equivalent at enrollment; most intl 3-year degrees OK. Non-English: original + English translation. WES/ECE not required.
+- Interview: not_stated — On-campus SMP apply page does not list an interview (online SMP lists application video interview).
+- Fee: $0 — waivers: N/A — no fee charged. — No application fee for on-campus specialized master’s programs.
+- Other: Prerequisites vary by concentration: Quant Finance & Wealth/Asset Management need Statistics + Calculus I; Corporate Finance reviewed holistically
+- Other: Fall 2027 rounds: Oct 8 2026, Jan 7, Feb 25, Apr 15 2027 then rolling
+
+Intl: English scores by deadline; apply earlier rounds for visa time. No app fee. Confirm concentration prerequisites (esp. Quant). Optional GMAT/GRE still recommended for many.
+
+- [On-campus SMP apply](https://olin.washu.edu/programs/specialized-masters/on-campus-smp-apply.php)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

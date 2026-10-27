@@ -34,6 +34,33 @@ No flat MSF program sticker published for external admits. ISSS 2025 one Fall-or
 
 Application timing: 2027–28 cycle opens · 2027-04-01 · TAMU undergrad 4+1 only (external / international N/A) · Rising sophomores / seniors only. Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: required — Minimum 50th percentile on quantitative portion. Waived for those with GPA of 3.5 or higher in STEM, Business, or ECON majors. Program details: Sophomore Start also notes minimum 50th percentile GRE Q with minimum GPA 3.0 emphasis.
+- GMAT: unknown — GMAT not mentioned on 4+1 MS Finance hub or program-details pages; GRE is the listed standardized test.
+- TOEFL: not_required — Program restricted to current Texas A&M undergraduates; English proficiency exams not listed among admission requirements.
+- IELTS: not_required — Same — TAMU undergrad 4+1 pathway only.
+- English waiver: N/A for eligible TAMU undergraduates (external/international N/A).
+- GPA: required — minimum 3.25 — scale 4.0 — Minimum GPA 3.25 overall; 3.5 for FINC majors (hub). Program-details Sophomore Start text also cites minimum GPA 3.0 with GRE Q ≥50th percentile — hub list is the primary published requirement set.
+- Letters of recommendation: not_stated — LOR not listed among published admission requirements on hub or program-details pages.
+- Statement of purpose: required — also known as Essay — Essay required (listed on admission requirements).
+- Resume: required — Resume required.
+- Transcripts: required — Unofficial transcript required at application.
+- Interview: by_invitation — Program-details: Apply through April 15 to be interviewed in the spring semester. Not stated whether every applicant is interviewed.
+- Fee: Application fee not stated on 4+1 MS Finance hub or program-details pages.
+- Other: RESTRICTED: all applicants must currently be enrolled as undergraduates at Texas A&M University (College Station).
+- Other: Attend information session (listed requirement).
+- Other: Prerequisites (B or better) due after admission by end of spring following application: ACCT 209/229/640 and ECON 202 or 203.
+- Other: Sophomore Start and Senior Start pathways; few spots for seniors (senior start needs ≥1 commercial internship).
+
+External and international applicants are not eligible for classic tamu-msf 4+1; see tamu-qfin for a separate open quantitative path. Pages currently emphasize Fall 2026 entry cycles; 2027–28 cycle opens Apr 1, 2027.
+
+- [4+1 MS Finance hub](https://mays.tamu.edu/graduate/masters/4plus1/ms-finance/)
+- [Program details](https://mays.tamu.edu/graduate/masters/4plus1/ms-finance/program-details/)
+- [TAMU catalog MS Finance](https://catalog.tamu.edu/graduate/colleges-schools-interdisciplinary/business/finance/ms/)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

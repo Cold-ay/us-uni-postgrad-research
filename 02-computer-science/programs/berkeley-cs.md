@@ -34,6 +34,34 @@ Registrar Master of Engineering (All M.Eng Degrees) per-semester continuing tota
 
 Application timing: Apps open (Fall 2027 cycle open) · Deadline 6 Jan 2027 · 8:59 p.m. PST (MEng EECS). Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: not_accepted — EECS department no longer requires, accepts, or considers GRE scores (Apply page).
+- GMAT: not_accepted — Pure EECS MEng; GMAT not used/accepted.
+- TOEFL: required — min 90 — Required if bachelor’s from non-English-primary country/region unless exempt. Fall 2027 Grad Division mins: tests Jun 1 2025–Jan 20 2026: total 90; on/after Jan 21 2026: total 5 with Speaking/Writing ≥4.5. iBT/Home only; no Duolingo/MyBest/ITP. Code 4833.
+- IELTS: required — min 7 — IELTS/IELTS Online accepted (not Indicator/One Test Retake). Fall 2027: Jun 1 2025–Jan 20 2026 overall 7; on/after Jan 21 2026 overall 7 with Speaking/Writing ≥6.5.
+- English waiver: Exempt if bachelor’s from country where English is primary in daily life and instruction; or U.S./U.S.-accredited English-instruction degree; or ≥1 year full-time academic coursework with B or better at regionally accredited U.S. institution (ESL/nonacademic courses do not qualify). Country table on Grad Division requirements page.
+- GPA: required — minimum 3 — scale 4 — MEng page: 3.0 minimum requirement; average admittee ~3.7. Grad Division: usually minimum 3.0 (B) on 4.0. Leave GPA blank if university outside USA.
+- Letters of recommendation: required — count 3 — 3 letters; mixture of academic and industry ideal; goals, accomplishments, technical and leadership skills.
+- Statement of purpose: required — also known as Statement of Purpose / Personal History Statement — Statement of Purpose (why this program, what you will do, post-degree plans) plus Personal History Statement (background/path into field and how it supports success).
+- Resume: not_stated — Resume/CV not listed among required materials on EECS MEng Apply page (SOP, PHS, 3 LORs, transcripts, English if applicable).
+- Transcripts: required — Upload unofficial transcripts as PDFs; do not mail. Non-English/Spanish must be translated before upload. Official records handled per Grad Division after admit.
+- Interview: by_invitation — Timeline: January–February interviews only if admissions committee has additional questions.
+- Fee: $135 — waivers: U.S. citizens/current permanent residents with demonstrated financial need or eligible program participation may request waiver (Grad Division fee-waiver guidelines). — Non-refundable $135 U.S. citizens/current PR; $155 all other applicants; plus 4.22% payment processing fee (Grad Division Fall 2027 requirements).
+- Other: Degree route: MEng (professional/industry) — not research MS/PhD
+- Other: Fall 2027 deadline Jan 6, 2027 8:59pm PST; application open for Fall 2027
+- Other: Strong technical background equivalent to CS bachelor’s expected (programming, algorithms, data structures, systems, AI, theory)
+- Other: One academic year (Fall+Spring); concentrations include Data Science, Systems, Robotics, etc.
+
+Program is MEng EECS (professional), not a research MS. GRE not accepted. Plan TOEFL/IELTS under Fall 2027 dual-scale rules. Interviews rare/by invitation only.
+
+- [MEng Apply](https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/apply/)
+- [MEng overview / admissions](https://eecs.berkeley.edu/academics/graduate/industry-programs/meng/)
+- [Grad Division requirements (Fall 2027)](https://grad.berkeley.edu/admissions/application-process/requirements/)
+- [Grad Division program listing (GRE No; deadline Jan 6 2027)](https://grad.berkeley.edu/program/eecs-electrical-engineering-and-computer-sciences-meng/)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

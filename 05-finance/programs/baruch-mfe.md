@@ -34,6 +34,32 @@ Enrollment-based fees catalog ~$179.60/sem FT (Tech $125 + Consolidated $15 + Se
 
 Application timing: Fall 2027 Round 1 · 2026-11-01. Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: not_accepted — GRE/GMAT no longer required; no place on application to submit scores; if attached separately they will not be taken into account. All applicants take Quantitative Background Assessment (QBA) instead.
+- GMAT: not_accepted — Same as GRE: not accepted / not considered; QBA replaces standardized tests.
+- TOEFL: not_required — TOEFL scores are not required. English communication assessed at admission interviews.
+- IELTS: not_required — Not required per MFE application-process page.
+- English waiver: N/A — English tests not required; assessed in interviews.
+- GPA: not_stated — No minimum GPA stated; baccalaureate from accredited 4-year U.S. college or foreign equivalent required.
+- Letters of recommendation: required — count 3 — Three letters from individuals who can comment on skills for MFE success; no requirement that one be professor or industry.
+- Statement of purpose: required — also known as personal essay — Personal essay must answer: why Financial Engineering; why Baruch MFE; envisioned career path after graduating.
+- Resume: unknown — Not explicitly listed on current Fall 2027 application-process page (older Weissman PDF mentioned resume). Confirm live application checklist.
+- Transcripts: required — Scan transcripts from ALL schools attended into one file and upload. Official transcripts required only after admission offer.
+- Interview: by_invitation — Two virtual Zoom interview rounds before offer; primarily technical (math, finance, C++). Selected applicants contacted; cannot request interview.
+- Fee: Current Fall 2027 MFE application-process page does not state fee amount. Older Weissman graduate application instructions PDF listed $75 non-refundable (also contained outdated GRE language)—treat fee as unconfirmed until live portal/Weissman confirms.
+- Other: Mandatory Quantitative Background Assessment (QBA): Calculus, Linear Algebra, Probability, Finance, Brainteasers; online timed; open book; no internet/AI; honor code.
+- Other: Prerequisites (B or better): Calc 2 semesters; Probability 1; Linear Algebra 1; C++ 1 semester/certificate; Finance 1 semester or relevant work.
+- Other: Fall-only admission; Fall 2027 rounds Nov 1 / Dec 1 / Jan 15 / Mar 15 (plus Apr 1 for Spring Pre-MFE seminar students only).
+- Other: Apply in only one round per year.
+
+GRE/GMAT not accepted—prepare for QBA + technical interviews. English tests not required.
+
+- [Application process Fall 2027](https://mfe.baruch.cuny.edu/application-process/)
+- [Weissman Graduate Admissions deadlines hub](https://weissman.baruch.cuny.edu/graduate-studies/admissions-requirements/)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

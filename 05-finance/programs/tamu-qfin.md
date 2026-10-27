@@ -34,6 +34,34 @@ Nonresident graduate base tuition only — 36 SCH × $836.40 (SBS Graduate & Cer
 
 Application timing: Math GradCAS departmental dates (not a dedicated MS-QFIN Mays board; not tamu-msf 4+1): Fall international · 2027-05-15 · Fall domestic July 1; Spring international Sept 15 / domestic Dec 1. Confirm with the Mathematics department before filing. Fall 2027 billing rates not locked. Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: unknown — No MS-QFIN-specific GRE policy found on official catalog or Artsci Math QFIN page as of scrape. Do not reuse classic tamu-msf 4+1 GRE rules. Confirm via Adam C. Sinn Department of Finance / BusinessCAS.
+- GMAT: unknown — Not stated on MS-QFIN catalog or Artsci QFIN page.
+- TOEFL: unknown — No MS-QFIN-specific English minima posted on catalog/Artsci QFIN pages. Mays master’s applications generally use BusinessCAS; confirm TOEFL/IELTS rules on the live QFIN/BusinessCAS materials.
+- IELTS: unknown — Not stated on MS-QFIN-specific official pages reviewed.
+- English waiver: Unknown for MS-QFIN; not invented from other Mays programs.
+- GPA: unknown — No minimum GPA stated on MS-QFIN catalog page. Classic tamu-msf GPA floors must not be copied here.
+- Letters of recommendation: unknown — Not listed on MS-QFIN catalog / Artsci pages.
+- Statement of purpose: unknown — Not listed on MS-QFIN catalog / Artsci pages.
+- Resume: unknown — Not listed on MS-QFIN catalog / Artsci pages.
+- Transcripts: unknown — Not itemized on MS-QFIN catalog page; expect standard graduate transcript upload via application system—confirm BusinessCAS checklist.
+- Interview: unknown — Not stated on MS-QFIN official pages reviewed.
+- Fee: Fee not posted on MS-QFIN catalog/Artsci pages; Mays master’s applications processed via BusinessCAS (mays.tamu.edu/apply)—confirm current BusinessCAS fee at submission.
+- Other: Catalog eligibility OPEN to current TAMU sophomores/juniors/seniors OR non-Texas A&M graduates with equivalent prerequisites (ACCT 209 or 229/640; ECON 202 or 203; MATH 171+172 or 151+152 or equivalents) with B or higher by end of TAMU spring immediately following admission.
+- Other: Highly recommended: Linear Algebra, Differential Equations, Statistics, coding experience.
+- Other: 36-hour non-thesis joint Finance + Mathematics (“STEM to Stocks”).
+- Other: DISTINCT from tamu-msf (classic 4+1 MS Finance = TAMU-undergrad-only).
+
+OPEN external/intl per catalog. Fall 2027 application dates/requirements checklist not posted on dedicated QFIN marketing page as of 2026-10-27—flag gap; contact Finance (Jose Quiros) / BusinessCAS before applicant-facing claims. Never conflate with restricted tamu-msf.
+
+- [MS Quantitative Finance catalog (eligibility)](https://catalog.tamu.edu/graduate/colleges-schools-interdisciplinary/business/finance/quantitative-finance-ms/)
+- [Arts & Sciences Quantitative Finance M.S.](https://artsci.tamu.edu/mathematics/academics/graduate/quantitative-finance-ms.html)
+- [Mays Apply — master’s via BusinessCAS](https://mays.tamu.edu/apply/)
+- [Classic 4+1 MS Finance DISTINCT](https://mays.tamu.edu/graduate/masters/4plus1/ms-finance/)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

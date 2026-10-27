@@ -34,6 +34,35 @@ Alternate format: In-state / Florida resident program tuition (as listed on FinT
 
 Application timing: Early decision (1-year traditional, Fall 2027 launch) · 2027-03-01. Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: optional — Official page: test scores are not required but applicants may submit GMAT or GRE to enhance the application. UF code 5812.
+- GMAT: optional — Same as GRE: not required; optional submission of GMAT or GRE allowed (UF code 5812).
+- TOEFL: required — min 4.5 — UF Admissions international graduate page lists TOEFL iBT & Home Edition minimum 4.5 overall; subsections Reading/Listening/Speaking/Writing each 4.0 (new TOEFL scale as posted). School code 5812. Required for international applicants unless exemption applies.
+- IELTS: required — min 6.5 — IELTS Academic minimum 6.5 via IELTS Results Service E-Delivery to University of Florida.
+- English waiver: UF may exempt applicants from countries where English is the only official language; those who attended non-U.S. institutions where English is the only official language of instruction; or who earned a degree in the U.S. / English-only-official-language country / English-only-instruction institution (see UF Grad International exemptions list). Warrington FinTech page also refers applicants to UF international English requirements.
+- GPA: required — minimum 3 — scale 4.0 — 3.0 upper-division undergraduate GPA required (U.S. degrees only, per FinTech application requirements).
+- Letters of recommendation: required — count 2 — Two recommenders who have supervised the applicant (professor, employer, adviser, volunteer coordinator). Letters from students, peer leaders, or relatives not accepted. Contacts entered in application; recommenders emailed after submission.
+- Statement of purpose: required — also known as statement of purpose — Statement of purpose 400–600 words: motivations, candidacy, how program advances career goals.
+- Resume: required — 1–2 page resume/CV covering post-high school education and employment, international affiliations/research funding, experience, accomplishments, leadership, and outside commitments (Florida Statute / UF graduate requirement also applies).
+- Transcripts: required — Upload transcripts (English and native language) from all post-secondary institutions. Unofficial OK for review; official required in first term if admitted. UF students: do not submit UF transcript.
+- Interview: by_invitation — Warrington interviews candidates who attended a non-U.S. institution as part of admissions.
+- Fee: $30 — waivers: UF Office of Admissions does not provide graduate application fee waivers. — $30 non-refundable Graduate School application fee per program (UF Admissions how-to-apply).
+- Other: Bachelor’s from accredited institution; business major preferred (other majors case-by-case).
+- Other: Graduate School application + Information for Residency Classification.
+- Other: International: UF does not recognize 3-year bachelor’s from India, Australia, Bangladesh, Canada (excl. Quebec), Nepal, Pakistan; other 3-year degrees reviewed individually.
+- Other: International: upload diploma/degree certification (English + native); letter of expected graduation if diploma not yet received.
+- Other: DISTINCT from florida-msf (classic MS Finance / combo-restricted).
+
+OPEN external/intl traditional 1-year track launching Fall 2027 (early Mar 1 / final May 1, 2027). Do not conflate with florida-msf. STEM/CIP not stated on FinTech pages.
+
+- [MS Finance and Technology application requirements](https://warrington.ufl.edu/graduate/masters-finance-technology/)
+- [UF Graduate Admissions how to apply (fee)](https://admissions.ufl.edu/apply/graduate/)
+- [UF Grad International English proficiency](https://admissions.ufl.edu/apply/graduate/international/)
+- [Classic MSF DISTINCT](https://warrington.ufl.edu/graduate/masters-finance/)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

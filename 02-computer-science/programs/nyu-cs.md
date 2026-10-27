@@ -34,6 +34,35 @@ NYU Bursar 2026–27 Tuition and Fees PDF: Graduate School of Arts and Science A
 
 Application timing: MSCS Fall 12 Feb 2027 (CEI year-labeled Fall 2027; GSAS month-day Feb 12) · 5 p.m. ET · Spring 1 Nov. Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: optional — GSAS Computer Science program page: GRE Optional for M.S. in Computer Science—applicants are not expected or required to submit GRE; may submit (official scores not needed at application time). Courant MS admissions FAQ: GRE recommended but not required.
+- GMAT: not_accepted — Courant MS admissions FAQ: GMAT and LSAT are not accepted as substitutes for the GRE.
+- TOEFL: required — min 100 — GSAS: official TOEFL, IELTS, or Duolingo required unless exempt. Courant FAQ guidance: TOEFL above 100 iBT (also cites historical paper 620 / computer 260). Institution code 2596; use TOEFL department code 99 (not 00).
+- IELTS: required — min 7 — Courant FAQ: IELTS minimum band score 7.0. Send electronically to New York University, Graduate School of Arts and Science.
+- English waiver: Exempt if native English speaker; OR U.S. citizen/permanent resident; OR completed (or will complete) a baccalaureate or master's degree at an institution where the language of instruction is English (GSAS Computer Science page).
+- GPA: not_stated — No numeric minimum GPA published on GSAS CS or Courant MS admissions FAQ; FAQ cites strong academic performance in relevant coursework.
+- Letters of recommendation: required — count 3 — GSAS requires three letters of recommendation for degree applications; Courant FAQ expects positive specific letters. Submit via GSAS online system (no Interfolio).
+- Statement of purpose: required — also known as statement of academic purpose — GSAS CS: Statement of Academic Purpose—past/present work, educational objectives, career goals, reasons for field and NYU GSAS; should not exceed two double-spaced pages.
+- Resume: required — GSAS Application Resource Center: résumé or curriculum vitae is a required component of a complete application.
+- Transcripts: required — Academic transcripts required per GSAS ARC complete-application list.
+- Interview: unknown — Interview not listed for MSCS on GSAS Computer Science program page (video statement noted as optional/highly recommended for Information Systems MS only).
+- Fee: $115 — waivers: See GSAS application-fee / aid policies on ARC; not detailed as CS-specific on program page. — GSAS application fee for most programs is $115 (Data Science $130; Math in Finance $150—not MSCS).
+- Other: Fall admission deadline Feb 12; Spring Nov 1 (GSAS CS page; 5 p.m. Eastern).
+- Other: Given URL current_mscsreq.html is degree/curriculum requirements (30/36-credit options, foundations)—not admissions checklist; admissions from GSAS ARC + Courant MS admissions FAQ.
+- Other: MSCS technical prereqs (FAQ): deep C; OOP (Java/C++); data structures; math (induction, asymptotics, probability, combinatorics, sets); Windows/Unix familiarity.
+- Other: Do not conflate with Tandon CS programs.
+
+Prefer GSAS Computer Science ARC + Courant MS admissions FAQ over the curriculum requirements URL for applicationRequirements.
+
+- [NYU GSAS Computer Science program requirements & deadlines](https://gsas.nyu.edu/admissions/arc/programs/computer-science.html)
+- [NYU GSAS Application Resource Center](https://gsas.nyu.edu/admissions/arc.html)
+- [NYU GSAS Letters of Recommendation](https://gsas.nyu.edu/admissions/arc/letters-of-recommendation.html)
+- [Courant Master's Program Admissions FAQs](https://cs.nyu.edu/dynamic/masters/prospective-overview/masters-program-admissions-faqs/)
+- [Courant MSCS degree requirements (curriculum; not admissions)](https://cs.nyu.edu/home/master/current_mscsreq.html)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

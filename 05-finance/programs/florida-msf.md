@@ -34,6 +34,32 @@ Estimate only: 32 graduate credits × $1,449.28 non-resident graduate rate (2026
 
 Application timing: Early application · August 30 (year within UF sophomore cycle — not a standalone Fall 2027 external deadline). Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: not_required — MSF Program does not require a GMAT nor GRE score. SAT/ACT from UF undergrad record are electronically accessible; minimum expected SAT combined math+reading 1350/1600 or ACT math 31/36.
+- GMAT: optional — Applicants may submit a GMAT score to enhance the application; any GMAT received is included in comprehensive review. Program does not require GMAT.
+- TOEFL: not_required — Applications sought only from current UF undergraduates; English proficiency not listed on MSF page for this pathway.
+- IELTS: not_required — Same as TOEFL — UF undergrad combo pathway only.
+- English waiver: N/A for eligible UF undergraduates (program does not admit external/international applicants).
+- GPA: required — minimum 3.6 — scale 4.0 — Keep overall GPA above a 3.6; minimum 3.6 overall GPA expected for application. Average application GPA for MSF classes of 2026 and 2027 was 3.91.
+- Letters of recommendation: required — count 2 — Two letters of recommendation emailed directly to Mrs. Hunt (Tayla.Hunt@warrington.ufl.edu) by recommenders.
+- Statement of purpose: required — also known as Statement of purpose — Statement of purpose describing chosen career path and firms of interest; focus on junior summer internship targets with accompanying Excel/Word table of firms, caliber criteria, and recruitment process.
+- Resume: required — Resume formatted for finance industry; must include all post-high school education and employment and ongoing international affiliations/research funding per Florida Statute.
+- Transcripts: required — UF transcripts available electronically to MSF Admissions Committee from Student Information System; applicants do not need to order/email transcripts.
+- Interview: by_invitation — Candidates selected to interview should demonstrate characteristics appropriate for graduate business courses and qualifications expected by firms in their statement of purpose.
+- Fee: MSF program page does not state an application fee. Warrington specialized master's materials reference the UF Graduate School application; MBA section of masters-admissions page cites $30, but MSF combo page itself is silent.
+- Other: RESTRICTED: applications only sought from current UF undergraduates (combination bachelor's/master's).
+- Other: Pre-application form after first-year spring grades; full application in second year.
+- Other: SAT/ACT used from UF record (not GRE/GMAT).
+- Other: Complete required summer credits before third year; FIN/general business majors must complete 4000-level FIN prerequisites.
+
+External and international applicants are not eligible for classic florida-msf; see florida-msft (MS Finance and Technology) for an open path. Documented here for eligible UF undergrads only.
+
+- [MS Finance program / how to apply](https://warrington.ufl.edu/graduate/masters-finance/)
+- [Warrington Master's & MBA Admissions](https://warrington.ufl.edu/admissions-aid/masters-admissions/)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

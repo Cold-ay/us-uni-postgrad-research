@@ -34,6 +34,33 @@ Estimate only (NOT a published flat sticker): non-resident Tier 2 tuition+mandat
 
 Application timing: Fall admission (Graduate School) · 2027-05-15 · Department page: Grad School sets May 15 for Fall; advises intl to apply ~10 months early. Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: unknown — Department page discusses GMAT (target 600) and a Fall 2021 GMAT waiver for well-qualified candidates (>3.5 GPA + good references). GRE not mentioned on department MS Finance page; Graduate School says aptitude tests are department-determined.
+- GMAT: required — min 600 — Department targets GMAT 600+ (code 6373) with balanced verbal/quant. Page still states: For Fall 2021, GMAT waived for well-qualified candidates (>3.5 GPA and good references)—reconfirm whether waiver remains for Fall 2027. Holistic review of full package.
+- TOEFL: required — min 79 — Department: TOEFL ≥550 PBT / 213 CBT / 79 iBT (code 6373). Graduate School also accepts IELTS 6.5, PTE 59, Duolingo 110, Michigan English Test 53.
+- IELTS: required — min 6.5 — Graduate School international admissions minimum IELTS 6.5 (department page only cites TOEFL explicitly).
+- English waiver: Exempt if native English and/or educated in U.S. or listed English-official countries per LSU Graduate School international page; bachelor’s from accredited U.S. institution.
+- GPA: recommended — minimum 3.2 — scale 4.0 — Department targets ~3.2 undergrad GPA. Graduate School requires ≥3.0 undergrad (and ≥3.0 on any completed graduate work).
+- Letters of recommendation: required — Letters of recommendation required (important for success assessment); no specific count or form stated on department page—use letterhead. Confirm count in Grad School application portal.
+- Statement of purpose: required — also known as Statement of purpose — Statement of purpose on Grad School application must include career goal and reasons for MS Finance (used to tailor program of study).
+- Resume: required — Résumé listed among materials to send / Grad School requires CV/resume with application.
+- Transcripts: required — Transcripts via Pinkie Gordon Lane Graduate School; unofficial OK for review, official for enrollment. International: official transcripts + degree certificates + certified translations.
+- Interview: unknown — Interview not stated on department MS Finance admissions section.
+- Fee: $50 — waivers: Limited domestic waivers (service orgs, need-based, military); international applicants do not qualify for Grad School fee waivers. — $50 domestic/permanent resident; $70 international; nonrefundable; per application.
+- Other: Work experience encouraged but not required.
+- Other: Undergrad should approximate business core (calc, micro/macro, accounting year, stats through regression, business law, marketing, management, finance, production/OR) + office software proficiency.
+- Other: Small program (~25 census; ~5–10 admits/semester); fall and spring entry.
+- Other: Fall 2021 GMAT-waiver wording on live page may be stale—email finance@lsu.edu / advisor before relying on it.
+
+Treat GMAT as expected unless department confirms current waiver. Apply early (intl advised ~10 months ahead; Grad School Fall intl deadline May 1 university-level / department cites May 15).
+
+- [MS Finance department admissions](https://www.lsu.edu/business/finance/master-finance.php)
+- [Graduate School before you apply / fee](https://www.lsu.edu/graduateschool/admissions/before_you_apply.php)
+- [International admissions / English](https://www.lsu.edu/graduateschool/admissions/international_admissions.php)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

@@ -34,6 +34,34 @@ UCSB Graduate Division 2026–27 Quarterly Fees: Nonresident yearly total $40,98
 
 Application timing: Fall 2027 final — 16 Dec 2026 (Wednesday). Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: not_accepted — CS department does not require GRE and is prohibited from reviewing GRE scores for any applicants; do not upload GRE scores.
+- GMAT: not_required — GMAT not part of UCSB CS graduate admissions materials.
+- TOEFL: required — min 5 — CS department minimum TOEFL iBT total 5.0 (new scale, exams on/after 2026-01-21) or 100 (exams before 2026-01-21); higher than UCSB university minimum 4.0/80. Institution code 4835.
+- IELTS: required — min 7 — IELTS Overall Band 7 (department/Grad Division CS listing).
+- English waiver: Exempt if completed undergraduate or graduate degree at an institution where verified sole official language of instruction is English (U.S. regionally accredited or WHED sole-English listing). DET also accepted: CS department minimum 130 (university minimum 120).
+- GPA: required — minimum 3 — scale 4.0 — Minimum 3.0 cumulative undergraduate GPA; non-4.0 scales re-calculated in context during review. Bachelor's in science, engineering, or mathematics required by department.
+- Letters of recommendation: required — count 3 — Three letters of recommendation submitted online via Grad Division application.
+- Statement of purpose: required — also known as Statement of Purpose; Personal History Statement — Statement of Purpose (academic/research background and interests) plus separate Personal History Statement (minimum 250 words, narrative form, no duplication of SoP).
+- Resume: required — Resume or CV submitted in online application (Grad Division CS checklist).
+- Transcripts: required — Unofficial transcripts from all post-secondary institutions uploaded online; official/final required after SIR if admitted.
+- Interview: unknown — Interview not listed on CS How to Apply or Grad Division CS requirements pages.
+- Fee: $135 — waivers: Fee waiver request available via Grad Division for eligible applicants after Academic Program and Citizenship pages; see Requesting an Application Fee Waiver. — $135 U.S. citizens/permanent residents; $155 all other applicants. Non-refundable.
+- Other: Fall-only admissions (deadline listed on Grad Division CS directory; Dec 15 cycle commonly posted—confirm live directory for Fall 2027).
+- Other: Duolingo English Test accepted (CS minimum 130).
+- Other: External MS open; Five-Year MS is current UCSB undergraduates only.
+- Other: PhD Application Support Program is PhD-focused; MS uses standard Grad Division portal.
+
+Prefer Grad Division CS department directory + CS How to Apply over degree-requirements-only masters page. GRE uploads will not be reviewed.
+
+- [UCSB CS How to Apply](https://cs.ucsb.edu/education/graduate/how-to-apply)
+- [UCSB Grad Division Computer Science program requirements](https://www.graddiv.ucsb.edu/graduate-programs/departments/computer-science)
+- [UCSB Grad Division How to Complete Online Application (fee/English)](https://www.graddiv.ucsb.edu/admissions/how-complete-online-application)
+- [UCSB CS Master's Degree (curriculum; not admissions checklist)](https://www.cs.ucsb.edu/education/graduate/masters-degree)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

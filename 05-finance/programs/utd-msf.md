@@ -34,6 +34,33 @@ Published $50,000 (OOS) / $35,000 (TX resident) are total tuition and fees for t
 
 Application timing: Flex — Fall regular · 2027-05-01. Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: optional — GMAT/GRE not required; optional submission. Score used only if provided. GRE school code R6897.
+- GMAT: optional — Optional; use listed GMAT program codes when submitting.
+- TOEFL: required — min 80 — International applicants: TOEFL minimum 80 iBT; score ≤2 years from application date. Institutional code 6897 (FAQ).
+- IELTS: required — min 6.5 — IELTS minimum 6.5. Also accepts PTE minimum 67.
+- English waiver: Waived if bachelor's or master's earned through instruction/examination in English, or native country's primary language is English (UTD list). U.S. degree holders waived.
+- GPA: recommended — scale 4.0 — No hard minimum published. Cumulative GPA used in holistic review; currently average admitted GPA is 3.3 (FAQ / MS admissions).
+- Letters of recommendation: required — count 1 — MS Finance FAQ and MS Finance Cohort page: one letter of recommendation (professional; no specific format). Note: general Jindal MS Programs Admission page states three LORs (or one if ≥2 years post-baccalaureate experience) — program-specific MS Finance materials say one.
+- Statement of purpose: required — also known as Personal objectives statement — Personal objectives statement — one-page typed essay outlining academic interests and goals (cohort page: one-page typed; general MS page: one-page double-spaced).
+- Resume: required — Detailed résumé of work history; work experience not required for MS degrees.
+- Transcripts: required — Official transcripts from all colleges/universities; international degree certificate if applicable. Unofficial OK for decision; official before enrollment.
+- Interview: unknown — Interview not mentioned on MS Finance FAQ or Cohort application section.
+- Fee: $75 — waivers: UT Dallas students/alumni automatic waiver; military and listed Graduate Application Fee Waiver Program (U.S. citizens/PRs) per Graduate Admissions deadlines-and-fees page. — $75 non-refundable via application/Applicant Portal (UTD Graduate Admissions).
+- Other: Calculus knowledge required for MS Finance; OPRE 6303 available if missing.
+- Other: Fall deadline May 1 (FAQ); Cohort page notes Apr 30 foreign / May 31 domestic for cohort track — confirm track.
+- Other: Also accepts PTE (min 67).
+
+International: submit English scores and credentials early; May 1 fall deadline (or cohort foreign Apr 30). STEM program; ISSO handles I-20.
+
+- [MS Finance FAQ](https://jindal.utdallas.edu/ms-finance-faq/)
+- [MS Finance Cohort application](https://fin.utdallas.edu/ms-finance-cohort/)
+- [Jindal MS Programs Admission](https://jindal.utdallas.edu/admission-requirements/masters/)
+- [UTD Graduate Admissions deadlines and fees](https://graduate-admissions.utdallas.edu/apply-to-ut-dallas/deadlines-and-fees/)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

@@ -34,6 +34,31 @@ Mandatory fees reference: $8,483. TritonLink 2025–26 Rady MQF campus/registrat
 
 Application timing: Round 1 · 2026-10-15. Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: required — GRE or GMAT required; application incomplete until scores verified. GRE code 4836. Waiver consideration if: bachelor’s from accredited U.S. university physically in U.S.; quantitative major; college Calculus with A/B (not Pass); cumulative GPA ≥3.00/4.00 (below 3.00 exceptional only). Request to MQF@rady.ucsd.edu with transcripts+resume.
+- GMAT: required — GMAT or GRE required. GMAT code 3NS-ZK-27. Single-sitting GMAT considered; Superscore may be supplemental. Same U.S.-degree waiver criteria as GRE.
+- TOEFL: required — min 85 — University-wide TOEFL iBT minimum 85 (new scale 4.5); Rady competitive scores above 100. Institution code 4836. MyBest not accepted. DET min 120; PTE Academic min 65 also accepted.
+- IELTS: required — min 7 — IELTS Academic Band 7 minimum. Official results from test center to Rady/UCSD.
+- English waiver: Exempt if bachelor’s/master’s/doctoral with grades B (3.0)+ from regionally accredited U.S. institution with English sole instruction, or foreign institution listed in WHED as English sole language of instruction. No other documentation substitutes for WHED.
+- GPA: recommended — minimum 3 — scale 4.0 — No hard MQF GPA floor stated for admission; GRE/GMAT waiver requires ≥3.00 cumulative undergrad GPA. Calculus (B+) required background; Linear Algebra (B+) highly recommended.
+- Letters of recommendation: optional — Recommendations not required; applicants without one not disadvantaged. Optional if recommender adds meaningful context.
+- Statement of purpose: optional — also known as Statement of Purpose — Statement of Purpose optional; ≤500 words, double-spaced, 12-pt. Why good MQF candidate and how Rady features benefit career; other academic/personal info welcome.
+- Resume: required — Up-to-date resume/CV; highlight quantitative/technical prep, coursework, MOOCs, research, programming, portfolios (e.g. GitHub), internships.
+- Transcripts: required — Unofficial PDF transcripts (front/back) in application; official after offer. International: certified English translation; admitted internationals must submit WES or TEC course-by-course evaluation after provisional admission.
+- Interview: by_invitation — Interviews required for admission and by invitation only; online asynchronous platform; live interview reserved in some cases. Reviewed 4–8 weeks after complete application.
+- Fee: $150 — $150 non-refundable for all applicants; credit card online or check (app held until check received).
+- Other: Strong quant foundation required; high GRE/GMAT quant expected.
+- Other: Programming/stats experience favorably considered (Python, SAS, STATA, MatLab, R, etc.).
+- Other: Fall 2027 rounds posted on admissions page (R1 Oct 15, 2026 through R5 Jul 15, 2027 domestic).
+
+Do not rely on optional SoP/LOR alone if quant evidence is thin—submit strong GRE/GMAT unless clearly waiver-eligible. Round 4 is fellowship & international deadline.
+
+- [MQF admissions](https://rady.ucsd.edu/programs/master-quantitative-finance/admissions/)
+- [MQF program hub](https://rady.ucsd.edu/programs/master-quantitative-finance/)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

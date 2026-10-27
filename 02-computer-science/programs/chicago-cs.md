@@ -34,6 +34,34 @@ UChicago MPCS Tuition & Fees 2026–2027: estimated total tuition 9-Course MS $6
 
 Application timing: Autumn 2027 Full-Time MPCS: R1 2 Nov 2026 · R2 1 Feb 2027 · R3 3 May 2027 · all 11:59 p.m. CT. Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: optional — GRE not required; optional and may strengthen application especially without CS/math/related academic or professional background. Strong applicants often ≥50th %ile Verbal and ≥80th %ile Quant (admissions overview). School code 1832. Expired scores not accepted.
+- GMAT: optional — GMAT optional alternative to GRE; code H9x-WG-56 (MPCS). Same guidance as GRE for non-technical backgrounds.
+- TOEFL: required — min 100 — If no waiver: TOEFL iBT. UChicagoGRAD required scores for Computer Science (MS): 100 total (pre–Jan 21 2026 scale) / 5.0 overall (on/post–Jan 21 2026). Institution 1832.
+- IELTS: required — min 7 — IELTS Academic for Computer Science (MS): 7.0 overall (UChicagoGRAD required-scores table).
+- English waiver: Primary-language attestation or education waiver: ≥1 full academic year in last 10 years as full-time degree-seeking student at accredited English-medium post-secondary in listed countries/territories (e.g., US, UK, Canada, Australia, Singapore, Ireland, etc.). System auto-applies if criteria met. Duolingo not accepted.
+- GPA: not_stated — No numeric minimum GPA on MPCS application-requirements materials; holistic review.
+- Letters of recommendation: required — count 2 — Two letters required (academic or professional); encourage technical/quantitative examples; letterhead and professional/university email preferred. Application not reviewed until both submitted.
+- Statement of purpose: required — also known as Short essay questions / short essay responses — Short essay responses required in application.
+- Resume: required — Current resume or CV required.
+- Transcripts: required — Unofficial transcripts from all colleges/universities attended, whether or not a degree was awarded.
+- Interview: unknown — Interview not listed on MPCS application-requirements materials.
+- Fee: $90 — waivers: May qualify for PSD fee waivers; see Physical Sciences Division fee-waiver policy. — Non-refundable $90 application fee.
+- Other: Autumn 2027 FT rounds: Nov 2 2026; Feb 1 2027; May 3 2027 (11:59pm CT)
+- Other: Joint MBA/MPCS and 4+1 have different requirements
+- Other: Part-time available (no student-visa sponsorship for part-time)
+
+GRE/GMAT optional≠waived—helpful if non-CS background. Confirm live application-requirements URL (site paths have shifted).
+
+- [MPCS application requirements (search/official)](https://masters.cs.uchicago.edu/application-requirements/)
+- [MPCS admissions hub](https://masters.cs.uchicago.edu/mpcs-admissions/)
+- [MPCS deadlines Autumn 2027](https://masters.cs.uchicago.edu/application-deadlines/)
+- [UChicagoGRAD English required scores (CS MS)](https://grad.uchicago.edu/admissions/apply/english-language-requirements/required-scores/)
+- [UChicagoGRAD English proficiency / waivers](https://grad.uchicago.edu/admissions/apply/english-language-requirements/)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

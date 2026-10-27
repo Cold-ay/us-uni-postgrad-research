@@ -34,6 +34,33 @@ UNC Cashier Graduate and Professional Tuition and Fees Fall 2026–Spring 2027: 
 
 Application timing: Final 9 Mar 2027 · Fellowship recommend 15 Dec 2026 · RA/TA recommend 5 Jan 2027 (MS/PhD Fall only). Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: optional — GRE not required but recommended; no penalty for omitting scores; no minimum GRE score. Holistic review.
+- GMAT: not_required — GMAT not part of UNC CS graduate admissions materials.
+- TOEFL: required — min 90 — Graduate School recommended minimum TOEFL iBT 90 (tests before 2026-01-26) or 5 (tests on/after 2026-01-26). Code 5816. Required for international applicants unless exemption. CS FAQ: no score automatically disqualifies review.
+- IELTS: required — min 7 — Graduate School recommended minimum IELTS 7; Duolingo English Test also accepted (recommended minimum 110).
+- English waiver: Exemptions for applicants from sole-official-English countries (listed); degree from accredited U.S. university; or degree from university where English is sole language of instruction with official verification (see Grad School Instructions).
+- GPA: required — minimum 3 — scale 4.0 — Graduate School minimum: bachelor's (four-year or equivalent) and average grade of B (cumulative GPA 3.0) or better.
+- Letters of recommendation: required — count 3 — Three current letters via Grad School application (email addresses of recommenders required).
+- Statement of purpose: required — also known as Statement of Purpose — 1–2 pages: objectives; CS fields of interest; relevant qualifications not elsewhere; titles for vague transcript courses; list of courses taken/planned not yet on transcript.
+- Resume: required — Resume/CV with degrees, work/volunteer, research, publications, awards; optional international standardized tests (e.g., GATE) may be listed.
+- Transcripts: required — Unofficial transcripts from each university attended uploaded in application; official only if admitted.
+- Interview: unknown — CS admissions pages do not list a required interview; Grad School notes some programs may require on-site pre-admission interview—CS MS not specified.
+- Fee: $95 — waivers: Grad School fee waiver categories available; request within online application with documentation. — Non-refundable $95.00 per program. Fall-only CS entry. Deadlines for Fall 2027 cycle posted: fellowship consideration Dec 15, 2026; RA/TA Jan 5, 2027; final Mar 9, 2027.
+- Other: Cannot apply for both MS and PhD in same semester.
+- Other: Select up to five Areas of Interest and list up to five faculty (or 'Any faculty').
+- Other: MS program page (cs.unc.edu/graduate/ms/) is degree requirements, not the admissions checklist.
+
+Use CS Graduate Admissions + UNC Grad School Instructions; confirm Fall 2027 deadline page for final dates.
+
+- [UNC CS Admission to Graduate Programs](https://cs.unc.edu/graduate/graduate-admissions/)
+- [UNC CS Admissions Deadline](https://cs.unc.edu/graduate/graduate-admissions/admissions-deadline/)
+- [UNC CS Graduate Admissions FAQ](https://cs.unc.edu/graduate/graduate-admissions/admissions-faq/)
+- [UNC Graduate School Instructions for Graduate Applicants](https://gradschool.unc.edu/admissions/instructions/)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

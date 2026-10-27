@@ -34,6 +34,32 @@ Mandatory (2026–27 Stuart schedule): Activity Fee FT grad $125/semester; Stude
 
 Application timing: Fall — Priority 1 · 2027-01-31 · Summer term unconfirmed for Stuart MSF. Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: not_required — Program page: No GMAT or GRE scores required. University graduate checklist: master’s applicants may optionally submit GRE.
+- GMAT: not_required — Program page: No GMAT or GRE scores required.
+- TOEFL: required — min 80 — International: TOEFL iBT 80+ (pre-Jan 21, 2026: 80 overall with 15 each subsection; on/after Jan 21, 2026: 4.5 overall with 4.5 each subsection). Conditional admission possible below minima.
+- IELTS: required — min 6.5 — IELTS 6.5 overall with 6.0 each subsection. DET 115 overall (110 each subsection) also accepted.
+- English waiver: Degree from listed English-speaking countries with ≥2 years attendance; intensive English (ELS 112 / NCUK EAP); or 60 semester hours at U.S. institution within last 36 months (per IIT English page pathways).
+- GPA: required — minimum 3 — scale 4.0 — Official transcripts with minimum cumulative undergrad GPA 3.0/4.0 for regular admission (program and university).
+- Letters of recommendation: required — count 1 — Program page silent on LOR count; Illinois Tech graduate checklist: most master’s require one letter (up to three). Contact Graduate Admission to confirm Stuart MS Finance exact count.
+- Statement of purpose: required — also known as Statement of purpose / Professional statement — One-page statement of purpose with goals and objectives (program page). University portal may also prompt short professional-statement questions (~150–200 words).
+- Resume: required — All Illinois Tech graduate applicants required to submit a résumé (university checklist).
+- Transcripts: required — Official transcript submission; scan official PDFs of all post-secondary institutions; degree certificate if completed.
+- Interview: unknown — Interview not listed on MS Finance program admissions requirements.
+- Fee: $100 — waivers: Current Illinois Tech students or alumni eligible for fee waiver via enrollment history on application. — Graduate application fee $100 (credit card only); exceptions for Design/Law/IELP.
+- Other: Completed online application required.
+- Other: STEM-designated; on-campus Chicago.
+- Other: Catalog notes LORs strongly encouraged for master’s even where optional by unit—confirm Stuart expectation.
+
+Program explicitly drops GRE/GMAT; emphasize quant coursework and SoP. Confirm whether Stuart requires the default 1 LOR.
+
+- [Finance MS program / admissions](https://www.iit.edu/academics/programs/finance-ms)
+- [Graduate admission checklist](https://www.iit.edu/admissions-aid/graduate-admission/domestic-students/admission-requirements-and-checklist)
+- [International English requirements](https://www.iit.edu/admissions-aid/graduate-admission/international-students/admission-and-english-language-requirements)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

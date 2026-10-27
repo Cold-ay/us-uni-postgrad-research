@@ -34,6 +34,35 @@ Student Health Plan (SHP) fee $4,220 AY; tuition+SHP total $69,430 per year (Gra
 
 Application timing: Fall 2027 application deadline · 2026-12-15 · 11:59 p.m. Eastern. Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: optional — GRE General Test optional/not required for Finance field (AY 2026–27). Code 2672; no department code.
+- GMAT: optional — GMAT accepted instead of GRE; optional/not required. Code WC1-L5-59.
+- TOEFL: required — Required if primary language is not English and no exemption. Grad School sets no overall minimum; department-specific mins not listed on Finance field page. TOEFL iBT (center or Home); institution 2672.
+- IELTS: required — IELTS Academic (incl. Online) accepted; Indicator and One Skill Retake not accepted. No overall Grad School minimum stated.
+- English waiver: Exempt if primary language is English; or undergrad instruction entirely in English with degree before enrollment; or ≥2 academic years full-time graduate study entirely in English as of application open. DET also accepted. BCF page: required unless undergrad entirely in English or ≥1 year full-time graduate instruction entirely in English.
+- GPA: not_stated — No minimum GPA stated on BCF apply or Grad School Finance field pages.
+- Letters of recommendation: required — count 3 — Three required. With ≥2 years FT work: two may be employers, at least one academic. Without FT work: two academic references required. Grad field page notes one may be from current/former employer.
+- Statement of purpose: required — also known as Personal statement / academic statement of purpose — Personal statement and academic statement of purpose required (per BCF apply page). Grad School also lists Academic Statement of Purpose and Personal Statement as application elements.
+- Resume: required — Resume/CV listed among Grad School application elements (employment, service, education, honors, activities).
+- Transcripts: required — Academic transcripts including math courses taken. Upload via Grad School application; Finance Course List also required.
+- Interview: unknown — Interview not described on BCF apply or Grad School Finance field pages as of scrape.
+- Fee: $90 — waivers: See Grad School application fee / waiver pages (not fully scraped this pass). — Fee $90 per Grad School Finance field page.
+- Other: Apply via Princeton Graduate School portal
+- Other: Finance (FIN) Course List required in application
+- Other: Statement of Financial Resources required
+- Other: Fall 2027 deadline Dec 15, 2026 11:59pm EST
+- Other: Responses by March 15; reply by April 15
+
+Intl: plan TOEFL/IELTS/DET early; scores must be valid as of application open (Fall 2026+ policy). Highly selective (~40 of 800+). Strong math/quant prep. Iran residency OFAC note on Grad School eligibility page (as of Aug 24, 2026).
+
+- [BCF Apply](https://bcf.princeton.edu/academic-programs/master-in-finance/apply-for-the-master-in-finance-program/)
+- [Grad School Finance field](https://gradschool.princeton.edu/academics/degrees-requirements/fields-study/finance)
+- [English proficiency](https://gradschool.princeton.edu/admission-onboarding/prepare/english-proficiency)
+- [Prepare application](https://gradschool.princeton.edu/admission-onboarding/prepare)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.
