@@ -55,7 +55,7 @@ function statusHtml(status) {
 
 function detailSpan(detail) {
   if (!detail) return '';
-  return ` <span translate="no">${esc(detail)}</span>`;
+  return ` <details class="req-detail"><summary>Conditions &amp; documents</summary><p translate="no" lang="en">${esc(detail)}</p></details>`;
 }
 
 function extra(text) {
@@ -64,7 +64,7 @@ function extra(text) {
 
 function row(label, body) {
   if (!body) return '';
-  return `<dt>${esc(label)}</dt><dd>${body}</dd>`;
+  return `<div class="req-row"><dt>${esc(label)}</dt><dd>${body}</dd></div>`;
 }
 
 function minScore(field) {
@@ -79,13 +79,13 @@ function testRow(label, field) {
 
 function examLine(label, field) {
   if (!field) return '';
-  return `<p><strong>${esc(label)}</strong> ${statusHtml(field.status)}${minScore(field)}${detailSpan(field.detail)}</p>`;
+  return `<div class="req-exam"><strong>${esc(label)}</strong> ${statusHtml(field.status)}${minScore(field)}${detailSpan(field.detail)}</div>`;
 }
 
 function englishRow(english) {
   if (!english) return '';
   const parts = [examLine('TOEFL', english.toefl), examLine('IELTS', english.ielts)];
-  if (english.waiver) parts.push(`<p><strong>Waiver</strong> <span translate="no">${esc(english.waiver)}</span></p>`);
+  if (english.waiver) parts.push(`<div class="req-exam"><strong>Waiver</strong>${detailSpan(english.waiver)}</div>`);
   const body = parts.filter(Boolean).join('');
   return row('English', body);
 }
@@ -116,13 +116,13 @@ function feeAmount(amountUsd) {
 
 function feeRow(field) {
   if (!field) return '';
-  const waivers = field.waivers ? extra(`Fee waivers <span translate="no">${esc(field.waivers)}</span>`) : '';
+  const waivers = field.waivers ? `<details class="req-detail"><summary>Fee waivers</summary><p translate="no" lang="en">${esc(field.waivers)}</p></details>` : '';
   return row('Fee', `${feeAmount(field.amountUsd)}${waivers}${detailSpan(field.detail)}`);
 }
 
 function otherRow(items) {
   if (!Array.isArray(items) || !items.length) return '';
-  return row('Other requirements', `<ul>${items.map(item => `<li translate="no">${esc(item)}</li>`).join('')}</ul>`);
+  return row('Other requirements', `<details class="req-detail"><summary>Additional materials &amp; prerequisites</summary><ul>${items.map(item => `<li translate="no" lang="en">${esc(item)}</li>`).join('')}</ul></details>`);
 }
 
 function adviceRow(advice) {
@@ -141,7 +141,7 @@ function sourcesRow(sources) {
   if (!Array.isArray(sources)) return '';
   if (!sources.length) return row('Sources', NO_SOURCES);
   const links = sources.map(entry => Array.isArray(entry) ? sourceLink(entry[0], entry[1]) : '').filter(Boolean);
-  return row('Sources', links.length ? `<div class="source-links">${links.join('')}</div>` : NO_SOURCES);
+  return row('Sources', links.length ? `<details class="req-detail"><summary>View official sources <span translate="no">(${links.length})</span></summary><div class="source-links">${links.join('')}</div></details>` : NO_SOURCES);
 }
 
 function asOfRow(asOf) {
@@ -178,5 +178,20 @@ export function applicationRequirementsSection(program) {
   const fixture = containsFixture(req)
     ? '<p class="limit" translate="no">SCHEMA FIXTURE — replace with brief research. Placeholder statuses are not published admissions facts.</p>'
     : '';
-  return `<section class="application-requirements" aria-labelledby="application-requirements-heading">${fixture}<h3 id="application-requirements-heading">Application requirements</h3><p class="limit">${DISCLAIMER}</p><dl class="policy-facts">${rows}</dl></section>`;
+  return `<section class="application-requirements" aria-labelledby="application-requirements-heading">${fixture}<header class="req-header"><h3 id="application-requirements-heading" tabindex="-1">Application requirements</h3><span class="pill">Fall 2027</span></header>${program.short?`<p class="req-program">${esc(program.short)} · ${esc(program.degree||'')}</p>`:''}${program.availability?`<p class="req-route">${esc(program.availability)}</p>`:''}${program.deadline?`<p class="req-deadline"><strong>Application deadline</strong> ${esc(program.deadline)}</p>`:''}<p class="req-intro">Test alternatives, waiver conditions and document instructions are available within each item. Research details retain their original language.</p><p class="limit">${DISCLAIMER}</p><dl class="req-list">${rows}</dl></section>`;
+}
+
+/** Compact requirements kept together in each program's comparison cell. */
+export function applicationRequirementsSummary(program) {
+ const req=program?.applicationRequirements;
+ if(!req)return '<p>Not verified</p>';
+ const line=(label,field,extraValue='')=>field?`<div><dt>${label}</dt><dd>${statusHtml(field.status)}${extraValue}</dd></div>`:'';
+ return `<div class="req-summary"><dl>${[
+  line('GRE',req.gre,minScore(req.gre)),line('GMAT',req.gmat,minScore(req.gmat)),
+  line('TOEFL',req.english?.toefl,minScore(req.english?.toefl)),line('IELTS',req.english?.ielts,minScore(req.english?.ielts)),
+  line('GPA',req.gpa,req.gpa?.minimum!=null?extra(`Minimum GPA ${esc(req.gpa.minimum)}${req.gpa.scale?` / ${esc(req.gpa.scale)}`:''}`):''),
+  line('LoR',req.lettersOfRecommendation,Number.isFinite(req.lettersOfRecommendation?.count)?extra(`Letter count ${req.lettersOfRecommendation.count}`):''),
+  line('SOP',req.statementOfPurpose),line('Resume',req.resume),line('Transcripts',req.transcripts),line('Interview',req.interview),
+  req.applicationFee?`<div><dt>Fee</dt><dd>${feeAmount(req.applicationFee.amountUsd)||'Not verified'}</dd></div>`:''
+ ].join('')}</dl><p class="limit">Test alternatives and waivers: see full requirements.</p><button class="button secondary" data-requirements="${esc(program.id)}">View full requirements ↗</button></div>`;
 }

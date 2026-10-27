@@ -177,9 +177,28 @@ test('locale keys cover application requirement labels in both Chinese dictionar
   assert.notEqual(dictionaries['zh-Hant'].Optional, dictionaries['zh-Hant'].Waived);
 });
 
-test('compare view does not gain an application requirements column', () => {
+test('compare view keeps requirements together in one comparison row', () => {
   const app = readFileSync(new URL('../dist/app.js', import.meta.url), 'utf8');
   const compare = app.slice(app.indexOf('function showCompare'), app.indexOf('function policySourceLabel'));
-  assert.doesNotMatch(compare, /applicationRequirements/);
+  assert.match(compare, /\['Application requirements',p=>applicationRequirementsSummary\(p\)\]/);
   assert.match(app, /applicationRequirementsSection\(p\)/);
+});
+
+test('every current program has one consolidated panel with expandable original research and a comparison summary', async()=>{
+ const { applicationRequirementsSummary }=await import('../dist/application-requirements.js');
+ for(const p of programs){
+  const html=applicationRequirementsSection(p);
+  assert.equal((html.match(/<section class="application-requirements"/g)||[]).length,1,p.id);
+  assert.match(html,/class="req-list"/);
+  assert.match(html,/class="req-detail"/);
+  assert.match(html,/lang="en"/);
+  assert.match(html,/Application deadline/);
+  const summary=applicationRequirementsSummary(p);
+  assert.ok(summary.includes(`data-requirements="${p.id}"`),p.id);
+  assert.doesNotMatch(summary,/id="application-requirements-heading"/);
+ }
+ const fee=applicationRequirementsSection(programs.find(p=>p.id==='washu-mba'));
+ assert.match(fee,/\$0/);
+ const closed=applicationRequirementsSection(programs.find(p=>p.id==='princeton-cs'));
+ assert.match(closed,/suspended/i);
 });

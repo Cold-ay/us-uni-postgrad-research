@@ -1033,7 +1033,14 @@ export const dictionaries = {
     "full-time business schools.": "所全日制 MBA 商學院。",
     "graduate departments, including cutoff ties. CS department rank does not rank the individual master’s route.": "個 CS 研究所系所，包含截止名次的並列學校。系所排名並非個別碩士途徑排名。",
     "programs in catalog (TFE Times ranks 1–30 plus a separate QuantNet quant-mfe track).": "項金融課程（TFE Times 前 30 名 MSF、其他補充課程及獨立 QuantNet 量化金融／金融工程分類）。",
-    "Ranked-school coverage is complete through the cutoff for MBA and CS. MSF rows use TFE Times ranks 1–30. Quant/MFE is a separate QuantNet track and is not on that rank spine. Program research is preliminary: individual faculty, internship outcomes, scholarships and many tuition figures still need verification. Unknown costs never mean free tuition. 2027–28 prices are not assumed.": "MBA 和 CS 已完整收錄排名截止範圍的學校。MSF 使用 TFE Times 前 30 名；量化金融／金融工程另列 QuantNet 分類。課程研究仍屬初步：個別教授、實習成果、獎學金及部分學費仍待核實。費用不明不代表免學費，亦不推定 2027–28 年價格。"
+    "Ranked-school coverage is complete through the cutoff for MBA and CS. MSF rows use TFE Times ranks 1–30. Quant/MFE is a separate QuantNet track and is not on that rank spine. Program research is preliminary: individual faculty, internship outcomes, scholarships and many tuition figures still need verification. Unknown costs never mean free tuition. 2027–28 prices are not assumed.": "MBA 和 CS 已完整收錄排名截止範圍的學校。MSF 使用 TFE Times 前 30 名；量化金融／金融工程另列 QuantNet 分類。課程研究仍屬初步：個別教授、實習成果、獎學金及部分學費仍待核實。費用不明不代表免學費，亦不推定 2027–28 年價格。",
+    "Conditions & documents": "條件與材料說明",
+    "Additional materials & prerequisites": "其他材料與先修要求",
+    "View official sources": "查看官方來源",
+    "Test alternatives, waiver conditions and document instructions are available within each item. Research details retain their original language.": "各項可展開查看考試替代關係、豁免條件及材料說明；研究細節保留原文。",
+    "Test alternatives and waivers: see full requirements.": "考試替代關係及豁免條件：請查看完整要求。",
+    "View full requirements ↗": "查看完整申請要求 ↗",
+    "Application requirements ↗": "申請要求 ↗"
   },
   "zh-Hans": {
     "$31,100 per fall/spring semester. The SCS budget lists $37,374 in additional annual items, including $1,500 in federal loan fees applicable to borrowers. Not every item is mandatory for every student. Full-degree cost is not yet verified.": "秋季／春季每学期 $31,100。SCS 预算另列每年 $37,374 的其他项目，包括适用于借款人的 $1,500 联邦贷款费。并非每项费用都适用于所有学生。整个学位总费用尚未核实。",
@@ -2068,6 +2075,13 @@ export const dictionaries = {
     "full-time business schools.": "所全日制 MBA 商学院。",
     "graduate departments, including cutoff ties. CS department rank does not rank the individual master’s route.": "个 CS 研究所系所，包含截止名次的并列学校。系所排名并非个别硕士途径排名。",
     "programs in catalog (TFE Times ranks 1–30 plus a separate QuantNet quant-mfe track).": "项金融课程（TFE Times 前 30 名 MSF、其他补充课程及独立 QuantNet 量化金融／金融工程分类）。",
-    "Ranked-school coverage is complete through the cutoff for MBA and CS. MSF rows use TFE Times ranks 1–30. Quant/MFE is a separate QuantNet track and is not on that rank spine. Program research is preliminary: individual faculty, internship outcomes, scholarships and many tuition figures still need verification. Unknown costs never mean free tuition. 2027–28 prices are not assumed.": "MBA 和 CS 已完整收录排名截止范围的学校。MSF 使用 TFE Times 前 30 名；量化金融／金融工程另列 QuantNet 分类。课程研究仍属初步：个别教授、实习成果、奖学金及部分学费仍待核实。费用不明不代表免学费，亦不推定 2027–28 年价格。"
+    "Ranked-school coverage is complete through the cutoff for MBA and CS. MSF rows use TFE Times ranks 1–30. Quant/MFE is a separate QuantNet track and is not on that rank spine. Program research is preliminary: individual faculty, internship outcomes, scholarships and many tuition figures still need verification. Unknown costs never mean free tuition. 2027–28 prices are not assumed.": "MBA 和 CS 已完整收录排名截止范围的学校。MSF 使用 TFE Times 前 30 名；量化金融／金融工程另列 QuantNet 分类。课程研究仍属初步：个别教授、实习成果、奖学金及部分学费仍待核实。费用不明不代表免学费，亦不推定 2027–28 年价格。",
+    "Conditions & documents": "条件与材料说明",
+    "Additional materials & prerequisites": "其他材料与先修要求",
+    "View official sources": "查看官方来源",
+    "Test alternatives, waiver conditions and document instructions are available within each item. Research details retain their original language.": "各项可展开查看考试替代关系、豁免条件及材料说明；研究细节保留原文。",
+    "Test alternatives and waivers: see full requirements.": "考试替代关系及豁免条件：请查看完整要求。",
+    "View full requirements ↗": "查看完整申请要求 ↗",
+    "Application requirements ↗": "申请要求 ↗"
   }
 };
