@@ -68,6 +68,8 @@ export const programs = rankedSchools.map(row => {
     faculty: 'Individual faculty specialties and master’s supervision access have not yet been verified.',
     scholarships: [],
     availability: 'Route identified · 2027 eligibility to verify', availabilityType: 'verify',
+    // researchDetails wins by catalog id (deadline, applicationRequirements, …).
+    // Omit applicationRequirements — do not default an empty object; the dossier hides the section.
     ...seed, ...row, ...detail,
     summary: detail.academic || row.academic,
     tied: row.rank != null && rankedSchools.filter(p => p.area === row.area && p.rank === row.rank).length > 1,

@@ -54,3 +54,13 @@ Program profiles, scholarship summaries, comparison views and source guidance ar
 Scholarship region chips use the explicit `prcEligible`, `twEligible` and `hkEligible` fields. Missing or unrecognised values remain `unclear`; selecting a region defaults to `yes`. Multiple regions use a union, then intersect with status, type and trimmed multilingual search. Counts on region chips include all recorded statuses; the result count reflects active filters. Reset clears all filters. Loans remain a distinct funding type. Application closure follows the record's explicit `closed` wording, never its badge color; records are not reclassified as currently open from absence of a closed label.
 
 `programRanking()` supplies publisher, year and display group for cards, tables, details and comparison. Finance rows use TFE Times, Quant/MFE rows use QuantNet, and MBA/CS use U.S. News. Finance is split into separate display groups; sorting keeps each ranking together. Unknown ranks have no tie flag. QuantNet reproduction links are labelled IBKR Quant News to match the actual destination.
+
+## Application requirements
+
+Optional `applicationRequirements` on a `dist/research-details.js` entry, merged onto the program by catalog id the same way as `deadline`. The dossier section renders only when the object is present. `unknown` still shows, with a gap note. `optional` and `waived` stay distinct labels. Pure CS rows may omit `gmat`. Do not invent scores, fees, or cutoffs. There is no filter or comparison column for this field yet.
+
+Shape (omit keys that do not apply): `gre` / `gmat` `{ status, detail, minScore? }`; `english` `{ toefl, ielts, waiver? }`; `gpa` `{ status, minimum?, scale?, detail }`; `lettersOfRecommendation` `{ status, count?, detail }`; `statementOfPurpose` `{ status, detail, alsoKnownAs? }`; `resume` / `transcripts` `{ status, detail }`; `interview` `{ status, detail }`; `applicationFee` `{ amountUsd?, waivers?, detail }`; `other` string[]; `advice`; `sources` `[label, url][]`; `as_of` `YYYY-MM-DD`.
+
+Status values: GRE/GMAT `required|optional|waived|not_accepted|not_required|unknown`; English tests `required|optional|waived|not_required|unknown`; GPA `required|recommended|not_stated|unknown`; letters, statement, resume, and transcripts `required|optional|not_stated|unknown`; interview `required|by_invitation|not_used|unknown`.
+
+`mit-msf` holds a schema fixture only: every status is `unknown`, `sources` is empty, `as_of` is `2026-10-27`, and detail strings say `SCHEMA FIXTURE — replace with brief research`. That block is not live admissions data. Real Finance / MSF + Quant requirements land later, when brief JSON arrives under `brief-handoffs`.

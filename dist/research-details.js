@@ -1,4 +1,7 @@
 // Only sourced findings belong here. Missing values are explicitly rendered as unverified.
+// applicationRequirements is optional per catalog id (shape in dist/application-requirements.js
+// and DEVELOPMENT.md). Omit the object to hide the dossier section. unknown is a gap, not a
+// published rule. optional ≠ waived. Pure CS may omit gmat. Do not invent scores or cutoffs.
 const referenceCost = (tuition, url, detail, label = 'Academic-year tuition') => ({
   tuition, tuitionLabel: label, period: '2026–27',
   costNote: '2026–27 reference, not a Fall 2027 quote or full-degree total.',
@@ -1462,6 +1465,27 @@ export const researchDetails = {
       ['TFE Times 2026', 'https://tfetimes.com/best-finance-program-rankings/'],
     ],
     programUrl: 'https://mitsloan.mit.edu/mfin/admissions/how-to-apply',
+    // SCHEMA FIXTURE — not live MIT admissions facts. Replace when brief research lands.
+    applicationRequirements: {
+      gre: { status: 'unknown', detail: 'SCHEMA FIXTURE — replace with brief research' },
+      gmat: { status: 'unknown', detail: 'SCHEMA FIXTURE — replace with brief research' },
+      english: {
+        toefl: { status: 'unknown', detail: 'SCHEMA FIXTURE — replace with brief research' },
+        ielts: { status: 'unknown', detail: 'SCHEMA FIXTURE — replace with brief research' },
+        waiver: 'SCHEMA FIXTURE — replace with brief research',
+      },
+      gpa: { status: 'unknown', detail: 'SCHEMA FIXTURE — replace with brief research' },
+      lettersOfRecommendation: { status: 'unknown', detail: 'SCHEMA FIXTURE — replace with brief research' },
+      statementOfPurpose: { status: 'unknown', detail: 'SCHEMA FIXTURE — replace with brief research' },
+      resume: { status: 'unknown', detail: 'SCHEMA FIXTURE — replace with brief research' },
+      transcripts: { status: 'unknown', detail: 'SCHEMA FIXTURE — replace with brief research' },
+      interview: { status: 'unknown', detail: 'SCHEMA FIXTURE — replace with brief research' },
+      applicationFee: { detail: 'SCHEMA FIXTURE — replace with brief research' },
+      other: ['SCHEMA FIXTURE — replace with brief research'],
+      advice: 'SCHEMA FIXTURE — replace with brief research',
+      sources: [],
+      as_of: '2026-10-27',
+    },
   },
   'princeton-msf': {
     academic: 'Princeton M.Fin.: Fall 2027 apps open; deadline Dec 15, 2026 11:59pm ET. Four-semester curriculum + summer internship. AY 2026–27 tuition $65,210 (+ SHP $4,220).',
