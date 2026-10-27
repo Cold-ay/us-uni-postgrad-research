@@ -34,6 +34,35 @@ Nine-month, single-student budget: $130,318, excluding a $1,500 computer estimat
 
 Application timing: Round Two · 5 Jan 2027 · 12:00 p.m. ET (Class of 2029 / matriculating fall 2027; R1 passed). Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: required — Valid GRE or GMAT required from all applicants; no waivers under any circumstances; no minimum score; no preference between tests. Must take test before submitting application. Unofficial OK at submission; official score must be sent to HBS. Highest single sitting used if multiple.
+- GMAT: required — GMAT accepted equally with GRE; same no-waiver / no-minimum policy. Official scores required.
+- TOEFL: required — TOEFL, IELTS, PTE, or Duolingo required if undergraduate institution was not sole-English-instruction. No formal minimum to apply; Admissions Board discourages TOEFL below 5 (1–6 scale) or 109 (0–120), PTE below 75, Duolingo below 145. Official scores to HBS (TOEFL code 3444).
+- IELTS: required — IELTS accepted; discouraged below 7.5. No formal minimum. Official scores required.
+- English waiver: Not required if undergraduate institution’s sole language of instruction was English. Graduate degree taught in English: English test recommended but not required.
+- GPA: not_stated — Equivalent of U.S. bachelor’s required. No minimum GPA stated on application-process / international pages (FAQ lists GPA questions—confirm portal/FAQ answers if needed).
+- Letters of recommendation: required — count 2 — Two recommendations. Prefer one current/former supervisor. Prompts: compare applicant to well-qualified peers; most important constructive feedback given and applicant’s response. Due with application deadline; 48-hour grace for recommenders only.
+- Statement of purpose: required — also known as Essays / Post-MBA Goals / Post-Interview Reflection — Three short essays (Application Guide 2026–2027); exact word limits not printed on public Guide PDF—confirm in online application. Also Post-MBA Goals section. Post-interview written reflection required within 24 hours if interviewed.
+- Resume: required — Standard business resume or CV; simple format; minimize jargon. Employment section covers three most recent jobs (responsibilities, accomplishments, significant challenge). Up to three awards and three activities.
+- Transcripts: required — Upload transcripts from all undergrad/grad institutions where a degree was earned; unofficial OK for application. If admitted, official original-language transcripts + word-for-word English translations via WES.
+- Interview: by_invitation — 30-minute interview by invitation only with MBA Admissions Board member who reviewed the application; campus, hub cities, or Zoom. Invitation is positive interest but not admission guarantee. Post-interview reflection required within 24 hours.
+- Fee: $250 — waivers: Need-based waiver via request form after starting application. All active-duty military applicants do not pay. 2+2 deferred application fee $100 with same military/need-based waiver paths. — Nonrefundable $250 (credit card) for regular MBA application.
+- Other: Class of 2029 (matriculating fall 2027): Round One Sep 9 2026; Round Two Jan 5 2027 (submit by 12:00pm ET). Apply in one round only per year.
+- Other: 2+2 deferred: deadline Apr 28 2027; application opens Dec 2026.
+- Other: Strongly recommend ≥2 years full-time work experience by enrollment; college seniors use 2+2.
+
+No GMAT/GRE waivers. Essay word limits: confirm in apply portal (Guide says three short essays without numeric limits). Prefer application-process + Application Guide 2026–2027 PDF.
+
+- [Application dates (Class of 2029)](https://www.hbs.edu/mba/admissions/application-dates)
+- [Application process](https://www.hbs.edu/mba/admissions/application-process)
+- [International applicants / English](https://www.hbs.edu/mba/admissions/application-process/international-applicants)
+- [MBA Application Guide 2026–2027 PDF](https://apply.hbs.edu/www/documents/HBS%20MBA%20Application%20Guide%202026-2027.pdf)
+- [Contact / fee FAQ](https://apply.hbs.edu/register/ContactMBAAdmissions)
+- [Application Q&A blog (LOR count/waivers)](https://www.hbs.edu/mba/blog/answering-your-questions-about-the-hbs-mba-application)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

@@ -34,6 +34,33 @@ Three quarters / nine months, MBA Class of 2028 reference. Published estimated a
 
 Application timing: Round 2 · 7 Jan 2027 · 11:59 p.m. CT (Fall matriculation; R1 passed). Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: required — Valid GRE or GMAT required for most applicants (5-year validity; no superscores). Optional only if current UChicago undergraduate or graduate of a UChicago program. Outside that, FAQ: no waiver for any reason. GRE code 0685.
+- GMAT: required — GMAT/GMAT Focus accepted (code H9X-9F-34). Required except UChicago undergrad/alumni optional path. Official scores after admit/accept unless expiring sooner.
+- TOEFL: required — min 104 — When English proof required: TOEFL iBT pre–Jan 21 2026 ≥104 (PBT 600); on/post Jan 21 2026 minimum 5.0. Code 1832-02. No MyBest. Scores valid 2 years. Below-min applicants may still apply; admission contingent on demonstrated proficiency at interview or other language requirements.
+- IELTS: required — min 7 — IELTS Academic minimum overall 7 when English exam required. PTE 70 and Duolingo 135 also listed.
+- English waiver: Exempt if undergrad/postgrad degree from listed English-instruction countries (incl. U.S., UK, Ireland, Australia, NZ, Canada, Singapore, Hong Kong, South Africa, etc.); OR degree outside those countries where English was sole language of instruction (provide URL/documentation); OR living and working full time in U.S. ≥2 years. Citizenship alone does not exempt. Committee may still require a score.
+- GPA: not_stated — Undergraduate degree from accredited U.S. college/university or equivalent required; no published minimum GPA on requirements/how-to-apply pages.
+- Letters of recommendation: required — count 1 — One letter preferably from current supervisor; explain if unable. Online form only (no email/post/fax).
+- Statement of purpose: required — also known as Short answer prompts — Four required short-answer prompts (300 characters each): immediate post-MBA goal; long-term goal; upload image + significance; fun fact/unique about yourself. Optional clarification essay (max 300 words).
+- Resume: required — Professional resume highlighting experiences relevant to Full-Time MBA candidacy.
+- Transcripts: required — Unofficial scans (both sides) of all postsecondary institutions at apply; official after admission. Non-English: official record + authorized English translation. 3-year Bologna degrees accepted.
+- Interview: by_invitation — Invitation-only after application review; virtual interview required for admission (does not guarantee admit). Plus brief video simulation exercise with interview invitation.
+- Fee: $250 — waivers: Military; full-time undergrad (non-UChicago); government/nonprofit full-time; UChicago employee/student; prior-year FT MBA applicant; select Booth Admissions virtual event attendees before submit. Not need-based. Scholars fee waived. — $250 due at submission.
+- Other: Fall matriculation only; R1 Sep 15 2026 11:59pm CT; R2 Jan 7 2027; R3 Apr 1 2027; Booth Scholars Apr 1 2027
+- Other: STEM-eligible MBA for OPT purposes
+
+Assume GMAT/GRE required unless UChicago affiliate. English exam may be waived under published criteria—document medium of instruction if claiming. Interview + video sim are part of admit path.
+
+- [Admissions hub / deadlines](https://www.chicagobooth.edu/mba/full-time/admissions)
+- [How to apply checklist](https://www.chicagobooth.edu/mba/full-time/admissions/how-to-apply)
+- [Requirements](https://www.chicagobooth.edu/mba/full-time/admissions/requirements)
+- [International applicants / English mins](https://www.chicagobooth.edu/mba/full-time/admissions/international-students)
+- [Full-Time MBA FAQ](https://www.chicagobooth.edu/mba/full-time/faq)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

@@ -34,6 +34,32 @@ Fuqua Daytime MBA Tuition + Costs: for students beginning August 2026 (Class of 
 
 Application timing: Round 2 · 5 Jan 2027 (Daytime MBA 2026–2027 cycle; EA & R1 passed; clock time not on table). Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: required — Self-reported GMAT, GMAT Focus, GRE, or EA required (application lists self-reported test scores among materials). No minimum; valid 5 years; unofficial OK at apply, official upon admit. GRE code 5156 / dept 4201. No Daytime MBA test-waiver path described on Application Instructions. Include individual sittings plus any GMAT Superscore.
+- GMAT: required — GMAT/GMAT Focus/EA accepted (code Q13-N5-32). Same policy as GRE—required component; no published waiver for Daytime MBA.
+- TOEFL: not_required — Fuqua does not accept ESL test scores (TOEFL etc.); assesses English via other application components. Exception: dual MBA/MEM with Nicholas School requires ESL for the MEM side.
+- IELTS: not_required — ESL scores not accepted for Daytime MBA per Application Instructions / FAQ.
+- English waiver: N/A—ESL tests not used; proficiency judged holistically (and in interview conducted in English).
+- GPA: not_stated — Wide range of GPAs considered; no published minimum on Facts+Dates / Application Instructions.
+- Letters of recommendation: required — count 1 — One required recommendation via online forms only (new applicants). Prefer most recent professional setting. Optional bonus endorsements from Fuqua students/alumni (can unlock fee waiver if before pay).
+- Statement of purpose: required — also known as Short answer + essays — Required short answer (100 words: post-MBA career goals + alternate). Essay 1: 25 Random Things (≤2 pages / 750 words, numbered list). Essay 2: 3 ways you will contribute at Fuqua (≤1 page / 500 words). Optional circumstances essay ≤500 words.
+- Resume: required — Required one-page business resume in online application.
+- Transcripts: required — Legible unofficial transcripts for degree-granting and related coursework institutions; include courses/grades/degree/date; translate/attest if not English. Official after admit.
+- Interview: by_invitation — By invitation on rolling basis; all admitted applicants must interview. Alumni/staff/Admissions Fellows; on-campus (EA/R1/R2) or virtual; ~45–60 min; interviewer sees resume only. FAQ: interview required before offer.
+- Fee: $225 — waivers: Full waiver: campus visit/open house; International Applicant Symposium; Duke alumni; military; Peace Corps/AmeriCorps/TFA/Teach For All; listed partner orgs; Early Action round; UN LDC citizen; reapplicant ≤2 years; certain multi-day campus events. $75 discount: qualifying event attendance or Fuqua student/alumni endorsement before submit. — Nonrefundable $225 USD (Visa/MasterCard).
+- Other: Deadlines: Early Action Sep 2 2026 (binding); R1 Sep 30 2026; R2 Jan 5 2027; R3 Mar 25 2027
+- Other: International: apply EA/R1/R2 preferred for visas; FAQ also notes apply by R3 for visa processing
+- Other: Accelerated MBA: Rounds 1–3 only; Consortium Oct 15 & Jan 5
+
+Plan a GMAT/GRE/EA—no Daytime waiver published. Do not send TOEFL/IELTS for Daytime alone. Early Action is binding if admitted.
+
+- [Admissions Facts + Dates](https://www.fuqua.duke.edu/programs/daytime-mba/admissions-facts-dates)
+- [Application Instructions](https://www.fuqua.duke.edu/programs/daytime-mba/application-instructions)
+- [Daytime MBA FAQ](https://www.fuqua.duke.edu/programs/daytime-mba/faq)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

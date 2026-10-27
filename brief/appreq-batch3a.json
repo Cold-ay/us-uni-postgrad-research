@@ -1,0 +1,686 @@
+{
+  "batch": "appreq-batch3a",
+  "field": "applicationRequirements",
+  "degree": "mba",
+  "as_of": "2026-10-27",
+  "items": [
+    {
+      "id": "asu-mba",
+      "school": "Arizona State University (W. P. Carey)",
+      "program": "Full-time MBA",
+      "applicationRequirements": {
+        "gre": {
+          "status": "required",
+          "detail": "GMAT or GRE required; send official scores (GRE institution 4007; GMAT 0GZ-1R-80). ASU does not accept GRE General Test at-home. Case-by-case waiver: request via optional essay in application with justification (W. P. Carey Full-time MBA How to apply).",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "required",
+          "detail": "GMAT or GRE required (institutional code 0GZ-1R-80). Waiver eligibility via optional essay request; not an automatic/program-wide waiver.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": null,
+            "detail": "Required if native language is not English. W. P. Carey states graduate minimums may be higher than ASU general; exact Full-time MBA numeric mins not printed on program page. ASU Grad general (exams before Jan 21 2026): iBT 80; on/after Jan 21 2026: total 4. ASU does not accept TOEFL iBT Home/Paper Edition or Essentials for this WPC MBA page note (Home Edition accepted university-wide only for exams on/after Jan 21 2026 per Admission Services). Confirm current WPC MBA threshold with admissions."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": null,
+            "detail": "Accepted as proof of English proficiency when required. ASU Grad general Academic overall ≥6.5; W. P. Carey may set higher—exact Full-time MBA IELTS min not printed on program How-to-apply page."
+          },
+          "waiver": "ASU English proficiency exemptions apply (citizenship on ASU English-speaking country list; U.S. degree; medium-of-instruction documentation; other form-based exemptions on Admission Services English proficiency page). WPC Full-time MBA: international applicants follow same process as domestic plus English proof if required; after admission, visa/financial guarantee steps."
+        },
+        "gpa": {
+          "status": "required",
+          "minimum": 3.0,
+          "scale": 4.0,
+          "detail": "ASU Degree Search (BAFULLMBA): minimum cumulative GPA 3.00 (4.00 scale) in last 60 hours of first bachelor’s, or 3.00 in an applicable master’s."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 2,
+          "detail": "Degree Search requires two letters commenting on motivation, commitment, achievements, work experience, and success potential. Online application collects recommender contact (name, affiliation, work email)."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Admission essay / short essay responses in graduate application (personal statements not accepted). Degree Search: responses to short-answer questions.",
+          "alsoKnownAs": "Admission essay / short-answer questions"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Current resume with positions held and Month/Year employment dates."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Unofficial acceptable at application; if admitted, official transcripts from every college/university awarding bachelor’s or higher. ASU alumni need not resubmit ASU transcripts. International: original language + official English translation."
+        },
+        "interview": {
+          "status": "by_invitation",
+          "detail": "ASU Degree Search: personal interview arranged by invitation only must be completed before an offer of admission."
+        },
+        "applicationFee": {
+          "amountUsd": 70,
+          "waivers": "Military and Citizen Service fee waiver for U.S. Military, Teach for America, Peace Corps, or AmeriCorps—email wpcareymasters@asu.edu before submitting.",
+          "detail": "$70 domestic; $115 international (non-refundable). Applications not processed until fee received."
+        },
+        "other": [
+          "Fall 2027 rounds: R1 Oct 15 2026; R2 Dec 1 2026; R3 (Priority International) Feb 1 2027; R4 (Final) Apr 1 2027; rolling until Jul 15 2027",
+          "STEM-designated Full-time MBA; August start; ~21 months",
+          "Enrollment deposit $1,000 + matriculation fee $500 after admission"
+        ],
+        "advice": "Treat GMAT/GRE as required unless you document a strong waiver case in the optional essay. Confirm W. P. Carey–specific English score floors with admissions—program page says they may exceed ASU Grad mins but does not print the number. Interview is invitation-only before any offer.",
+        "sources": [
+          [
+            "Full-time MBA How to apply / deadlines",
+            "https://www.wpcarey.asu.edu/mba-programs/full-time"
+          ],
+          [
+            "ASU Degree Search BAFULLMBA admission requirements",
+            "https://degrees.asu.edu/masters-phd/major/ASU00/BAFULLMBA/w-p-carey-mba---full-time-program/"
+          ],
+          [
+            "ASU International graduate English proficiency",
+            "https://admission.asu.edu/apply/international/graduate/english-proficiency"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "berkeley-mba",
+      "school": "UC Berkeley (Haas)",
+      "program": "Full-time MBA",
+      "applicationRequirements": {
+        "gre": {
+          "status": "required",
+          "detail": "All candidates must take GMAT, GMAT Focus, or GRE before the round deadline. No minimum score; quantitative section emphasized. Fall 2027: official scores from exams on/after Oct 1 2021. GRE code 0574. No test-waiver path stated on Haas GMAT/GRE page.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "required",
+          "detail": "GMAT/GMAT Focus accepted (institution N2VPT47). Required with GRE as alternative; no minimum. Updated scores considered if received ≥2 weeks before round notification deadline.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": 90,
+            "detail": "If degree from country where primary official language is not English: TOEFL iBT former scale ≥90; new scale (post Jan 21 2026 framing on Haas language page) total ≥5 with Speaking/Writing ≥4.5. Fall 2027: exams on/after Jun 1 2025. Code 4833 dept 02. Preferred over IELTS."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": 7,
+            "detail": "Academic IELTS overall BAND ≥7 with Speaking/Writing ≥6.5. Fall 2027: exams on/after Jun 1 2025. Electronic from test center."
+          },
+          "waiver": "Exempt if degree from recognized institution in English-primary official language country (Haas lists many countries that do NOT qualify regardless of instruction language); OR ≥1 year full-time coursework with B or better at university in U.S./U.K./Australia/English-speaking Canada/Singapore (ESL/nonacademic/courses after apply excluded)."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "No published minimum GPA on Application page; class profile cites average ~3.65 as descriptive only."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 2,
+          "detail": "Two professional letters required; one from current direct supervisor."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Required video essay (1–2 min: introduce yourself; what makes you feel alive and why) plus written Essay #2 on post-MBA goals and Haas resources/adaptability (300 words). Optional Distance Traveled (300) and Optional Statement (300).",
+          "alsoKnownAs": "Video essay + written essays"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Current resume via online application; PDF preferred."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Transcripts from all undergraduate and graduate programs attended or attending."
+        },
+        "interview": {
+          "status": "by_invitation",
+          "detail": "Interviews by invitation only and required for an offer of admission."
+        },
+        "applicationFee": {
+          "amountUsd": 250,
+          "waivers": "Available for U.S. citizens/PR/DACA with AmeriCorps/Peace Corps/military or financial need (EFC); citizenship on African Continent; Haas Thrive Fellows. Request by 11:59 pm PST of round deadline.",
+          "detail": "Nonrefundable $250 payable in online application."
+        },
+        "other": [
+          "2026–27 deadlines: R1 Sep 10 2026 (decision Dec 10 2026); R2 Jan 7 2027 (Mar 25 2027); R3 Apr 1 2027 (May 6 2027)",
+          "GMAT/GRE/TOEFL must be taken on or before designated deadline"
+        ],
+        "advice": "No published GMAT/GRE waiver—plan to test. Video essay is required. Interview invitation is mandatory path to admission.",
+        "sources": [
+          [
+            "Admissions hub / deadlines",
+            "https://mba.haas.berkeley.edu/admissions"
+          ],
+          [
+            "Application checklist",
+            "https://mba.haas.berkeley.edu/admissions/application"
+          ],
+          [
+            "GMAT and GRE",
+            "https://mba.haas.berkeley.edu/admissions/gmat-and-gre"
+          ],
+          [
+            "Language proficiency",
+            "https://mba.haas.berkeley.edu/admissions/language-proficiency-requirements"
+          ],
+          [
+            "Essays 2026–27",
+            "https://mba.haas.berkeley.edu/admissions/essays"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "chicago-mba",
+      "school": "University of Chicago (Booth)",
+      "program": "Full-Time MBA",
+      "applicationRequirements": {
+        "gre": {
+          "status": "required",
+          "detail": "Valid GRE or GMAT required for most applicants (5-year validity; no superscores). Optional only if current UChicago undergraduate or graduate of a UChicago program. Outside that, FAQ: no waiver for any reason. GRE code 0685.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "required",
+          "detail": "GMAT/GMAT Focus accepted (code H9X-9F-34). Required except UChicago undergrad/alumni optional path. Official scores after admit/accept unless expiring sooner.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": 104,
+            "detail": "When English proof required: TOEFL iBT pre–Jan 21 2026 ≥104 (PBT 600); on/post Jan 21 2026 minimum 5.0. Code 1832-02. No MyBest. Scores valid 2 years. Below-min applicants may still apply; admission contingent on demonstrated proficiency at interview or other language requirements."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": 7,
+            "detail": "IELTS Academic minimum overall 7 when English exam required. PTE 70 and Duolingo 135 also listed."
+          },
+          "waiver": "Exempt if undergrad/postgrad degree from listed English-instruction countries (incl. U.S., UK, Ireland, Australia, NZ, Canada, Singapore, Hong Kong, South Africa, etc.); OR degree outside those countries where English was sole language of instruction (provide URL/documentation); OR living and working full time in U.S. ≥2 years. Citizenship alone does not exempt. Committee may still require a score."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "Undergraduate degree from accredited U.S. college/university or equivalent required; no published minimum GPA on requirements/how-to-apply pages."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 1,
+          "detail": "One letter preferably from current supervisor; explain if unable. Online form only (no email/post/fax)."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Four required short-answer prompts (300 characters each): immediate post-MBA goal; long-term goal; upload image + significance; fun fact/unique about yourself. Optional clarification essay (max 300 words).",
+          "alsoKnownAs": "Short answer prompts"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Professional resume highlighting experiences relevant to Full-Time MBA candidacy."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Unofficial scans (both sides) of all postsecondary institutions at apply; official after admission. Non-English: official record + authorized English translation. 3-year Bologna degrees accepted."
+        },
+        "interview": {
+          "status": "by_invitation",
+          "detail": "Invitation-only after application review; virtual interview required for admission (does not guarantee admit). Plus brief video simulation exercise with interview invitation."
+        },
+        "applicationFee": {
+          "amountUsd": 250,
+          "waivers": "Military; full-time undergrad (non-UChicago); government/nonprofit full-time; UChicago employee/student; prior-year FT MBA applicant; select Booth Admissions virtual event attendees before submit. Not need-based. Scholars fee waived.",
+          "detail": "$250 due at submission."
+        },
+        "other": [
+          "Fall matriculation only; R1 Sep 15 2026 11:59pm CT; R2 Jan 7 2027; R3 Apr 1 2027; Booth Scholars Apr 1 2027",
+          "STEM-eligible MBA for OPT purposes"
+        ],
+        "advice": "Assume GMAT/GRE required unless UChicago affiliate. English exam may be waived under published criteria—document medium of instruction if claiming. Interview + video sim are part of admit path.",
+        "sources": [
+          [
+            "Admissions hub / deadlines",
+            "https://www.chicagobooth.edu/mba/full-time/admissions"
+          ],
+          [
+            "How to apply checklist",
+            "https://www.chicagobooth.edu/mba/full-time/admissions/how-to-apply"
+          ],
+          [
+            "Requirements",
+            "https://www.chicagobooth.edu/mba/full-time/admissions/requirements"
+          ],
+          [
+            "International applicants / English mins",
+            "https://www.chicagobooth.edu/mba/full-time/admissions/international-students"
+          ],
+          [
+            "Full-Time MBA FAQ",
+            "https://www.chicagobooth.edu/mba/full-time/faq"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "cmu-mba",
+      "school": "Carnegie Mellon University (Tepper)",
+      "program": "Full-Time MBA",
+      "applicationRequirements": {
+        "gre": {
+          "status": "required",
+          "detail": "GMAT, GMAT Focus, GRE, or EA required unless approved test waiver. GRE code Carnegie Mellon Tepper 4883. Scores valid 5 years at submit. Waiver case-by-case for academic readiness; does not signal admission; scholarship eligibility unaffected. Pre-check eligibility form available.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "required",
+          "detail": "GMAT/GMAT Focus Full-Time MBA code 69H-XH-99; EA accepted (strong quant coursework and/or STEM professional experience expected). No superscore as official; holistic review of all submitted scores. Waiver alternative available case-by-case.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": null,
+            "detail": "TOEFL required unless bachelor’s or graduate degree with sole language of instruction English. Recommended iBT 25 each section; new TOEFL iBT overall ≥5 with section ≥5. Code 2074 Carnegie Mellon Graduate Business. Valid 2 years."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": 7,
+            "detail": "Recommended IELTS overall 7 and 7 in each band. Select Carnegie Mellon and Tepper. Duolingo DET also accepted (recommended overall 120)."
+          },
+          "waiver": "Waived if bachelor’s (or graduate—recommend still testing) from institution where sole language of instruction was English. Non-U.S. degrees: documents must state English sole medium for entire university, or upload official Registrar letter."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "No published minimum GPA. Prerequisite: one semester college-level calculus with letter grade B or better (or complete Tepper Calculus Fundamentals before matriculation)."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 1,
+          "detail": "One professional recommendation; ideally current/previous supervisor. GMAC Common LOR."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "One required written essay (max 500 words)—choose 1 of 2 prompts (uncertainty/action or professional/personal transformation). Required video essay on post-MBA career goals (up to 2 minutes). Optional essay for gaps/context/reapplicant strengthening.",
+          "alsoKnownAs": "Written essay + video goals essay"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "1–2 page resume; standard 12-pt font; include Month/Year start and end dates for each role."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Unofficial scanned university transcripts (not web/portal downloads) from all undergrad/grad; degree name/conferral; grading scale; translations if needed. Official after admit."
+        },
+        "interview": {
+          "status": "by_invitation",
+          "detail": "Evaluative behavioral interview by invitation only and required. Invitations may begin within one week of deadline through decision date."
+        },
+        "applicationFee": {
+          "amountUsd": 200,
+          "waivers": "May earn waiver by attending a Tepper event; reapplicants within last year waived.",
+          "detail": "$200 payable online by credit card at submission."
+        },
+        "other": [
+          "Deadlines: R1 Sep 30 2026; R2 Jan 8 2027; R3 Mar 3 2027 (final for international FT); R4 May 5 2027; R4 Final Jun 15 2027",
+          "Four-year bachelor’s or equivalent required",
+          "Re Vera verification for admitted students who accept"
+        ],
+        "advice": "Plan GMAT/GRE/EA unless you obtain an approved waiver before/at review. Video essay is mandatory. International applicants: Round 3 is last FT round.",
+        "sources": [
+          [
+            "Apply to Full-Time MBA",
+            "https://www.cmu.edu/tepper/programs/mba/admissions/apply-full-time-mba"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "columbia-mba",
+      "school": "Columbia University (Columbia Business School)",
+      "program": "Full-Time MBA",
+      "applicationRequirements": {
+        "gre": {
+          "status": "required",
+          "detail": "Self-reported valid GMAT, EA, or GRE required at submission; FAQ states no test-score waiver under any circumstances. Valid 5 years; GRE code 6442. Highest total considered; no superscoring across sittings. Official after admit.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "required",
+          "detail": "GMAT Exam (10th) or Focus Edition or EA accepted (code QF8-N6-52). Required—no exemption.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "not_required",
+            "minScore": null,
+            "detail": "FAQ: International students are not required to submit TOEFL or similar language tests; GMAT/GRE verbal score sufficient; interview conducted in English."
+          },
+          "ielts": {
+            "status": "not_required",
+            "minScore": null,
+            "detail": "Not required per CBS MBA FAQ (same as TOEFL)."
+          },
+          "waiver": "N/A—language tests not required for MBA; proficiency assessed via GMAT/GRE verbal and interview."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "Report GPA as on transcript; no published minimum cutoff on application-requirements page."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 1,
+          "detail": "One recommendation for first-time applicants (new one for reapplicants). Prefer current supervisor if ≥6 months full-time work; otherwise explain. Professional email; letterhead preferred."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Two short answers (50 chars each: immediate post-MBA goal; summer after Y1) plus three essays (career goals 500w; team collaboration/inclusion 250w; co-create CBS experience 250w). Optional context essay ≤500w. August- and January-entry prompts on requirements page.",
+          "alsoKnownAs": "Short answers + essays"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Current professional resume/CV; ideally one page, one-to-two acceptable."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "PDF scans from each undergrad/grad institution attended; encrypted digital official copies after offer. Bachelor’s or equivalent required."
+        },
+        "interview": {
+          "status": "by_invitation",
+          "detail": "By invitation only; cannot be requested. Admissions Office contacts selected candidates."
+        },
+        "applicationFee": {
+          "amountUsd": 250,
+          "waivers": "Full-time students; active-duty U.S. military; eligible displaced persons; Peace Corps or Teach For All currently in service (proof required). Automatic waiver for Deferred Enrollment Program.",
+          "detail": "Nonrefundable US$250 (Visa/MasterCard in app preferred)."
+        },
+        "other": [
+          "August- and January-entry options; use August-entry for Fall 2027 peer comparison",
+          "Starter deadlines hub: https://academics.business.columbia.edu/admissions/mba/options-deadlines",
+          "Deposit schedule varies by entry/round (e.g., August R1 US$6,000 then US$1,000)"
+        ],
+        "advice": "No GMAT/GRE/EA waiver—score required to submit. Skip TOEFL unless applying to a dual that needs it. Interview only if invited.",
+        "sources": [
+          [
+            "MBA application requirements",
+            "https://academics.business.columbia.edu/admissions/mba/application-requirements"
+          ],
+          [
+            "MBA admissions overview",
+            "https://academics.business.columbia.edu/admissions/mba"
+          ],
+          [
+            "MBA FAQ (TOEFL / test waiver)",
+            "https://academics.business.columbia.edu/admissions/mba/frequently-asked-questions"
+          ],
+          [
+            "Options & deadlines",
+            "https://academics.business.columbia.edu/admissions/mba/options-deadlines"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "cornell-mba",
+      "school": "Cornell University (Johnson)",
+      "program": "Two-Year MBA (Ithaca)",
+      "applicationRequirements": {
+        "gre": {
+          "status": "optional",
+          "detail": "GMAT, GRE, or EA accepted; no minimum. Middle 80% applicants historically GMAT ~660–740 (descriptive). Valid 5 years. Standardized test waiver may be requested in application if STEM/business/quant degree with ≥3.0 GPA (or equiv), CPA/CFA, or analytical full-time work—approval not guaranteed; decision in 5–7 business days. Future Leaders: GRE/GMAT required, no waiver. GRE code 8296.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "optional",
+          "detail": "GMAT/GMAT 10th/EA accepted (Two-Year MBA code 5JW-BM-96). Same waiver policy as GRE. Sage Scholarship requires a test score even if waiver otherwise available.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": 100,
+            "detail": "If English not native and no university degree in listed English-speaking country: TOEFL iBT overall ≥100 with ≥25 each section (or CEFR level 5). No MyBest/superscore; no TOEFL Essentials. Institution 2098 dept 02. Valid 2 years."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": 7.0,
+            "detail": "IELTS Academic overall 7.0 with Speaking and Writing ≥7.0. DET overall 120 also accepted. Electronic to Cornell Two Year MBA Admissions."
+          },
+          "waiver": "Exempt if native citizen of U.S./UK/Ireland/Australia/NZ/South Africa/Ghana/Canada; OR university degree from those countries; OR degree from non-English country with official documentation that sole language of instruction was English. India/Pakistan/Philippines/Hong Kong/Singapore citizenship alone does not exempt. Residency/work experience alone does not waive."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "Bachelor’s required for enrollment; report grades as on transcript (do not convert non-4.0 scales). No published minimum GPA cutoff."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 1,
+          "detail": "One professional LOR required; up to two allowed. GMAC Common LOR. Supervisor/colleague/client preferred."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Goals statement (short-/long-term role/company/industry + leverage unique qualities) plus choice of one required essay (Impact 350w OR Table of Contents/creative ≤350w or multimedia). Optional essay (required for reapplicants).",
+          "alsoKnownAs": "Goals statement + admissions essay"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Professional resume on application checklist; also list of activities."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Academic records for all post-secondary coursework/degrees; unofficial OK to apply; official by deposit deadline if enrolling. Certified English translation if needed."
+        },
+        "interview": {
+          "status": "by_invitation",
+          "detail": "After preliminary review: invitation to interview, waitlist without interview, or denial (Important Dates). Final decisions after interview on rolling basis by round final-notification date."
+        },
+        "applicationFee": {
+          "amountUsd": 250,
+          "waivers": "U.S. military service members/veterans; Forté MBALaunch; Peace Corps; Teach for America alumni; current Cornell students—email coordinator before submit (≥3 business days before deadline).",
+          "detail": "Nonrefundable $250 USD."
+        },
+        "other": [
+          "Two-Year Ithaca MBA requirements—not Johnson Cornell Tech MBA",
+          "Rounds: R1 Sep 17 2026; Consortium early Oct 15 2026; R2/Consortium traditional Jan 5 2027; R3 Apr 6 2027",
+          "Enrollment deposits $1,500 + $1,500; Re Vera background check on matriculation"
+        ],
+        "advice": "Test optional only with approved waiver—Sage Scholarship needs a score. Confirm English waiver country list carefully (e.g., India citizenship ≠ auto-exempt).",
+        "sources": [
+          [
+            "Application guide checklist",
+            "https://business.cornell.edu/admissions/graduate/mba/application-guide/"
+          ],
+          [
+            "Requirements & FAQs",
+            "https://business.cornell.edu/admissions/graduate/mba/application-guide/mba-application-requirements-faqs/"
+          ],
+          [
+            "Important dates",
+            "https://business.cornell.edu/admissions/graduate/mba/application-guide/important-dates/"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "dartmouth-mba",
+      "school": "Dartmouth College (Tuck)",
+      "program": "Full-time MBA",
+      "applicationRequirements": {
+        "gre": {
+          "status": "required",
+          "detail": "Must self-report GMAT or GRE (all versions accepted; no superscore; no minimum). Valid at submit; GRE code 4887. Case-by-case GMAT/GRE waiver if ≥2 years post-grad work, native English OR bachelor’s sole English instruction, request before deadlines (R1/Consortium1 Aug 12 2026; R2/C2 Nov 9 2026; R3 Mar 5 2027)—not automatic; miss deadline → must submit score that round.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "required",
+          "detail": "GMAT accepted (code Z04-NH-64). Same waiver request process/deadlines as GRE. Official scores for enrolling students; release early if score expires before Aug 1 2027.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "required",
+            "minScore": null,
+            "detail": "Non-native English speakers must submit DET, IELTS Academic, PTE Academic, or TOEFL iBT unless bachelor’s from institution where English is sole language of instruction. No published minimum scores. TOEFL code D507. Online/at-home accepted. DET must be certified to Tuck before submit."
+          },
+          "ielts": {
+            "status": "required",
+            "minScore": null,
+            "detail": "IELTS Academic accepted; provide TRF number. No published minimum band on Apply page."
+          },
+          "waiver": "Non-native speakers qualify if bachelor’s degree from institution where English is sole language of instruction—self-indicate in Degrees section; no separate approval documents required for that waiver."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "Report undergrad GPA and additional schools in Degrees section; committee calibrates across grading schemes—no published minimum."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 2,
+          "detail": "Two LORs (one new LOR if reapplicant from most recent cycle). Prefer current direct supervisor; explain if not. GMAC Common LOR questions. Professors/friends/family/coaches discouraged."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Three required essays (2000 characters each): goals/growth/why Tuck; important aspect of who you are; supporting another person when difficult. Reapplicant essay additional. Optional information section (2000 chars).",
+          "alsoKnownAs": "Application essays"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Upload resume; encouraged one page covering undergrad-and-after experiences."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Upload transcript for every undergrad/grad school attended including grading scale; certified English translation if needed; transfer school transcripts required. Official via Re Vera after enrollment."
+        },
+        "interview": {
+          "status": "by_invitation",
+          "detail": "All admitted applicants interview before offer. Guaranteed interview if complete app (incl. tests + LORs) by Sep 1 2026 (R1/C1) or Dec 1 2026 (R2/C2) 5pm ET; otherwise invitational. Virtual and limited on-campus; 30–45 min with Tuck Admissions Associates."
+        },
+        "applicationFee": {
+          "amountUsd": 250,
+          "waivers": "Automatic one-time for listed groups (U.S. military active/veteran; recent Dartmouth/HACU/HBCU/TCU/Women’s College grads; UN LDCs; first-gen; Tuck undergrad programs; Discover Tuck visit attendees as of Jul 10 2026; etc.). Requestable with docs for Access Fellows, AmeriCorps, Forté, Fulbright, MLT, Pell, Peace Corps, TFA, etc.—≥2 business days before deadline.",
+          "detail": "Nonrefundable $250 USD; processing fees may apply."
+        },
+        "other": [
+          "Rounds: R1 Sep 24 2026 5pm ET; R2 Jan 5 2027; R3 Mar 24 2027 (+ Consortium Oct 15 2026 / Jan 5 2027)",
+          "Short-/long-term goals in Application Specifics (300 characters each)",
+          "International applicants encouraged R1/R2 for visa timing"
+        ],
+        "advice": "GMAT/GRE required unless approved waiver before round-specific waiver deadline. Early complete apps can lock a guaranteed interview. No published English score floors—submit a solid DET/IELTS/TOEFL/PTE if not waived.",
+        "sources": [
+          [
+            "Applying to Tuck",
+            "https://www.tuck.dartmouth.edu/admissions/apply"
+          ],
+          [
+            "Interview with Tuck",
+            "https://www.tuck.dartmouth.edu/admissions/interview"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    },
+    {
+      "id": "duke-mba",
+      "school": "Duke University (Fuqua)",
+      "program": "Daytime MBA",
+      "applicationRequirements": {
+        "gre": {
+          "status": "required",
+          "detail": "Self-reported GMAT, GMAT Focus, GRE, or EA required (application lists self-reported test scores among materials). No minimum; valid 5 years; unofficial OK at apply, official upon admit. GRE code 5156 / dept 4201. No Daytime MBA test-waiver path described on Application Instructions. Include individual sittings plus any GMAT Superscore.",
+          "minScore": null
+        },
+        "gmat": {
+          "status": "required",
+          "detail": "GMAT/GMAT Focus/EA accepted (code Q13-N5-32). Same policy as GRE—required component; no published waiver for Daytime MBA.",
+          "minScore": null
+        },
+        "english": {
+          "toefl": {
+            "status": "not_required",
+            "minScore": null,
+            "detail": "Fuqua does not accept ESL test scores (TOEFL etc.); assesses English via other application components. Exception: dual MBA/MEM with Nicholas School requires ESL for the MEM side."
+          },
+          "ielts": {
+            "status": "not_required",
+            "minScore": null,
+            "detail": "ESL scores not accepted for Daytime MBA per Application Instructions / FAQ."
+          },
+          "waiver": "N/A—ESL tests not used; proficiency judged holistically (and in interview conducted in English)."
+        },
+        "gpa": {
+          "status": "not_stated",
+          "minimum": null,
+          "scale": null,
+          "detail": "Wide range of GPAs considered; no published minimum on Facts+Dates / Application Instructions."
+        },
+        "lettersOfRecommendation": {
+          "status": "required",
+          "count": 1,
+          "detail": "One required recommendation via online forms only (new applicants). Prefer most recent professional setting. Optional bonus endorsements from Fuqua students/alumni (can unlock fee waiver if before pay)."
+        },
+        "statementOfPurpose": {
+          "status": "required",
+          "detail": "Required short answer (100 words: post-MBA career goals + alternate). Essay 1: 25 Random Things (≤2 pages / 750 words, numbered list). Essay 2: 3 ways you will contribute at Fuqua (≤1 page / 500 words). Optional circumstances essay ≤500 words.",
+          "alsoKnownAs": "Short answer + essays"
+        },
+        "resume": {
+          "status": "required",
+          "detail": "Required one-page business resume in online application."
+        },
+        "transcripts": {
+          "status": "required",
+          "detail": "Legible unofficial transcripts for degree-granting and related coursework institutions; include courses/grades/degree/date; translate/attest if not English. Official after admit."
+        },
+        "interview": {
+          "status": "by_invitation",
+          "detail": "By invitation on rolling basis; all admitted applicants must interview. Alumni/staff/Admissions Fellows; on-campus (EA/R1/R2) or virtual; ~45–60 min; interviewer sees resume only. FAQ: interview required before offer."
+        },
+        "applicationFee": {
+          "amountUsd": 225,
+          "waivers": "Full waiver: campus visit/open house; International Applicant Symposium; Duke alumni; military; Peace Corps/AmeriCorps/TFA/Teach For All; listed partner orgs; Early Action round; UN LDC citizen; reapplicant ≤2 years; certain multi-day campus events. $75 discount: qualifying event attendance or Fuqua student/alumni endorsement before submit.",
+          "detail": "Nonrefundable $225 USD (Visa/MasterCard)."
+        },
+        "other": [
+          "Deadlines: Early Action Sep 2 2026 (binding); R1 Sep 30 2026; R2 Jan 5 2027; R3 Mar 25 2027",
+          "International: apply EA/R1/R2 preferred for visas; FAQ also notes apply by R3 for visa processing",
+          "Accelerated MBA: Rounds 1–3 only; Consortium Oct 15 & Jan 5"
+        ],
+        "advice": "Plan a GMAT/GRE/EA—no Daytime waiver published. Do not send TOEFL/IELTS for Daytime alone. Early Action is binding if admitted.",
+        "sources": [
+          [
+            "Admissions Facts + Dates",
+            "https://www.fuqua.duke.edu/programs/daytime-mba/admissions-facts-dates"
+          ],
+          [
+            "Application Instructions",
+            "https://www.fuqua.duke.edu/programs/daytime-mba/application-instructions"
+          ],
+          [
+            "Daytime MBA FAQ",
+            "https://www.fuqua.duke.edu/programs/daytime-mba/faq"
+          ]
+        ],
+        "as_of": "2026-10-27"
+      }
+    }
+  ]
+}

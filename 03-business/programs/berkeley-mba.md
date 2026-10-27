@@ -34,6 +34,33 @@ Haas Financial Aid 2026–27 Estimated Cost of Attendance (Full-Time MBA): Nonre
 
 Application timing: Round 2 · 7 Jan 2027 (Haas FT 2026–2027 cycle; R1 passed; clock time not on round cards). Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: required — All candidates must take GMAT, GMAT Focus, or GRE before the round deadline. No minimum score; quantitative section emphasized. Fall 2027: official scores from exams on/after Oct 1 2021. GRE code 0574. No test-waiver path stated on Haas GMAT/GRE page.
+- GMAT: required — GMAT/GMAT Focus accepted (institution N2VPT47). Required with GRE as alternative; no minimum. Updated scores considered if received ≥2 weeks before round notification deadline.
+- TOEFL: required — min 90 — If degree from country where primary official language is not English: TOEFL iBT former scale ≥90; new scale (post Jan 21 2026 framing on Haas language page) total ≥5 with Speaking/Writing ≥4.5. Fall 2027: exams on/after Jun 1 2025. Code 4833 dept 02. Preferred over IELTS.
+- IELTS: required — min 7 — Academic IELTS overall BAND ≥7 with Speaking/Writing ≥6.5. Fall 2027: exams on/after Jun 1 2025. Electronic from test center.
+- English waiver: Exempt if degree from recognized institution in English-primary official language country (Haas lists many countries that do NOT qualify regardless of instruction language); OR ≥1 year full-time coursework with B or better at university in U.S./U.K./Australia/English-speaking Canada/Singapore (ESL/nonacademic/courses after apply excluded).
+- GPA: not_stated — No published minimum GPA on Application page; class profile cites average ~3.65 as descriptive only.
+- Letters of recommendation: required — count 2 — Two professional letters required; one from current direct supervisor.
+- Statement of purpose: required — also known as Video essay + written essays — Required video essay (1–2 min: introduce yourself; what makes you feel alive and why) plus written Essay #2 on post-MBA goals and Haas resources/adaptability (300 words). Optional Distance Traveled (300) and Optional Statement (300).
+- Resume: required — Current resume via online application; PDF preferred.
+- Transcripts: required — Transcripts from all undergraduate and graduate programs attended or attending.
+- Interview: by_invitation — Interviews by invitation only and required for an offer of admission.
+- Fee: $250 — waivers: Available for U.S. citizens/PR/DACA with AmeriCorps/Peace Corps/military or financial need (EFC); citizenship on African Continent; Haas Thrive Fellows. Request by 11:59 pm PST of round deadline. — Nonrefundable $250 payable in online application.
+- Other: 2026–27 deadlines: R1 Sep 10 2026 (decision Dec 10 2026); R2 Jan 7 2027 (Mar 25 2027); R3 Apr 1 2027 (May 6 2027)
+- Other: GMAT/GRE/TOEFL must be taken on or before designated deadline
+
+No published GMAT/GRE waiver—plan to test. Video essay is required. Interview invitation is mandatory path to admission.
+
+- [Admissions hub / deadlines](https://mba.haas.berkeley.edu/admissions)
+- [Application checklist](https://mba.haas.berkeley.edu/admissions/application)
+- [GMAT and GRE](https://mba.haas.berkeley.edu/admissions/gmat-and-gre)
+- [Language proficiency](https://mba.haas.berkeley.edu/admissions/language-proficiency-requirements)
+- [Essays 2026–27](https://mba.haas.berkeley.edu/admissions/essays)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

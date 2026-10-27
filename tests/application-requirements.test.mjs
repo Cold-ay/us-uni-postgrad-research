@@ -25,9 +25,15 @@ const CS = [
   'nyu-cs', 'penn-cs', 'princeton-cs', 'purdue-cs', 'rice-cs', 'stanford-cs', 'texas-cs', 'uci-cs', 'ucla-cs',
   'ucsb-cs', 'ucsd-cs', 'umass-cs', 'unc-cs', 'usc-cs', 'washington-cs', 'wisconsin-cs', 'yale-cs',
 ];
-const EXPECTED = [...FINANCE, ...CS];
+const MBA = [
+  'asu-mba', 'berkeley-mba', 'chicago-mba', 'cmu-mba', 'columbia-mba', 'cornell-mba', 'dartmouth-mba', 'duke-mba',
+  'emory-mba', 'gatech-mba', 'georgia-mba', 'harvard-mba', 'indiana-mba', 'michigan-mba', 'mit-mba', 'northwestern-mba',
+  'nyu-mba', 'penn-mba', 'rice-mba', 'stanford-mba', 'texas-mba', 'ucla-mba', 'unc-mba', 'usc-mba', 'utd-mba',
+  'vanderbilt-mba', 'virginia-mba', 'washington-mba', 'washu-mba', 'yale-mba',
+];
+const EXPECTED = [...FINANCE, ...CS, ...MBA];
 const handoff = new Map();
-for (const name of ['appreq-batch1a', 'appreq-batch1b', 'appreq-batch1c', 'appreq-batch1d', 'appreq-batch2a', 'appreq-batch2b', 'appreq-batch2c', 'appreq-batch2d']) {
+for (const name of ['appreq-batch1a', 'appreq-batch1b', 'appreq-batch1c', 'appreq-batch1d', 'appreq-batch2a', 'appreq-batch2b', 'appreq-batch2c', 'appreq-batch2d', 'appreq-batch3a', 'appreq-batch3b', 'appreq-batch3c', 'appreq-batch3d']) {
   const data = JSON.parse(readFileSync(new URL(`../brief/${name}.json`, import.meta.url), 'utf8'));
   for (const item of data.items) {
     if (handoff.has(item.id)) throw new Error(`duplicate handoff id ${item.id}`);
@@ -36,10 +42,11 @@ for (const name of ['appreq-batch1a', 'appreq-batch1b', 'appreq-batch1c', 'appre
 }
 const catalogIds = new Set(rankedSchools.map(row => row.id));
 
-test('batch1 and CS batch2 applicationRequirements copy onto 75 catalog ids and nowhere else', () => {
+test('batch1, CS batch2, and MBA batch3 applicationRequirements copy onto 105 catalog ids and nowhere else', () => {
   assert.equal(FINANCE.length, 42);
   assert.equal(CS.length, 33);
-  assert.equal(handoff.size, 75);
+  assert.equal(MBA.length, 30);
+  assert.equal(handoff.size, 105);
   for (const id of EXPECTED) {
     assert.ok(catalogIds.has(id), id);
     assert.ok(researchDetails[id], id);
@@ -49,14 +56,23 @@ test('batch1 and CS batch2 applicationRequirements copy onto 75 catalog ids and 
   }
   const carriers = Object.entries(researchDetails).filter(([, detail]) => detail.applicationRequirements).map(([id]) => id);
   assert.deepEqual(carriers.sort(), [...EXPECTED].sort());
-  assert.equal(programs.filter(p => p.applicationRequirements).length, 75);
+  assert.equal(programs.filter(p => p.applicationRequirements).length, 105);
   for (const id of ['stanford-mba', 'harvard-mba']) {
     const program = programs.find(p => p.id === id);
-    assert.equal(program.applicationRequirements, undefined);
-    assert.equal(Object.hasOwn(program, 'applicationRequirements'), false);
     assert.equal(program.gre, undefined);
     assert.equal(program.gmat, undefined);
+    assert.equal(Object.hasOwn(program, 'gre'), false);
+    assert.equal(Object.hasOwn(program, 'gmat'), false);
   }
+  assert.equal(programs.find(p => p.id === 'stanford-mba').tuition, 89187);
+  assert.equal(programs.find(p => p.id === 'mit-mba').tuition, 91892);
+  assert.equal(programs.find(p => p.id === 'asu-mba').tuition, null);
+  assert.ok(programs.find(p => p.id === 'harvard-mba').scholarships.includes('SCH-075'));
+  for (const id of MBA) assert.equal(researchDetails[id].accessRestricted, undefined);
+  assert.equal(researchDetails['florida-msf'].accessRestricted, true);
+  assert.equal(researchDetails['tamu-msf'].accessRestricted, true);
+  assert.equal(researchDetails['florida-msft'].accessRestricted, false);
+  assert.equal(researchDetails['tamu-qfin'].accessRestricted, false);
   const mit = researchDetails['mit-msf'];
   assert.equal(mit.applicationRequirements.gre.status, 'optional');
   assert.notEqual(mit.applicationRequirements.gre.status, 'waived');
@@ -101,7 +117,15 @@ test('dossier section mounts for ingested rows, hides when absent, and still fla
   const cmu = applicationRequirementsSection(programs.find(p => p.id === 'cmu-mscs'));
   assert.match(cmu, />Optional</);
   assert.match(cmu, />Not accepted</);
-  assert.equal(applicationRequirementsSection(programs.find(p => p.id === 'stanford-mba')), '');
+  const stanfordMba = applicationRequirementsSection(programs.find(p => p.id === 'stanford-mba'));
+  assert.match(stanfordMba, /<section class="application-requirements"/);
+  assert.match(stanfordMba, /\$275/);
+  assert.match(stanfordMba, />Required</);
+  assert.match(stanfordMba, /2026-10-27/);
+  const cornellMba = applicationRequirementsSection(programs.find(p => p.id === 'cornell-mba'));
+  assert.match(cornellMba, />Optional</);
+  const washuMba = applicationRequirementsSection(programs.find(p => p.id === 'washu-mba'));
+  assert.match(washuMba, /\$0/);
   assert.equal(applicationRequirementsSection({}), '');
   assert.equal(applicationRequirementsSection({ applicationRequirements: null }), '');
 

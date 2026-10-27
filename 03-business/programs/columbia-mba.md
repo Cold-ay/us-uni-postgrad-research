@@ -34,6 +34,33 @@ Columbia Business School Financial Aid Full-Time MBA and MBAxMS costs page lists
 
 Application timing: August-entry Round 2 · 5 Jan 2027 · 12:00 p.m. ET (August 2027 entry; R1 passed; apps open). Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: required — Self-reported valid GMAT, EA, or GRE required at submission; FAQ states no test-score waiver under any circumstances. Valid 5 years; GRE code 6442. Highest total considered; no superscoring across sittings. Official after admit.
+- GMAT: required — GMAT Exam (10th) or Focus Edition or EA accepted (code QF8-N6-52). Required—no exemption.
+- TOEFL: not_required — FAQ: International students are not required to submit TOEFL or similar language tests; GMAT/GRE verbal score sufficient; interview conducted in English.
+- IELTS: not_required — Not required per CBS MBA FAQ (same as TOEFL).
+- English waiver: N/A—language tests not required for MBA; proficiency assessed via GMAT/GRE verbal and interview.
+- GPA: not_stated — Report GPA as on transcript; no published minimum cutoff on application-requirements page.
+- Letters of recommendation: required — count 1 — One recommendation for first-time applicants (new one for reapplicants). Prefer current supervisor if ≥6 months full-time work; otherwise explain. Professional email; letterhead preferred.
+- Statement of purpose: required — also known as Short answers + essays — Two short answers (50 chars each: immediate post-MBA goal; summer after Y1) plus three essays (career goals 500w; team collaboration/inclusion 250w; co-create CBS experience 250w). Optional context essay ≤500w. August- and January-entry prompts on requirements page.
+- Resume: required — Current professional resume/CV; ideally one page, one-to-two acceptable.
+- Transcripts: required — PDF scans from each undergrad/grad institution attended; encrypted digital official copies after offer. Bachelor’s or equivalent required.
+- Interview: by_invitation — By invitation only; cannot be requested. Admissions Office contacts selected candidates.
+- Fee: $250 — waivers: Full-time students; active-duty U.S. military; eligible displaced persons; Peace Corps or Teach For All currently in service (proof required). Automatic waiver for Deferred Enrollment Program. — Nonrefundable US$250 (Visa/MasterCard in app preferred).
+- Other: August- and January-entry options; use August-entry for Fall 2027 peer comparison
+- Other: Starter deadlines hub: https://academics.business.columbia.edu/admissions/mba/options-deadlines
+- Other: Deposit schedule varies by entry/round (e.g., August R1 US$6,000 then US$1,000)
+
+No GMAT/GRE/EA waiver—score required to submit. Skip TOEFL unless applying to a dual that needs it. Interview only if invited.
+
+- [MBA application requirements](https://academics.business.columbia.edu/admissions/mba/application-requirements)
+- [MBA admissions overview](https://academics.business.columbia.edu/admissions/mba)
+- [MBA FAQ (TOEFL / test waiver)](https://academics.business.columbia.edu/admissions/mba/frequently-asked-questions)
+- [Options & deadlines](https://academics.business.columbia.edu/admissions/mba/options-deadlines)
+
 ## Internships
 
 Program-specific internship structure, placement rates and international-student outcomes have not been verified. Ranking or location alone does not establish how easy an internship is to obtain.

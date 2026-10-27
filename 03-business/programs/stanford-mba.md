@@ -34,6 +34,38 @@ Published first-year single-student budget: $140,940 for 2026–27. The global e
 
 Application timing: Round 2 · 6 Jan 2027 · 4:00 p.m. PT (Fall 2027 / 2026–27 cycle; R1 passed). Confirm deadline time zone and personal requirements on the official page.
 
+## Application requirements
+
+As of 2026-10-27.
+
+- GRE: required — Valid GMAT or GRE required for all MBA applicants; no preference; no minimum; no superscore—report one sitting. Interviews not granted without valid test score on file. EA not accepted for MBA (MSx-only option).
+- GMAT: required — GMAT accepted as alternative to GRE; same rules (required, no minimum, no superscore).
+- TOEFL: required — min 100 — Required if any undergrad courses (other than foreign language) taught in non-English unless later graduate degree exclusively in English. Min: TOEFL iBT 100 (before Jan 21 2026) or 5.0 (as of Jan 21 2026). iBT/Home/Paper Edition OK. Code 4704 Stanford University. Citizenship/work do not exempt. Valid 2 years; must be valid on round deadline.
+- IELTS: required — min 7 — IELTS Academic overall band 7.0 minimum. Report to Stanford University / Stanford GSB — MBA Program. Online IELTS accepted. PTE Academic also accepted (min 68); online PTE not accepted.
+- English waiver: Not required if university taught all classes exclusively in English for undergrad or graduate degree. If that school is in a non-English primary-language country, explain in Additional Information—committee may still request a test. Citizenship and work experience do not exempt.
+- GPA: not_stated — U.S. bachelor’s or equivalent required; no numeric minimum GPA posted on Application Essentials.
+- Letters of recommendation: required — count 2 — Two letters: one from current direct supervisor (or next-best alternative) and one from someone else who supervised you. No family or current/former direct reports. Recommenders must be sole authors.
+- Statement of purpose: required — also known as Essays — Essay 1: What matters most to you, and why? (up to 650 words). Essay 2: Why Stanford for you? (up to 350 words). Joint MBA/MSx adds third essay (up to 350). Additional Information for extenuating circumstances—not an extra essay. Optional short-answer question on contributions.
+- Resume: required — Résumé required (letter/A4 size); focus on achievements and impact. Do not include photos.
+- Transcripts: required — Unofficial transcripts with application; official only if admitted. Bachelor’s or equivalent required.
+- Interview: by_invitation — By invitation only after application review; required before an offer of admission. Structured behavioral interview with alumni or admissions staff (remote or in person; no on-campus interview requests). Invite is positive but not a guarantee (~2–3 interviewees per seat).
+- Fee: $275 — waivers: Military service waiver (active U.S., honorably discharged veterans, reserves—upload proof). Need-based waiver for extreme hardship (extra form; materials due Dec 18, 2026; first-come). Defer-eligible applicants: reduced fee $100. — Nonrefundable $275; pay by deadline 4:00 p.m. PT for the round. Debit/credit accepted.
+- Other: 2026–27 rounds: R1 Sep 9 2026 (notify Dec 9 2026); R2 Jan 6 2027 (Apr 1 2027); R3 Apr 7 2027 (May 27 2027); due 4:00 p.m. PT
+- Other: Apply once per application year
+- Other: If score expires before Jun 1 2027, send official scores when submitting application
+
+No GMAT/GRE waiver path for standard MBA—test early so interviews can be granted. Confirm English-instruction history carefully; citizenship does not waive English tests.
+
+- [Deadlines 2026–27](https://www.gsb.stanford.edu/programs/mba/admission/deadlines)
+- [Application Essentials](https://www.gsb.stanford.edu/programs/mba/admission/application/application-essentials)
+- [Applying / fee overview](https://www.gsb.stanford.edu/programs/mba/admission/application)
+- [Application fee](https://www.gsb.stanford.edu/programs/mba/admission/application/fee)
+- [Test scores](https://www.gsb.stanford.edu/programs/mba/admission/application/test-scores)
+- [English proficiency](https://www.gsb.stanford.edu/programs/mba/admission/application/test-scores/english-language-proficiency)
+- [Letters of recommendation](https://www.gsb.stanford.edu/programs/mba/admission/application/letters-recommendation)
+- [Essays](https://www.gsb.stanford.edu/programs/mba/admission/application/essays)
+- [Interviews](https://www.gsb.stanford.edu/programs/mba/admission/interviews)
+
 ## Internships
 
 Program-specific internship arrangements, placement and international-student outcomes have not yet been verified.
