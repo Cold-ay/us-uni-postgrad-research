@@ -70,3 +70,9 @@ Finance / MSF + Quant batch 1 (42 ids) comes from `brief/appreq-batch1a.json` th
 All current catalog rows carry the existing `applicationRequirements` research object. Each dossier displays one bordered application panel with a visible deadline, test statuses and numeric thresholds, recommendation count, documents and fee. Native details disclosures keep lengthy conditions, fee waivers, prerequisites and official source links inside the same panel. Research details retain their original language; interface labels support all three website languages. Optional, waived, unknown and absent values remain distinct, and an explicit $0 fee is preserved.
 
 The ranking table and profile cards provide a direct requirements button. The comparison table has one requirements row, with each program's summary contained in its own cell and a link to its full panel. This presentation uses the existing research; it does not independently revalidate admissions policies or reinterpret alternative tests as cumulative requirements.
+
+## npm cache configuration warnings
+
+Vercel skips package installation (`installCommand: ""`) and invokes `node scripts/build.mjs` directly. This repository has no external package dependencies, so neither deployment step needs npm. If dependencies are added later, restore an appropriate install step and lockfile.
+
+An npm warning about unknown **env config** `cache-dir` comes from an environment variable such as `npm_config_cache_dir` / `NPM_CONFIG_CACHE_DIR`, not from the application code. The supported npm cache option is `cache` (`npm_config_cache` / `NPM_CONFIG_CACHE`). Correct the variable in the shell or CI environment that supplies it; changing a package lifecycle script cannot prevent a warning emitted before that script runs. The direct Node deployment avoids invoking npm in this dependency-free build without suppressing other warnings.
