@@ -768,13 +768,13 @@
    "id": "SCH-038",
    "name": "Paul & Daisy Soros Fellowships for New Americans",
    "scope": "Any US graduate program",
-   "state": "Open · deadline 29 Oct 2026",
-   "tone": "amber",
+   "state": "CLOSED · 2027 Fellowship deadline passed (Oct 29, 2026 2pm ET)",
+   "tone": "red",
    "type": "Fellowship · Minority",
    "description": "For immigrants and children of immigrants.",
    "eligibility": "Age ≤30; foreign-born applicants need green card (or qualifying DACA). HK/TW nationals on F-1: no; HK/TW-born US green-card holders: yes.",
    "amount": "Up to $90,000 over two years",
-   "deadline": "Oct 29, 2026, 2:00 p.m. ET (2027 cycle)",
+   "deadline": "Oct 29, 2026, 2:00 p.m. ET (2027 cycle) — window closed as of 2026-11-02",
    "note": "04-scholarships/opportunities/pd-soros.md",
    "url": "https://pdsoros.org/eligibility/",
    "category": "Minority",
@@ -791,11 +791,11 @@
      "https://pdsoros.org/eligibility/"
     ],
     [
-     "Application Process",
-     "https://pdsoros.org/application-process/"
+     "Application Process / Apply",
+     "https://pdsoros.org/apply/"
     ]
    ],
-   "asOf": "2026-10-20"
+   "asOf": "2026-11-02"
   },
   {
    "id": "SCH-039",
@@ -922,13 +922,13 @@
    "id": "SCH-043",
    "name": "NVIDIA Graduate Fellowship",
    "scope": "Universities in US, Taiwan, etc.",
-   "state": "Open · Oct 30 2026 (not for incoming students)",
-   "tone": "amber",
+   "state": "CLOSED · 2027–28 application deadline passed (Oct 30, 2026)",
+   "tone": "red",
    "type": "Fellowship · Company-Sponsored",
    "description": "PhD research fellowship in accelerated computing with required summer internship.",
    "eligibility": "Must have completed first year of PhD; international PhD students eligible. Fall 2027 entrants cannot apply until after year 1.",
    "amount": "Up to $60,000 per award",
-   "deadline": "2027–28: Sep 30–Oct 30, 2026",
+   "deadline": "2027–2028: Applications open September 30, 2026; Application deadline October 30, 2026 including recommendation letters; Winner notifications January 15, 2027 — window closed as of 2026-11-02",
    "note": "04-scholarships/opportunities/nvidia-grad.md",
    "url": "https://research.nvidia.com/graduate-fellowships",
    "category": "Company-Sponsored",
@@ -946,7 +946,7 @@
      "https://research.nvidia.com/graduate-fellowships"
     ]
    ],
-   "asOf": "2026-10-20"
+   "asOf": "2026-11-02"
   },
   {
    "id": "SCH-044",

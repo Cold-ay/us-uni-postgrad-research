@@ -43,12 +43,12 @@ Audience: general master's applicants, with explicit Hong Kong and Taiwan eligib
 | SCH-035 | [Reaching Out MBA (ROMBA) Fellowship](opportunities/romba-fellowship.md) | ROMBA partner schools | School-selected |
 | SCH-036 | [The Consortium for Graduate Study in Management Fellowship](opportunities/consortium-cgsm.md) | Consortium member MBAs | Not open to HK/TW nationals |
 | SCH-037 | [Toigo Foundation LIFE (MBA) Program](opportunities/toigo-life.md) | Accredited MBA / finance grad programs | 2027 application open |
-| SCH-038 | [Paul & Daisy Soros Fellowships for New Americans](opportunities/pd-soros.md) | Any US graduate program | Open · deadline 29 Oct 2026 |
+| SCH-038 | [Paul & Daisy Soros Fellowships for New Americans](opportunities/pd-soros.md) | Any US graduate program | CLOSED · 2027 Fellowship deadline passed (Oct 29, 2026 2pm ET) |
 | SCH-039 | [NSF Graduate Research Fellowship Program (GRFP)](opportunities/nsf-grfp.md) | US research grad (STEM) | Not open to HK/TW nationals |
 | SCH-040 | [Hertz Foundation Fellowship](opportunities/hertz.md) | US research grad (STEM) | Not open to HK/TW nationals |
 | SCH-041 | [NDSEG Fellowship](opportunities/ndseg.md) | US research grad (STEM) | Not open to HK/TW nationals |
 | SCH-042 | [Google PhD Fellowship (US/Canada)](opportunities/google-phd.md) | Nominating universities | 2026 cycle closed |
-| SCH-043 | [NVIDIA Graduate Fellowship](opportunities/nvidia-grad.md) | Universities in US, Taiwan, etc. | Open · Oct 30 2026 (not for incoming students) |
+| SCH-043 | [NVIDIA Graduate Fellowship](opportunities/nvidia-grad.md) | Universities in US, Taiwan, etc. | CLOSED · 2027–28 application deadline passed (Oct 30, 2026) |
 | SCH-044 | [Apple Scholars in AI/ML PhD Fellowship](opportunities/apple-aiml.md) | Nominating universities | Nomination-based |
 | SCH-045 | [Qualcomm Innovation Fellowship (North America)](opportunities/qualcomm-qif.md) | 25 listed US/Canada universities | 2026 cycle; 2027 unknown |
 | SCH-046 | [UCLA Anderson Full-Time MBA Merit & Donor Fellowships](opportunities/anderson-fellowships.md) | ucla-mba | Automatic with admission |
