@@ -1,0 +1,103 @@
+{
+  "asOf": "2026-11-02",
+  "scan": "tuition-award-change-scan",
+  "material": true,
+  "changedProgramIds": [],
+  "changedScholarshipIds": [
+    "SCH-038",
+    "SCH-043"
+  ],
+  "costs": {},
+  "awards": {
+    "SCH-038": {
+      "id": "SCH-038",
+      "name": "Paul & Daisy Soros Fellowships for New Americans",
+      "scope": "US graduate (any field); New Americans",
+      "state": "CLOSED \u00b7 2027 Fellowship deadline passed (Oct 29, 2026 2pm ET)",
+      "tone": "red",
+      "type": "Fellowship \u00b7 Minority",
+      "description": "Fellowship for New Americans (immigrants / children of immigrants).",
+      "eligibility": "Age \u226430; foreign-born applicants need green card (or qualifying DACA). HK/TW nationals on F-1: no; HK/TW-born US green-card holders: yes.",
+      "amount": "Up to $90,000 over two years",
+      "deadline": "Oct 29, 2026, 2:00 p.m. ET (2027 cycle) \u2014 window closed as of 2026-11-02",
+      "note": "04-scholarships/opportunities/pd-soros.md; site marketing still says 'is open' but deadline past",
+      "url": "https://pdsoros.org/eligibility/",
+      "category": "Minority",
+      "awardType": "fellowship",
+      "hkEligible": "no",
+      "twEligible": "no",
+      "intlEligible": "no (green card required)",
+      "programIds": [
+        "any US grad"
+      ],
+      "sources": [
+        [
+          "PD Soros Eligibility",
+          "https://pdsoros.org/eligibility/"
+        ],
+        [
+          "Application Process / Apply",
+          "https://pdsoros.org/apply/"
+        ]
+      ],
+      "asOf": "2026-11-02",
+      "before": {
+        "state": "Open \u00b7 deadline 29 Oct 2026",
+        "deadline": "Oct 29, 2026, 2:00 p.m. ET (2027 cycle)",
+        "asOf": "2026-10-20"
+      }
+    },
+    "SCH-043": {
+      "id": "SCH-043",
+      "name": "NVIDIA Graduate Fellowship",
+      "scope": "Universities in US, Taiwan, etc.",
+      "state": "CLOSED \u00b7 2027\u201328 application deadline passed (Oct 30, 2026)",
+      "tone": "red",
+      "type": "Fellowship \u00b7 Company-Sponsored",
+      "description": "PhD research fellowship in accelerated computing with required summer internship.",
+      "eligibility": "Must have completed first year of PhD; international PhD students eligible. Fall 2027 entrants cannot apply until after year 1.",
+      "amount": "Up to $60,000 per award",
+      "deadline": "2027\u20132028: Applications open September 30, 2026; Application deadline October 30, 2026 including recommendation letters; Winner notifications January 15, 2027 \u2014 window closed as of 2026-11-02",
+      "note": "04-scholarships/opportunities/nvidia-grad.md; portal https://webportalapp.com/sp/nvidia_grad_fellow_2027",
+      "url": "https://research.nvidia.com/graduate-fellowships",
+      "category": "Company-Sponsored",
+      "awardType": "fellowship",
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "intlEligible": "yes",
+      "programIds": [
+        "mit-cs",
+        "multi (CS PhD)"
+      ],
+      "sources": [
+        [
+          "NVIDIA Graduate Fellowship",
+          "https://research.nvidia.com/graduate-fellowships"
+        ]
+      ],
+      "asOf": "2026-11-02",
+      "before": {
+        "state": "Open \u00b7 Oct 30 2026 (not for incoming students)",
+        "deadline": "2027\u201328: Sep 30\u2013Oct 30, 2026",
+        "asOf": "2026-10-20"
+      }
+    }
+  },
+  "unresolvedNotes": [
+    {
+      "id": "SCH-066",
+      "note": "Haas CRB Fellowship: official Haas pages still do not publish $20k; third-party only. Automatic with FTMBA admit. Supplemental portal R1 Nov 6, 2026 is for other Haas supplemental awards (CRB not listed). No amount change applied."
+    }
+  ],
+  "nonMaterialWatches": [
+    "batch1 costs 18/18 unchanged; no newly published 2027\u201328 tuition schedules",
+    "gatech-cs: OOC Master flat still $16,540 Fall 2026 and Spring 2027 \u2192 AY 33080",
+    "texas-cs: NR Natural Sciences 9-hr still $9,081 \u2192 AY 18162",
+    "texas-mba: still Class of 2027 only; Fall 2027 / Class of 2029 rates not published",
+    "michigan-mba: 2027\u201328 tuition still posts July 2027",
+    "dartmouth-mba: still Class of 2027; 3\u20135% anticipate only",
+    "duke-mba: still Class of 2028 / Aug 2026 entry at $83,700",
+    "SCH-045 QIF: no new change (already closed Oct 19 as of 2026-10-26)",
+    "Still open: SCH-080 Jane Street Nov 13 AoE; SCH-016 Croucher Nov 15 5pm HKT; SCH-070 CSC Nov 23\u2013Dec 4; SCH-015 HKSES Dec 31 6pm HKT"
+  ]
+}
