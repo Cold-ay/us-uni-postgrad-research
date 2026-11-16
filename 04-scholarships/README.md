@@ -21,7 +21,7 @@ Audience: general master's applicants, with explicit Hong Kong and Taiwan eligib
 | SCH-014 | [Rotary Global Grant Scholarship](opportunities/rotary-global-grant.md) | Multiple institutions | Club-mediated · amount/deadline unverified |
 
 | SCH-015 | [Hong Kong Scholarship for Excellence Scheme (HKSES) — postgraduate](opportunities/hkses.md) | Any world-renowned university outside HK (US incl.) | Open · Fall 2027 cycle |
-| SCH-016 | [Croucher Scholarships for Doctoral Study](opportunities/croucher-doctoral.md) | Approved universities outside HK (PhD only) | Open · 2027 Study Awards |
+| SCH-016 | [Croucher Scholarships for Doctoral Study](opportunities/croucher-doctoral.md) | Approved universities outside HK (PhD only) | CLOSED · 2027 Study Awards — official apply portal says applications closed at 15 November 2026 at 5pm |
 | SCH-017 | [Fulbright Taiwan (FSE) Graduate Study Award](opportunities/fulbright-taiwan-grad.md) | Any US institution (IIE placement, up to 5) + Rice PhD partner | Closed for Fall 2027 (deadline 1 Aug 2026) |
 | SCH-018 | [Taiwan MOE Government Scholarship to Study Abroad (GSSA 留學獎學金) — general](opportunities/moe-gssa-general.md) | Any foreign university (not mainland China/HK/Macau) | 2027 cycle not yet published |
 | SCH-019 | [Taiwan MOE GSSA — 勵學優秀生 (low-income category)](opportunities/moe-gssa-need.md) | Any foreign university | 2027 cycle not yet published |
