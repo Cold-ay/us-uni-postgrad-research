@@ -1,0 +1,110 @@
+{
+  "asOf": "2026-11-16",
+  "scan": "tuition-award-change-scan",
+  "material": true,
+  "changedProgramIds": [],
+  "changedScholarshipIds": [
+    "SCH-080",
+    "SCH-016"
+  ],
+  "costs": {},
+  "awards": {
+    "SCH-080": {
+      "id": "SCH-080",
+      "name": "Jane Street Graduate Research Fellowship (GRF)",
+      "scope": "PhD in EECS/math/physics/statistics at accredited research institutions (US and listed countries)",
+      "state": "CLOSED · 2027 GRF student-application deadline passed (Nov 13, 2026 AoE); site marketing still says 'accepting applications'",
+      "tone": "red",
+      "type": "Fellowship · Company-Sponsored",
+      "description": "Jane Street fellowship for exceptional PhD students (or students committed to start PhD Fall 2027) in EECS, mathematics, physics, or statistics. International students explicitly encouraged.",
+      "eligibility": "At least one year remaining in PhD (or committed to commence PhD Fall 2027) in listed fields; full-time at accredited research institution in US, Canada, UK, Europe, Australia, New Zealand, or Singapore. International students eligible and encouraged. Not for MBA/terminal MS.",
+      "amount": "Full tuition and fees for upcoming academic year + USD 50,000 living stipend; finalists USD 5,000",
+      "deadline": "Student applications Nov 13, 2026 AoE (2027 cycle) — window closed as of 2026-11-16; recommendation letters still listed Dec 1, 2026 AoE; notifications February",
+      "note": "aid-cn/opportunities/jane-street-grf.md — 04-scholarships/opportunities/jane-street-grf.md — PhD CS pipeline; not MS/MBA entry funding. Official page still carries pre-deadline 'accepting applications' copy (byte-identical to 2026-11-09 fetch); no extension published.",
+      "url": "https://www.janestreet.com/join-jane-street/programs-and-events/graduate-research-fellowship/",
+      "category": "Company-Sponsored",
+      "awardType": "fellowship",
+      "hkEligible": "yes",
+      "twEligible": "yes",
+      "intlEligible": "yes",
+      "programIds": [
+        "multi (CS PhD)"
+      ],
+      "sources": [
+        [
+          "Jane Street GRF",
+          "https://www.janestreet.com/join-jane-street/programs-and-events/graduate-research-fellowship/"
+        ]
+      ],
+      "asOf": "2026-11-16",
+      "before": {
+        "state": "Open · 2027 GRF cycle",
+        "deadline": "Student applications Nov 13, 2026 AoE; recommendation letters Dec 1, 2026 AoE; notifications February",
+        "asOf": "2026-11-09"
+      }
+    },
+    "SCH-016": {
+      "id": "SCH-016",
+      "name": "Croucher Scholarships for Doctoral Study",
+      "scope": "Approved universities outside HK (PhD only)",
+      "state": "CLOSED · 2027 Study Awards — official apply portal says applications closed at 15 November 2026 at 5pm",
+      "tone": "red",
+      "type": "Scholarship · Local",
+      "description": "Croucher Foundation (HK private foundation) full PhD scholarships in natural sciences, technology and medicine. PhD only — not MS CS / MBA.",
+      "eligibility": "Hong Kong permanent residents; full-time doctoral study/research outside HK in natural sciences, medicine or technology. Taiwan: not applicable. Not for master's or MBA.",
+      "amount": "USD38,850 per annum maintenance; tuition and college fees; airfare; USD1,000 arrival; up to USD2,000/yr academic development; up to USD2,000/yr medical; USD9,700 commencement award (verbatim, 2027 Study Awards notice)",
+      "deadline": "5:00 PM (HKT) 15 November 2026 (2027 Study Awards) — window closed as of 2026-11-16",
+      "note": "04-scholarships/opportunities/croucher-doctoral.md; official portal now states closed at the listed deadline; no extension.",
+      "url": "https://apply.croucher.org.hk/",
+      "category": "Local",
+      "awardType": "scholarship",
+      "hkEligible": "yes",
+      "twEligible": "no",
+      "intlEligible": "no",
+      "programIds": [
+        "mit-cs",
+        "multi (CS PhD routes)"
+      ],
+      "sources": [
+        [
+          "Croucher apply portal",
+          "https://apply.croucher.org.hk/"
+        ],
+        [
+          "Croucher scholarships page",
+          "https://croucher.org.hk/en/funding/study-awards/scholarships"
+        ],
+        [
+          "CityU copy of 2027 Croucher notice",
+          "https://www.cityu.edu.hk/sds/-/media/project/cityuhk/admin-department/sds/files/slr/external-awards/croucher_2027.pdf"
+        ]
+      ],
+      "asOf": "2026-11-16",
+      "before": {
+        "state": "Open · 2027 Study Awards",
+        "deadline": "5:00 PM (HKT) 15 November 2026",
+        "asOf": "2026-11-09"
+      }
+    }
+  },
+  "unresolvedNotes": [
+    {
+      "id": "SCH-066",
+      "note": "Haas CRB Fellowship: official Haas pages still do not publish $20k (or any dollar amount); third-party only. Automatic with FTMBA admit; 2026–2028 Fellow Jacqueline Tran listed. Supplemental portal R1 Nov 6, 2026 (already past as of 2026-11-09) / R2 Feb 26, 2027 / R3 Apr 9, 2027 is for other Haas supplemental awards (CRB not listed: FUNED / MasterCard Foundation / NAOP). A $10,000 figure on the entering-students page is the Berkeley MBA Need-Based Grant, not CRB. No amount change applied."
+    }
+  ],
+  "nonMaterialWatches": [
+    "batch1 costs 18/18 unchanged; no newly published 2027–28 / Class-of-2029 / Fall 2027 entry tuition schedules",
+    "gatech-cs: OOC Master flat still $16,540 Fall 2026 and Spring 2027 → AY 33080; no Fall 2027 chart",
+    "texas-cs: NR Natural Sciences 9-hr still $9,081 → AY 18162",
+    "texas-mba: still Class of 2027 only; Fall 2027 / Class of 2029 rates not published",
+    "michigan-mba: 2027–28 tuition still posts July 2027; Non-MI $83,946",
+    "dartmouth-mba: AY 2026–27 table lists Class of 2028 and Class of 2027 tuition both $87,536; 3–5% anticipate only; no Class of 2029",
+    "duke-mba: still Class of 2028 / Aug 2026 entry at $83,700",
+    "SCH-038 Soros / SCH-043 NVIDIA / SCH-045 QIF / SCH-072 KHS: already closed; no new cycle or amount this week",
+    "SCH-042 Google PhD: 2026 cycle still closed; no 2027 window; US/Canada still US $85K/year up to 2 years",
+    "SCH-079 ByteDance: still 2026-cycle copy; no 2027 cycle published",
+    "SCH-070 CSC: national window still Beijing time 2026-11-23 00:00 to 2026-12-04 23:59; amounts Class A $6,000 / outstanding $10,000, Class B $10,000. Chicago consulate local online-submit buffer still Dec 2 24:00 Beijing; system still closes Dec 4 — not a national deadline change. Window has not opened yet as of this scan (opens later this week).",
+    "Still open: SCH-070 CSC Nov 23–Dec 4; SCH-015 HKSES Dec 31 6pm HKT; SCH-074/EXT-peo-ips Sep 15–Dec 15; SCH-084 MMEG Sep 15–Jan 15 11:59pm ET; SCH-037 Toigo closes Mar 15 2027; SCH-063 SWE opens Dec 1 2026 closes Feb 1 2027"
+  ]
+}

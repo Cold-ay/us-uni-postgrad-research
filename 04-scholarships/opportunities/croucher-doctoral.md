@@ -1,7 +1,7 @@
 # Croucher Scholarships for Doctoral Study (SCH-016)
 
 - **Category:** Local · **Type:** scholarship
-- **Status (2026-10-20):** Open · 2027 Study Awards
+- **Status (2026-11-16):** CLOSED · 2027 Study Awards — official apply portal says applications closed at 15 November 2026 at 5pm
 - **Scope:** Approved universities outside HK (PhD only)
 - **Programs:** mit-cs, multi (CS PhD routes)
 - **HK eligible:** yes · **TW eligible:** no · **International:** no
@@ -16,7 +16,9 @@ Hong Kong permanent residents; full-time doctoral study/research outside HK in n
 USD38,850 per annum maintenance; tuition and college fees; airfare; USD1,000 arrival; up to USD2,000/yr academic development; up to USD2,000/yr medical; USD9,700 commencement award (verbatim, 2027 Study Awards notice)
 
 ## Deadline
-5:00 PM (HKT) 15 November 2026
+5:00 PM (HKT) 15 November 2026 (2027 Study Awards) — window closed as of 2026-11-16
+
+The official apply portal states applications closed at 15 November 2026 at 5pm. No extension is published.
 
 ## Sources
 - [Croucher apply portal](https://apply.croucher.org.hk/)

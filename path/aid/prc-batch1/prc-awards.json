@@ -426,15 +426,15 @@
       "id": "SCH-080",
       "name": "Jane Street Graduate Research Fellowship (GRF)",
       "scope": "PhD in EECS/math/physics/statistics at accredited research institutions (US and listed countries)",
-      "state": "Open · 2027 GRF cycle",
-      "tone": "green",
+      "state": "CLOSED · 2027 GRF student-application deadline passed (Nov 13, 2026 AoE); site marketing still says 'accepting applications'",
+      "tone": "red",
       "type": "Fellowship · Company-Sponsored",
       "awardType": "fellowship",
       "category": "Company-Sponsored",
       "description": "Jane Street fellowship for exceptional PhD students (or students committed to start PhD Fall 2027) in EECS, mathematics, physics, or statistics. International students explicitly encouraged.",
       "eligibility": "At least one year remaining in PhD (or committed to commence PhD Fall 2027) in listed fields; full-time at accredited research institution in US, Canada, UK, Europe, Australia, New Zealand, or Singapore. International students eligible and encouraged. Not for MBA/terminal MS.",
       "amount": "Full tuition and fees for upcoming academic year + USD 50,000 living stipend; finalists USD 5,000",
-      "deadline": "Student applications Nov 13, 2026 AoE; recommendation letters Dec 1, 2026 AoE; notifications February",
+      "deadline": "Student applications Nov 13, 2026 AoE (2027 cycle) — window closed as of 2026-11-16; recommendation letters still listed Dec 1, 2026 AoE; notifications February",
       "note": "aid-cn/opportunities/jane-street-grf.md — 04-scholarships/opportunities/jane-street-grf.md — PhD CS pipeline; not MS/MBA entry funding.",
       "url": "https://www.janestreet.com/join-jane-street/programs-and-events/graduate-research-fellowship/",
       "sources": [
@@ -450,7 +450,7 @@
       "hkEligible": "yes",
       "twEligible": "yes",
       "prcEligible": "yes",
-      "asOf": "2026-10-20"
+      "asOf": "2026-11-16"
     },
     {
       "id": "SCH-081",
