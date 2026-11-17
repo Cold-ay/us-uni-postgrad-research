@@ -1,4 +1,4 @@
-export const asOf = '2026-10-20';
+export const asOf = '2026-11-17';
 export const scanType = 'initial_baseline+delta';
 export const items = [
   {
@@ -12,19 +12,6 @@ export const items = [
     affected: ['F-1 students seeking OPT/STEM OPT', 'SEVP schools/DSOs', 'top CS/MBA ISSS offices'],
     slate_impact: 'High for Fall 2027 cohort post-grad OPT windows if finalized; current OPT rules remain until final rule.',
     school_specific: true,
-    confidence: 'developing'
-  },
-  {
-    id: 'dos-fixed-admission-enjoined',
-    title: 'Fixed admission period for F-1 (end of duration of status) — final rule enjoined',
-    summary: 'Final rule 2026-07-17 would replace F/J/I duration of status with fixed admission (generally up to 4 years). Effective date had been 2026-09-15. On 2026-09-14 D. Mass. postponed effective date and preliminarily enjoined implementation. USCIS proceeds under prior regulations for now.',
-    sources: [
-      'https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant',
-      'https://www.uscis.gov/i-765',
-    ],
-    affected: ['F-1 academic students', 'multi-year MS/MBA/PhD'],
-    slate_impact: 'If injunction lifts, expect I-539 burden; currently not implemented per USCIS.',
-    school_specific: false,
     confidence: 'developing'
   },
   {
@@ -155,5 +142,21 @@ export const items = [
     slate_impact: 'Adjacent watch for Fall 2027 → OPT → H-1B path; could raise extension RFEs/denials if finalized. Not a current F-1 study-rule change.',
     school_specific: false,
     confidence: 'developing'
+  },
+  {
+    id: 'dos-fixed-admission-enjoined',
+    title: 'D. Mass. vacates DHS fixed-admission / end-of-duration-of-status final rule',
+    summary: 'On 16 November 2026, Judge F. Dennis Saylor IV (D. Mass.) granted plaintiffs’ motion for summary judgment and denied defendants’ in Presidents’ Alliance v. DHS, No. 1:26-cv-13799 (ECF 73). The court VACATED the 17 July 2026 Final Rule (91 Fed. Reg. 44976, FR Doc. 2026-14439) under APA § 706 as arbitrary, capricious, an abuse of discretion, and otherwise not in accordance with law, and directed entry of final judgment; ECF 74 dismisses the case (terminated 16 November 2026). The opinion incorporates the 14 September 2026 PI analysis, adds that DHS failed to consider SEVIS enhancements as a less burdensome alternative, and holds the rule’s academic-mobility limits contrary to 8 U.S.C. § 1101(a)(15)(F). The court rejected remand without vacatur, noting the rule never took effect. Duration of status remains the governing framework unless a higher court stays or reverses the judgment or DHS issues a new rule. The First Circuit appeal of the PI (No. 26-2112) was still pending as of the order and as of this scan (CL last known filing still 4 November 2026); no stay of the vacatur was found on the district docket this morning. ICE SEVIS / Study in the States pages still showed the July 17 final-rule banner. Not legal advice.',
+    sources: [
+      'https://www.courtlistener.com/docket/74661796/presidents-alliance-on-higher-education-and-immigration-v-united-states/',
+      'https://storage.courtlistener.com/recap/gov.uscourts.mad.305059/gov.uscourts.mad.305059.73.0.pdf',
+      'https://storage.courtlistener.com/recap/gov.uscourts.mad.305059/gov.uscourts.mad.305059.74.0.pdf',
+      'https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant',
+      'https://www.courtlistener.com/docket/74908049/presidents-alliance-on-higher-educ-and-immigr-v-dhs/',
+    ],
+    affected: ['applicants', 'current F-1', 'OPT'],
+    slate_impact: 'Material for the entire Fall 2027 CS/MBA/MSF international slate (and the separate quant/MFE track): a final merits vacatur, not only the prior nationwide § 705 postponement. Duration of status remains the framework unless stayed or reversed on appeal. MSF and same- or lower-level / joint-degree pathways are expressly in scope of the court’s academic-mobility holding. Not school-specific.',
+    school_specific: false,
+    confidence: 'confirmed'
   },
 ];
