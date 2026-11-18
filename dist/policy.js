@@ -1,4 +1,4 @@
-export const asOf = '2026-11-17';
+export const asOf = '2026-11-18';
 export const scanType = 'initial_baseline+delta';
 export const items = [
   {
@@ -144,9 +144,24 @@ export const items = [
     confidence: 'developing'
   },
   {
+    id: 'sevp-cpt-broadcasts-stayed',
+    title: 'D. Mass. stays and preliminarily enjoins SEVP August 2026 CPT broadcasts',
+    summary: 'On 17 November 2026, Judge Julia E. Kobick (D. Mass.) granted plaintiffs’ motion for a preliminary injunction and stay of agency action in Association of American Universities v. DHS, No. 1:26-cv-14520-JEK (ECF 36, 24-page signed memorandum). A nationwide stay under APA § 705 provides that SEVP’s Broadcast Messages of 12 August 2026 and 24 August 2026 (previously tracked as BCM 2608-01/02), which limited curricular practical training to training required of all students in a degree program and excluded elective for-credit internships, “may not be enforced or applied pending judicial review.” A party-specific preliminary injunction under Fed. R. Civ. P. 65(a) also enjoins defendants from carrying out that interpretation of 8 C.F.R. § 214.2(f)(10)(i) as to the plaintiff associations and each of their members, including employees and students, both prospectively and as to pre-broadcast conduct and approvals. The court found a likelihood of success on the APA arbitrary-and-capricious claim (unexplained change from the post-1991 treatment of elective for-credit CPT, and failure to consider reliance interests), irreparable harm, and favorable equities; it did not reach other APA claims. The court declined to order rescission of adverse actions already taken or written notice to all SEVP-certified institutions. This is preliminary relief, not a final judgment; no notice of appeal or stay of this order was visible on CourtListener this morning (last known filing 17 November 2026; last updated 17 November 2026, 10:50 a.m. ET). ICE SEVIS / Study in the States pages were not yet updated. Not legal advice.',
+    sources: [
+      'https://www.courtlistener.com/docket/74919449/association-of-american-universities-v-us-department-of-homeland/',
+      'https://storage.courtlistener.com/recap/gov.uscourts.mad.307243/gov.uscourts.mad.307243.36.0_1.pdf',
+      'https://www.courtlistener.com/docket/74919449/36/association-of-american-universities-v-us-department-of-homeland/',
+      'https://www.ice.gov/sevis/whats-new',
+    ],
+    affected: ['applicants', 'current F-1', 'OPT'],
+    slate_impact: 'Material for the entire Fall 2027 CS/MBA/MSF international slate, especially internship-heavy paths. Elective for-credit internships, co-ops, and practicums were the category the August broadcasts treated as ineligible for CPT. Call out MSF separately: many MSF/MFE/quant internships are elective or for-credit rather than required of every student in the degree. The § 705 stay is nationwide; the Rule 65 injunction covers plaintiff-association members and their students. Already-denied fall CPT is not automatically restored. Subject to appeal. Not school-specific as a new ISSS policy, though the opinion recites Fall 2026 operational harm at Columbia, Cornell, Dartmouth, Vanderbilt, and WashU.',
+    school_specific: false,
+    confidence: 'confirmed'
+  },
+  {
     id: 'dos-fixed-admission-enjoined',
     title: 'D. Mass. vacates DHS fixed-admission / end-of-duration-of-status final rule',
-    summary: 'On 16 November 2026, Judge F. Dennis Saylor IV (D. Mass.) granted plaintiffs’ motion for summary judgment and denied defendants’ in Presidents’ Alliance v. DHS, No. 1:26-cv-13799 (ECF 73). The court VACATED the 17 July 2026 Final Rule (91 Fed. Reg. 44976, FR Doc. 2026-14439) under APA § 706 as arbitrary, capricious, an abuse of discretion, and otherwise not in accordance with law, and directed entry of final judgment; ECF 74 dismisses the case (terminated 16 November 2026). The opinion incorporates the 14 September 2026 PI analysis, adds that DHS failed to consider SEVIS enhancements as a less burdensome alternative, and holds the rule’s academic-mobility limits contrary to 8 U.S.C. § 1101(a)(15)(F). The court rejected remand without vacatur, noting the rule never took effect. Duration of status remains the governing framework unless a higher court stays or reverses the judgment or DHS issues a new rule. The First Circuit appeal of the PI (No. 26-2112) was still pending as of the order and as of this scan (CL last known filing still 4 November 2026); no stay of the vacatur was found on the district docket this morning. ICE SEVIS / Study in the States pages still showed the July 17 final-rule banner. Not legal advice.',
+    summary: 'On 16 November 2026, Judge F. Dennis Saylor IV (D. Mass.) granted plaintiffs’ motion for summary judgment and denied defendants’ in Presidents’ Alliance v. DHS, No. 1:26-cv-13799 (ECF 73). The court VACATED the 17 July 2026 Final Rule (91 Fed. Reg. 44976, FR Doc. 2026-14439) under APA § 706 and directed entry of final judgment; ECF 74 dismisses the case (terminated 16 November 2026). Duration of status remains the governing framework unless a higher court stays or reverses the judgment or DHS issues a new rule. 18 November 2026 scan update: no new district-court filing and no stay of the vacatur (CL last known filing still 16 November 2026; last updated 17 November 2026, 11:21 a.m. ET). The First Circuit appeal of the September 14 PI (No. 26-2112) is now confirmed, on CourtListener, to have been placed in abeyance on 13 November 2026: Appellate Judge Lara E. Montecalvo granted the government’s assented-to motion, vacated the briefing schedule, and directed a status report at the end of thirty days (CL last known filing 13 November 2026; last updated 17 November 2026, 6:25 a.m. ET). No separate appeal or stay of the final judgment was visible. ICE SEVIS / Study in the States pages still showed the July 17 final-rule banner. Not legal advice.',
     sources: [
       'https://www.courtlistener.com/docket/74661796/presidents-alliance-on-higher-education-and-immigration-v-united-states/',
       'https://storage.courtlistener.com/recap/gov.uscourts.mad.305059/gov.uscourts.mad.305059.73.0.pdf',
@@ -155,7 +170,7 @@ export const items = [
       'https://www.courtlistener.com/docket/74908049/presidents-alliance-on-higher-educ-and-immigr-v-dhs/',
     ],
     affected: ['applicants', 'current F-1', 'OPT'],
-    slate_impact: 'Material for the entire Fall 2027 CS/MBA/MSF international slate (and the separate quant/MFE track): a final merits vacatur, not only the prior nationwide § 705 postponement. Duration of status remains the framework unless stayed or reversed on appeal. MSF and same- or lower-level / joint-degree pathways are expressly in scope of the court’s academic-mobility holding. Not school-specific.',
+    slate_impact: 'Unchanged merits posture versus the 17 November ship: a final vacatur, with duration of status remaining the framework unless stayed or reversed. The new fact is only that the pending First Circuit PI appeal (26-2112) is in a 30-day abeyance as of 13 November 2026, with a status report due at the end of that period. MSF and same- or lower-level / joint-degree pathways remain in scope of the district court’s academic-mobility holding. Not school-specific.',
     school_specific: false,
     confidence: 'confirmed'
   },
