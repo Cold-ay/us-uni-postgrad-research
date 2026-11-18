@@ -70,9 +70,9 @@ test('program sources, funding and original notebook files resolve', async () =>
 });
 test('policy radar brief merges baseline and delta items by id on Fall 2027 context', () => {
   assert.equal(policy.scanType, 'initial_baseline+delta');
-  assert.equal(policy.asOf, '2026-11-17');
-  assert.equal(policy.items.length, 10);
-  assert.equal(new Set(policy.items.map(i => i.id)).size, 10);
+  assert.equal(policy.asOf, '2026-11-18');
+  assert.equal(policy.items.length, 11);
+  assert.equal(new Set(policy.items.map(i => i.id)).size, 11);
   for (const item of policy.items) {
     assert.ok(item.id && item.title && item.summary && item.slate_impact);
     assert.ok(['confirmed', 'developing'].includes(item.confidence));
@@ -95,6 +95,18 @@ test('policy radar brief merges baseline and delta items by id on Fall 2027 cont
   assert.match(dos.summary, /vacat/i);
   assert.match(dos.summary, /Not legal advice\./);
   assert.doesNotMatch(`${dos.title}\n${dos.summary}`, /enjoined|postponed/i);
+  const cpt = byId.get('sevp-cpt-broadcasts-stayed');
+  assert.equal(cpt.confidence, 'confirmed');
+  assert.equal(cpt.school_specific, false);
+  assert.match(cpt.title, /stay/i);
+  assert.match(cpt.title, /enjoin/i);
+  assert.match(cpt.summary, /preliminary/i);
+  assert.match(cpt.summary, /stay|injunction/i);
+  assert.match(cpt.summary, /Not legal advice\./);
+  assert.doesNotMatch(cpt.summary, /vacat/i);
+  assert.doesNotMatch(cpt.title, /vacat/i);
+  assert.match(cpt.summary, /declined to order rescission of adverse actions already taken/);
+  assert.match(cpt.slate_impact, /Already-denied fall CPT is not automatically restored/);
 });
 test('shared scholarship records retain eligibility and expiry limits', () => {
   assert.equal(scholarships.find(s=>s.id==='SCH-002').state,'2027 application closed');
