@@ -70,7 +70,7 @@ test('program sources, funding and original notebook files resolve', async () =>
 });
 test('policy radar brief merges baseline and delta items by id on Fall 2027 context', () => {
   assert.equal(policy.scanType, 'initial_baseline+delta');
-  assert.equal(policy.asOf, '2026-11-18');
+  assert.equal(policy.asOf, '2026-11-23');
   assert.equal(policy.items.length, 11);
   assert.equal(new Set(policy.items.map(i => i.id)).size, 11);
   for (const item of policy.items) {
@@ -93,20 +93,35 @@ test('policy radar brief merges baseline and delta items by id on Fall 2027 cont
   assert.equal(dos.school_specific, false);
   assert.match(dos.title, /vacat/i);
   assert.match(dos.summary, /vacat/i);
+  assert.match(dos.summary, /abeyance/i);
   assert.match(dos.summary, /Not legal advice\./);
   assert.doesNotMatch(`${dos.title}\n${dos.summary}`, /enjoined|postponed/i);
   const cpt = byId.get('sevp-cpt-broadcasts-stayed');
   assert.equal(cpt.confidence, 'confirmed');
   assert.equal(cpt.school_specific, false);
+  assert.equal(typeof cpt.school_specific, 'boolean');
+  assert.match(cpt.title, /BCM 2611-03/);
   assert.match(cpt.title, /stay/i);
-  assert.match(cpt.title, /enjoin/i);
+  assert.match(cpt.title, /injunction|enjoin/i);
   assert.match(cpt.summary, /preliminary/i);
   assert.match(cpt.summary, /stay|injunction/i);
+  assert.match(cpt.summary, /party-specific Rule 65/);
+  assert.match(cpt.summary, /nationwide APA § 705/);
+  assert.match(cpt.summary, /BCM 2611-03 does not quote/);
+  assert.match(cpt.summary, /Already-denied CPT is not automatically restored/);
+  assert.match(cpt.summary, /no rescission instruction/);
+  assert.match(cpt.summary, /DSO authorization still applies/);
+  assert.match(cpt.summary, /preliminary relief, not a final judgment/);
   assert.match(cpt.summary, /Not legal advice\./);
   assert.doesNotMatch(cpt.summary, /vacat/i);
   assert.doesNotMatch(cpt.title, /vacat/i);
-  assert.match(cpt.summary, /declined to order rescission of adverse actions already taken/);
-  assert.match(cpt.slate_impact, /Already-denied fall CPT is not automatically restored/);
+  assert.doesNotMatch(cpt.slate_impact, /vacat/i);
+  assert.match(cpt.slate_impact, /agency notice of existing preliminary relief/);
+  assert.match(cpt.slate_impact, /not a new substantive CPT rule/);
+  assert.match(cpt.slate_impact, /not automatic restoration of already-denied CPT/);
+  assert.match(cpt.slate_impact, /DSO authorization still applies/);
+  assert.match(cpt.slate_impact, /MSF\/MFE\/quant/);
+  assert.ok(cpt.sources.includes('https://www.ice.gov/doclib/sevis/pdf/bcm261103.pdf'));
 });
 test('shared scholarship records retain eligibility and expiry limits', () => {
   assert.equal(scholarships.find(s=>s.id==='SCH-002').state,'2027 application closed');
